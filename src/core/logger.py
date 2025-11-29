@@ -1,11 +1,27 @@
 import logging
+import sys
 
-def get_logger(name: str = "pharma_sop_rag"):
+def setup_logger(name: str = "FASA_APP"):
+    """
+    Configures a standard logger with a specific format.
+    Prevents duplicate logs in Streamlit.
+    """
     logger = logging.getLogger(name)
+    
+    # Only add handlers if they don't exist (Streamlit auto-reload fix)
+
     if not logger.handlers:
-        handler = logging.StreamHandler()
-        fmt = "[%(asctime)s] %(levelname)s %(name)s: %(message)s"
-        handler.setFormatter(logging.Formatter(fmt))
-        logger.addHandler(handler)
         logger.setLevel(logging.INFO)
+        
+        # Format: [Time] [Level] [Module] - Message
+        formatter = logging.Formatter(
+            "[%(asctime)s] %(levelname)s [%(name)s] - %(message)s",
+            datefmt="%H:%M:%S"
+        )
+        
+        # Output to Console
+        handler = logging.StreamHandler(sys.stdout)
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+        
     return logger
