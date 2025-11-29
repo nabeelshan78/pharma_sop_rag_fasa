@@ -10,7 +10,10 @@ from typing import Optional
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 from llama_index.core import Settings
 
-logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class EmbeddingManager:
     """

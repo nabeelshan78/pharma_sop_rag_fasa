@@ -2,7 +2,6 @@
 # Role: Logic-aware splitting. It groups text by headers first, then splits by size.
 
 import re
-import logging
 from typing import List, Dict, Set, Any
 from unstructured.documents.elements import Title, Header
 
@@ -10,7 +9,9 @@ from llama_index.core import Document
 from llama_index.core.schema import TextNode, NodeRelationship, RelatedNodeInfo
 from llama_index.core.node_parser import SentenceSplitter
 
-logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class SemanticChunker:
     """

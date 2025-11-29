@@ -15,7 +15,10 @@ from llama_index.vector_stores.qdrant import QdrantVectorStore
 # --- Qdrant Native Imports ---
 from qdrant_client import QdrantClient, models
 
-logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class QdrantManager:
     def __init__(self, collection_name: str = "fasa_sops_llama"):

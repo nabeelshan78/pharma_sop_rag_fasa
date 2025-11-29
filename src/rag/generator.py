@@ -7,7 +7,10 @@ import logging
 from llama_index.llms.gemini import Gemini
 from llama_index.core import Settings
 
-logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class LLMGenerator:
     @staticmethod

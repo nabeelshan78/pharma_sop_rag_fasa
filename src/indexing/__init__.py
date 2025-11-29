@@ -15,8 +15,11 @@ from llama_index.core import VectorStoreIndex
 from .embeddings import EmbeddingManager
 from .vector_db import QdrantManager
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# logging.basicConfig(level=logging.INFO)
+# logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class IndexingPipeline:
     """

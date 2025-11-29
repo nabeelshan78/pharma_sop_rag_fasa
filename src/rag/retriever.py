@@ -12,7 +12,10 @@ from src.indexing.vector_db import QdrantManager
 from src.rag.prompts import get_prompts
 from src.rag.reranker import Reranker
 
-logger = logging.getLogger(__name__)
+# logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class RAGRetriever:
     def __init__(self):

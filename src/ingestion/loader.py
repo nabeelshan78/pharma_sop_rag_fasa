@@ -11,7 +11,9 @@ from unstructured.partition.docx import partition_docx
 from unstructured.partition.text import partition_text
 from unstructured.documents.elements import Element
 
-logger = logging.getLogger(__name__)
+from src.core.logger import setup_logger
+# This ensures consistent formatting across the whole app
+logger = setup_logger(__name__)
 
 class DocumentLoader:
     """
