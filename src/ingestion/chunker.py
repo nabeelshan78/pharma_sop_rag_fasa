@@ -31,7 +31,7 @@ class SemanticChunker:
         if isinstance(element, (Title, Header)):
             return True
         # 2. Fallback Regex (e.g., "1.0 Introduction" or "SECTION A")
-        if re.match(r"^(\d+(\.\d+)*)\.?\s+[A-Z]", text):
+        if re.match(r"^(\d+(\.\d+)*)\.?\s+[A-Z][A-Z\s]{2,}$", text.strip()):
             return True
         return False
 
