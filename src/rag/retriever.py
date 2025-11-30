@@ -5,9 +5,11 @@
 import logging
 from typing import Dict, Any
 
-from llama_index.core import VectorStoreIndex
+from llama_index.core import VectorStoreIndex, Settings
+from llama_index.embeddings.google_genai import GoogleGenAIEmbedding # <--- ADD THIS
 
 # Internal Imports
+from src.config import settings as app_settings # Rename to avoid conflict
 from src.indexing.vector_db import QdrantManager
 from src.rag.prompts import get_prompts
 from src.rag.reranker import Reranker
@@ -19,6 +21,19 @@ logger = setup_logger(__name__)
 
 class RAGRetriever:
     def __init__(self):
+        # --- FIX: FORCE GEMINI EMBEDDINGS ---
+        # This tells LlamaIndex: "Don't look for OpenAI, use Gemini!"
+        try:
+            embed_model = GoogleGenAIEmbedding(
+                model_name=app_settings.EMBED_MODEL,
+                api_key=app_settings.GEMINI_API_KEY
+            )
+            Settings.embed_model = embed_model
+        except Exception as e:
+            logger.critical(f"Failed to load Gemini Embeddings: {e}")
+            raise e
+        # ------------------------------------
+
         # 1. Connect to Existing Vector DB
         self.db_manager = QdrantManager()
         

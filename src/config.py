@@ -8,7 +8,7 @@ load_dotenv()
 class Settings:
     # --- Project Paths ---
     # Automatically finds the root directory relative to this file
-    BASE_DIR = Path(__file__).resolve().parent.parent.parent
+    BASE_DIR = Path(__file__).resolve().parent.parent
     DATA_DIR = BASE_DIR / "data"
     TEMP_DIR = BASE_DIR / "temp_sops"
 

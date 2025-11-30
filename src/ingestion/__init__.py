@@ -4,7 +4,14 @@ from typing import List
 
 from llama_index.core.schema import TextNode
 
+# import sys
+# sys.path.append(str(Path(__file__).resolve().parents[2]))
+
 # Import our modules
+# from src.ingestion.loader import DocumentLoader
+# from src.ingestion.cleaner import DocumentCleaner
+# from src.ingestion.chunker import SemanticChunker
+# from src.ingestion.versioning import VersionManager
 from .loader import DocumentLoader
 from .cleaner import DocumentCleaner
 from .chunker import SemanticChunker
@@ -64,16 +71,15 @@ class IngestionPipeline:
         return all_nodes
 
 
-# Allow running this folder as a script for testing
-if __name__ == "__main__":
-    # Setup simple test
-    data_path = Path(__file__).resolve().parents[1] / "data" / "raw_sops"
+# # Allow running this folder as a script for testing
+# if __name__ == "__main__":
+#     # Setup simple test
+#     data_path = Path(__file__).resolve().parents[2] / "data" / "raw_sops"
     
-    pipeline = IngestionPipeline()
-    nodes = pipeline.run_directory(str(data_path))
+#     pipeline = IngestionPipeline()
+#     nodes = pipeline.run_directory(str(data_path))
     
-    if nodes:
-        print(f"\nSuccessfully created {len(nodes)} total nodes.")
-        print("--- Sample Node ---")
-        print(nodes[0].get_content()[:200])
-        print(nodes[0].metadata)
+#     if nodes:
+#         print(f"\nSuccessfully created {len(nodes)} total nodes.")
+#     for node in nodes[:5]:
+#         print(f"\nNode Content:\n{node.get_content()}\nMetadata: {node.metadata}")
