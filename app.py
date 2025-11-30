@@ -41,49 +41,49 @@ def format_citations(sources):
     df = df.drop_duplicates(subset=["sop_name", "page"])
     return df
 
-# --- UI: Sidebar ---
-with st.sidebar:
-    st.title("💊 FASA Control")
-    st.markdown("---")
+# # --- UI: Sidebar ---
+# with st.sidebar:
+#     st.title("💊 FASA Control")
+#     st.markdown("---")
     
-    # File Uploader
-    uploaded_files = st.file_uploader("Upload SOPs (PDF)", accept_multiple_files=True)
+#     # File Uploader
+#     uploaded_files = st.file_uploader("Upload SOPs (PDF)", accept_multiple_files=True)
     
-    if uploaded_files and st.button("Ingest Documents"):
-        if "ingest_pipeline" in st.session_state:
-            progress_bar = st.progress(0)
-            status_text = st.empty()
+#     if uploaded_files and st.button("Ingest Documents"):
+#         if "ingest_pipeline" in st.session_state:
+#             progress_bar = st.progress(0)
+#             status_text = st.empty()
             
-            # Create a temp dir to save files for processing
-            os.makedirs("temp_sops", exist_ok=True)
+#             # Create a temp dir to save files for processing
+#             os.makedirs("temp_sops", exist_ok=True)
             
-            for i, file in enumerate(uploaded_files):
-                status_text.text(f"Processing {file.name}...")
-                temp_path = os.path.join("temp_sops", file.name)
+#             for i, file in enumerate(uploaded_files):
+#                 status_text.text(f"Processing {file.name}...")
+#                 temp_path = os.path.join("temp_sops", file.name)
                 
-                with open(temp_path, "wb") as f:
-                    f.write(file.getbuffer())
+#                 with open(temp_path, "wb") as f:
+#                     f.write(file.getbuffer())
                 
-                # Run Pipeline
-                try:
-                    nodes = st.session_state.ingest_pipeline.process_file(temp_path)
-                    # Index Immediately
-                    # We need to access the DB manager inside the RAG engine to insert
-                    st.session_state.rag_engine.db_manager.insert_nodes(nodes)
-                except Exception as e:
-                    st.error(f"Error on {file.name}: {e}")
+#                 # Run Pipeline
+#                 try:
+#                     nodes = st.session_state.ingest_pipeline.process_file(temp_path)
+#                     # Index Immediately
+#                     # We need to access the DB manager inside the RAG engine to insert
+#                     st.session_state.rag_engine.db_manager.insert_nodes(nodes)
+#                 except Exception as e:
+#                     st.error(f"Error on {file.name}: {e}")
                 
-                # Cleanup
-                os.remove(temp_path)
-                progress_bar.progress((i + 1) / len(uploaded_files))
+#                 # Cleanup
+#                 os.remove(temp_path)
+#                 progress_bar.progress((i + 1) / len(uploaded_files))
             
-            st.success("Ingestion Complete!")
-            time.sleep(1)
-            st.rerun()
+#             st.success("Ingestion Complete!")
+#             time.sleep(1)
+#             st.rerun()
 
-    if st.button("Clear Chat"):
-        st.session_state.messages = []
-        st.rerun()
+#     if st.button("Clear Chat"):
+#         st.session_state.messages = []
+#         st.rerun()
 
 # --- UI: Chat ---
 st.title("FASA: Pharma Regulatory Assistant")
@@ -95,7 +95,7 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
         if msg.get("sources"):
             with st.expander("View Verified Sources"):
-                st.dataframe(format_citations(msg["sources"]), use_container_width=True)
+                st.dataframe(format_citations(msg["sources"]), width="stretch")
 
 # Input
 if prompt := st.chat_input("Ask about an SOP..."):
@@ -117,7 +117,7 @@ if prompt := st.chat_input("Ask about an SOP..."):
                 st.markdown(answer)
                 if sources:
                     with st.expander("View Verified Sources"):
-                        st.dataframe(format_citations(sources), use_container_width=True)
+                        st.dataframe(format_citations(sources), width="stretch")
                 
                 # Save to history
                 st.session_state.messages.append({

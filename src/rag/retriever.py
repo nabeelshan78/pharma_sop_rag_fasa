@@ -76,6 +76,9 @@ class RAGRetriever:
         """
         if not query_text.strip():
             return {"answer": "Empty query.", "sources": []}
+        
+        logger.info(f"Received Query: '{query_text}'")
+        logger.info("Searching Vector DB & Generating Answer...")
 
         response = self.query_engine.query(query_text)
         
@@ -90,6 +93,8 @@ class RAGRetriever:
                 "section": meta.get("section", "General"),
                 "score": round(node_w_score.score, 3)
             })
+
+        logger.info(f"Generated Answer based on {len(sources)} sources.")
 
         return {
             "answer": str(response),

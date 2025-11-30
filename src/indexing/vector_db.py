@@ -26,8 +26,14 @@ class QdrantManager:
         self.api_key = os.getenv("QDRANT_API_KEY", None)
         self.collection_name = collection_name
 
-        # 1. Initialize Native Client (For Admin tasks like deletion)
-        self.client = QdrantClient(url=self.url, api_key=self.api_key)
+        # # 1. Initialize Native Client (For Admin tasks like deletion)
+        # self.client = QdrantClient(url=self.url, api_key=self.api_key)
+        # Increase timeout to 60 seconds (default is usually 5 or 10)
+        self.client = QdrantClient(
+            url=self.url, 
+            api_key=self.api_key, 
+            timeout=30.0 
+        )
         
         # 2. Initialize LlamaIndex Vector Store with Hybrid Search
         # fastembed_sparse_model="Qdrant/bm25" enables the Keyword search requirement
