@@ -5,6 +5,17 @@ import shutil
 import time
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+
+# -----------------------------------------------------------------------------
+# PATH FIX (CRITICAL)
+# -----------------------------------------------------------------------------
+# This block tells Python to look for 'src' in the folder above 'app'.
+# Without this, Streamlit crashes with "No module named src".
+current_file = Path(__file__).resolve()
+project_root = current_file.parent.parent
+sys.path.append(str(project_root))
+# -----------------------------------------------------------------------------
 
 # --- Load Environment ---
 load_dotenv()

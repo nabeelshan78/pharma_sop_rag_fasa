@@ -119,3 +119,148 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
+
+# # 7k
+# import os
+# import sys
+# import logging
+# import time
+# from pathlib import Path
+# from dotenv import load_dotenv
+
+# # Path Setup
+# project_root = Path(__file__).resolve().parent.parent
+# sys.path.append(str(project_root))
+
+# load_dotenv()
+
+# from src.core.logger import setup_logger
+# from src.ingestion import IngestionPipeline
+# from src.indexing import IndexingPipeline
+# from src.config import settings
+
+# # Qdrant Filters for checking existence
+# from qdrant_client.http import models
+
+# logger = setup_logger("BATCH_PROCESSOR")
+
+# def file_already_indexed(qdrant_manager, filename: str) -> bool:
+#     """
+#     Checks Qdrant to see if this filename already exists.
+#     This allows us to STOP and RESUME the script without re-doing 7000 files.
+#     """
+#     try:
+#         # Create a filter for the specific filename
+#         filter_condition = models.Filter(
+#             must=[
+#                 models.FieldCondition(
+#                     key="file_name", 
+#                     match=models.MatchValue(value=filename)
+#                 )
+#             ]
+#         )
+        
+#         # We only need 1 result to know it exists
+#         res = qdrant_manager.client.scroll(
+#             collection_name=settings.COLLECTION_NAME,
+#             scroll_filter=filter_condition,
+#             limit=1
+#         )
+        
+#         # scroll returns (points, next_page_offset)
+#         # If points list is not empty, the file exists.
+#         return len(res[0]) > 0
+
+#     except Exception:
+#         # If DB is down or collection doesn't exist yet, assume false
+#         return False
+
+# def main():
+#     start_time = time.time()
+    
+#     # 1. SETUP
+#     raw_dir = settings.RAW_SOPS_DIR
+#     if not raw_dir.exists():
+#         logger.error(f"❌ Missing Directory: {raw_dir}")
+#         return
+
+#     # Scan for files
+#     valid_exts = ['.pdf', '.docx', '.doc']
+#     all_files = [f for f in raw_dir.iterdir() if f.suffix.lower() in valid_exts]
+    
+#     if not all_files:
+#         logger.warning("No files found.")
+#         return
+
+#     logger.info(f"🚀 DETECTED {len(all_files)} FILES. Starting Smart Ingestion...")
+
+#     # 2. INIT PIPELINES
+#     try:
+#         ingest_pipe = IngestionPipeline()
+#         index_pipe = IndexingPipeline()
+#         # Access the raw DB manager to check for existing files
+#         db_manager = index_pipe.db_manager 
+#     except Exception as e:
+#         logger.critical(f"Pipeline Init Failed: {e}")
+#         return
+
+#     # 3. PROCESSING LOOP
+#     processed = 0
+#     skipped = 0
+#     failed = []
+
+#     for i, file_path in enumerate(all_files, 1):
+#         filename = file_path.name
+        
+#         print(f"\n[{i}/{len(all_files)}] Checking: {filename} ...", end=" ", flush=True)
+
+#         # --- CHECK: ALREADY EXISTS? ---
+#         if file_already_indexed(db_manager, filename):
+#             print("✅ ALREADY INDEXED. SKIPPING.")
+#             skipped += 1
+#             continue
+
+#         # --- PROCESS ---
+#         try:
+#             print("⏳ PROCESSING...")
+            
+#             # A. Ingest
+#             nodes = ingest_pipe.run(str(file_path))
+            
+#             if not nodes:
+#                 print("⚠️ EMPTY / FAILED PARSE.")
+#                 failed.append(filename)
+#                 continue
+            
+#             # B. Index
+#             index_pipe.run(nodes)
+            
+#             print(f"🎉 DONE. Added {len(nodes)} chunks.")
+#             processed += 1
+
+#         except Exception as e:
+#             print(f"❌ ERROR: {e}")
+#             logger.error(f"Failed {filename}: {e}")
+#             failed.append(filename)
+
+#     # 4. REPORT
+#     total_time = time.time() - start_time
+#     logger.info("="*50)
+#     logger.info(f"BATCH COMPLETE in {total_time/60:.2f} minutes")
+#     logger.info(f"🆕 Processed: {processed}")
+#     logger.info(f"⏭️ Skipped (Exists): {skipped}")
+#     logger.info(f"❌ Failed: {len(failed)}")
+#     logger.info("="*50)
+
+# if __name__ == "__main__":
+#     main()

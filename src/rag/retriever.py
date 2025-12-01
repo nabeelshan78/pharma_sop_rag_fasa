@@ -59,15 +59,15 @@ class FASAEngine:
         # A. Retriever (Hybrid Search: Dense + Sparse)
         # alpha=0.5 gives equal weight to Keywords (BM25) and Semantics (Gemini)
         retriever = self.index.as_retriever(
-            similarity_top_k=10, 
+            similarity_top_k=60, 
             vector_store_query_mode="hybrid", 
-            alpha=0.5 
+            alpha=0.1
         )
         
         # B. Post-Processor (The "Quality Filter")
         # If a chunk matches with less than 50% similarity, we drop it.
         # This prevents the LLM from hallucinating on irrelevant text.
-        reranker = SimilarityPostprocessor(similarity_cutoff=0.50)
+        reranker = SimilarityPostprocessor(similarity_cutoff=0.30)
         
         # C. Response Synthesizer (The "Writer")
         # We inject our strict prompt here.

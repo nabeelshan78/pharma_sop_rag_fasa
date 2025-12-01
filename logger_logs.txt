@@ -1,0 +1,659 @@
+(venv) PS C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag> python .\scripts\bulk_ingest.py
+[12:29:11] INFO [BULK_INGEST] - 🚀 STARTING BULK INGESTION
+[12:29:11] INFO [BULK_INGEST] - 📂 Target Directory: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops
+[12:29:11] INFO [BULK_INGEST] - 📄 File Count: 10
+[12:29:11] INFO [BULK_INGEST] - ==================================================
+[12:29:11] INFO [src.ingestion] - Initializing FASA Ingestion Pipeline...
+[12:29:12] INFO [src.indexing] - Initializing FASA Indexing Pipeline...
+[12:29:16] INFO [src.indexing.embeddings] - ✅ Global Embeddings Configured: Google Gemini (models/text-embedding-004)
+[12:29:16] INFO [src.indexing.embeddings] - ✅ Global Embeddings Configured: Google Gemini (models/text-embedding-004)
+C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\src\indexing\vector_db.py:38: UserWarning: Api key is used with an insecure connection.
+  self.client = QdrantClient(
+[12:29:18] INFO [src.indexing.vector_db] - Collection 'fasa_sops_llama' not found. It will be created automatically on first insert.
+[12:29:18] INFO [src.indexing.vector_db] - Collection 'fasa_sops_llama' not found. It will be created automatically on first insert.
+[12:29:23] INFO [BULK_INGEST] - 
+[1/10] Processing: AT-GE-577-0002-01.pdfNov302025024051.pdf
+[12:29:23] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\AT-GE-577-0002-01.pdfNov302025024051.pdf
+[12:29:23] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'AT GE 577 0002 01.pdfNov302025024051' v1.0
+[12:29:23] INFO [src.ingestion.loader] - Uploading & Parsing SOP: AT-GE-577-0002-01.pdfNov302025024051.pdf...
+[12:29:23] INFO [src.ingestion.loader] - Uploading & Parsing SOP: AT-GE-577-0002-01.pdfNov302025024051.pdf...
+2025-12-01 12:29:30,075 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 034d5666-61d7-4198-85a2-b767d40d5ec3
+2025-12-01 12:29:31,371 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/034d5666-61d7-4198-85a2-b767d40d5ec3 "HTTP/1.1 200 OK"
+2025-12-01 12:29:33,679 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/034d5666-61d7-4198-85a2-b767d40d5ec3 "HTTP/1.1 200 OK"
+2025-12-01 12:29:37,019 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/034d5666-61d7-4198-85a2-b767d40d5ec3 "HTTP/1.1 200 OK"
+2025-12-01 12:29:37,764 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/034d5666-61d7-4198-85a2-b767d40d5ec3/result/markdown "HTTP/1.1 200 OK"
+[12:29:37] INFO [src.ingestion.loader] - Successfully parsed AT-GE-577-0002-01.pdfNov302025024051.pdf. Yielded 11 content pages.
+[12:29:37] INFO [src.ingestion.loader] - Successfully parsed AT-GE-577-0002-01.pdfNov302025024051.pdf. Yielded 11 content pages.
+2025-12-01 12:29:37,772 - INFO - Successfully parsed AT-GE-577-0002-01.pdfNov302025024051.pdf. Yielded 11 content pages.
+[12:29:37] INFO [src.ingestion] - Step 2 [Loader]: Extracted 11 raw pages.
+2025-12-01 12:29:37,773 - INFO - Step 2 [Loader]: Extracted 11 raw pages.
+[12:29:37] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 218 9 chars of noise.
+[12:29:37] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 218 9 chars of noise.
+2025-12-01 12:29:37,878 - INFO - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 2189 chars o f noise.
+[12:29:37] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 11 clean content pages.
+2025-12-01 12:29:37,880 - INFO - Step 3 [Cleaner]: Retained 11 clean content pages.
+[12:29:37] INFO [src.ingestion.chunker] - ✂️ Chunking 11 document(s)...
+[12:29:37] INFO [src.ingestion.chunker] - ✂️ Chunking 11 document(s)...
+2025-12-01 12:29:37,881 - INFO - ✂️ Chunking 11 document(s)...
+[12:29:37] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 43 structured chunks.
+[12:29:37] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 43 structured chunks.
+2025-12-01 12:29:37,916 - INFO - ✅ Chunking Complete. Generated 43 structured chunks.
+[12:29:37] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 43 vector-ready chunks.
+2025-12-01 12:29:37,918 - INFO - ✅ FINISHED PIPELINE: Generated 43 vector-ready chunks.
+2025-12-01 12:29:37,927 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:29:37] INFO [src.indexing.vector_db] - Indexing 43 nodes for 'AT GE 577 0002 01.pdfNov302025024051' (v1.0) into Qdrant...
+[12:29:37] INFO [src.indexing.vector_db] - Indexing 43 nodes for 'AT GE 577 0002 01.pdfNov302025024051' (v1.0) into Qdrant...
+2025-12-01 12:29:37,929 - INFO - Indexing 43 nodes for 'AT GE 577 0002 01.pdfNov302025024051' (v1.0) into Qdrant...
+2025-12-01 12:29:39,188 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:29:39,769 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:29:40,436 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:29:41,097 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:29:41,724 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:29:43,268 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:29:44,459 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/index?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:29:44,500 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:29:46,013 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:29:46,265 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:29:46,304 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:29:46] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:29:46] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:29:46,313 - INFO - ✅ Indexing Complete.
+[12:29:46] INFO [BULK_INGEST] - ✅ COMPLETED: AT-GE-577-0002-01.pdfNov302025024051.pdf
+2025-12-01 12:29:46,319 - INFO - ✅ COMPLETED: AT-GE-577-0002-01.pdfNov302025024051.pdf
+[12:29:46] INFO [BULK_INGEST] -
+[2/10] Processing: GB-IT-904-0007-02.pdfNov302025024010.pdf
+2025-12-01 12:29:46,320 - INFO -
+[2/10] Processing: GB-IT-904-0007-02.pdfNov302025024010.pdf
+[12:29:46] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GB-IT-904-0007-02.pdfNov302025024010.pdf
+2025-12-01 12:29:46,322 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GB-IT-904-0007-02.pdfNov302025024010.pdf
+[12:29:46] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GB IT 904 0007 02.pdfNov302025024010' v1.0
+2025-12-01 12:29:46,328 - INFO - Step 1 [Metadata]: Detected 'GB IT 904 0007 02.pdfNov302025024010' v1.0
+[12:29:46] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GB-IT-904-0007-02.pdfNov302025024010.pdf...
+[12:29:46] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GB-IT-904-0007-02.pdfNov302025024010.pdf...
+2025-12-01 12:29:46,329 - INFO - Uploading & Parsing SOP: GB-IT-904-0007-02.pdfNov302025024010.pdf...
+2025-12-01 12:29:50,148 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 8ad3a407-433b-4a1f-8891-24b4b3ce099c
+2025-12-01 12:29:51,525 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:29:53,862 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:29:57,451 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:30:01,775 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:30:07,639 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:30:13,472 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c "HTTP/1.1 200 OK"
+2025-12-01 12:30:14,065 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/8ad3a407-433b-4a1f-8891-24b4b3ce099c/result/markdown "HTTP/1.1 200 OK"
+[12:30:14] INFO [src.ingestion.loader] - Successfully parsed GB-IT-904-0007-02.pdfNov302025024010.pdf. Yielded 16 content pages.
+[12:30:14] INFO [src.ingestion.loader] - Successfully parsed GB-IT-904-0007-02.pdfNov302025024010.pdf. Yielded 16 content pages.
+2025-12-01 12:30:14,300 - INFO - Successfully parsed GB-IT-904-0007-02.pdfNov302025024010.pdf. Yielded 16 content pages.
+[12:30:14] INFO [src.ingestion] - Step 2 [Loader]: Extracted 16 raw pages.
+2025-12-01 12:30:14,311 - INFO - Step 2 [Loader]: Extracted 16 raw pages.
+[12:30:14] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 208 4 chars of noise.
+[12:30:14] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 208 4 chars of noise.
+2025-12-01 12:30:14,492 - INFO - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 2084 chars o f noise.
+[12:30:14] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 16 clean content pages.
+2025-12-01 12:30:14,494 - INFO - Step 3 [Cleaner]: Retained 16 clean content pages.
+[12:30:14] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+[12:30:14] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+2025-12-01 12:30:14,495 - INFO - ✂️ Chunking 16 document(s)...
+[12:30:14] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 49 structured chunks.
+[12:30:14] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 49 structured chunks.
+2025-12-01 12:30:14,533 - INFO - ✅ Chunking Complete. Generated 49 structured chunks.
+[12:30:14] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 49 vector-ready chunks.
+2025-12-01 12:30:14,535 - INFO - ✅ FINISHED PIPELINE: Generated 49 vector-ready chunks.
+2025-12-01 12:30:14,547 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:30:14] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GB IT 904 0007 02.pdfNov302025024010
+'...
+[12:30:14] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GB IT 904 0007 02.pdfNov302025024010
+'...
+2025-12-01 12:30:14,548 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GB IT 904 0007 02.pdfNov302025024010'...      
+2025-12-01 12:30:14,651 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:30:14] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:30:14] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:30:14,654 - INFO - Cleanup successful. Status: completed
+[12:30:14] INFO [src.indexing.vector_db] - Indexing 49 nodes for 'GB IT 904 0007 02.pdfNov302025024010' (v1.0) into Qdrant...
+[12:30:14] INFO [src.indexing.vector_db] - Indexing 49 nodes for 'GB IT 904 0007 02.pdfNov302025024010' (v1.0) into Qdrant...
+2025-12-01 12:30:14,656 - INFO - Indexing 49 nodes for 'GB IT 904 0007 02.pdfNov302025024010' (v1.0) into Qdrant...
+2025-12-01 12:30:15,890 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:30:16,571 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:30:17,162 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:30:17,717 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:30:18,387 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:30:18,524 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:30:20,792 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:30:23,062 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:30:23,284 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:30:23] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:30:23] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:30:23,293 - INFO - ✅ Indexing Complete.
+[12:30:23] INFO [BULK_INGEST] - ✅ COMPLETED: GB-IT-904-0007-02.pdfNov302025024010.pdf
+2025-12-01 12:30:23,296 - INFO - ✅ COMPLETED: GB-IT-904-0007-02.pdfNov302025024010.pdf
+[12:30:23] INFO [BULK_INGEST] -
+[3/10] Processing: GL-HS-026-Y022-01.pdfNov302025024025.pdf
+2025-12-01 12:30:23,299 - INFO -
+[3/10] Processing: GL-HS-026-Y022-01.pdfNov302025024025.pdf
+[12:30:23] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GL-HS-026-Y022-01.pdfNov302025024025.pdf
+2025-12-01 12:30:23,301 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GL-HS-026-Y022-01.pdfNov302025024025.pdf
+[12:30:23] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GL HS 026 Y022 01.pdfNov302025024025' v1.0
+2025-12-01 12:30:23,304 - INFO - Step 1 [Metadata]: Detected 'GL HS 026 Y022 01.pdfNov302025024025' v1.0
+[12:30:23] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GL-HS-026-Y022-01.pdfNov302025024025.pdf...
+[12:30:23] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GL-HS-026-Y022-01.pdfNov302025024025.pdf...
+2025-12-01 12:30:23,311 - INFO - Uploading & Parsing SOP: GL-HS-026-Y022-01.pdfNov302025024025.pdf...
+2025-12-01 12:30:26,479 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id c9977f40-747d-40c9-9735-926b47e73f8f
+2025-12-01 12:30:27,774 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:30,142 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:33,474 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:37,862 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:43,658 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:49,489 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:30:55,760 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:31:01,530 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f "HTTP/1.1 200 OK"
+2025-12-01 12:31:01,984 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/c9977f40-747d-40c9-9735-926b47e73f8f/result/markdown "HTTP/1.1 200 OK"
+[12:31:02] INFO [src.ingestion.loader] - Successfully parsed GL-HS-026-Y022-01.pdfNov302025024025.pdf. Yielded 15 content pages.
+[12:31:02] INFO [src.ingestion.loader] - Successfully parsed GL-HS-026-Y022-01.pdfNov302025024025.pdf. Yielded 15 content pages.
+2025-12-01 12:31:02,217 - INFO - Successfully parsed GL-HS-026-Y022-01.pdfNov302025024025.pdf. Yielded 15 content pages.
+[12:31:02] INFO [src.ingestion] - Step 2 [Loader]: Extracted 15 raw pages.
+2025-12-01 12:31:02,245 - INFO - Step 2 [Loader]: Extracted 15 raw pages.
+[12:31:02] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 15 -> 15 pages. Removed 237 9 chars of noise.
+[12:31:02] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 15 -> 15 pages. Removed 237 9 chars of noise.
+2025-12-01 12:31:02,406 - INFO - 🧹 Cleanup Complete. Processed 15 -> 15 pages. Removed 2379 chars o f noise.
+[12:31:02] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 15 clean content pages.
+2025-12-01 12:31:02,431 - INFO - Step 3 [Cleaner]: Retained 15 clean content pages.
+[12:31:02] INFO [src.ingestion.chunker] - ✂️ Chunking 15 document(s)...
+[12:31:02] INFO [src.ingestion.chunker] - ✂️ Chunking 15 document(s)...
+2025-12-01 12:31:02,463 - INFO - ✂️ Chunking 15 document(s)...
+[12:31:02] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 78 structured chunks.
+[12:31:02] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 78 structured chunks.
+2025-12-01 12:31:02,550 - INFO - ✅ Chunking Complete. Generated 78 structured chunks.
+[12:31:02] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 78 vector-ready chunks.
+2025-12-01 12:31:02,555 - INFO - ✅ FINISHED PIPELINE: Generated 78 vector-ready chunks.
+2025-12-01 12:31:02,572 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:31:02] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GL HS 026 Y022 01.pdfNov302025024025
+'...
+[12:31:02] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GL HS 026 Y022 01.pdfNov302025024025
+'...
+2025-12-01 12:31:02,575 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GL HS 026 Y022 01.pdfNov302025024025'...      
+2025-12-01 12:31:02,608 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:31:02] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:31:02] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:31:02,611 - INFO - Cleanup successful. Status: completed
+[12:31:02] INFO [src.indexing.vector_db] - Indexing 78 nodes for 'GL HS 026 Y022 01.pdfNov302025024025' (v1.0) into Qdrant...
+[12:31:02] INFO [src.indexing.vector_db] - Indexing 78 nodes for 'GL HS 026 Y022 01.pdfNov302025024025' (v1.0) into Qdrant...
+2025-12-01 12:31:02,620 - INFO - Indexing 78 nodes for 'GL HS 026 Y022 01.pdfNov302025024025' (v1.0) into Qdrant...
+2025-12-01 12:31:03,886 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:04,482 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:05,057 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:05,723 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:06,273 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:06,934 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:07,483 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:08,025 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:08,155 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:31:10,107 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:31:10,250 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:31:10,374 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:31:10,477 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:31:10] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:31:10] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:31:10,486 - INFO - ✅ Indexing Complete.
+[12:31:10] INFO [BULK_INGEST] - ✅ COMPLETED: GL-HS-026-Y022-01.pdfNov302025024025.pdf
+2025-12-01 12:31:10,487 - INFO - ✅ COMPLETED: GL-HS-026-Y022-01.pdfNov302025024025.pdf
+[12:31:10] INFO [BULK_INGEST] -
+[4/10] Processing: GL-QA-094-A020-01.pdfNov302025024136.pdf
+2025-12-01 12:31:10,488 - INFO -
+[4/10] Processing: GL-QA-094-A020-01.pdfNov302025024136.pdf
+[12:31:10] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GL-QA-094-A020-01.pdfNov302025024136.pdf
+2025-12-01 12:31:10,489 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GL-QA-094-A020-01.pdfNov302025024136.pdf
+[12:31:10] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GL QA 094 A020 01.pdfNov302025024136' v1.0
+2025-12-01 12:31:10,491 - INFO - Step 1 [Metadata]: Detected 'GL QA 094 A020 01.pdfNov302025024136' v1.0
+[12:31:10] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GL-QA-094-A020-01.pdfNov302025024136.pdf...
+[12:31:10] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GL-QA-094-A020-01.pdfNov302025024136.pdf...
+2025-12-01 12:31:10,492 - INFO - Uploading & Parsing SOP: GL-QA-094-A020-01.pdfNov302025024136.pdf...
+2025-12-01 12:31:13,480 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 51bfb3b4-04ed-4901-a54c-aacdd40f05bc
+2025-12-01 12:31:14,801 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:17,131 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:20,486 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:24,919 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:30,750 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:36,539 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:42,294 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc "HTTP/1.1 200 OK"
+2025-12-01 12:31:42,959 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/51bfb3b4-04ed-4901-a54c-aacdd40f05bc/result/markdown "HTTP/1.1 200 OK"
+[12:31:42] INFO [src.ingestion.loader] - Successfully parsed GL-QA-094-A020-01.pdfNov302025024136.pdf. Yielded 8 content pages.
+[12:31:42] INFO [src.ingestion.loader] - Successfully parsed GL-QA-094-A020-01.pdfNov302025024136.pdf. Yielded 8 content pages.
+2025-12-01 12:31:42,964 - INFO - Successfully parsed GL-QA-094-A020-01.pdfNov302025024136.pdf. Yielded 8 content pages.
+[12:31:42] INFO [src.ingestion] - Step 2 [Loader]: Extracted 8 raw pages.
+2025-12-01 12:31:42,965 - INFO - Step 2 [Loader]: Extracted 8 raw pages.
+[12:31:43] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 8 -> 8 pages. Removed 775 c hars of noise.
+[12:31:43] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 8 -> 8 pages. Removed 775 c hars of noise.
+2025-12-01 12:31:43,018 - INFO - 🧹 Cleanup Complete. Processed 8 -> 8 pages. Removed 775 chars of n oise.
+[12:31:43] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 8 clean content pages.
+2025-12-01 12:31:43,020 - INFO - Step 3 [Cleaner]: Retained 8 clean content pages.
+[12:31:43] INFO [src.ingestion.chunker] - ✂️ Chunking 8 document(s)...
+[12:31:43] INFO [src.ingestion.chunker] - ✂️ Chunking 8 document(s)...
+2025-12-01 12:31:43,022 - INFO - ✂️ Chunking 8 document(s)...
+[12:31:43] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 37 structured chunks.
+[12:31:43] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 37 structured chunks.
+2025-12-01 12:31:43,047 - INFO - ✅ Chunking Complete. Generated 37 structured chunks.
+[12:31:43] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 37 vector-ready chunks.
+2025-12-01 12:31:43,048 - INFO - ✅ FINISHED PIPELINE: Generated 37 vector-ready chunks.
+2025-12-01 12:31:43,058 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:31:43] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GL QA 094 A020 01.pdfNov302025024136
+'...
+[12:31:43] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GL QA 094 A020 01.pdfNov302025024136
+'...
+2025-12-01 12:31:43,061 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GL QA 094 A020 01.pdfNov302025024136'...      
+2025-12-01 12:31:43,084 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:31:43] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:31:43] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:31:43,087 - INFO - Cleanup successful. Status: completed
+[12:31:43] INFO [src.indexing.vector_db] - Indexing 37 nodes for 'GL QA 094 A020 01.pdfNov302025024136' (v1.0) into Qdrant...
+[12:31:43] INFO [src.indexing.vector_db] - Indexing 37 nodes for 'GL QA 094 A020 01.pdfNov302025024136' (v1.0) into Qdrant...
+2025-12-01 12:31:43,088 - INFO - Indexing 37 nodes for 'GL QA 094 A020 01.pdfNov302025024136' (v1.0) into Qdrant...
+2025-12-01 12:31:44,234 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:44,790 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:45,359 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:45,897 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:31:46,008 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:31:47,189 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:31:47,248 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:31:47] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:31:47] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:31:47,254 - INFO - ✅ Indexing Complete.
+[12:31:47] INFO [BULK_INGEST] - ✅ COMPLETED: GL-QA-094-A020-01.pdfNov302025024136.pdf
+2025-12-01 12:31:47,255 - INFO - ✅ COMPLETED: GL-QA-094-A020-01.pdfNov302025024136.pdf
+[12:31:47] INFO [BULK_INGEST] -
+[5/10] Processing: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+2025-12-01 12:31:47,256 - INFO -
+[5/10] Processing: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+[12:31:47] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+2025-12-01 12:31:47,257 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+[12:31:47] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v06
+2025-12-01 12:31:47,259 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v06
+[12:31:47] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf...
+[12:31:47] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf...
+2025-12-01 12:31:47,260 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf...
+2025-12-01 12:31:49,547 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 77bf0c2a-d1e5-46d5-869a-87b88ccc13c7
+2025-12-01 12:31:50,858 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:31:53,194 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:31:56,557 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:32:00,892 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:32:06,704 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:32:12,555 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:32:18,379 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7 "HTTP/1.1 200 OK"
+2025-12-01 12:32:18,832 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/77bf0c2a-d1e5-46d5-869a-87b88ccc13c7/result/markdown "HTTP/1.1 200 OK"
+[12:32:19] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf. Yielded 11 content pages.
+[12:32:19] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf. Yielded 11 content pages.
+2025-12-01 12:32:19,063 - INFO - Successfully parsed GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf. Yielded 11 content pages.    
+[12:32:19] INFO [src.ingestion] - Step 2 [Loader]: Extracted 11 raw pages.
+2025-12-01 12:32:19,076 - INFO - Step 2 [Loader]: Extracted 11 raw pages.
+[12:32:19] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 411 0 chars of noise.
+[12:32:19] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 411 0 chars of noise.
+2025-12-01 12:32:19,355 - INFO - 🧹 Cleanup Complete. Processed 11 -> 11 pages. Removed 4110 chars o f noise.
+[12:32:19] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 11 clean content pages.
+2025-12-01 12:32:19,436 - INFO - Step 3 [Cleaner]: Retained 11 clean content pages.
+[12:32:19] INFO [src.ingestion.chunker] - ✂️ Chunking 11 document(s)...
+[12:32:19] INFO [src.ingestion.chunker] - ✂️ Chunking 11 document(s)...
+2025-12-01 12:32:19,575 - INFO - ✂️ Chunking 11 document(s)...
+[12:32:19] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 38 structured chunks.
+[12:32:19] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 38 structured chunks.
+2025-12-01 12:32:19,839 - INFO - ✅ Chunking Complete. Generated 38 structured chunks.
+[12:32:19] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 38 vector-ready chunks.
+2025-12-01 12:32:19,926 - INFO - ✅ FINISHED PIPELINE: Generated 38 vector-ready chunks.
+2025-12-01 12:32:20,048 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:32:20] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:32:20] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:32:20,055 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:32:20,211 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:32:20] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:32:20] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:32:20,218 - INFO - Cleanup successful. Status: completed
+[12:32:20] INFO [src.indexing.vector_db] - Indexing 38 nodes for 'GRT PROC' (v06) into Qdrant...
+[12:32:20] INFO [src.indexing.vector_db] - Indexing 38 nodes for 'GRT PROC' (v06) into Qdrant...
+2025-12-01 12:32:20,233 - INFO - Indexing 38 nodes for 'GRT PROC' (v06) into Qdrant...
+2025-12-01 12:32:21,392 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:21,966 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:22,543 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:23,099 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:23,276 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:32:24,893 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:32:24,981 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:32:24] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:32:24] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:32:24,988 - INFO - ✅ Indexing Complete.
+[12:32:24] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+2025-12-01 12:32:24,989 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+[12:32:24] INFO [BULK_INGEST] -
+[6/10] Processing: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+2025-12-01 12:32:24,990 - INFO -
+[6/10] Processing: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+[12:32:24] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+2025-12-01 12:32:24,992 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+[12:32:24] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v07
+2025-12-01 12:32:24,994 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v07
+[12:32:24] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf...
+[12:32:24] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf...
+2025-12-01 12:32:24,996 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf...
+2025-12-01 12:32:27,805 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 3d066804-28dc-40f3-8830-63d659cafef9
+2025-12-01 12:32:29,160 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d066804-28dc-40f3-8830-63d659cafef9 "HTTP/1.1 200 OK"
+2025-12-01 12:32:31,500 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d066804-28dc-40f3-8830-63d659cafef9 "HTTP/1.1 200 OK"
+2025-12-01 12:32:31,977 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d066804-28dc-40f3-8830-63d659cafef9/result/markdown "HTTP/1.1 200 OK"
+[12:32:32] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf. Yielded 16 content pages.
+[12:32:32] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf. Yielded 16 content pages.
+2025-12-01 12:32:32,435 - INFO - Successfully parsed GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf. Yielded 16 content pages.[12:32:32] INFO [src.ingestion] - Step 2 [Loader]: Extracted 16 raw pages.
+2025-12-01 12:32:32,439 - INFO - Step 2 [Loader]: Extracted 16 raw pages.
+[12:32:32] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 376 4 chars of noise.
+[12:32:32] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 376 4 chars of noise.
+2025-12-01 12:32:32,704 - INFO - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 3764 chars o f noise.
+[12:32:32] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 16 clean content pages.
+2025-12-01 12:32:32,731 - INFO - Step 3 [Cleaner]: Retained 16 clean content pages.
+[12:32:32] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+[12:32:32] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+2025-12-01 12:32:32,746 - INFO - ✂️ Chunking 16 document(s)...
+[12:32:32] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 50 structured chunks.
+[12:32:32] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 50 structured chunks.
+2025-12-01 12:32:32,806 - INFO - ✅ Chunking Complete. Generated 50 structured chunks.
+[12:32:32] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 50 vector-ready chunks.
+2025-12-01 12:32:32,808 - INFO - ✅ FINISHED PIPELINE: Generated 50 vector-ready chunks.
+2025-12-01 12:32:32,817 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:32:32] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:32:32] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:32:32,818 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:32:32,879 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:32:32] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:32:32] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:32:32,881 - INFO - Cleanup successful. Status: completed
+[12:32:32] INFO [src.indexing.vector_db] - Indexing 50 nodes for 'GRT PROC' (v07) into Qdrant...
+[12:32:32] INFO [src.indexing.vector_db] - Indexing 50 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:32:32,887 - INFO - Indexing 50 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:32:34,641 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:36,062 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:37,709 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:39,635 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:42,188 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:32:42,349 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:32:43,994 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:32:44,062 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:32:44,108 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:32:44] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:32:44] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:32:44,115 - INFO - ✅ Indexing Complete.
+[12:32:44] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+2025-12-01 12:32:44,120 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+[12:32:44] INFO [BULK_INGEST] - 
+[7/10] Processing: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+2025-12-01 12:32:44,121 - INFO -
+[7/10] Processing: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+[12:32:44] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+2025-12-01 12:32:44,122 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+[12:32:44] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v07
+2025-12-01 12:32:44,124 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v07
+[12:32:44] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf...
+[12:32:44] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf...
+2025-12-01 12:32:44,125 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf...
+2025-12-01 12:32:46,697 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 2fbc7ba4-f7a7-497d-80cd-0b7921c1d162
+2025-12-01 12:32:47,998 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:32:50,301 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:32:53,638 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:32:57,978 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:33:03,809 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:33:09,671 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:33:15,497 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:33:21,275 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162 "HTTP/1.1 200 OK"
+2025-12-01 12:33:21,944 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/2fbc7ba4-f7a7-497d-80cd-0b7921c1d162/result/markdown "HTTP/1.1 200 OK"
+[12:33:22] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf. Yielded 16 content pages.
+[12:33:22] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf. Yielded 16 content pages.
+2025-12-01 12:33:22,167 - INFO - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf. Yielded 16 content pages.    
+[12:33:22] INFO [src.ingestion] - Step 2 [Loader]: Extracted 16 raw pages.
+2025-12-01 12:33:22,203 - INFO - Step 2 [Loader]: Extracted 16 raw pages.
+[12:33:23] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 839 0 chars of noise.
+[12:33:23] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 839 0 chars of noise.
+2025-12-01 12:33:23,209 - INFO - 🧹 Cleanup Complete. Processed 16 -> 16 pages. Removed 8390 chars o f noise.
+[12:33:23] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 16 clean content pages.
+2025-12-01 12:33:23,457 - INFO - Step 3 [Cleaner]: Retained 16 clean content pages.
+[12:33:23] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+[12:33:23] INFO [src.ingestion.chunker] - ✂️ Chunking 16 document(s)...
+2025-12-01 12:33:23,571 - INFO - ✂️ Chunking 16 document(s)...
+[12:33:23] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 61 structured chunks.
+[12:33:23] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 61 structured chunks.
+2025-12-01 12:33:23,860 - INFO - ✅ Chunking Complete. Generated 61 structured chunks.
+[12:33:23] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 61 vector-ready chunks.
+2025-12-01 12:33:23,992 - INFO - ✅ FINISHED PIPELINE: Generated 61 vector-ready chunks.
+2025-12-01 12:33:24,138 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:33:24] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:33:24] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:33:24,176 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:33:24,471 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:33:24] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:33:24] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:33:24,498 - INFO - Cleanup successful. Status: completed
+[12:33:24] INFO [src.indexing.vector_db] - Indexing 61 nodes for 'GRT PROC' (v07) into Qdrant...
+[12:33:24] INFO [src.indexing.vector_db] - Indexing 61 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:33:24,583 - INFO - Indexing 61 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:33:26,014 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:26,573 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:27,238 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:27,927 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:28,588 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:29,264 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:29,755 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:33:29,798 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:33:31,586 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:33:31,664 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:33:31,769 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:33:31,787 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:33:31] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:33:31] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:33:31,799 - INFO - ✅ Indexing Complete.
+[12:33:31] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+2025-12-01 12:33:31,807 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+[12:33:31] INFO [BULK_INGEST] -
+[8/10] Processing: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+2025-12-01 12:33:31,809 - INFO -
+[8/10] Processing: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+[12:33:31] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+2025-12-01 12:33:31,810 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+[12:33:31] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v07
+2025-12-01 12:33:31,812 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v07
+[12:33:31] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf...
+[12:33:31] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf...
+2025-12-01 12:33:31,815 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf...
+2025-12-01 12:33:34,610 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 72e528e7-febc-4b62-a712-e4b3006d2845
+2025-12-01 12:33:35,935 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:33:38,246 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:33:41,573 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:33:45,862 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:33:51,677 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:33:57,479 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:34:03,246 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:34:09,081 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845 "HTTP/1.1 200 OK"
+2025-12-01 12:34:09,567 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/72e528e7-febc-4b62-a712-e4b3006d2845/result/markdown "HTTP/1.1 200 OK"
+[12:34:10] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf. Yielded 21 content pages.
+[12:34:10] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf. Yielded 21 content pages.
+2025-12-01 12:34:10,028 - INFO - Successfully parsed GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf. Yielded 21 content pages.    
+[12:34:10] INFO [src.ingestion] - Step 2 [Loader]: Extracted 21 raw pages.
+2025-12-01 12:34:10,031 - INFO - Step 2 [Loader]: Extracted 21 raw pages.
+[12:34:10] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 21 -> 21 pages. Removed 258 3 chars of noise.
+[12:34:10] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 21 -> 21 pages. Removed 258 3 chars of noise.
+2025-12-01 12:34:10,280 - INFO - 🧹 Cleanup Complete. Processed 21 -> 21 pages. Removed 2583 chars o f noise.
+[12:34:10] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 21 clean content pages.
+2025-12-01 12:34:10,283 - INFO - Step 3 [Cleaner]: Retained 21 clean content pages.
+[12:34:10] INFO [src.ingestion.chunker] - ✂️ Chunking 21 document(s)...
+[12:34:10] INFO [src.ingestion.chunker] - ✂️ Chunking 21 document(s)...
+2025-12-01 12:34:10,284 - INFO - ✂️ Chunking 21 document(s)...
+[12:34:10] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 94 structured chunks.
+[12:34:10] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 94 structured chunks.
+2025-12-01 12:34:10,363 - INFO - ✅ Chunking Complete. Generated 94 structured chunks.
+[12:34:10] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 94 vector-ready chunks.
+2025-12-01 12:34:10,365 - INFO - ✅ FINISHED PIPELINE: Generated 94 vector-ready chunks.
+2025-12-01 12:34:10,374 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:34:10] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:34:10] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:34:10,375 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:34:10,404 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:34:10] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:34:10] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:34:10,406 - INFO - Cleanup successful. Status: completed
+[12:34:10] INFO [src.indexing.vector_db] - Indexing 94 nodes for 'GRT PROC' (v07) into Qdrant...
+[12:34:10] INFO [src.indexing.vector_db] - Indexing 94 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:34:10,413 - INFO - Indexing 94 nodes for 'GRT PROC' (v07) into Qdrant...
+2025-12-01 12:34:11,122 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:11,811 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:12,474 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:13,134 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:13,801 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:14,544 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:15,294 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:15,941 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:16,507 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:17,037 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:17,068 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:34:18,435 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:18,500 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:18,565 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:18,627 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:18,722 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:34:18] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:34:18] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:34:18,733 - INFO - ✅ Indexing Complete.
+[12:34:18] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+2025-12-01 12:34:18,734 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+[12:34:18] INFO [BULK_INGEST] -
+[9/10] Processing: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+2025-12-01 12:34:18,735 - INFO -
+[9/10] Processing: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+[12:34:18] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+2025-12-01 12:34:18,736 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+[12:34:18] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v5
+2025-12-01 12:34:18,737 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v5
+[12:34:18] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf...
+[12:34:18] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf...
+2025-12-01 12:34:18,740 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf...
+2025-12-01 12:34:21,308 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 3d4d42e8-057e-46e6-b2d9-952df69ee33b
+2025-12-01 12:34:22,654 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:24,977 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:28,338 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:32,687 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:38,444 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:44,258 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:50,085 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b "HTTP/1.1 200 OK"
+2025-12-01 12:34:50,525 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/3d4d42e8-057e-46e6-b2d9-952df69ee33b/result/markdown "HTTP/1.1 200 OK"
+[12:34:50] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf. Yielded 12 content pages.
+[12:34:50] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf. Yielded 12 content pages.
+2025-12-01 12:34:50,774 - INFO - Successfully parsed GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf. Yielded 12 content pages. 
+[12:34:50] INFO [src.ingestion] - Step 2 [Loader]: Extracted 12 raw pages.
+2025-12-01 12:34:50,776 - INFO - Step 2 [Loader]: Extracted 12 raw pages.
+[12:34:50] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 234 0 chars of noise.
+[12:34:50] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 234 0 chars of noise.
+2025-12-01 12:34:50,982 - INFO - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 2340 chars o f noise.
+[12:34:50] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 12 clean content pages.
+2025-12-01 12:34:50,983 - INFO - Step 3 [Cleaner]: Retained 12 clean content pages.
+[12:34:50] INFO [src.ingestion.chunker] - ✂️ Chunking 12 document(s)...
+[12:34:50] INFO [src.ingestion.chunker] - ✂️ Chunking 12 document(s)...
+2025-12-01 12:34:50,984 - INFO - ✂️ Chunking 12 document(s)...
+[12:34:51] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 60 structured chunks.
+[12:34:51] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 60 structured chunks.
+2025-12-01 12:34:51,024 - INFO - ✅ Chunking Complete. Generated 60 structured chunks.
+[12:34:51] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 60 vector-ready chunks.
+2025-12-01 12:34:51,029 - INFO - ✅ FINISHED PIPELINE: Generated 60 vector-ready chunks.
+2025-12-01 12:34:51,037 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:34:51] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:34:51] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:34:51,039 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:34:51,063 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:34:51] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:34:51] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:34:51,065 - INFO - Cleanup successful. Status: completed
+[12:34:51] INFO [src.indexing.vector_db] - Indexing 60 nodes for 'GRT PROC' (v5) into Qdrant...
+[12:34:51] INFO [src.indexing.vector_db] - Indexing 60 nodes for 'GRT PROC' (v5) into Qdrant...
+2025-12-01 12:34:51,067 - INFO - Indexing 60 nodes for 'GRT PROC' (v5) into Qdrant...
+2025-12-01 12:34:51,842 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:52,493 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:53,042 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:53,698 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:54,259 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:54,905 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:34:55,067 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:34:57,425 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:57,577 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:34:57,891 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:34:57] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:34:57] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:34:57,899 - INFO - ✅ Indexing Complete.
+[12:34:57] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+2025-12-01 12:34:57,900 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+[12:34:57] INFO [BULK_INGEST] -
+[10/10] Processing: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+2025-12-01 12:34:57,902 - INFO -
+[10/10] Processing: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+[12:34:57] INFO [src.ingestion] - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+2025-12-01 12:34:57,904 - INFO - 🚀 STARTING PIPELINE for: C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag\data\raw_sops\GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+[12:34:57] INFO [src.ingestion] - Step 1 [Metadata]: Detected 'GRT PROC' v7
+2025-12-01 12:34:57,915 - INFO - Step 1 [Metadata]: Detected 'GRT PROC' v7
+[12:34:57] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf...
+[12:34:57] INFO [src.ingestion.loader] - Uploading & Parsing SOP: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf...
+2025-12-01 12:34:57,919 - INFO - Uploading & Parsing SOP: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf...
+2025-12-01 12:35:00,664 - INFO - HTTP Request: POST https://api.cloud.llamaindex.ai/api/parsing/upload "HTTP/1.1 200 OK"
+Started parsing the file under job_id 9991449d-d919-41e3-a406-e7e25fb5cae2
+2025-12-01 12:35:01,984 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/9991449d-d919-41e3-a406-e7e25fb5cae2 "HTTP/1.1 200 OK"
+2025-12-01 12:35:04,313 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/9991449d-d919-41e3-a406-e7e25fb5cae2 "HTTP/1.1 200 OK"
+2025-12-01 12:35:04,733 - INFO - HTTP Request: GET https://api.cloud.llamaindex.ai/api/parsing/job/9991449d-d919-41e3-a406-e7e25fb5cae2/result/markdown "HTTP/1.1 200 OK"
+[12:35:04] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_V7.docmNov302025052354.pdf. Yielded 12 content pages.
+[12:35:04] INFO [src.ingestion.loader] - Successfully parsed GRT_PROC_English_stamped_V7.docmNov302025052354.pdf. Yielded 12 content pages.
+2025-12-01 12:35:04,961 - INFO - Successfully parsed GRT_PROC_English_stamped_V7.docmNov302025052354.pdf. Yielded 12 content pages.       
+[12:35:04] INFO [src.ingestion] - Step 2 [Loader]: Extracted 12 raw pages.
+2025-12-01 12:35:04,980 - INFO - Step 2 [Loader]: Extracted 12 raw pages.
+[12:35:05] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 203 0 chars of noise.
+[12:35:05] INFO [src.ingestion.cleaner] - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 203 0 chars of noise.
+2025-12-01 12:35:05,249 - INFO - 🧹 Cleanup Complete. Processed 12 -> 12 pages. Removed 2030 chars o f noise.
+[12:35:05] INFO [src.ingestion] - Step 3 [Cleaner]: Retained 12 clean content pages.
+2025-12-01 12:35:05,382 - INFO - Step 3 [Cleaner]: Retained 12 clean content pages.
+[12:35:05] INFO [src.ingestion.chunker] - ✂️ Chunking 12 document(s)...
+[12:35:05] INFO [src.ingestion.chunker] - ✂️ Chunking 12 document(s)...
+2025-12-01 12:35:05,517 - INFO - ✂️ Chunking 12 document(s)...
+[12:35:05] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 24 structured chunks.
+[12:35:05] INFO [src.ingestion.chunker] - ✅ Chunking Complete. Generated 24 structured chunks.
+2025-12-01 12:35:05,698 - INFO - ✅ Chunking Complete. Generated 24 structured chunks.
+[12:35:05] INFO [src.ingestion] - ✅ FINISHED PIPELINE: Generated 24 vector-ready chunks.
+2025-12-01 12:35:05,815 - INFO - ✅ FINISHED PIPELINE: Generated 24 vector-ready chunks.
+2025-12-01 12:35:05,867 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama/exists "HTTP/1.1 200 OK"
+[12:35:05] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+[12:35:05] INFO [src.indexing.vector_db] - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:35:05,882 - INFO - ♻️ Version Control: removing all existing vectors for SOP 'GRT PROC'...
+2025-12-01 12:35:05,990 - INFO - HTTP Request: POST http://localhost:6333/collections/fasa_sops_llama/points/delete?wait=true "HTTP/1.1 200 OK"
+[12:35:05] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+[12:35:05] INFO [src.indexing.vector_db] - Cleanup successful. Status: completed
+2025-12-01 12:35:05,993 - INFO - Cleanup successful. Status: completed
+[12:35:05] INFO [src.indexing.vector_db] - Indexing 24 nodes for 'GRT PROC' (v7) into Qdrant...
+[12:35:05] INFO [src.indexing.vector_db] - Indexing 24 nodes for 'GRT PROC' (v7) into Qdrant...
+2025-12-01 12:35:05,995 - INFO - Indexing 24 nodes for 'GRT PROC' (v7) into Qdrant...
+2025-12-01 12:35:06,679 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:35:07,356 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:35:07,902 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2025-12-01 12:35:07,940 - INFO - HTTP Request: GET http://localhost:6333/collections/fasa_sops_llama "HTTP/1.1 200 OK"
+2025-12-01 12:35:09,199 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+2025-12-01 12:35:09,220 - INFO - HTTP Request: PUT http://localhost:6333/collections/fasa_sops_llama/points?wait=true "HTTP/1.1 200 OK"
+[12:35:09] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+[12:35:09] INFO [src.indexing.vector_db] - ✅ Indexing Complete.
+2025-12-01 12:35:09,225 - INFO - ✅ Indexing Complete.
+[12:35:09] INFO [BULK_INGEST] - ✅ COMPLETED: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+2025-12-01 12:35:09,230 - INFO - ✅ COMPLETED: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+[12:35:09] INFO [BULK_INGEST] -
+==================================================
+2025-12-01 12:35:09,231 - INFO -
+==================================================
+[12:35:09] INFO [BULK_INGEST] - 🏁 BULK INGESTION COMPLETE
+2025-12-01 12:35:09,232 - INFO - 🏁 BULK INGESTION COMPLETE
+[12:35:09] INFO [BULK_INGEST] - ⏱️ Time Taken: 357.63 seconds
+2025-12-01 12:35:09,233 - INFO - ⏱️ Time Taken: 357.63 seconds
+[12:35:09] INFO [BULK_INGEST] - ✅ Success: 10
+2025-12-01 12:35:09,234 - INFO - ✅ Success: 10
+[12:35:09] INFO [BULK_INGEST] - ❌ Failed:  0
+2025-12-01 12:35:09,235 - INFO - ❌ Failed:  0
+[12:35:09] INFO [BULK_INGEST] - ==================================================
+2025-12-01 12:35:09,235 - INFO - ==================================================
+(venv) PS C:\Users\User\Desktop\Fvr\Orders\Dotter Pharma RAG\pharma-sop-rag> 

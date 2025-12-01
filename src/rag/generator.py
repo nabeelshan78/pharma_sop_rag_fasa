@@ -34,7 +34,7 @@ class LLMGenerator:
         try:
             # Temperature 0.0 is critical for "Zero Hallucination"
             llm = Gemini(
-                model="models/gemini-1.5-flash",
+                model="models/gemini-2.0-flash-lite-001",
                 api_key=api_key,
                 temperature=0.0, 
                 max_tokens=1024
