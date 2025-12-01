@@ -1,39 +1,50 @@
-# src/rag/generator.py
-# Role: Configures the LLM (Gemini).
-# Key Feature: temperature=0.0. In Creative writing, we want 0.7. In Pharma/Law, you want 0.0 to ensure consistency.
-
 import os
 import logging
 from llama_index.llms.gemini import Gemini
 from llama_index.core import Settings
 
-# logger = logging.getLogger(__name__)
-from src.core.logger import setup_logger
-# This ensures consistent formatting across the whole app
-logger = setup_logger(__name__)
+# Use centralized logger
+try:
+    from src.core.logger import setup_logger
+    logger = setup_logger(__name__)
+except ImportError:
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger(__name__)
 
 class LLMGenerator:
+    """
+    Configures the Large Language Model (Brain).
+    
+    Standards:
+    - Provider: Google Gemini
+    - Model: gemini-1.5-flash (High speed, low cost, good reasoning)
+    - Temperature: 0.0 (STRICT determinism for Pharma Compliance)
+    """
+    
     @staticmethod
-    def setup_llm():
+    def configure_llm():
         """
-        Configures the Gemini LLM with strict parameters.
+        Sets the global LlamaIndex LLM settings.
         """
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
-            raise ValueError("GEMINI_API_KEY missing.")
+            logger.critical("❌ GEMINI_API_KEY is missing. RAG cannot function.")
+            raise ValueError("GEMINI_API_KEY required in .env")
 
         try:
-            # Using flash-lite for speed, or pro for reasoning.
-            # Temperature 0.0 is non-negotiable for SOPs.
+            # Temperature 0.0 is critical for "Zero Hallucination"
             llm = Gemini(
-                model="models/gemini-2.0-flash-lite-001",
+                model="models/gemini-1.5-flash",
                 api_key=api_key,
                 temperature=0.0, 
                 max_tokens=1024
             )
+            
+            # Apply Globally
             Settings.llm = llm
-            logger.info("LLM initialized: Gemini 2.0 Flash Lite (Temp=0.0)")
+            logger.info("✅ Global LLM Configured: Gemini 1.5 Flash (Temp=0.0)")
             return llm
+            
         except Exception as e:
             logger.error(f"LLM Setup failed: {e}")
             raise e

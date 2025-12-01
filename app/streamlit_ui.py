@@ -1,125 +1,209 @@
-# app.py
-# Role: The Frontend.
-# Key Feature: No requests library. It imports src modules directly.
-
 import streamlit as st
 import pandas as pd
-import time
 import os
+import shutil
+import time
+from pathlib import Path
 from dotenv import load_dotenv
 
 # --- Load Environment ---
 load_dotenv()
 
 # --- Internal Imports ---
-# We talk directly to the Python logic, no API middleware for this demo
-from src.ingestion import IngestionPipeline
-from src.rag import RAGRetriever
+# We connect directly to the backend logic
+try:
+    from src.rag import FASAEngine
+    from src.ingestion import IngestionPipeline
+    from src.indexing import IndexingPipeline
+except ImportError as e:
+    st.error(f"Critical System Error: Could not import FASA modules. {e}")
+    st.stop()
 
-# --- Page Config ---
-st.set_page_config(page_title="FASA Pharma Demo", page_icon="💊", layout="wide")
+# --- Page Config (Enterprise Dark Blue Theme) ---
+st.set_page_config(
+    page_title="FASA | Pharma Regulatory Assistant",
+    page_icon="💊",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-# --- Session State ---
+# --- Custom CSS for Professional Look ---
+st.markdown("""
+<style>
+    .reportview-container {
+        background: #0e1117;
+    }
+    .main-header {
+        font-size: 2.5rem; 
+        color: #4A90E2;
+    }
+    div.stButton > button {
+        width: 100%;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# --- Session State Initialization ---
 if "rag_engine" not in st.session_state:
-    # Initialize the RAG engine once (Cache resource)
-    with st.spinner("Initializing AI Brain..."):
+    with st.spinner("🚀 Booting FASA Neural Core..."):
         try:
-            st.session_state.rag_engine = RAGRetriever()
-            st.session_state.ingest_pipeline = IngestionPipeline()
-            st.success("System Ready.")
+            # 1. Load RAG Engine (Query Logic)
+            st.session_state.rag_engine = FASAEngine()
+            
+            # 2. Load Pipelines (For UI-based Uploads)
+            st.session_state.ingest_pipe = IngestionPipeline()
+            st.session_state.index_pipe = IndexingPipeline()
+            
+            st.session_state.messages = []
+            st.session_state.system_ready = True
+            
         except Exception as e:
-            st.error(f"System Failed to Init: {e}")
+            st.error(f"❌ System Failed to Initialize: {e}")
+            st.session_state.system_ready = False
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
-# --- Helper: Display Citations ---
-def format_citations(sources):
-    if not sources: return None
-    df = pd.DataFrame(sources)
-    # Deduplicate for clean display
-    df = df.drop_duplicates(subset=["sop_name", "page"])
+# --- Helper: Format Sources for Display ---
+def format_sources(sources_list):
+    """
+    Converts raw source dictionaries into a clean Pandas DataFrame.
+    """
+    if not sources_list:
+        return None
+    
+    df = pd.DataFrame(sources_list)
+    
+    # Rename columns for UI clarity
+    column_map = {
+        "sop_title": "SOP Title",
+        "version": "Version",
+        "page": "Page",
+        "score": "Relevance",
+        "file_name": "File"
+    }
+    
+    # Select and Rename valid columns only
+    available_cols = [c for c in column_map.keys() if c in df.columns]
+    df = df[available_cols].rename(columns=column_map)
+    
+    # Drop duplicates (e.g. if 2 chunks come from same page)
+    df = df.drop_duplicates(subset=["SOP Title", "Page"])
+    
     return df
 
-# # --- UI: Sidebar ---
-# with st.sidebar:
-#     st.title("💊 FASA Control")
-#     st.markdown("---")
+# =============================================================================
+# SIDEBAR: ADMIN & INGESTION
+# =============================================================================
+with st.sidebar:
+    st.title("💊 FASA Control")
+    st.caption("v1.0-Demo | Enterprise Mode")
+    st.markdown("---")
     
-#     # File Uploader
-#     uploaded_files = st.file_uploader("Upload SOPs (PDF)", accept_multiple_files=True)
+    # 1. LIVE UPLOADER
+    st.subheader("📄 SOP Ingestion")
+    uploaded_files = st.file_uploader(
+        "Upload New SOPs (PDF/DOCX)", 
+        accept_multiple_files=True,
+        type=["pdf", "docx", "doc"]
+    )
     
-#     if uploaded_files and st.button("Ingest Documents"):
-#         if "ingest_pipeline" in st.session_state:
-#             progress_bar = st.progress(0)
-#             status_text = st.empty()
+    if uploaded_files and st.button("🚀 Process & Index Files"):
+        if not st.session_state.system_ready:
+            st.error("System is not ready.")
+        else:
+            progress_bar = st.progress(0)
+            status_text = st.empty()
             
-#             # Create a temp dir to save files for processing
-#             os.makedirs("temp_sops", exist_ok=True)
+            # Create a temp directory for safe processing
+            temp_dir = Path("data/temp_uploads")
+            temp_dir.mkdir(parents=True, exist_ok=True)
             
-#             for i, file in enumerate(uploaded_files):
-#                 status_text.text(f"Processing {file.name}...")
-#                 temp_path = os.path.join("temp_sops", file.name)
-                
-#                 with open(temp_path, "wb") as f:
-#                     f.write(file.getbuffer())
-                
-#                 # Run Pipeline
-#                 try:
-#                     nodes = st.session_state.ingest_pipeline.process_file(temp_path)
-#                     # Index Immediately
-#                     # We need to access the DB manager inside the RAG engine to insert
-#                     st.session_state.rag_engine.db_manager.insert_nodes(nodes)
-#                 except Exception as e:
-#                     st.error(f"Error on {file.name}: {e}")
-                
-#                 # Cleanup
-#                 os.remove(temp_path)
-#                 progress_bar.progress((i + 1) / len(uploaded_files))
+            total_files = len(uploaded_files)
+            success_count = 0
             
-#             st.success("Ingestion Complete!")
-#             time.sleep(1)
-#             st.rerun()
+            for i, file in enumerate(uploaded_files):
+                status_text.text(f"Processing {i+1}/{total_files}: {file.name}...")
+                
+                # Save file locally
+                file_path = temp_dir / file.name
+                with open(file_path, "wb") as f:
+                    f.write(file.getbuffer())
+                
+                try:
+                    # A. Run Ingestion (Parsing -> Chunking)
+                    nodes = st.session_state.ingest_pipe.run(str(file_path))
+                    
+                    if nodes:
+                        # B. Run Indexing (Vector DB Insert)
+                        st.session_state.index_pipe.run(nodes)
+                        success_count += 1
+                    else:
+                        st.warning(f"Skipped {file.name} (No text found)")
+                        
+                except Exception as e:
+                    st.error(f"Failed {file.name}: {e}")
+                
+                # Cleanup Temp File
+                os.remove(file_path)
+                progress_bar.progress((i + 1) / total_files)
+            
+            status_text.success(f"✅ Ingestion Complete! {success_count}/{total_files} indexed.")
+            time.sleep(2)
+            st.rerun()
 
-#     if st.button("Clear Chat"):
-#         st.session_state.messages = []
-#         st.rerun()
+    st.markdown("---")
+    
+    # 2. CHAT CONTROLS
+    if st.button("🗑️ Clear Chat History"):
+        st.session_state.messages = []
+        st.rerun()
 
-# --- UI: Chat ---
-st.title("FASA: Pharma Regulatory Assistant")
-st.caption("Zero-Hallucination Mode Enabled | Hybrid Search Active")
+# =============================================================================
+# MAIN: CHAT INTERFACE
+# =============================================================================
 
-# Render History
+st.markdown("<h1 class='main-header'>FASA: Regulatory AI</h1>", unsafe_allow_html=True)
+st.caption("🔒 Zero Hallucination Mode Active | Citations Enforced")
+
+if not st.session_state.get("system_ready", False):
+    st.error("🚨 System is offline. Check database connection or API keys.")
+    st.stop()
+
+# 1. RENDER HISTORY
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
+        
+        # If message has citations, show them
         if msg.get("sources"):
-            with st.expander("View Verified Sources"):
-                st.dataframe(format_citations(msg["sources"]), width="stretch")
+            with st.expander("📚 Verified Sources (Click to Expand)"):
+                st.dataframe(format_sources(msg["sources"]), use_container_width=True, hide_index=True)
 
-# Input
-if prompt := st.chat_input("Ask about an SOP..."):
-    # User Msg
+# 2. INPUT HANDLING
+if prompt := st.chat_input("Ask a compliance question about the SOPs..."):
+    
+    # A. Display User Message
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # AI Msg
+    # B. Generate AI Response
     with st.chat_message("assistant"):
-        with st.spinner("Consulting SOPs..."):
+        with st.spinner("Consulting Vector Database & SOPs..."):
             try:
-                # Direct Call to Logic
-                response_data = st.session_state.rag_engine.query(prompt)
+                # CALL THE RAG ENGINE
+                response_payload = st.session_state.rag_engine.query(prompt)
                 
-                answer = response_data["answer"]
-                sources = response_data["sources"]
+                answer = response_payload["answer"]
+                sources = response_payload["sources"]
                 
+                # Display Answer
                 st.markdown(answer)
-                if sources:
-                    with st.expander("View Verified Sources"):
-                        st.dataframe(format_citations(sources), width="stretch")
                 
-                # Save to history
+                # Display Sources (if any)
+                if sources:
+                    with st.expander("📚 Verified Sources"):
+                        st.dataframe(format_sources(sources), use_container_width=True, hide_index=True)
+                
+                # Save to History
                 st.session_state.messages.append({
                     "role": "assistant",
                     "content": answer,

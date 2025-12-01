@@ -1,102 +1,133 @@
-# src/rag/retriever.py
-# Role: The engine that connects Vector DB + Prompts + LLM.
-# Key Feature: It instantiates the VectorStoreManager you built in Step 2.
-
 import logging
-from typing import Dict, Any
+from typing import Dict, Any, List
 
-from llama_index.core import VectorStoreIndex, Settings
-from llama_index.embeddings.google_genai import GoogleGenAIEmbedding # <--- ADD THIS
+# LlamaIndex Core
+from llama_index.core import VectorStoreIndex, get_response_synthesizer
+from llama_index.core.retrievers import VectorIndexRetriever
+from llama_index.core.query_engine import RetrieverQueryEngine
+from llama_index.core.postprocessor import SimilarityPostprocessor
 
-# Internal Imports
-from src.config import settings as app_settings # Rename to avoid conflict
+# Internal Modules
 from src.indexing.vector_db import QdrantManager
+from src.indexing.embeddings import EmbeddingManager
 from src.rag.prompts import get_prompts
-from src.rag.reranker import Reranker
 
-# logger = logging.getLogger(__name__)
-from src.core.logger import setup_logger
-# This ensures consistent formatting across the whole app
-logger = setup_logger(__name__)
+# Logger
+try:
+    from src.core.logger import setup_logger
+    logger = setup_logger(__name__)
+except ImportError:
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger(__name__)
 
-class RAGRetriever:
+class FASAEngine:
+    """
+    The RAG Controller.
+    
+    Flow:
+    1. User Query -> Embedding
+    2. Hybrid Search (Qdrant) -> Top 10 Nodes
+    3. Reranking (SimilarityPostprocessor) -> Filter noise (Threshold 0.5)
+    4. Synthesis (LLM) -> Answer with Citations
+    """
+    
     def __init__(self):
-        # --- FIX: FORCE GEMINI EMBEDDINGS ---
-        # This tells LlamaIndex: "Don't look for OpenAI, use Gemini!"
-        try:
-            embed_model = GoogleGenAIEmbedding(
-                model_name=app_settings.EMBED_MODEL,
-                api_key=app_settings.GEMINI_API_KEY
-            )
-            Settings.embed_model = embed_model
-        except Exception as e:
-            logger.critical(f"Failed to load Gemini Embeddings: {e}")
-            raise e
-        # ------------------------------------
-
-        # 1. Connect to Existing Vector DB
+        logger.info("Initializing FASA RAG Engine...")
+        
+        # 1. Ensure Embeddings are Active (Gemini)
+        EmbeddingManager.configure_global_settings()
+        
+        # 2. Connect to Database
         self.db_manager = QdrantManager()
         
-        # 2. Connect/Build the Index interface
+        # 3. Load Index from Vector Store
         try:
             self.index = VectorStoreIndex.from_vector_store(
                 vector_store=self.db_manager.vector_store
             )
         except Exception as e:
-            logger.error(f"Could not connect to Vector Index: {e}")
+            logger.critical(f"Failed to load Vector Index: {e}")
             raise e
-
-        # 3. Build the Query Engine (The "Brain")
+            
+        # 4. Build the Query Engine (The "Brain")
         self.query_engine = self._build_engine()
 
-    def _build_engine(self):
+    def _build_engine(self) -> RetrieverQueryEngine:
         """
-        Constructs the Hybrid Search Engine with Reranking.
+        Assembles the components: Retriever + Reranker + LLM Prompt.
         """
-        prompts = get_prompts()
-        postprocessors = Reranker.get_postprocessors(threshold=0.30)
-
-        return self.index.as_query_engine(
-            # Hybrid Search Settings
+        # A. Retriever (Hybrid Search: Dense + Sparse)
+        # alpha=0.5 gives equal weight to Keywords (BM25) and Semantics (Gemini)
+        retriever = self.index.as_retriever(
+            similarity_top_k=10, 
             vector_store_query_mode="hybrid", 
-            alpha=0.5,  # Balance Keyword vs Semantic
-            similarity_top_k=7,
-            sparse_top_k=7,
-            
-            # Formatting & Safety
-            text_qa_template=prompts,
-            node_postprocessors=postprocessors,
+            alpha=0.5 
+        )
+        
+        # B. Post-Processor (The "Quality Filter")
+        # If a chunk matches with less than 50% similarity, we drop it.
+        # This prevents the LLM from hallucinating on irrelevant text.
+        reranker = SimilarityPostprocessor(similarity_cutoff=0.50)
+        
+        # C. Response Synthesizer (The "Writer")
+        # We inject our strict prompt here.
+        synth = get_response_synthesizer(
+            text_qa_template=get_prompts(),
             response_mode="compact"
+        )
+        
+        # D. Assemble
+        return RetrieverQueryEngine(
+            retriever=retriever,
+            response_synthesizer=synth,
+            node_postprocessors=[reranker]
         )
 
     def query(self, query_text: str) -> Dict[str, Any]:
         """
-        Public method to ask a question.
-        Returns: { "answer": str, "sources": list }
+        Public API for the UI.
+        
+        Returns:
+            {
+                "answer": str,
+                "sources": List[Dict] (SOP Name, Version, Page, Score)
+            }
         """
         if not query_text.strip():
-            return {"answer": "Empty query.", "sources": []}
+            return {"answer": "Please enter a valid query.", "sources": []}
+            
+        logger.info(f"❓ Querying: '{query_text}'")
         
-        logger.info(f"Received Query: '{query_text}'")
-        logger.info("Searching Vector DB & Generating Answer...")
+        try:
+            # EXECUTE RAG
+            response = self.query_engine.query(query_text)
+            
+            # PARSE SOURCES
+            sources = []
+            for node_w_score in response.source_nodes:
+                # Critical: Extract keys that match ingestion/chunker.py
+                meta = node_w_score.node.metadata
+                
+                source_info = {
+                    "sop_title": meta.get("sop_title", "Unknown SOP"),
+                    "version": meta.get("version_original", "N/A"),
+                    "page": meta.get("page_label", "N/A"),
+                    "file_name": meta.get("file_name", "N/A"),
+                    "score": round(node_w_score.score, 3),
+                    "text_preview": node_w_score.node.text[:150] + "..."
+                }
+                sources.append(source_info)
 
-        response = self.query_engine.query(query_text)
-        
-        # Parse Response
-        sources = []
-        for node_w_score in response.source_nodes:
-            meta = node_w_score.node.metadata
-            sources.append({
-                "sop_name": meta.get("sop_name", "Unknown"),
-                "version": meta.get("version", "?"),
-                "page": meta.get("page", "?"),
-                "section": meta.get("section", "General"),
-                "score": round(node_w_score.score, 3)
-            })
+            logger.info(f"✅ Generated Answer using {len(sources)} valid chunks.")
+            
+            return {
+                "answer": str(response),
+                "sources": sources
+            }
 
-        logger.info(f"Generated Answer based on {len(sources)} sources.")
-
-        return {
-            "answer": str(response),
-            "sources": sources
-        }
+        except Exception as e:
+            logger.error(f"Query Failed: {e}", exc_info=True)
+            return {
+                "answer": "System Error: Unable to process query. Please check logs.",
+                "sources": []
+            }
