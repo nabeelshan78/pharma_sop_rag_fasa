@@ -2,68 +2,68 @@ import logging
 import os
 import nest_asyncio
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 
 from dotenv import load_dotenv
 from llama_parse import LlamaParse
 from llama_index.core.schema import Document
 from llama_index.core import SimpleDirectoryReader
 
-# Apply asyncio fix for notebooks/scripts
+# Apply asyncio patch for stable loop handling
 nest_asyncio.apply()
 
 # Load env immediately
 load_dotenv()
 
+# Use internal logger
 from src.core.logger import setup_logger
 logger = setup_logger(__name__)
 
 class SOPLoader:
     """
-    Specialized Loader for Pharmaceutical Standard Operating Procedures (SOPs).
+    Enterprise Loader for Pharma SOPs.
     
-    Features:
-    - Uses LlamaParse (Premium) for table extraction.
-    - Custom parsing instructions to strip Headers/Footers.
-    - Preserves Markdown structure for Hierarchy (5.1, 5.1.1).
-    - Retains Page Numbers in metadata.
+    Responsibilities:
+    1. Upload files to LlamaCloud for high-fidelity parsing.
+    2. Enforce specific parsing instructions to strip 'header/footer' noise.
+    3. Return structured Markdown compatible with 'Structure-Aware Chunking'.
     """
     
     def __init__(self):
-        api_key = os.getenv("LLAMA_CLOUD_API_KEY")
-        if not api_key:
+        self.api_key = os.getenv("LLAMA_CLOUD_API_KEY")
+        if not self.api_key:
             logger.critical("LLAMA_CLOUD_API_KEY is missing! Cannot process SOPs.")
             raise ValueError("LLAMA_CLOUD_API_KEY required in .env")
-        
-        # 1. DEFINE INSTRUCTION
-        # We explicitly tell the model how to handle the Pharma noise.
-        parsing_instruction = (
+
+        #  Cleaning: Remove headers, footers...
+        # We instruct the LLM inside LlamaParse to do this visually.
+        self.parsing_instruction = (
             "The provided document is a Pharmaceutical Standard Operating Procedure (SOP). "
-            "It contains strict formatting, tables, and process flows. "
-            "1. Strictly remove all page headers and footers (e.g., 'Page 1 of 10', 'Effective Date', 'SOP-XYZ'). "
-            "2. Extract all tables as clean Markdown tables. "
-            "3. If a flowchart or diagram is present, describe the process flow in text steps. "
-            "4. Preserve the numbering hierarchy (e.g., 5.3, 5.3.1) exactly with proper markdown format."
+            "Reconstruct the document structure exactly as Markdown. "
+            "IMPORTANT: Do not output page headers or footers (e.g., 'Page x of y', 'Confidential', 'Effective Date' at the top/bottom). "
+            "Only output the main content body, images, and tables."
         )
 
-        # 2. CONFIGURE PARSER
+        # Configure Parser with 'fast' or 'premium' mode based on needs
+        # For Pharma Tables, 'premium' is safer if budget allows.
         self.parser = LlamaParse(
-            api_key=api_key,
-            result_type="markdown",  # Essential for LLM comprehension
+            api_key=self.api_key,
+            result_type="markdown",
             verbose=True,
             language="en",
-            split_by_page=True,      # Keeps pages separate so we can cite Page #
-            # premium_mode=True,       # Required for high-fidelity table extraction
-            # parsing_instruction=parsing_instruction
+            split_by_page=True, 
+            # parsing_instruction=self.parsing_instruction,
+            # premium_mode=True,  #  Handle scanned PDFs/Images
+            ignore_errors=False
         )
 
-    def load_file(self, file_path: str, metadata: Optional[Dict] = None) -> List[Document]:
+    def load_file(self, file_path: str, metadata: Optional[Dict[str, Any]] = None) -> List[Document]:
         """
-        Loads a single SOP PDF and returns a list of Documents (usually 1 per page).
+        Loads a single SOP (PDF/DOCX) and returns a list of Documents (1 per page).
         
         Args:
-            file_path: Path to the PDF.
-            metadata: Dict containing 'sop_title', 'version', etc.
+            file_path: Absolute path to the file.
+            metadata: Enriched metadata from versioning.py (Title, Version, etc.)
         """
         path_obj = Path(file_path)
         
@@ -71,101 +71,73 @@ class SOPLoader:
             logger.error(f"File not found: {file_path}")
             raise FileNotFoundError(f"File not found: {file_path}")
 
-        # Default metadata if none provided
+        # Default metadata
         if metadata is None:
             metadata = {}
 
         try:
-            logger.info(f"LlamaParsing SOP: {path_obj.name}...")
+            logger.info(f"Uploading & Parsing SOP: {path_obj.name}...")
             
-            # Use SimpleDirectoryReader to wrap LlamaParse
-            file_extractor = {".pdf": self.parser}
+            #  File Formats: Must support PDF, DOCX.
+            # We explicitly map .docx to LlamaParse as well for consistent markdown.
+            file_extractor = {
+                ".pdf": self.parser,
+                ".docx": self.parser,
+                ".doc": self.parser
+            }
             
+            # Use SimpleDirectoryReader to wrap the extraction logic
             reader = SimpleDirectoryReader(
                 input_files=[str(path_obj)],
                 file_extractor=file_extractor
             )
             
-            # Load data - this returns a list of Document objects (ordered by page)
+            # Load data - returns List[Document]
             documents = reader.load_data()
             
-            # 3. ENRICH METADATA
-            # We iterate through every page/doc and inject the SOP-level metadata
             valid_docs = []
             
-            # FIX: Use enumerate to guarantee correct "Page X" sequence
+            # Enumerate to track page numbers locally relative to this file
             for i, doc in enumerate(documents, start=1):
                 
-                # Update doc metadata with what we passed in (Title, Version)
-                doc.metadata.update(metadata)
+                # 1. Inject Metadata
+                # We do a shallow copy to avoid reference issues
+                doc_meta = metadata.copy()
+                doc_meta["page_label"] = f"Page {i}" # [cite: 7] Page Number tagging
+                doc_meta["file_name"] = path_obj.name
                 
-                # OVERWRITE page_label to ensure "Page 1", "Page 2" format
-                doc.metadata["page_label"] = f"Page {i}"
+                doc.metadata = doc_meta
                 
-                # Add filename manually if SimpleDirectoryReader missed it (redundancy)
-                if "file_name" not in doc.metadata:
-                    doc.metadata["file_name"] = path_obj.name
+                # 2. Sanity Check
+                # Drop pages that are just whitespace or extremely short (parsing errors)
+                if not doc.text or len(doc.text.strip()) < 10:
+                    logger.warning(f"Skipping empty page {i} in {path_obj.name}")
+                    continue
 
-                # Basic sanity check: Don't ingest empty pages
-                if doc.text and len(doc.text.strip()) > 10:
-                    valid_docs.append(doc)
+                valid_docs.append(doc)
             
-            logger.info(f"Successfully parsed {path_obj.name}. Extracted {len(valid_docs)} pages.")
+            logger.info(f"Successfully parsed {path_obj.name}. Yielded {len(valid_docs)} content pages.")
             return valid_docs
 
         except Exception as e:
-            logger.error(f"Failed to parse {file_path}: {e}")
+            logger.error(f"Failed to parse {file_path}: {e}", exc_info=True)
             raise e
 
 
 
-        
-
-
-
-
-# # ingestion/loader.py
-# # Role: strictly handles file I/O and partitioning.
-
-# import logging
-# from pathlib import Path
-# from typing import List
-
-# # Unstructured Imports
-# from unstructured.partition.pdf import partition_pdf
-# from unstructured.partition.docx import partition_docx
-# from unstructured.partition.text import partition_text
-# from unstructured.documents.elements import Element
-
-# from src.core.logger import setup_logger
-# # This ensures consistent formatting across the whole app
-# logger = setup_logger(__name__)
-
-# class DocumentLoader:
-#     """
-#     Handles loading of raw files into Unstructured Elements.
-#     """
-    
-#     @staticmethod
-#     def load_file(file_path: str) -> List[Element]:
-#         path_obj = Path(file_path)
-#         ext = path_obj.suffix.lower()
-        
-#         if not path_obj.exists():
-#             raise FileNotFoundError(f"File not found: {file_path}")
-
-#         try:
-#             if ext == ".pdf":
-#                 # strategy='fast' or 'hi_res' depending on need. 
-#                 # 'fast' is better for text-based PDFs.
-#                 return partition_pdf(filename=file_path, strategy='fast')
-#             elif ext == ".docx":
-#                 return partition_docx(filename=file_path)
-#             elif ext == ".txt":
-#                 return partition_text(filename=file_path)
-#             else:
-#                 logger.warning(f"Unsupported file type: {ext}")
-#                 return []
-#         except Exception as e:
-#             logger.error(f"Failed to load {file_path}: {e}")
-#             raise e
+# --- SELF TEST ---
+if __name__ == "__main__":
+    # Create a dummy test file to verify connectivity
+    # Note: Requires a real .env file with LLAMA_CLOUD_API_KEY
+    try:
+        loader = SOPLoader()
+        print("SOPLoader initialized successfully.")
+        # To test real parsing, uncomment below:
+        docs = loader.load_file(r"data/raw_sops/GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf", {"sop_title": "TEST", "version": "1.0"})
+        # save to text file for inspection
+        with open("test_output.txt", "w", encoding="utf-8") as f:
+            for doc in docs:
+                f.write(f"--- {doc.metadata.get('page_label', 'Unknown Page')} ---\n")
+                f.write(doc.text + "\n\n")
+    except Exception as e:
+        print(f"Init failed: {e}")
