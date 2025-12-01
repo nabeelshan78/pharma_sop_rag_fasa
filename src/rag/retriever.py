@@ -54,7 +54,7 @@ class RAGRetriever:
         Constructs the Hybrid Search Engine with Reranking.
         """
         prompts = get_prompts()
-        postprocessors = Reranker.get_postprocessors(threshold=0.60)
+        postprocessors = Reranker.get_postprocessors(threshold=0.30)
 
         return self.index.as_query_engine(
             # Hybrid Search Settings
