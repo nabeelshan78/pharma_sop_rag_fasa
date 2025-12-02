@@ -95,12 +95,13 @@ def main():
                 success_count += 1
                 logger.info(f"✅ COMPLETED: {file_path.name}")
             else:
-                logger.error(f"❌ DB ERROR: {file_path.name}")
+                logger.error(f"DB ERROR: {file_path.name}")
                 failed_files.append(f"{file_path.name} (DB Fail)")
 
         except Exception as e:
-            logger.error(f"❌ CRASHED: {file_path.name} -> {e}")
+            logger.error(f"CRASHED: {file_path.name} -> {e}")
             failed_files.append(f"{file_path.name} (Exception: {str(e)})")
+        print("="*100)
 
     # 5. SUMMARY REPORT
     duration = time.time() - start_time

@@ -61,9 +61,9 @@ if "rag_engine" not in st.session_state:
             # 1. Load RAG Engine (Query Logic)
             st.session_state.rag_engine = FASAEngine()
             
-            # 2. Load Pipelines (For UI-based Uploads)
-            st.session_state.ingest_pipe = IngestionPipeline()
-            st.session_state.index_pipe = IndexingPipeline()
+            # # 2. Load Pipelines (For UI-based Uploads)
+            # st.session_state.ingest_pipe = IngestionPipeline()
+            # st.session_state.index_pipe = IndexingPipeline()
             
             st.session_state.messages = []
             st.session_state.system_ready = True
@@ -108,64 +108,64 @@ with st.sidebar:
     st.caption("v1.0-Demo | Enterprise Mode")
     st.markdown("---")
     
-    # 1. LIVE UPLOADER
-    st.subheader("📄 SOP Ingestion")
-    uploaded_files = st.file_uploader(
-        "Upload New SOPs (PDF/DOCX)", 
-        accept_multiple_files=True,
-        type=["pdf", "docx", "doc"]
-    )
+    # # 1. LIVE UPLOADER
+    # st.subheader("📄 SOP Ingestion")
+    # uploaded_files = st.file_uploader(
+    #     "Upload New SOPs (PDF/DOCX)", 
+    #     accept_multiple_files=True,
+    #     type=["pdf", "docx", "doc"]
+    # )
     
-    if uploaded_files and st.button("🚀 Process & Index Files"):
-        if not st.session_state.system_ready:
-            st.error("System is not ready.")
-        else:
-            progress_bar = st.progress(0)
-            status_text = st.empty()
+    # if uploaded_files and st.button("🚀 Process & Index Files"):
+    #     if not st.session_state.system_ready:
+    #         st.error("System is not ready.")
+    #     else:
+    #         progress_bar = st.progress(0)
+    #         status_text = st.empty()
             
-            # Create a temp directory for safe processing
-            temp_dir = Path("data/temp_uploads")
-            temp_dir.mkdir(parents=True, exist_ok=True)
+    #         # Create a temp directory for safe processing
+    #         temp_dir = Path("data/temp_uploads")
+    #         temp_dir.mkdir(parents=True, exist_ok=True)
             
-            total_files = len(uploaded_files)
-            success_count = 0
+    #         total_files = len(uploaded_files)
+    #         success_count = 0
             
-            for i, file in enumerate(uploaded_files):
-                status_text.text(f"Processing {i+1}/{total_files}: {file.name}...")
+    #         for i, file in enumerate(uploaded_files):
+    #             status_text.text(f"Processing {i+1}/{total_files}: {file.name}...")
                 
-                # Save file locally
-                file_path = temp_dir / file.name
-                with open(file_path, "wb") as f:
-                    f.write(file.getbuffer())
+    #             # Save file locally
+    #             file_path = temp_dir / file.name
+    #             with open(file_path, "wb") as f:
+    #                 f.write(file.getbuffer())
                 
-                try:
-                    # A. Run Ingestion (Parsing -> Chunking)
-                    nodes = st.session_state.ingest_pipe.run(str(file_path))
+    #             try:
+    #                 # A. Run Ingestion (Parsing -> Chunking)
+    #                 nodes = st.session_state.ingest_pipe.run(str(file_path))
                     
-                    if nodes:
-                        # B. Run Indexing (Vector DB Insert)
-                        st.session_state.index_pipe.run(nodes)
-                        success_count += 1
-                    else:
-                        st.warning(f"Skipped {file.name} (No text found)")
+    #                 if nodes:
+    #                     # B. Run Indexing (Vector DB Insert)
+    #                     st.session_state.index_pipe.run(nodes)
+    #                     success_count += 1
+    #                 else:
+    #                     st.warning(f"Skipped {file.name} (No text found)")
                         
-                except Exception as e:
-                    st.error(f"Failed {file.name}: {e}")
+    #             except Exception as e:
+    #                 st.error(f"Failed {file.name}: {e}")
                 
-                # Cleanup Temp File
-                os.remove(file_path)
-                progress_bar.progress((i + 1) / total_files)
+    #             # Cleanup Temp File
+    #             os.remove(file_path)
+    #             progress_bar.progress((i + 1) / total_files)
             
-            status_text.success(f"✅ Ingestion Complete! {success_count}/{total_files} indexed.")
-            time.sleep(2)
-            st.rerun()
+    #         status_text.success(f"✅ Ingestion Complete! {success_count}/{total_files} indexed.")
+    #         time.sleep(2)
+    #         st.rerun()
 
-    st.markdown("---")
+    # st.markdown("---")
     
-    # 2. CHAT CONTROLS
-    if st.button("🗑️ Clear Chat History"):
-        st.session_state.messages = []
-        st.rerun()
+    # # 2. CHAT CONTROLS
+    # if st.button("🗑️ Clear Chat History"):
+    #     st.session_state.messages = []
+    #     st.rerun()
 
 # =============================================================================
 # MAIN: CHAT INTERFACE

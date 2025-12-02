@@ -104,25 +104,19 @@ class SOPChunker:
             logger.warning("No documents provided to chunker.")
             return []
 
-        logger.info(f"✂️ Chunking {len(documents)} document(s)...")
+        logger.info(f"Chunking {len(documents)} document(s)...")
         
         try:
             # 1. Structural Split (Markdown)
-            # This creates nodes based on headers.
             base_nodes = self.markdown_parser.get_nodes_from_documents(documents)
-            
             # 2. Rebalance Orphans
-            # Fixes cases where a header was left behind at the end of a page/node.
             base_nodes = self._rebalance_headers(base_nodes)
-            
+
             final_nodes = []
-            
             for node in base_nodes:
-                # 3. Safety Split (Token Limit)
-                # If a section is 5000 chars, it's too big for embedding. Split it further.
+                # 3. Safety Split (Token Limit), If a section is 5000 chars, it's too big for embedding. Split it further.
                 sub_nodes = [node]
-                if len(node.text) > 2000: # Conservative limit
-                    # Wrap in Document to use splitter
+                if len(node.text) > 2000: 
                     temp_doc = Document(text=node.text, metadata=node.metadata)
                     sub_nodes = self.text_splitter.get_nodes_from_documents([temp_doc])
                 
@@ -130,12 +124,11 @@ class SOPChunker:
                 for sub_node in sub_nodes:
                     # Extract Metadata (Fail gracefully if missing)
                     sop_title = sub_node.metadata.get("sop_title", sub_node.metadata.get("file_name", "Unknown SOP"))
-                    version = sub_node.metadata.get("version_original", "N/A") # Matches versioning.py
+                    version = sub_node.metadata.get("version_original", "N/A")
                     page_label = sub_node.metadata.get("page_label", "N/A")
                     header_context = self._get_header_path(sub_node)
 
-                    # Construct the "Zero Hallucination" Header
-                    # This text is baked into the vector, so the AI knows EXACTLY where this came from.
+                    # Construct the "Zero Hallucination" Header, This text is baked into the vector, so the AI knows EXACTLY where this came from.
                     context_str = (
                         f"CONTEXT: Doc: {sop_title} | Ver: {version} | Page: {page_label}\n"
                         f"SECTION: {header_context}\n"
@@ -163,7 +156,7 @@ class SOPChunker:
                 if i < len(final_nodes) - 1:
                     final_nodes[i].relationships[NodeRelationship.NEXT] = RelatedNodeInfo(node_id=final_nodes[i+1].node_id)
 
-            logger.info(f"✅ Chunking Complete. Generated {len(final_nodes)} structured chunks.")
+            logger.info(f"Chunking Complete. Generated {len(final_nodes)} structured chunks.")
             return final_nodes
 
         except Exception as e:
@@ -172,39 +165,73 @@ class SOPChunker:
 
 
 
-# --- SELF TEST ---
+
+
 if __name__ == "__main__":
-    print("--- Running Chunker Logic Test ---")
-    
-    # 1. Simulate a Doc that has an "Orphan Header" at the end
-    text_part_1 = """
-    # 1.0 Introduction
-    This is the intro text.
-    
-    ## 2.0 Scope
-    """ # <--- Orphan Header!
-    
-    text_part_2 = """
-    This scope applies to all departments.
-    End of scope.
-    """
-    
-    doc1 = Document(text=text_part_1, metadata={"file_name": "SOP_A.pdf", "sop_title": "SOP A", "version_original": "1.0", "page_label": "1"})
-    doc2 = Document(text=text_part_2, metadata={"file_name": "SOP_A.pdf", "sop_title": "SOP A", "version_original": "1.0", "page_label": "1"})
-    
-    # 2. Run Chunker
-    chunker = SOPChunker()
-    # We simulate them coming from the parser as nodes first for the unit test
-    node1 = TextNode(text=text_part_1, metadata=doc1.metadata)
-    node2 = TextNode(text=text_part_2, metadata=doc2.metadata)
-    
-    print("Rebalancing Headers...")
-    cleaned = chunker._rebalance_headers([node1, node2])
-    
-    print(f"\nNode 1 Text (Should NOT have header):\n---\n{cleaned[0].text}\n---")
-    print(f"\nNode 2 Text (SHOULD have header):\n---\n{cleaned[1].text}\n---")
-    
-    if "## 2.0 Scope" in cleaned[1].text and "## 2.0 Scope" not in cleaned[0].text:
-        print("\n✅ SUCCESS: Orphan header moved correctly.")
-    else:
-        print("\n❌ FAIL: Header rebalancing failed.")
+    import json
+    import os
+    import sys
+    # We need Document to load the input
+    from llama_index.core import Document
+
+    # 1. Define Paths (Matching your Cleaner output)
+    INPUT_FILE = "test_outputs/test_documents_cleaned.jsonl"
+    OUTPUT_FILE = "test_outputs/test_documents_chunked.jsonl"
+
+    print("--- FASA Chunker Diagnostic ---")
+
+    # 2. Validate Input
+    if not os.path.exists(INPUT_FILE):
+        logger.error(f"Input file not found: {INPUT_FILE}")
+        print("Tip: Run src/ingestion/cleaner.py first to generate the input.")
+        sys.exit(1)
+
+    # 3. Load Cleaned Documents
+    docs_to_chunk = []
+    try:
+        with open(INPUT_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.strip():
+                    try:
+                        doc = Document.from_json(line.strip())
+                        docs_to_chunk.append(doc)
+                    except Exception as e:
+                        logger.warning(f"Skipping invalid JSON line: {e}")
+        
+        print(f"Loaded {len(docs_to_chunk)} cleaned documents.")
+
+    except Exception as e:
+        logger.error(f"Failed to read input file: {e}")
+        sys.exit(1)
+
+    # 4. Run Chunking Logic
+    try:
+        chunker = SOPChunker()
+        nodes = chunker.chunk_documents(docs_to_chunk)
+    except Exception as e:
+        logger.error(f"Critical Error during chunking: {e}")
+        sys.exit(1)
+
+    # 5. Save Output (Nodes)
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            for node in nodes:
+                # Nodes in LlamaIndex verify strictly, using .to_json() is safest
+                f.write(node.to_json() + "\n")
+        
+        print(f"Success! Saved {len(nodes)} chunks to: {OUTPUT_FILE}")
+
+        # 6. Preview / Validation
+        if nodes:
+            first_node = nodes[0]
+            print("\n--- Context Injection Check (First Chunk) ---")
+            print(f"Chunk ID: {first_node.node_id}")
+            print(f"Metadata Header Path: {first_node.metadata.get('context_header', 'N/A')}")
+            print("-" * 40)
+            # Print the first 400 chars to verify the "CONTEXT: ..." string was added
+            print(first_node.text[:400])
+            print("..." if len(first_node.text) > 400 else "")
+            print("-" * 40)
+
+    except Exception as e:
+        logger.error(f"Failed to write output file: {e}")

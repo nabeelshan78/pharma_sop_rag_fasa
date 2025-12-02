@@ -36,13 +36,13 @@ class LLMGenerator:
             llm = Gemini(
                 model="models/gemini-2.0-flash-lite-001",
                 api_key=api_key,
-                temperature=0.0, 
+                temperature=0.5, 
                 max_tokens=1024
             )
             
             # Apply Globally
             Settings.llm = llm
-            logger.info("✅ Global LLM Configured: Gemini 1.5 Flash (Temp=0.0)")
+            logger.info(">>>>>>>>>>>>>>>>>>>>>>>>>    Global LLM Configured: Gemini 2.0 Flash (Temp=0.5)")
             return llm
             
         except Exception as e:

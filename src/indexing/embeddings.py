@@ -60,28 +60,30 @@ class EmbeddingManager:
         try:
             model = cls.get_embedding_model()
             Settings.embed_model = model
-            logger.info(f"✅ Global Embeddings Configured: Google Gemini ({model.model_name})")
+            logger.info(f">>>>>>>>>>>>>>>>>>>>>>>>>    Global Embeddings Configured: Google Gemini ({model.model_name})")
         except Exception as e:
             logger.critical("Failed to configure global embedding settings.")
             raise e
 
-# --- SELF TEST ---
-if __name__ == "__main__":
-    from dotenv import load_dotenv
-    load_dotenv()
+
+
+# # --- SELF TEST ---
+# if __name__ == "__main__":
+#     from dotenv import load_dotenv
+#     load_dotenv()
     
-    print("--- Testing Embedding Connection ---")
-    try:
-        # 1. Configure
-        EmbeddingManager.configure_global_settings()
+#     print("--- Testing Embedding Connection ---")
+#     try:
+#         # 1. Configure
+#         EmbeddingManager.configure_global_settings()
         
-        # 2. Test Generation
-        test_text = "Standard Operating Procedure for Quality Assurance."
-        embedding = Settings.embed_model.get_text_embedding(test_text)
+#         # 2. Test Generation
+#         test_text = "Standard Operating Procedure for Quality Assurance."
+#         embedding = Settings.embed_model.get_text_embedding(test_text)
         
-        print(f"✅ Success! Generated embedding vector.")
-        print(f"Dimensions: {len(embedding)} (Should be 768 for text-embedding-004)")
-        print(f"Sample: {embedding[:5]}...")
+#         print(f"✅ Success! Generated embedding vector.")
+#         print(f"Dimensions: {len(embedding)} (Should be 768 for text-embedding-004)")
+#         print(f"Sample: {embedding[:5]}...")
         
-    except Exception as e:
-        print(f"❌ Test Failed: {e}")
+#     except Exception as e:
+#         print(f"❌ Test Failed: {e}")

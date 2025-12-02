@@ -98,6 +98,10 @@ class VersionManager:
 
 if __name__ == "__main__":
     print("--- FASA Version Manager: Diagnostic Test ---\n")
+
+    meta = VersionManager.extract_metadata("data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051")
+    print(meta)
+    
     test_files = [
         "data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051",
         "data/raw_sops/GL-QA-094-A020-01.pdfNov302025024136",

@@ -59,15 +59,15 @@ class FASAEngine:
         # A. Retriever (Hybrid Search: Dense + Sparse)
         # alpha=0.5 gives equal weight to Keywords (BM25) and Semantics (Gemini)
         retriever = self.index.as_retriever(
-            similarity_top_k=60, 
+            similarity_top_k=30, 
             vector_store_query_mode="hybrid", 
-            alpha=0.1
+            alpha=0.5
         )
         
         # B. Post-Processor (The "Quality Filter")
         # If a chunk matches with less than 50% similarity, we drop it.
         # This prevents the LLM from hallucinating on irrelevant text.
-        reranker = SimilarityPostprocessor(similarity_cutoff=0.30)
+        reranker = SimilarityPostprocessor(similarity_cutoff=0.50)
         
         # C. Response Synthesizer (The "Writer")
         # We inject our strict prompt here.
@@ -113,12 +113,11 @@ class FASAEngine:
                     "version": meta.get("version_original", "N/A"),
                     "page": meta.get("page_label", "N/A"),
                     "file_name": meta.get("file_name", "N/A"),
-                    "score": round(node_w_score.score, 3),
-                    "text_preview": node_w_score.node.text[:150] + "..."
+                    "score": round(node_w_score.score, 3)
                 }
                 sources.append(source_info)
 
-            logger.info(f"✅ Generated Answer using {len(sources)} valid chunks.")
+            logger.info(f">>>>>>>>>>>>>>>>>>>>>>     Generated Answer using {len(sources)} valid chunks.")
             
             return {
                 "answer": str(response),

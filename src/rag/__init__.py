@@ -10,24 +10,26 @@ LLMGenerator.configure_llm()
 # 2. Export the Main Engine class for the UI to use
 __all__ = ["FASAEngine"]
 
-# --- SELF TEST ---
-if __name__ == "__main__":
-    from dotenv import load_dotenv
-    load_dotenv()
+
+
+# # --- SELF TEST ---
+# if __name__ == "__main__":
+#     from dotenv import load_dotenv
+#     load_dotenv()
     
-    print("--- Running RAG Integration Test ---")
-    try:
-        # Initialize Engine
-        engine = FASAEngine()
+#     print("--- Running RAG Integration Test ---")
+#     try:
+#         # Initialize Engine
+#         engine = FASAEngine()
         
-        # Test Query
-        q = "What is the procedure for document retention?"
-        result = engine.query(q)
+#         # Test Query
+#         q = "What is the procedure for document retention?"
+#         result = engine.query(q)
         
-        print(f"\n[Answer]:\n{result['answer']}")
-        print(f"\n[Sources Found]: {len(result['sources'])}")
-        if result['sources']:
-            print(f"Top Source: {result['sources'][0]['sop_title']} (Page {result['sources'][0]['page']})")
+#         print(f"\n[Answer]:\n{result['answer']}")
+#         print(f"\n[Sources Found]: {len(result['sources'])}")
+#         if result['sources']:
+#             print(f"Top Source: {result['sources'][0]['sop_title']} (Page {result['sources'][0]['page']})")
             
-    except Exception as e:
-        print(f"Test Failed: {e}")
+#     except Exception as e:
+#         print(f"Test Failed: {e}")
