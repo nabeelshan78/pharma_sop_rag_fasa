@@ -22,6 +22,7 @@ STRICT_QA_PROMPT_STR = (
     "5. **Analyze the text deeply.** If the answer is derived from multiple sentences/chunks, synthesize them.\n"
     "6. If the exact answer is not in the context, look for related procedural steps or definitions in the context that answer the user's intent.\n"
     "7. **Refusal Rule:** ONLY say 'Information not found in the current SOPs' if the context is completely irrelevant to the query.\n"
+    "8. **Presentation (If Possible):** Use Markdown formatting. Use **bullet points** for lists, steps, or definitions. Use **bold** for key terms.\n"
     "\n"
     "User Query: {query_str}\n"
     "Answer: "
