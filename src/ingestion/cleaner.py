@@ -26,6 +26,24 @@ class DocumentCleaner:
     """
 
     def __init__(self):
+        # Regex to match the specific header format seen in your images.
+        # Matches "GRUNENTHAL" followed by optional spaces and the code pattern.
+        # We also catch the horizontal separator lines often output by Markdown parsers.
+        self.header_patterns = [
+            r"GRUNENTHAL\s+[A-Z]{2}-[A-Z]{2}-\d{3}-\d{4}-\d{2}", # Matches GRUNENTHAL AT-GE-577-0002-01
+            r"page\s+\d+\s+of\s+\d+", # Matches "page 7 of 10"
+            r"This is an uncontrolled copy valid for.*", # Header disclaimer
+            r"Printed on:.*", # Footer noise
+        ]
+        
+        # Regex for isolated noise artifacts
+        self.noise_patterns = [
+            r"^#\s*$",          # Isolated markdown headers "#"
+            r"^[-_*]{3,}$",     # Markdown horizontal rules "---"
+            r"^\s*>\s*$",       # Empty blockquotes
+        ]
+
+
         # 1. Removal Patterns (Matches replaced with "")
         self.removal_patterns: Dict[str, Pattern] = {
             # Page numbers (English & Italian)
@@ -97,6 +115,30 @@ class DocumentCleaner:
         if not text:
             return ""
         cleaned_text = text
+
+        # 1. Remove Headers/Footers
+        for pattern in self.header_patterns:
+            # flags=re.IGNORECASE | re.MULTILINE if needed, 
+            # but explicit case is safer for "GRUNENTHAL"
+            cleaned_text = re.sub(pattern, "", cleaned_text, flags=re.IGNORECASE)
+
+            # 2. Remove isolated noise lines (applied line by line)
+            lines = cleaned_text.split('\n')
+            cleaned_lines = []
+            for line in lines:
+                is_noise = False
+                for noise_pat in self.noise_patterns:
+                    if re.match(noise_pat, line.strip()):
+                        is_noise = True
+                        break
+                if not is_noise:
+                    cleaned_lines.append(line)
+            
+            cleaned_text = "\n".join(cleaned_lines)
+
+            # 3. Collapse multiple newlines (created by removing headers) into two
+            cleaned_text = re.sub(r'\n{3,}', '\n\n', cleaned_text)
+        
         # 1. Apply Removal Patterns
         for name, pattern in self.removal_patterns.items():
             cleaned_text = pattern.sub("", cleaned_text)
@@ -126,7 +168,7 @@ class DocumentCleaner:
             new_text = self.clean_text(original_text)
 
             # If a page contained only noise (disclaimers), it might be empty now.
-            if len(new_text.strip()) <= 25:
+            if len(new_text.strip()) <= 50:
                 logger.warning(f"Dropped empty page after cleaning: {doc.metadata.get('page_label', 'unknown')}")
                 continue
 
@@ -156,8 +198,8 @@ if __name__ == "__main__":
     import sys
 
 
-    INPUT_FILE = "test_outputs/test_documents.jsonl"
-    OUTPUT_FILE = "test_outputs/test_documents_cleaned.jsonl"
+    INPUT_FILE = "test_outputs/2_test_documents.jsonl"
+    OUTPUT_FILE = "test_outputs/2_test_documents_cleaned.jsonl"
 
     print(f"--- FASA Cleaner Diagnostic ---")
 

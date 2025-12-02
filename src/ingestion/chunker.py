@@ -33,68 +33,126 @@ class SOPChunker:
         """Extracts the breadcrumb path (e.g., '5.0 Responsibilities > 5.1 Manager')."""
         header_path = node.metadata.get("header_path", "")
         return header_path.replace("/", " > ") if header_path else "General Section"
+    
 
-    def _rebalance_headers(self, nodes: List[TextNode]) -> List[TextNode]:
+    def _is_zombie_chunk(self, text: str) -> bool:
         """
-        Step 1.5 Logic:
-        Scans raw Markdown nodes. If a node ends in a header (orphan),
-        it pushes that header to the start of the NEXT node.
+        Detects low-value chunks that should be discarded.
         """
-        if not nodes:
-            return []
+        clean_text = text.strip()
+        
+        # 1. Length Check (The most effective filter)
+        # Any SOP paragraph worth indexing is usually > 50 chars.
+        # This kills: "GRUNENTHAL AT-GE...", "#", "Not applicable", "Page 1 of 5"
+        if len(clean_text) < 50:
+            return True
             
-        cleaned_nodes = []
-        # Regex: Matches a Header line at the very end of the text
-        # (?:^|\n)      -> Start of line
-        # (#{1,6}\s+.*) -> The Header (Group 1)
-        # \s*$          -> End of string
-        orphan_pattern = re.compile(r'(?:^|\n)(#{1,6}\s+[^\n]+)\s*$', re.DOTALL)
+        # 2. Specific Noise Phrases (Generalizable)
+        # Low-value headers that often appear alone
+        noise_phrases = [
+            "not applicable", 
+            "intentionally left blank", 
+            "table of contents", 
+            "change history",
+            "document control",
+            "distribution list",
+            "approval signatures",
+            "confidentiality notice",
+            "local title"
+        ]
+        import string
+        text_no_punct = clean_text.lower().strip(string.punctuation)
 
-        i = 0
-        while i < len(nodes):
-            current_node = nodes[i]
+        if text_no_punct in noise_phrases:
+            return True
+        
+        # If a chunk starts with "Table of contents" and is short, kill it.
+        if text_no_punct.startswith("table of contents") and len(clean_text) < 500:
+            return True
+        
+        # 3. Header Block Filter (NEW - Solves your request)
+        # Detects chunks like: "Number: PROC-123 | Revision: 02 | Status: Active"
+        # Logic: If a chunk is short (< 200 chars) AND contains 2+ of these keywords, it's a header.
+        header_keywords = [
+            "number", 
+            "revision", 
+            "status", 
+            "local title", 
+            "document no", 
+            "effective date"
+        ]
+        
+        # Count how many keywords appear in this chunk
+        matches = sum(1 for kw in header_keywords if kw in text_no_punct)
+        
+        if matches >= 2 and len(clean_text) < 200:
+            return True
             
-            # If we are at the very last node, we can't push anything forward.
-            if i == len(nodes) - 1:
-                if current_node.text.strip():
-                    cleaned_nodes.append(current_node)
-                break
-            
-            next_node = nodes[i+1]
-            
-            # Check current node for orphan header
-            match = orphan_pattern.search(current_node.text)
-            
-            if match:
-                header_text = match.group(1)
-                
-                # LOGIC CHECK: Only merge if they belong to the same file
-                curr_src = current_node.metadata.get("file_name", "A")
-                next_src = next_node.metadata.get("file_name", "B")
-                
-                if curr_src == next_src:
-                    logger.debug(f"🩹 Moving orphan header '{header_text.strip()}' from Node {i} to Node {i+1}")
-                    
-                    # 1. Remove header from current node
-                    cut_index = match.start()
-                    current_node.text = current_node.text[:cut_index].strip()
-                    
-                    # 2. Prepend header to next node
-                    next_node.text = f"{header_text}\n\n{next_node.text}"
-                    
-                    # 3. If current node is now empty (it was ONLY a header), drop it.
-                    if current_node.text:
-                        cleaned_nodes.append(current_node)
-                    
-                    # Move to next
-                    i += 1
-                    continue
+        return False
+    
 
-            # Default: Add node and move on
-            cleaned_nodes.append(current_node)
-            i += 1
+
+    # def _rebalance_headers(self, nodes: List[TextNode]) -> List[TextNode]:
+    #     """
+    #     Step 1.5 Logic:
+    #     Scans raw Markdown nodes. If a node ends in a header (orphan),
+    #     it pushes that header to the start of the NEXT node.
+    #     """
+    #     if not nodes:
+    #         return []
             
-        return cleaned_nodes
+    #     cleaned_nodes = []
+    #     # Regex: Matches a Header line at the very end of the text
+    #     # (?:^|\n)      -> Start of line
+    #     # (#{1,6}\s+.*) -> The Header (Group 1)
+    #     # \s*$          -> End of string
+    #     orphan_pattern = re.compile(r'(?:^|\n)(#{1,6}\s+[^\n]+)\s*$', re.DOTALL)
+
+    #     i = 0
+    #     while i < len(nodes):
+    #         current_node = nodes[i]
+            
+    #         # If we are at the very last node, we can't push anything forward.
+    #         if i == len(nodes) - 1:
+    #             if current_node.text.strip():
+    #                 cleaned_nodes.append(current_node)
+    #             break
+            
+    #         next_node = nodes[i+1]
+            
+    #         # Check current node for orphan header
+    #         match = orphan_pattern.search(current_node.text)
+            
+    #         if match:
+    #             header_text = match.group(1)
+                
+    #             # LOGIC CHECK: Only merge if they belong to the same file
+    #             curr_src = current_node.metadata.get("file_name", "A")
+    #             next_src = next_node.metadata.get("file_name", "B")
+                
+    #             if curr_src == next_src:
+    #                 logger.debug(f"🩹 Moving orphan header '{header_text.strip()}' from Node {i} to Node {i+1}")
+                    
+    #                 # 1. Remove header from current node
+    #                 cut_index = match.start()
+    #                 current_node.text = current_node.text[:cut_index].strip()
+                    
+    #                 # 2. Prepend header to next node
+    #                 next_node.text = f"{header_text}\n\n{next_node.text}"
+                    
+    #                 # 3. If current node is now empty (it was ONLY a header), drop it.
+    #                 if current_node.text:
+    #                     cleaned_nodes.append(current_node)
+                    
+    #                 # Move to next
+    #                 i += 1
+    #                 continue
+
+    #         # Default: Add node and move on
+    #         cleaned_nodes.append(current_node)
+    #         i += 1
+            
+    #     return cleaned_nodes
 
     def chunk_documents(self, documents: List[Document]) -> List[TextNode]:
         """
@@ -109,11 +167,18 @@ class SOPChunker:
         try:
             # 1. Structural Split (Markdown)
             base_nodes = self.markdown_parser.get_nodes_from_documents(documents)
-            # 2. Rebalance Orphans
-            base_nodes = self._rebalance_headers(base_nodes)
+            # # 2. Rebalance Orphans
+            # base_nodes = self._rebalance_headers(base_nodes)
 
             final_nodes = []
             for node in base_nodes:
+                # --- ZOMBIE FILTER (CRITICAL FIX) ---
+                # Check the RAW text before we add metadata context
+                if self._is_zombie_chunk(node.text):
+                    logger.debug(f"Dropping Zombie Chunk: {node.text[:30]}...")
+                    continue
+                # ------------------------------------
+
                 # 3. Safety Split (Token Limit), If a section is 5000 chars, it's too big for embedding. Split it further.
                 sub_nodes = [node]
                 if len(node.text) > 2000: 
@@ -175,8 +240,8 @@ if __name__ == "__main__":
     from llama_index.core import Document
 
     # 1. Define Paths (Matching your Cleaner output)
-    INPUT_FILE = "test_outputs/test_documents_cleaned.jsonl"
-    OUTPUT_FILE = "test_outputs/test_documents_chunked.jsonl"
+    INPUT_FILE = "test_outputs/2_test_documents_cleaned.jsonl"
+    OUTPUT_FILE = "test_outputs/2_test_documents_chunked.jsonl"
 
     print("--- FASA Chunker Diagnostic ---")
 

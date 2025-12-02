@@ -1,0 +1,88 @@
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 3\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 4\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 5\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 6\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 7\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 8\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 8\nSECTION:  > \n------------------------------\n#",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 9\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 10\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 11\nSECTION:  > \n------------------------------\nGRUNENTHAL AT-GE-577-0002-01",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 11\nSECTION:  > \n------------------------------\n# 6 Cross references\n\nNot applicable",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 11\nSECTION:  > \n------------------------------\n# 6.3 Other references\n\nNot applicable",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 11\nSECTION:  > \n------------------------------\n# 7 Attachments\n\nNot applicable",
+
+
+"text": "CONTEXT: Doc: AT-GE-577-0002 | Ver: 01 | Page: Page 11\nSECTION:  > \n------------------------------\n# 8 Historical index\n\n| Version/ document no. | Description of changes | Valid from   |\n| --------------------- | ---------------------- | ------------ |\n| D1                    | Initial version        | see 1st page |\n| 01                    | Initial version        | -/-          |",
+
+
+
+
+
+
+
+
+Yes, you are absolutely right. You DO need to fix the ingestion module, specifically src/ingestion/chunker.py.
+
+The Diagnosis
+You have discovered "Zombie Chunks" (Low-value noise).
+
+The "Footer" Zombie:
+
+GRUNENTHAL AT-GE-577-0002-01
+
+Why? This is the footer repeated on every page. Because it is physically separated from the main text in the PDF, LlamaParse treats it as its own paragraph.
+
+Why it's bad: If a user searches for "AT-GE-577", the vector DB might return these 10 useless footer chunks instead of the actual document content.
+
+The "Empty" Zombie:
+
+#
+
+Why? The MarkdownNodeParser tries to split by headers. If there is a header symbol with no text (or text stripped by cleaner.py), you get a lonely #.
+
+The "Useless" Zombie:
+
+# 7 Attachments \n Not applicable
+
+Why? It is valid text, but it has zero semantic value. It wastes tokens and database space.
+
+The Solution: The "50-Character Guardrail"
+To fix this without overfitting to just one PDF, we need to enforce a rule: "If a chunk has less than 50 characters of real content, it is trash."
+
+This works generally because no complex Pharmaceutical SOP procedure can be explained in less than 50 characters.
+
+Here is the Fixed src/ingestion/chunker.py.
+
+I have added a "Zombie Filter" section inside the logic.
+
+
+
+
+
+
+
+

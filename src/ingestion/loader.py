@@ -35,7 +35,7 @@ class SOPLoader:
             api_key=self.api_key,
             result_type="markdown",
             verbose=True,
-            language=["en", "it"],
+            language="en",
             split_by_page=True, 
             ignore_errors=False
         )
@@ -86,7 +86,7 @@ class SOPLoader:
                 
                 # 2. Sanity Check
                 # Drop pages that are just whitespace or extremely short (parsing errors)
-                if not doc.text or len(doc.text.strip()) < 30:
+                if not doc.text or len(doc.text.strip()) < 50:
                     logger.warning(f"Skipping empty page {i} in {path_obj.name}")
                     continue
                 valid_docs.append(doc)
@@ -120,11 +120,12 @@ if __name__ == "__main__":
             'file_name': 'AT-GE-577-0002-01.pdfNov302025024051', 
             'file_path': 'data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051'
         }
-        docs = loader.load_file("data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051.pdf", metadata=meta_data)
-        save_documents_jsonl(docs, path="test_outputs/test_documents.jsonl")
+        # docs = loader.load_file("data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051.pdf", metadata=meta_data)
+        docs = loader.load_file("data/raw_sops/GRT_PROC_English_stamped_V7.docmNov302025052354.pdf", metadata=meta_data)
+        save_documents_jsonl(docs, path="test_outputs/2_test_documents.jsonl")
         
         # save to text file for inspection
-        with open("test_outputs/test_documents.txt", "w", encoding="utf-8") as f:
+        with open("test_outputs/2_test_documents.txt", "w", encoding="utf-8") as f:
             for doc in docs:
                 f.write(f"--- {doc.metadata.get('page_label', 'Unknown Page')} ---\n")
                 f.write(doc.text + "\n\n")
