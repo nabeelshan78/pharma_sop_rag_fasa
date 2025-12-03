@@ -9,6 +9,8 @@ from llama_index.vector_stores.qdrant import QdrantVectorStore
 
 # --- Qdrant Native Imports ---
 from qdrant_client import QdrantClient, models
+# Explicit imports for cleaner code
+from qdrant_client.models import VectorParams, Distance, SparseVectorParams, SparseIndexParams
 
 # Use centralized logger
 try:
@@ -20,40 +22,143 @@ except ImportError:
 
 class QdrantManager:
     """
-    Manages Qdrant Vector Database interactions.
-    Includes 'Downgrade Protection' to prevent overwriting newer SOPs with older ones.
+    Manages Qdrant Vector Database interactions with Hybrid Search Support.
     """
     
+    # def __init__(self, collection_name: str = "fasa_sops_llama"):
+    #     self.url = os.getenv("QDRANT_URL", "http://localhost:6333")
+    #     self.api_key = os.getenv("QDRANT_API_KEY", None)
+    #     self.collection_name = collection_name
+
+    #     # Initialize Native Client (for custom deletions/checks)
+    #     self.client = QdrantClient(
+    #         url=self.url,
+    #         api_key=self.api_key,
+    #         timeout=30.0
+    #     )
+
+    #     # Create Collection if it doesn't exist (Vector Size 768 for Gemini)
+    #     if not self.client.collection_exists(self.collection_name):
+    #         logger.info(f"Collection '{self.collection_name}' not found. Creating...")
+    #         self.client.create_collection(
+    #             collection_name=self.collection_name,
+    #             vectors_config=models.VectorParams(size=768, distance=models.Distance.COSINE)
+    #         )
+
+    #     # Initialize LlamaIndex Store
+    #     self.vector_store = QdrantVectorStore(
+    #         client=self.client,
+    #         collection_name=self.collection_name,
+    #         enable_hybrid=True, # Critical for Keyword Search
+    #         fastembed_sparse_model="Qdrant/bm25",
+    #         batch_size=20
+    #     )
+
+    #     self.storage_context = StorageContext.from_defaults(vector_store=self.vector_store)
+
+
     def __init__(self, collection_name: str = "fasa_sops_llama"):
         self.url = os.getenv("QDRANT_URL", "http://localhost:6333")
         self.api_key = os.getenv("QDRANT_API_KEY", None)
         self.collection_name = collection_name
+        self.vector_dim = 768 # Gemini text-embedding-004
 
-        # Initialize Native Client (for custom deletions/checks)
+        # Initialize Native Client
         self.client = QdrantClient(
             url=self.url, 
             api_key=self.api_key, 
             timeout=30.0 
         )
         
-        # Create Collection if it doesn't exist (Vector Size 768 for Gemini)
-        if not self.client.collection_exists(self.collection_name):
-            logger.info(f"Collection '{self.collection_name}' not found. Creating...")
-            self.client.create_collection(
-                collection_name=self.collection_name,
-                vectors_config=models.VectorParams(size=768, distance=models.Distance.COSINE)
-            )
+        self.ensure_collection_exists()
         
-        # Initialize LlamaIndex Store
+        # Initialize LlamaIndex Store with EXPLICIT vector names
         self.vector_store = QdrantVectorStore(
             client=self.client,
             collection_name=self.collection_name,
-            enable_hybrid=True, # Critical for Keyword Search
+            enable_hybrid=True, 
             fastembed_sparse_model="Qdrant/bm25", 
-            batch_size=20
+            batch_size=2,
+            dense_vector_name="text-dense",
+            sparse_vector_name="text-sparse"
         )
         
         self.storage_context = StorageContext.from_defaults(vector_store=self.vector_store)
+
+
+    def ensure_collection_exists(self):
+        """
+        Creates the collection with specific Hybrid Schema (Dense + Sparse) if it doesn't exist.
+        """
+        if not self.client.collection_exists(self.collection_name):
+            logger.info(
+                f"Collection '{self.collection_name}' not found. Creating with HYBRID schema..."
+            )
+
+            try:
+                self.client.create_collection(
+                    collection_name=self.collection_name,
+
+                    # 1. DENSE VECTOR CONFIG (Gemini)
+                    # Must be a Dictionary: {"name": VectorParams}
+                    vectors_config={
+                        "text-dense": VectorParams(
+                            size=self.vector_dim,
+                            distance=Distance.COSINE
+                        )
+                    },
+
+                    # 2. SPARSE VECTOR CONFIG (BM25)
+                    # Must be a separate argument! Dictionary: {"name": SparseVectorParams}
+                    sparse_vectors_config={
+                        "text-sparse": SparseVectorParams(
+                            index=SparseIndexParams(
+                                on_disk=False,
+                            )
+                        )
+                    }
+                )
+                logger.info(
+                    f"✅ Collection '{self.collection_name}' created successfully with "
+                    "'text-dense' and 'text-sparse'."
+                )
+
+            except Exception as e:
+                logger.error(
+                    f"Failed to create collection '{self.collection_name}': {e}"
+                )
+                raise e
+
+        else:
+            # VALIDATION LOGIC: Check if the existing collection is actually compatible
+            try:
+                collection_info = self.client.get_collection(self.collection_name)
+                config = collection_info.config
+
+                # Check for Dense Vector
+                # config.params.vectors can be a VectorParams object (if unnamed) or a Dict (if named)
+                has_text_dense = (
+                    isinstance(config.params.vectors, dict)
+                    and "text-dense" in config.params.vectors
+                )
+
+                if not has_text_dense:
+                    error_msg = (
+                        f"❌ CRITICAL SCHEMA MISMATCH: Collection '{self.collection_name}' exists but "
+                        "is missing 'text-dense'.\n"
+                        "You are likely connecting to an old volume.\n"
+                        "ACTION REQUIRED: Stop Docker, delete './data/vector_store', and restart."
+                    )
+                    logger.error(error_msg)
+                    raise RuntimeError(error_msg)
+
+                logger.info(
+                    f"Collection '{self.collection_name}' validated. Schema is correct."
+                )
+
+            except Exception as e:
+                logger.error(f"Failed to validate collection schema: {e}")
+                raise e
 
     def _is_safe_to_update(self, sop_title: str, new_version_float: float) -> bool:
         """
@@ -169,7 +274,7 @@ class QdrantManager:
 
         # --- STEP 3: INSERT NEW VERSION ---
         try:
-            logger.info(f"Indexing {len(nodes)} nodes for '{sop_title}' (v{new_version_float})...")
+            logger.info(f"Indexing {len(nodes)} nodes for '{sop_title}'...")
             
             # This triggers the embedding generation and Qdrant upload
             index = VectorStoreIndex(

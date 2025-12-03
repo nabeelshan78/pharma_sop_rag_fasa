@@ -24,7 +24,7 @@ try:
     from src.ingestion import IngestionPipeline
     from src.indexing import IndexingPipeline
 except ImportError as e:
-    print(f"❌ Import Error: {e}")
+    print(f"Import Error: {e}")
     print(f"Current Path: {sys.path}")
     sys.exit(1)
 
@@ -43,7 +43,7 @@ def main():
     raw_dir = project_root / "data" / "raw_sops"
     
     if not raw_dir.exists():
-        logger.error(f"❌ Directory not found: {raw_dir}")
+        logger.error(f"Directory not found: {raw_dir}")
         logger.info("Please create 'data/raw_sops' and place your SOP files there.")
         return
 
@@ -54,12 +54,12 @@ def main():
     files = [f for f in raw_dir.iterdir() if f.suffix.lower() in supported_extensions and f.is_file()]
     
     if not files:
-        logger.warning(f"⚠️ No supported files found in {raw_dir}")
+        logger.warning(f"No supported files found in {raw_dir}")
         return
 
-    logger.info(f"🚀 STARTING BULK INGESTION")
-    logger.info(f"📂 Target Directory: {raw_dir}")
-    logger.info(f"📄 File Count: {len(files)}")
+    logger.info(f"STARTING BULK INGESTION")
+    logger.info(f"Target Directory: {raw_dir}")
+    logger.info(f"File Count: {len(files)}")
     logger.info("="*50)
 
     # 3. INITIALIZE PIPELINES
@@ -83,7 +83,7 @@ def main():
             nodes = ingest_pipe.run(str(file_path))
             
             if not nodes:
-                logger.warning(f"⏭️ Skipping {file_path.name}: No usable content extracted.")
+                logger.warning(f"Skipping {file_path.name}: No usable content extracted.")
                 failed_files.append(f"{file_path.name} (Empty)")
                 continue
 
@@ -93,7 +93,7 @@ def main():
             
             if result_index:
                 success_count += 1
-                logger.info(f"✅ COMPLETED: {file_path.name}")
+                logger.info(f"COMPLETED: {file_path.name}")
             else:
                 logger.error(f"DB ERROR: {file_path.name}")
                 failed_files.append(f"{file_path.name} (DB Fail)")
@@ -106,13 +106,13 @@ def main():
     # 5. SUMMARY REPORT
     duration = time.time() - start_time
     logger.info("\n" + "="*50)
-    logger.info(f"🏁 BULK INGESTION COMPLETE")
-    logger.info(f"⏱️ Time Taken: {duration:.2f} seconds")
-    logger.info(f"✅ Success: {success_count}")
-    logger.info(f"❌ Failed:  {len(failed_files)}")
+    logger.info(f"BULK INGESTION COMPLETE")
+    logger.info(f"Time Taken: {duration:.2f} seconds")
+    logger.info(f"Success: {success_count}")
+    logger.info(f"Failed:  {len(failed_files)}")
     
     if failed_files:
-        logger.info("\n⚠️ Failed Files List:")
+        logger.info("\nFailed Files List:")
         for f in failed_files:
             logger.info(f" - {f}")
             
