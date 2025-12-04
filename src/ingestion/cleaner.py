@@ -3,7 +3,6 @@ import logging
 from typing import List
 from llama_index.core.schema import Document
 
-# Internal Logger
 from src.core.logger import setup_logger
 logger = setup_logger(__name__)
 
