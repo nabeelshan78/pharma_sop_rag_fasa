@@ -1,14 +1,16 @@
 import logging
-from typing import List
-from llama_index.core.schema import TextNode
+import os
+from typing import List, Optional
 
-# Absolute imports ensure stability when running from root
+from llama_index.core.schema import BaseNode, Document
+
+# Absolute imports for stability
 from src.ingestion.loader import SOPLoader
-from src.ingestion.cleaner import DocumentCleaner
+from src.ingestion.cleaner import SOPCleaner
 from src.ingestion.chunker import SOPChunker
 from src.ingestion.versioning import VersionManager
 
-# Use centralized logger
+# Centralized Logger
 try:
     from src.core.logger import setup_logger
     logger = setup_logger(__name__)
@@ -16,37 +18,56 @@ except ImportError:
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
+# Explicitly export the Pipeline class
+__all__ = ["IngestionPipeline"]
+
 class IngestionPipeline:
     """
-    FASA Master Pipeline.
-    Orchestrates the flow from Raw File -> Vector-Ready Chunks.
+    FASA Master Ingestion Pipeline.
     
-    Flow:
-    1. Versioning: Extract strict metadata (Version, Title) from filename.
-    2. Loader: Upload to LlamaCloud -> Get Markdown (ocr/tables).
-    3. Cleaner: Remove header/footer noise and cover pages.
-    4. Chunker: Split by Markdown Header -> Token Limit -> Inject Context.
+    Responsibilities:
+    Orchestrates the transformation of raw binary files (PDF/DOCX) into 
+    semantic, citation-ready vector nodes.
+    
+    Architecture Flow:
+    1. Versioning: Extract strict metadata (SOP Title, Version) from filename.
+    2. Loader: High-fidelity OCR & Markdown conversion via LlamaParse.
+    3. Cleaner: Remove artifacts, TOCs, page numbers, and empty noise.
+    4. Chunker: Split by Logical Header, inject citations (Section IDs), and filter.
     """
     
     def __init__(self):
-        logger.info("Initializing FASA Ingestion Pipeline...")
+        logger.info(">>>>>>>>>>>>>>>>>      Initializing FASA Ingestion Pipeline components...")
+        
+        # 1. Metadata Engine
         self.version_manager = VersionManager()
+        # 2. Ingestion Engine (Requires LLAMA_CLOUD_API_KEY)
+        if not os.getenv("LLAMA_CLOUD_API_KEY"):
+            logger.warning("LLAMA_CLOUD_API_KEY not found. Loader may fail.")
         self.loader = SOPLoader()
-        self.cleaner = DocumentCleaner()
+        # 3. Sanitation Engine
+        self.cleaner = SOPCleaner()
+        # 4. Semantic Engine
         self.chunker = SOPChunker()
+        logger.info(">>>>>>>>>>>>>>>>>      Pipeline components initialized successfully.")
 
-    def run(self, file_path: str) -> List[TextNode]:
+    def run(self, file_path: str) -> List[BaseNode]:
         """
-        Runs the full ingestion pipeline for a single file.
+        Executes the full end-to-end pipeline for a single file.
         
         Args:
-            file_path: Absolute path to the PDF/DOCX.
+            file_path (str): Absolute path to the raw SOP file.
             
         Returns:
-            List[TextNode]: The final nodes ready for Qdrant insertion.
+            List[BaseNode]: A list of LlamaIndex nodes, enriched with:
+                            - Content (Cleaned text)
+                            - Metadata (Version, Title, Section ID, Path)
+                            - Embeddings (Ready for Vector Store)
+                            
+        Returns [] if any step fails or yields no content.
         """
         try:
-            logger.info(f"🚀 STARTING PIPELINE for: {file_path}")
+            logger.info(f"✅ >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: {os.path.basename(file_path)}")
             
             # ---------------------------------------------------------
             # STEP 1: METADATA & VERSION CONTROL
@@ -60,65 +81,37 @@ class IngestionPipeline:
             # ---------------------------------------------------------
             # Converts PDF binary -> Structured Markdown
             raw_docs = self.loader.load_file(file_path, metadata=metadata)
+            
             if not raw_docs:
-                logger.warning(f"Step 2 [Loader]: Failed to extract content from {file_path}")
+                logger.error(f"Step 2 [Loader]: Failed to extract content from {file_path}. Skipping.")
                 return []
-            logger.info(f"Step 2 [Loader]: Extracted {len(raw_docs)} raw pages.")
+            
+            logger.info(f"Step 2 [Loader]: Extracted {len(raw_docs)} raw content segment(s).")
             
             # ---------------------------------------------------------
             # STEP 3: CLEANING (Regex Guardrails)
             # ---------------------------------------------------------
-            # Removes "Page x of y", "Confidential", and Cover Pages
             clean_docs = self.cleaner.clean_documents(raw_docs)
+            
             if not clean_docs:
-                logger.warning("Step 3 [Cleaner]: All content was removed as noise/cover pages.")
+                logger.warning(f"Step 3 [Cleaner]: All content removed as noise for {file_path}. Skipping.")
                 return []
-            logger.info(f"Step 3 [Cleaner]: Retained {len(clean_docs)} clean content pages.")
+                
+            logger.info(f"Step 3 [Cleaner]: Sanitization complete.")
             
             # ---------------------------------------------------------
             # STEP 4: CHUNKING (Structure-Aware)
             # ---------------------------------------------------------
-            # Splits by Header (#) and injects "Context Header" strings
             nodes = self.chunker.chunk_documents(clean_docs)
             
-            logger.info(f"✅ FINISHED PIPELINE: Generated {len(nodes)} vector-ready chunks.")
+            if not nodes:
+                logger.warning(f"Step 4 [Chunker]: No valid chunks generated (all filtered out) for {file_path}.")
+                return []
+            
+            logger.info(f"✅ >>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated {len(nodes)} high-quality vector nodes.")
             return nodes
 
         except Exception as e:
-            logger.error(f"❌ PIPELINE CRASHED for {file_path}: {str(e)}", exc_info=True)
+            logger.error(f"❌ >>>>>>>>>>>>>>>>>>> PIPELINE CRASHED for {file_path}: {str(e)}", exc_info=True)
             # Return empty list to prevent crashing the entire batch process
             return []
-
-# --- EXPORT ---
-__all__ = ["IngestionPipeline"]
-
-# --- SELF TEST ---
-if __name__ == "__main__":
-    import os
-    
-    # 1. Setup Dummy File
-    # (We create a dummy file to test the pipeline flow without needing real PDFs)
-    test_file_path = "test_pipeline_doc_v2.0.txt"
-    with open(test_file_path, "w") as f:
-        f.write("# 1.0 Test Header\nThis is a test content.\nPage 1 of 5")
-        
-    try:
-        # 2. Run Pipeline
-        pipeline = IngestionPipeline()
-        # Note: SOPLoader requires a real PDF/Extension to trigger LlamaParse usually,
-        # but since we handle .txt differently or if LlamaParse fails it might error 
-        # unless configured. For this test, ensure you have a REAL file path 
-        # or comment out the loader step if just testing logic.
-        
-        # NOTE: For this test to work, point it to one of your REAL files from the screenshot
-        # e.g., real_path = "data/raw_sops/GRT_PROC_English_stamped_Rev06.docx"
-        
-        print("\n--- Pipeline Initialized. Ready for use. ---")
-        print("To test, call: pipeline.run('path/to/your/sop.pdf')")
-
-    except Exception as e:
-        print(f"Init failed: {e}")
-    finally:
-        # Cleanup dummy
-        if os.path.exists(test_file_path):
-            os.remove(test_file_path)

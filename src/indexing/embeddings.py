@@ -14,30 +14,25 @@ except ImportError:
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
+# =================================================================================================
+
+
 class EmbeddingManager:
     """
     Manages the Google Gemini Embedding Model.
-    
-    Why this is critical:
-    LlamaIndex defaults to OpenAI. We must strictly override this 
-    to use Google's 'models/text-embedding-004' to avoid OpenAI billing 
-    and ensuring compatibility with our specific Qdrant vector space.
     """
     
     @staticmethod
     def get_embedding_model(model_name: str = "models/text-embedding-004") -> GoogleGenAIEmbedding:
         """
         Instantiates the Google GenAI Embedding model.
-        Does NOT apply it globally yet.
         """
         api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
-            logger.critical("❌ GEMINI_API_KEY is missing! Embeddings cannot be generated.")
+            logger.critical("GEMINI_API_KEY is missing! Embeddings cannot be generated.")
             raise ValueError("GEMINI_API_KEY is required in .env")
-
         try:
-            # Initialize the model
-            # Note: text-embedding-004 outputs 768 dimensions usually.
+            # Initialize the model - text-embedding-004 outputs 768 dimensions.
             embed_model = GoogleGenAIEmbedding(
                 model_name=model_name,
                 api_key=api_key
@@ -50,20 +45,32 @@ class EmbeddingManager:
     @classmethod
     def configure_global_settings(cls):
         """
-        CRITICAL: Sets the Global LlamaIndex Settings.
-        Call this ONCE at app startup (main.py).
-        
-        Effect:
-        Anytime code calls VectorStoreIndex(nodes), it will use THIS model 
-        instead of trying to call OpenAI.
+        Sets the Global LlamaIndex Settings. Call this ONCE at app startup.
+        Anytime code calls VectorStoreIndex(nodes), it will use THIS model.
         """
         try:
             model = cls.get_embedding_model()
             Settings.embed_model = model
-            logger.info(f">>>>>>>>>>>>>>>>>>>>>>>>>    Global Embeddings Configured: Google Gemini ({model.model_name})")
+            logger.info(f">>>>>>>>>>>>>>>>>>>>>>>>>     Global Embeddings Configured: Google Gemini ({model.model_name})")
         except Exception as e:
             logger.critical("Failed to configure global embedding settings.")
             raise e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

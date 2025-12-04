@@ -96,7 +96,7 @@ class FASAEngine:
         if not query_text.strip():
             return {"answer": "Please enter a valid query.", "sources": []}
             
-        logger.info(f"❓ Querying: '{query_text}'")
+        logger.info(f">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   Querying: '{query_text}'")
         
         try:
             # EXECUTE RAG
@@ -111,8 +111,9 @@ class FASAEngine:
                 source_info = {
                     "sop_title": meta.get("sop_title", "Unknown SOP"),
                     "version": meta.get("version_original", "N/A"),
-                    "page": meta.get("page_label", "N/A"),
                     "file_name": meta.get("file_name", "N/A"),
+                    "section_title": meta.get("section_title", "N/A"),
+                    "section_id": meta.get("section_id", "N/A"),
                     "score": round(node_w_score.score, 3)
                 }
                 sources.append(source_info)

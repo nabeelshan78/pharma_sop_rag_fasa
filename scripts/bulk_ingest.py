@@ -4,21 +4,16 @@ import logging
 from pathlib import Path
 from dotenv import load_dotenv
 import time
+import json
 
-# -----------------------------------------------------------------------------
-# PATH SETUP (CRITICAL)
-# -----------------------------------------------------------------------------
 # Add the project root to sys.path so Python can find 'src'
-# We assume this script is located in /scripts/ inside the root.
 project_root = Path(__file__).resolve().parent.parent
 sys.path.append(str(project_root))
 
 # Load Env Vars (API Keys)
 load_dotenv()
 
-# -----------------------------------------------------------------------------
 # IMPORTS
-# -----------------------------------------------------------------------------
 try:
     from src.core.logger import setup_logger
     from src.ingestion import IngestionPipeline
@@ -31,39 +26,39 @@ except ImportError as e:
 # Setup Logger
 logger = setup_logger("BULK_INGEST")
 
+# ===============================================================================================================
+
+
+
+
 def main():
     """
-    FASA Batch Processor.
-    Scans data/raw_sops/, runs the Ingestion Pipeline, and Indexing Pipeline.
+    FASA Batch Processor - Scans data/raw_sops/, runs the Ingestion Pipeline, Filters Metadata, and Indexing Pipeline.
     """
     start_time = time.time()
-    
-    # 1. DEFINE PATHS
-    # Using Pathlib for cross-OS compatibility (Windows/Linux)
     raw_dir = project_root / "data" / "raw_sops"
-    
+    # debug_dir = project_root / "src" / "ingestion" / "test" / "debug_bulk_ingest"
+    # debug_dir.mkdir(parents=True, exist_ok=True)
+
     if not raw_dir.exists():
         logger.error(f"Directory not found: {raw_dir}")
         logger.info("Please create 'data/raw_sops' and place your SOP files there.")
         return
 
-    # 2. SCAN FILES
-    # We look for PDF, DOCX, DOC. 
-    # Note: txt is excluded as SOPs are usually formal docs, but added if needed.
-    supported_extensions = ['.pdf', '.docx', '.doc']
+    # SCAN FILES
+    supported_extensions = ['.pdf', '.docx', '.doc', '.docm']
     files = [f for f in raw_dir.iterdir() if f.suffix.lower() in supported_extensions and f.is_file()]
     
     if not files:
         logger.warning(f"No supported files found in {raw_dir}")
         return
 
-    logger.info(f"STARTING BULK INGESTION")
-    logger.info(f"Target Directory: {raw_dir}")
-    logger.info(f"File Count: {len(files)}")
+    logger.info(f"##################    STARTING BULK INGESTION")
+    logger.info(f"##################    Target Directory: {raw_dir}")
+    logger.info(f"##################    File Count: {len(files)}")
     logger.info("="*50)
 
-    # 3. INITIALIZE PIPELINES
-    # This sets up the Embedding Models and DB Connections once.
+    # INITIALIZE PIPELINES - This sets up the Embedding Models and DB Connections once.
     try:
         ingest_pipe = IngestionPipeline()
         index_pipe = IndexingPipeline()
@@ -74,26 +69,74 @@ def main():
     success_count = 0
     failed_files = []
 
-    # 4. PROCESS LOOP
+    # PROCESS LOOP
     for i, file_path in enumerate(files, 1):
         try:
-            logger.info(f"\n[{i}/{len(files)}] Processing: {file_path.name}")
+            logger.info(f"@@@@@@@@@@@@@@@@@    \n[{i}/{len(files)}] Processing: {file_path.name}")
             
-            # --- PHASE 1: INGESTION (Load -> Clean -> Chunk) ---
+            # --- PHASE 1: INGESTION (Versioning -> Load -> Clean -> Chunk) ---
             nodes = ingest_pipe.run(str(file_path))
-            
             if not nodes:
                 logger.warning(f"Skipping {file_path.name}: No usable content extracted.")
                 failed_files.append(f"{file_path.name} (Empty)")
                 continue
 
-            # --- PHASE 2: INDEXING (Vector DB) ---
-            # index_pipe.run handles the "Delete Old Version" logic internally
-            result_index = index_pipe.run(nodes)
+            # --- PHASE 1.5: METADATA SANITIZATION --- Store ONLY specific fields in DB to reduce noise and size.
+            allowed_keys = [
+                "file_path", 
+                "file_name", 
+                "sop_title", 
+                "version_original", 
+                "version_float", 
+                "header_path", 
+                "section_id", 
+                "section_title"
+            ]
+            keys_to_hide_from_llm = [
+                "file_path", 
+                "file_name", 
+                "version_float"
+            ]
+            for node in nodes:
+                filtered_meta = {k: node.metadata.get(k) for k in allowed_keys if k in node.metadata}   
+                node.metadata = filtered_meta
+                # Tell LlamaIndex to HIDE these keys from the Prompt - They will still exist in Qdrant for filtering/UI display.
+                node.excluded_llm_metadata_keys = keys_to_hide_from_llm
+                # Also hide embedding-specific keys if LlamaIndex adds them automatically
+                node.excluded_embed_metadata_keys = keys_to_hide_from_llm
+
             
+            # # --- PHASE 1.6: DEBUG JSON DUMP (YOUR REQUEST) ---
+            # # Save actual text + limited metadata to JSON for inspection
+            # try:
+            #     debug_output = []
+            #     for node in nodes:
+            #         debug_output.append({
+            #             "text": node.text,  # The actual chunk content
+            #             "file_name": node.metadata.get("file_name"),
+            #             "header_path": node.metadata.get("header_path"),
+            #             "section_id": node.metadata.get("section_id"),
+            #             "section_title": node.metadata.get("section_title")
+            #         })
+                
+            #     # Save as {filename}_chunks.json
+            #     json_filename = f"{file_path.stem}_chunks.json"
+            #     json_path = debug_dir / json_filename
+                
+            #     with open(json_path, "w", encoding="utf-8") as f:
+            #         json.dump(debug_output, f, indent=4, ensure_ascii=False)
+                
+            #     logger.info(f"   -> Debug JSON saved: {json_path.name}")
+            # except Exception as e:
+            #     logger.warning(f"   -> Failed to save debug JSON: {e}")
+
+
+
+            # --- PHASE 2: INDEXING (Vector DB) ---
+            result_index = index_pipe.run(nodes)
             if result_index:
                 success_count += 1
-                logger.info(f"COMPLETED: {file_path.name}")
+                logger.info(f"@@@@@@@@@@@@@@@@@    COMPLETED: {file_path.name}")
             else:
                 logger.error(f"DB ERROR: {file_path.name}")
                 failed_files.append(f"{file_path.name} (DB Fail)")
@@ -101,11 +144,12 @@ def main():
         except Exception as e:
             logger.error(f"CRASHED: {file_path.name} -> {e}")
             failed_files.append(f"{file_path.name} (Exception: {str(e)})")
-        print("="*100)
+        
+        print("=" * 80)
 
-    # 5. SUMMARY REPORT
+    # SUMMARY
     duration = time.time() - start_time
-    logger.info("\n" + "="*50)
+    logger.info("\n" + "="*100)
     logger.info(f"BULK INGESTION COMPLETE")
     logger.info(f"Time Taken: {duration:.2f} seconds")
     logger.info(f"Success: {success_count}")
@@ -125,6 +169,17 @@ if __name__ == "__main__":
 
 
 
+
+
+
+
+
+
+
+
+
+
+    
 
 
 

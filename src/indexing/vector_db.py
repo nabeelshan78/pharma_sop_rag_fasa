@@ -4,7 +4,7 @@ from typing import List, Optional
 
 # --- LlamaIndex Imports ---
 from llama_index.core import VectorStoreIndex, StorageContext
-from llama_index.core.schema import TextNode
+from llama_index.core.schema import TextNode, BaseNode
 from llama_index.vector_stores.qdrant import QdrantVectorStore
 
 # --- Qdrant Native Imports ---
@@ -20,42 +20,13 @@ except ImportError:
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
+# =================================================================================================
+
+
 class QdrantManager:
     """
     Manages Qdrant Vector Database interactions with Hybrid Search Support.
     """
-    
-    # def __init__(self, collection_name: str = "fasa_sops_llama"):
-    #     self.url = os.getenv("QDRANT_URL", "http://localhost:6333")
-    #     self.api_key = os.getenv("QDRANT_API_KEY", None)
-    #     self.collection_name = collection_name
-
-    #     # Initialize Native Client (for custom deletions/checks)
-    #     self.client = QdrantClient(
-    #         url=self.url,
-    #         api_key=self.api_key,
-    #         timeout=30.0
-    #     )
-
-    #     # Create Collection if it doesn't exist (Vector Size 768 for Gemini)
-    #     if not self.client.collection_exists(self.collection_name):
-    #         logger.info(f"Collection '{self.collection_name}' not found. Creating...")
-    #         self.client.create_collection(
-    #             collection_name=self.collection_name,
-    #             vectors_config=models.VectorParams(size=768, distance=models.Distance.COSINE)
-    #         )
-
-    #     # Initialize LlamaIndex Store
-    #     self.vector_store = QdrantVectorStore(
-    #         client=self.client,
-    #         collection_name=self.collection_name,
-    #         enable_hybrid=True, # Critical for Keyword Search
-    #         fastembed_sparse_model="Qdrant/bm25",
-    #         batch_size=20
-    #     )
-
-    #     self.storage_context = StorageContext.from_defaults(vector_store=self.vector_store)
-
 
     def __init__(self, collection_name: str = "fasa_sops_llama"):
         self.url = os.getenv("QDRANT_URL", "http://localhost:6333")
@@ -69,7 +40,6 @@ class QdrantManager:
             api_key=self.api_key, 
             timeout=30.0 
         )
-        
         self.ensure_collection_exists()
         
         # Initialize LlamaIndex Store with EXPLICIT vector names
@@ -94,35 +64,25 @@ class QdrantManager:
             logger.info(
                 f"Collection '{self.collection_name}' not found. Creating with HYBRID schema..."
             )
-
             try:
                 self.client.create_collection(
                     collection_name=self.collection_name,
-
                     # 1. DENSE VECTOR CONFIG (Gemini)
-                    # Must be a Dictionary: {"name": VectorParams}
                     vectors_config={
                         "text-dense": VectorParams(
                             size=self.vector_dim,
                             distance=Distance.COSINE
                         )
                     },
-
                     # 2. SPARSE VECTOR CONFIG (BM25)
-                    # Must be a separate argument! Dictionary: {"name": SparseVectorParams}
                     sparse_vectors_config={
-                        "text-sparse": SparseVectorParams(
-                            index=SparseIndexParams(
-                                on_disk=False,
-                            )
-                        )
+                        "text-sparse": SparseVectorParams()
                     }
                 )
                 logger.info(
-                    f"✅ Collection '{self.collection_name}' created successfully with "
+                    f"Collection '{self.collection_name}' created successfully with "
                     "'text-dense' and 'text-sparse'."
                 )
-
             except Exception as e:
                 logger.error(
                     f"Failed to create collection '{self.collection_name}': {e}"
@@ -134,28 +94,23 @@ class QdrantManager:
             try:
                 collection_info = self.client.get_collection(self.collection_name)
                 config = collection_info.config
-
                 # Check for Dense Vector
-                # config.params.vectors can be a VectorParams object (if unnamed) or a Dict (if named)
                 has_text_dense = (
                     isinstance(config.params.vectors, dict)
                     and "text-dense" in config.params.vectors
                 )
-
                 if not has_text_dense:
                     error_msg = (
-                        f"❌ CRITICAL SCHEMA MISMATCH: Collection '{self.collection_name}' exists but "
+                        f"CRITICAL SCHEMA MISMATCH: Collection '{self.collection_name}' exists but "
                         "is missing 'text-dense'.\n"
                         "You are likely connecting to an old volume.\n"
                         "ACTION REQUIRED: Stop Docker, delete './data/vector_store', and restart."
                     )
                     logger.error(error_msg)
                     raise RuntimeError(error_msg)
-
                 logger.info(
                     f"Collection '{self.collection_name}' validated. Schema is correct."
                 )
-
             except Exception as e:
                 logger.error(f"Failed to validate collection schema: {e}")
                 raise e
@@ -163,13 +118,6 @@ class QdrantManager:
     def _is_safe_to_update(self, sop_title: str, new_version_float: float) -> bool:
         """
         GUARDRAIL: Checks if the new file is older than what we already have.
-        
-        Logic:
-        1. Fetch ONE vector with the same 'sop_title'.
-        2. Read its 'version_float' metadata.
-        3. If new_version < existing_version -> BLOCK (False).
-        4. If new_version >= existing_version -> ALLOW (True).
-        5. If does not exist -> ALLOW (True).
         """
         try:
             # 1. Search for existing SOP by Title
@@ -178,7 +126,6 @@ class QdrantManager:
                     models.FieldCondition(key="sop_title", match=models.MatchValue(value=sop_title))
                 ]
             )
-            
             res = self.client.scroll(
                 collection_name=self.collection_name,
                 scroll_filter=filter_condition,
@@ -192,19 +139,13 @@ class QdrantManager:
                 
             # 2. Extract Existing Version from Payload
             existing_payload = res[0][0].payload
-            
-            # Note: We look in the 'metadata' dict inside the payload
-            # LlamaIndex stores metadata fields at the top level of payload usually, 
-            # but we use .get() to be safe.
             existing_version = existing_payload.get("version_float", 0.0)
             
-            # Fallback: sometimes metadata is nested
             if existing_version == 0.0 and "metadata" in existing_payload:
                  existing_version = existing_payload["metadata"].get("version_float", 0.0)
-
             logger.info(f"Comparing Versions for '{sop_title}': Existing=v{existing_version} vs Incoming=v{new_version_float}")
 
-            # 3. Compare (Using Float for Math)
+            # 3. Compare
             if new_version_float < existing_version:
                 logger.warning(f"BLOCKED: Attempted to downgrade '{sop_title}' from v{existing_version} to v{new_version_float}.")
                 return False
@@ -218,37 +159,28 @@ class QdrantManager:
 
     def delete_existing_sop(self, sop_title: str):
         """
-        Removes ALL chunks associated with a specific SOP Title.
-        This ensures clean updates (no ghost chunks from old versions).
+        Removes ALL chunks associated with a specific SOP. This ensures clean updates.
         """
         if not self.client.collection_exists(self.collection_name):
             return
-
         logger.info(f"Removing old vectors for SOP '{sop_title}'...")
-        
-        # Delete by Filter (sop_title == target)
         filter_condition = models.Filter(
             must=[
                 models.FieldCondition(key="sop_title", match=models.MatchValue(value=sop_title))
             ]
         )
-
         self.client.delete(
             collection_name=self.collection_name,
             points_selector=models.FilterSelector(filter=filter_condition)
         )
 
-    def insert_nodes(self, nodes: List[TextNode]) -> Optional[VectorStoreIndex]:
+    def insert_nodes(self, nodes: List[BaseNode]) -> Optional[VectorStoreIndex]:
         """
         Main Ingestion Entry Point.
-        1. Checks Version Safety.
-        2. Deletes Old Data.
-        3. Inserts New Data.
         """
         if not nodes:
             return None
 
-        # metadata is required for version logic
         first_node = nodes[0]
         sop_title = first_node.metadata.get("sop_title")
         
@@ -272,17 +204,15 @@ class QdrantManager:
         # # We perform delete logic here before inserting to ensure 'Replace' semantics
         # self.delete_existing_sop(sop_title)
 
-        # --- STEP 3: INSERT NEW VERSION ---
+        # --- INSERT ---
         try:
-            logger.info(f"Indexing {len(nodes)} nodes for '{sop_title}'...")
-            
+            logger.info(f">>>>>>>>>>>>>>>>>     Indexing {len(nodes)} nodes for '{sop_title}'...")
             # This triggers the embedding generation and Qdrant upload
             index = VectorStoreIndex(
                 nodes, 
                 storage_context=self.storage_context
             )
-            
-            logger.info("✅ Indexing Complete.")
+            logger.info(">>>>>>>>>>>>>>>>>>     Indexing Complete.")
             return index
             
         except Exception as e:

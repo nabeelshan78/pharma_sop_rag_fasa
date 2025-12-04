@@ -1,133 +1,156 @@
 import os
+import logging
 from pathlib import Path
-import json
 from typing import List, Dict, Optional, Any
-
 from dotenv import load_dotenv
+
+# LlamaIndex Ecosystem
 from llama_parse import LlamaParse
 from llama_index.core.schema import Document
 from llama_index.core import SimpleDirectoryReader
 
-# Load env immediately
+# Load environment variables
 load_dotenv()
 
-# Use internal logger
+# Internal Logger
 from src.core.logger import setup_logger
 logger = setup_logger(__name__)
 
 class SOPLoader:
     """
-    Loader for Pharma SOPs.
-    
-    Responsibilities:
-    1. Upload files to LlamaCloud for high-fidelity parsing.
-    2. Return structured Markdown for 'Structure-Aware Chunking'.
+    Loader for Pharmaceutical SOPs.
     """
     
     def __init__(self):
         self.api_key = os.getenv("LLAMA_CLOUD_API_KEY")
         if not self.api_key:
             logger.critical("LLAMA_CLOUD_API_KEY is missing! Cannot process SOPs.")
-            raise ValueError("LLAMA_CLOUD_API_KEY required in .env")
+            raise ValueError("LLAMA_CLOUD_API_KEY required in .env file.")
 
-        # Configure Parser for Markdown output
         self.parser = LlamaParse(
             api_key=self.api_key,
             result_type="markdown",
             verbose=True,
             language="en",
-            split_by_page=True, 
+            split_by_page=False, 
             ignore_errors=False
         )
 
     def load_file(self, file_path: str, metadata: Optional[Dict[str, Any]] = None) -> List[Document]:
         """
-        Loads a single SOP and returns a list of Documents (1 per page).
-        
-        Args:
-            file_path: Absolute path to the file.
-            metadata: Enriched metadata from versioning.py (Title, Version, etc.)
+        Loads a single SOP and returns a list containing the structured content.
         """
         path_obj = Path(file_path)
-        
         if not path_obj.exists():
-            logger.error(f"File not found: {file_path}")
+            logger.error(f"File not found at path: {file_path}")
             raise FileNotFoundError(f"File not found: {file_path}")
-
-        # Default metadata
         if metadata is None:
             metadata = {}
 
         try:
-            logger.info(f"Uploading & Parsing SOP: {path_obj.name}...")
-            #  File Formats: Must support PDF, DOCX. DOC, TXT
+            # Configure File Extractor mapping
             file_extractor = {
                 ".pdf": self.parser,
                 ".docx": self.parser,
                 ".doc": self.parser,
+                ".docm": self.parser,
                 ".txt": self.parser
             }
-            
-            # Use SimpleDirectoryReader to wrap the extraction logic
+            # Load Data
             reader = SimpleDirectoryReader(
                 input_files=[str(path_obj)],
                 file_extractor=file_extractor
             )
-            # Load data - returns List[Document]
-            documents = reader.load_data()
+            
+            documents = reader.load_data()    
+            if not documents:
+                logger.warning(f"LlamaParse returned no content for {path_obj.name}")
+                return []
             
             valid_docs = []
-            # Enumerate to track page numbers locally relative to this file
-            for i, doc in enumerate(documents, start=1):
-                # 1. Inject Metadata
-                doc_meta = metadata.copy()
-                doc_meta["page_label"] = f"Page {i}"
-                doc.metadata = doc_meta
-                
-                # 2. Sanity Check
-                # Drop pages that are just whitespace or extremely short (parsing errors)
-                if not doc.text or len(doc.text.strip()) < 50:
-                    logger.warning(f"Skipping empty page {i} in {path_obj.name}")
+            for doc in documents:
+                if not doc.text or len(doc.text.strip()) < 10:
+                    logger.warning(f"Skipping empty document segment in {path_obj.name}")
                     continue
+                doc.metadata.update(metadata)
+                doc.metadata["parsed_by"] = "LlamaParse_Markdown"
                 valid_docs.append(doc)
             
-            logger.info(f"Successfully parsed {path_obj.name}. Yielded {len(valid_docs)} content pages.")
+            logger.info(f"Successfully parsed {path_obj.name}. Extracted {len(valid_docs)} document segment(s).")
             return valid_docs
 
         except Exception as e:
-            logger.error(f"Failed to parse {file_path}: {e}", exc_info=True)
+            logger.error(f"CRITICAL parsing error for {file_path}: {e}", exc_info=True)
             raise e
 
 
 
 
 
-if __name__ == "__main__":
-    def save_documents_jsonl(docs, path="documents.jsonl"):
-        with open(path, "w", encoding="utf-8") as f:
-            for doc in docs:
-                f.write(json.dumps({
-                    "text": doc.text,
-                    "metadata": doc.metadata
-                }, ensure_ascii=False))
-                f.write("\n")
-    try:
-        loader = SOPLoader()
-        meta_data = {
-            'sop_title': 'AT-GE-577-0002', 
-            'version_original': '01', 
-            'version_float': 1.0, 
-            'file_name': 'AT-GE-577-0002-01.pdfNov302025024051', 
-            'file_path': 'data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051'
-        }
-        # docs = loader.load_file("data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051.pdf", metadata=meta_data)
-        docs = loader.load_file("data/raw_sops/GRT_PROC_English_stamped_V7.docmNov302025052354.pdf", metadata=meta_data)
-        save_documents_jsonl(docs, path="test_outputs/2_test_documents.jsonl")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# if __name__ == "__main__":
+#     import json
+#     def save_documents_jsonl(docs, path="test_outputs/debug_docs.jsonl"):
+#         os.makedirs(os.path.dirname(path), exist_ok=True)
+#         with open(path, "w", encoding="utf-8") as f:
+#             for doc in docs:
+#                 entry = {
+#                     "text_preview": doc.text,
+#                     "full_text_length": len(doc.text),
+#                     "metadata": doc.metadata
+#                 }
+#                 f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+#         print(f"Saved debug output to {path}")
+
+#     try:
+#         loader = SOPLoader()
+#         test_metadata = {
+#             'sop_title': 'AT-GE-577-0002', 
+#             'version_original': '1.0', 
+#             'file_name': 'test_sop.pdf', 
+#             'upload_timestamp': '2025-12-04T10:00:00'
+#         }
         
-        # save to text file for inspection
-        with open("test_outputs/2_test_documents.txt", "w", encoding="utf-8") as f:
-            for doc in docs:
-                f.write(f"--- {doc.metadata.get('page_label', 'Unknown Page')} ---\n")
-                f.write(doc.text + "\n\n")
-    except Exception as e:
-        print(f"Init failed: {e}")
+#         test_file_path = "data/raw_sops/AT-GE-577-0002-01.pdfNov302025024051.pdf" 
+#         if not os.path.exists(test_file_path):
+#             print(f"Test file not found at {test_file_path}. Please place a file there to test.")
+#         else:
+#             docs = loader.load_file(test_file_path, metadata=test_metadata)
+#             save_documents_jsonl(docs)
+#             print("\n--- Content Preview ---")
+#             print(docs[0].text[:500])
+#             print("\n--- Metadata ---")
+#             print(docs[0].metadata)
+
+#     except Exception as e:
+#         print(f"Test Execution Failed: {e}")
