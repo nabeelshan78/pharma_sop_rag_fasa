@@ -6,17 +6,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 import sys
 
-# -----------------------------------------------------------------------------
-# 1. PATH CONFIGURATION (CRITICAL)
-# -----------------------------------------------------------------------------
-# Ensures Python can find the 'src' package when running from 'app/'
 current_file = Path(__file__).resolve()
 project_root = current_file.parent.parent
 sys.path.append(str(project_root))
 
-# -----------------------------------------------------------------------------
-# 2. ENVIRONMENT & IMPORTS
-# -----------------------------------------------------------------------------
 load_dotenv()
 
 try:
@@ -27,19 +20,15 @@ except ImportError as e:
     st.error(f"Critical Error: Failed to import FASA modules.\n\nDetails: {e}")
     st.stop()
 
-# -----------------------------------------------------------------------------
-# 3. PAGE CONFIGURATION
-# -----------------------------------------------------------------------------
+
+# PAGE CONFIGURATION
 st.set_page_config(
     page_title="FASA | Pharma Regulatory Assistant",
-    page_icon="💊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# -----------------------------------------------------------------------------
-# 4. CUSTOM CSS (Enterprise Dark Blue Theme)
-# -----------------------------------------------------------------------------
 st.markdown("""
 <style>
     /* Global Background & Text */
@@ -94,9 +83,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# -----------------------------------------------------------------------------
-# 5. SESSION STATE INITIALIZATION
-# -----------------------------------------------------------------------------
 if "system_ready" not in st.session_state:
     st.session_state.system_ready = False
 
@@ -118,9 +104,6 @@ if "rag_engine" not in st.session_state:
             st.error(f"System Failed to Initialize: {e}")
             st.session_state.system_ready = False
 
-# -----------------------------------------------------------------------------
-# 6. HELPER FUNCTIONS
-# -----------------------------------------------------------------------------
 def format_sources(sources_list):
     """
     Converts raw source dictionaries into a clean Pandas DataFrame for display.
@@ -140,14 +123,8 @@ def format_sources(sources_list):
         })
     
     df = pd.DataFrame(clean_data)
-    
-    # Remove duplicates based on Section ID to avoid spam
     df = df.drop_duplicates(subset=["SOP Title", "Section ID"])
     return df
-
-# =============================================================================
-# 8. MAIN CHAT INTERFACE
-# =============================================================================
 
 st.markdown("<h1 class='main-header'>FASA: Regulatory AI</h1>", unsafe_allow_html=True)
 st.markdown("<div class='sub-header'>Zero-Hallucination RAG for Pharmaceutical SOPs</div>", unsafe_allow_html=True)
@@ -157,11 +134,9 @@ if not st.session_state.system_ready:
     st.error("System is offline. Please check your .env configuration and restart.")
     st.stop()
 
-# A. Render Chat History
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
-        
         # Render citations if they exist
         if "sources" in msg and msg["sources"]:
             with st.expander("Verified Sources"):
@@ -169,41 +144,35 @@ for msg in st.session_state.messages:
                 if df_sources is not None:
                     st.dataframe(df_sources, use_container_width=True, hide_index=True)
 
-# B. Handle User Input
 if prompt := st.chat_input("Ask about compliance, safety procedures, or responsibilities..."):
     
-    # 1. Display User Message
+    # Display User Message
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # 2. Generate Assistant Response
+    # Generate Assistant Response
     with st.chat_message("assistant"):
         with st.spinner("Analyzing SOPs & Verifying Claims..."):
             try:
                 # Core RAG Logic
                 response_payload = st.session_state.rag_engine.query(prompt)
-                
                 answer = response_payload["answer"]
                 sources = response_payload["sources"]
                 print(sources)
-                
                 # Display Answer
                 st.markdown(answer)
-                
                 # Display Sources
                 if sources:
                     with st.expander("Verified Sources"):
                         df_sources = format_sources(sources)
                         st.dataframe(df_sources, use_container_width=True, hide_index=True)
-                
                 # Save to History
                 st.session_state.messages.append({
                     "role": "assistant",
                     "content": answer,
                     "sources": sources
                 })
-                
             except Exception as e:
                 error_msg = f"I encountered an error while processing your request: {str(e)}"
                 st.error(error_msg)
