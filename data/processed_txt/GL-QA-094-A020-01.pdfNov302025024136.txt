@@ -1,0 +1,716 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 4', 'sop_title': 'GL-QA-094-A020-01Nov302025024136'}
+
+[CONTENT - LOWERCASE]:
+gl-qa-094-a020-01 
+
+ 
+ 
+-/- 
+1 
+objective 
+the objective of this procedure is to describe how to perform the check of compliance 
+between gmp documentation and registration documentation.  
+this procedure ensures that documentation related to manufacturing, testing (including 
+stability studies), releasing activities on drug substances/products manufactured at 
+grünenthal production sites or by cmos is in compliance with registration documentation 
+approved by the relevant competent health authority. 
+2 
+scope 
+the compliance check applies to drug substances, bulk and finished products 
+manufactured by grünenthal or by cmos, for its own use or for customer business. 
+the procedure describes the parts in the gmp documents which have to be checked for 
+regulatory compliance with the related registration documents however due to site specific 
+differences not all gmp exist / will be checked by each gqpm at each site. 
+3 
+concerned roles  
+this section provides information about the concerned roles in the described process.  
+ 
+concerned role 
+responsibility 
+global quality product 
+manager/coordinator (gqpm) 
+review of gmp documentation from a cmc 
+perspective i.e. compliance check of gmp 
+documentation vs. registration documentation 
+ 
+information of relevant departments e.g. 
+qp/responsible person or partner if non 
+compliances are detected and trigger deviation if 
+needed 
+4 
+terms 
+4.1 
+drug substance 
+any api that will be processed in a bulk product manufacturing process. 
+4.2 
+excipient(s) 
+any raw material different to api, that will be processed in a bulk product manufacturing 
+process.
+
+[CONTENT - ORIGINAL]:
+Source: GL-QA-094-A020-01.pdfNov302025024136.pdf, Page 4.
+GL-QA-094-A020-01 
+
+ 
+ 
+-/- 
+1 
+Objective 
+The objective of this procedure is to describe how to perform the check of compliance 
+between GMP documentation and registration documentation.  
+This procedure ensures that documentation related to manufacturing, testing (including 
+stability studies), releasing activities on drug substances/products manufactured at 
+Grünenthal production sites or by CMOs is in compliance with registration documentation 
+approved by the relevant competent Health Authority. 
+2 
+Scope 
+The compliance check applies to drug substances, bulk and finished products 
+manufactured by Grünenthal or by CMOs, for its own use or for customer business. 
+The procedure describes the parts in the GMP documents which have to be checked for 
+regulatory compliance with the related registration documents however due to site specific 
+differences not all GMP exist / will be checked by each GQPM at each site. 
+3 
+Concerned roles  
+This section provides information about the concerned roles in the described process.  
+ 
+Concerned Role 
+Responsibility 
+Global Quality Product 
+Manager/Coordinator (GQPM) 
+Review of GMP documentation from a CMC 
+perspective i.e. Compliance Check of GMP 
+documentation vs. registration documentation 
+ 
+Information of relevant departments e.g. 
+QP/responsible person or partner if non 
+compliances are detected and trigger deviation if 
+needed 
+4 
+Terms 
+4.1 
+Drug Substance 
+Any API that will be processed in a bulk product manufacturing process. 
+4.2 
+Excipient(s) 
+Any raw material different to API, that will be processed in a bulk product manufacturing 
+process.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 5', 'sop_title': 'GL-QA-094-A020-01Nov302025024136'}
+
+[CONTENT - LOWERCASE]:
+gl-qa-094-a020-01 
+
+ 
+ 
+-/- 
+4.3 
+bulk product 
+any product which has completed all processing stages up to, but not including, final 
+packaging. 
+4.4 
+finished product 
+drug product which has undergone all stages of production including packaging in its final 
+container. 
+4.5 
+contract manufacturer / contract manufacturing organisation 
+a site performing aspects of manufacturing and/or testing on behalf of a contract giver. 
+4.6 
+registration documents 
+registration documents are documents which were prepared, sent to authorities as part of 
+an maa or nda and that are considered “approved” by the competent health authority. 
+4.7 
+abbreviations 
+abbreviations of terms used in this document are explained here: 
+term 
+definition/explanation 
+api 
+active pharmaceutical ingredient 
+brc 
+batch release certificate 
+cmo 
+contract manufacturer organization 
+cmc 
+chemistry manufacturing and control 
+coa 
+certificate of analysis 
+nda 
+new drug application 
+maa 
+marketing authorization application 
+mbr 
+master batch record 
+pi 
+product instruction 
+5 
+compliance check at grünenthal sites 
+5.1 
+documents 
+the documents that can be examined for their regulatory compliance are: 
+• manufacturing documents (e.g. manufacturing formula, master batch records, pi-
+sheet) 
+• specification documents (e.g. release or shelf life specification, master certificates 
+e.g. coa, brc) 
+• test instruction documents (e.g. analytical procedure)
+
+[CONTENT - ORIGINAL]:
+Source: GL-QA-094-A020-01.pdfNov302025024136.pdf, Page 5.
+GL-QA-094-A020-01 
+
+ 
+ 
+-/- 
+4.3 
+Bulk product 
+Any product which has completed all processing stages up to, but not including, final 
+packaging. 
+4.4 
+Finished product 
+Drug product which has undergone all stages of production including packaging in its final 
+container. 
+4.5 
+Contract manufacturer / Contract Manufacturing Organisation 
+A site performing aspects of manufacturing and/or testing on behalf of a contract giver. 
+4.6 
+Registration documents 
+Registration documents are documents which were prepared, sent to Authorities as part of 
+an MAA or NDA and that are considered “Approved” by the Competent Health Authority. 
+4.7 
+Abbreviations 
+Abbreviations of terms used in this document are explained here: 
+Term 
+Definition/Explanation 
+API 
+Active Pharmaceutical Ingredient 
+BRC 
+Batch Release Certificate 
+CMO 
+Contract Manufacturer Organization 
+CMC 
+Chemistry Manufacturing and Control 
+COA 
+Certificate of Analysis 
+NDA 
+New Drug Application 
+MAA 
+Marketing Authorization Application 
+MBR 
+Master Batch Record 
+PI 
+Product Instruction 
+5 
+Compliance check at Grünenthal sites 
+5.1 
+Documents 
+The documents that can be examined for their regulatory compliance are: 
+• Manufacturing documents (e.g. manufacturing formula, master batch records, PI-
+Sheet) 
+• Specification documents (e.g. release or shelf life specification, master certificates 
+e.g. CoA, BRC) 
+• Test instruction documents (e.g. analytical procedure)
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 6', 'sop_title': 'GL-QA-094-A020-01Nov302025024136'}
+
+[CONTENT - LOWERCASE]:
+gl-qa-094-a020-01 
+
+ 
+ 
+-/- 
+• validation protocols (e.g. process validation protocol, analytical validation protocols) 
+• stability protocols and reports. 
+5.2 
+procedure 
+the reference documents for the review are the documents, which are approved by 
+authorities in the registration file or any available health authorities certificates or any 
+information published in the relevant health authorities website. 
+the gmp documents to be checked are provided by the relevant department or by the 
+cmo. 
+for the gmp documents listed the completeness and the consistency of the information is 
+checked as detailed below: 
+ 
+gmp documents 
+examples 
+parameters to be checked if 
+applicable 
+registration 
+documents 
+manufacturing 
+and packaging 
+documents  
+master batch 
+record 
+manufacturing 
+formula 
+packaging 
+material list 
+pi-sheet 
+ 
+ 
+• 
+manufacturing sites 
+• 
+amounts and kind of the 
+components  
+• 
+batch size 
+• 
+overage 
+• 
+equipment  
+• 
+manufacturing steps 
+• 
+in-process controls 
+• 
+release testing parameter 
+• 
+packaging material 
+• 
+holding times  
+• 
+storage conditions   
+• 
+shelf life 
+• 
+registry  number / ma 
+number 
+3.2.p.1 
+3.2.p.3.1 
+3.2.p.3.2 
+3.2.p.3.3 
+3.2.p.3.4 
+3.2.p.5.1 
+3.2.p.7 
+3.2.p.8 
+ 
+specification 
+release 
+specification 
+shelf life 
+specification  
+• 
+testing parameter 
+• 
+acceptance criteria 
+• 
+frequency 
+• 
+analytical procedure 
+3.2.s.4.1 
+3.2.p.4.1 
+3.2.p.5.1 
+3.2.p.7
+
+[CONTENT - ORIGINAL]:
+Source: GL-QA-094-A020-01.pdfNov302025024136.pdf, Page 6.
+GL-QA-094-A020-01 
+
+ 
+ 
+-/- 
+• Validation protocols (e.g. process validation protocol, analytical validation protocols) 
+• Stability protocols and reports. 
+5.2 
+Procedure 
+The reference documents for the review are the documents, which are approved by 
+Authorities in the registration file or any available Health Authorities Certificates or any 
+information published in the relevant Health Authorities website. 
+The GMP documents to be checked are provided by the relevant department or by the 
+CMO. 
+For the GMP documents listed the completeness and the consistency of the information is 
+checked as detailed below: 
+ 
+GMP documents 
+Examples 
+Parameters to be checked if 
+applicable 
+Registration 
+documents 
+Manufacturing 
+and packaging 
+documents  
+Master batch 
+record 
+Manufacturing 
+formula 
+Packaging 
+material list 
+PI-Sheet 
+ 
+ 
+• 
+Manufacturing sites 
+• 
+Amounts and kind of the 
+components  
+• 
+Batch size 
+• 
+Overage 
+• 
+Equipment  
+• 
+Manufacturing steps 
+• 
+In-process controls 
+• 
+Release testing parameter 
+• 
+Packaging material 
+• 
+Holding times  
+• 
+Storage conditions   
+• 
+Shelf life 
+• 
+Registry  number / MA 
+number 
+3.2.P.1 
+3.2.P.3.1 
+3.2.P.3.2 
+3.2.P.3.3 
+3.2.P.3.4 
+3.2.P.5.1 
+3.2.P.7 
+3.2.P.8 
+ 
+Specification 
+Release 
+specification 
+Shelf life 
+specification  
+• 
+Testing parameter 
+• 
+Acceptance criteria 
+• 
+Frequency 
+• 
+Analytical procedure 
+3.2.S.4.1 
+3.2.P.4.1 
+3.2.P.5.1 
+3.2.P.7
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 7', 'sop_title': 'GL-QA-094-A020-01Nov302025024136'}
+
+[CONTENT - LOWERCASE]:
+gl-qa-094-a020-01 
+
+ 
+ 
+-/- 
+gmp documents 
+examples 
+parameters to be checked if 
+applicable 
+registration 
+documents 
+test instruction 
+documents 
+analytical 
+procedures 
+• 
+methods used for calculation 
+formula 
+• 
+analytical conditions  
+• 
+equipment  
+• 
+solutions and reference 
+standards 
+• 
+dilutions 
+• 
+system suitability tests 
+3.2.s.4.2 
+3.2.p.4.2 
+3.2.p.5.2 
+3.2.p.7 
+relevant 
+pharmacopoeias 
+validation 
+protocols 
+analytical 
+validation 
+protocols 
+• 
+amounts and kind of the 
+components 
+• 
+instruction (analytical 
+method) 
+• 
+parameters and acceptance 
+criteria according to 
+specification 
+3.2.p.5.1 
+3.2.p.5.2  
+3.2.p.5.3 
+manufacturing 
+process 
+validation 
+protocols 
+• 
+amounts and kind of the 
+components 
+• 
+batch size 
+• 
+overage 
+• 
+equipment  
+• 
+manufacturing steps 
+• 
+in-process controls  
+• 
+holding times  
+• 
+storage conditions  
+• 
+release testing parameter 
+3.2.p.3.2 
+3.2.p.3.3 
+3.2.p.3.4 
+3.2.p.5.1 
+3.2.p.8 
+ 
+stability 
+protocols and 
+reports 
+ 
+• 
+amounts and kind of the 
+components 
+• 
+specification including 
+testing parameter and 
+acceptance criteria 
+• 
+storage condition 
+• 
+testing frequency 
+• 
+primary packaging material 
+• 
+shelf life 
+3.2.p.5.1 
+3.2.p.5.2 
+3.2.p.8.1 
+ 
+ 
+registration documents may contain less or abbreviated information compared to gmp-
+documents. for the regulatory compliance check at grt it is essential that the site-
+
+[CONTENT - ORIGINAL]:
+Source: GL-QA-094-A020-01.pdfNov302025024136.pdf, Page 7.
+GL-QA-094-A020-01 
+
+ 
+ 
+-/- 
+GMP documents 
+Examples 
+Parameters to be checked if 
+applicable 
+Registration 
+documents 
+Test instruction 
+documents 
+Analytical 
+procedures 
+• 
+Methods used for Calculation 
+formula 
+• 
+Analytical conditions  
+• 
+Equipment  
+• 
+Solutions and reference 
+standards 
+• 
+Dilutions 
+• 
+System suitability tests 
+3.2.S.4.2 
+3.2.P.4.2 
+3.2.P.5.2 
+3.2.P.7 
+Relevant 
+Pharmacopoeias 
+Validation 
+protocols 
+Analytical 
+Validation 
+protocols 
+• 
+Amounts and kind of the 
+components 
+• 
+Instruction (analytical 
+method) 
+• 
+Parameters and Acceptance 
+criteria according to 
+specification 
+3.2.P.5.1 
+3.2.P.5.2  
+3.2.P.5.3 
+Manufacturing 
+process 
+validation 
+protocols 
+• 
+Amounts and kind of the 
+components 
+• 
+Batch size 
+• 
+Overage 
+• 
+Equipment  
+• 
+Manufacturing steps 
+• 
+In-process controls  
+• 
+Holding times  
+• 
+Storage conditions  
+• 
+Release testing parameter 
+3.2.P.3.2 
+3.2.P.3.3 
+3.2.P.3.4 
+3.2.P.5.1 
+3.2.P.8 
+ 
+Stability 
+protocols and 
+reports 
+ 
+• 
+Amounts and kind of the 
+components 
+• 
+Specification including 
+Testing parameter and 
+Acceptance Criteria 
+• 
+Storage condition 
+• 
+Testing frequency 
+• 
+Primary Packaging Material 
+• 
+Shelf life 
+3.2.P.5.1 
+3.2.P.5.2 
+3.2.P.8.1 
+ 
+ 
+Registration documents may contain less or abbreviated information compared to GMP-
+documents. For the regulatory compliance check at GRT it is essential that the site-
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 8', 'sop_title': 'GL-QA-094-A020-01Nov302025024136'}
+
+[CONTENT - LOWERCASE]:
+gl-qa-094-a020-01 
+
+ 
+ 
+-/- 
+specific gmp-documents do not contain less information than the registration documents 
+and do not exceed limits as given in the registration documents. 
+5.3 
+discrepancies between gmp and regulatory document 
+it is within the responsibility of gqpm and relevant functions e.g. qp/responsible person 
+as needed to take decisions in case of discrepancies between gmp and registration 
+documents and to decide about further steps prior to approval of the document. 
+5.4 
+documentation of compliance checks on gmp documents 
+the gqpm signs the gmp document once the compliance check activity is finalized and 
+the compliance between the regulatory and the gmp document is ensured. 
+5.5 
+compliance check for production at cmo 
+grünenthal checks gmp documents of cmos for compliance with registration documents 
+according to the technical agreement.  
+the procedure for compliance check of gmp documents of cmos is according to the one 
+applied for the grt documents. 
+6 
+cross references 
+not applicable 
+6.1 
+references to standard procedural documents 
+not applicable 
+6.2 
+legal references  
+not applicable 
+6.3 
+other references 
+not applicable 
+7 
+attachments 
+not applicable 
+8
+
+[CONTENT - ORIGINAL]:
+Source: GL-QA-094-A020-01.pdfNov302025024136.pdf, Page 8.
+GL-QA-094-A020-01 
+
+ 
+ 
+-/- 
+specific GMP-documents do not contain less information than the registration documents 
+and do not exceed limits as given in the registration documents. 
+5.3 
+Discrepancies between GMP and regulatory document 
+It is within the responsibility of GQPM and relevant functions e.g. QP/Responsible person 
+as needed to take decisions in case of discrepancies between GMP and registration 
+documents and to decide about further steps prior to approval of the document. 
+5.4 
+Documentation of compliance checks on GMP documents 
+The GQPM signs the GMP document once the compliance check activity is finalized and 
+the compliance between the regulatory and the GMP document is ensured. 
+5.5 
+Compliance check for production at CMO 
+Grünenthal checks GMP documents of CMOs for compliance with registration documents 
+according to the Technical Agreement.  
+The procedure for compliance check of GMP documents of CMOs is according to the one 
+applied for the GRT documents. 
+6 
+Cross references 
+Not applicable 
+6.1 
+References to standard procedural documents 
+Not applicable 
+6.2 
+Legal references  
+Not applicable 
+6.3 
+Other references 
+Not applicable 
+7 
+Attachments 
+Not applicable 
+8
+
+==================================================
+

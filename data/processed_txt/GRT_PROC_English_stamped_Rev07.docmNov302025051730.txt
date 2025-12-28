@@ -1,0 +1,2012 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+local title: global process for change management
+1
+objective
+the objective of this document is to describe the global process of change control
+within the grünenthal group to ensure that all gxp-related changes are documented, 
+assessed, approved, implemented, verified and closed.
+2
+scope
+this document applies to everyone involved in the management of gxp-related 
+changes within the grünenthal group. 
+the process applies to the following change types:
+
+product change 
+
+technical change
+the process can be applied to non-gxp related changes, whenever deemed 
+appropriate, business relevant and beneficial.
+out of scope are:
+
+all gvp-related changes
+
+it infrastructure changes
+(see proc-004973 “it infrastructure change 
+management”)
+
+label/text changes to printed packaging material (proc-004879 “global label 
+management process”)
+
+sap adjustments/enhancements with non-gxp impact managed via sap service 
+request or via it change in the itsm system (sup-004246 “list of sap service 
+request types”)
+
+“like for like” exchanges of removable parts (identical in function and construction) 
+of gmp regulated systems, devices, equipment (e.g., hvac filter exchange)
+3
+responsibilities
+role
+function/profile
+approver
+business representative (process/system owner or a person at 
+management level) and/or quality assurance representative.
+the approver from the business is responsible to ensure that all the 
+changes are managed in compliance with this procedure.
+the approver from quality assurance function is responsible to 
+ensure that all the changes are managed in compliance with 
+regulations and company procedures.
+quality assurance approval is mandatory for all gxp-related 
+changes.
+extension 
+request 
+approver
+the extension request approver has the responsibility to evaluate 
+and approve requests for the step due date extensions. 
+the extension request approver role can be assigned only to users 
+having also the approver role.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 2.
+Local Title: Global Process for Change Management
+1
+OBJECTIVE
+The objective of this document is to describe the global process of Change Control
+within the Grünenthal Group to ensure that all GxP-related changes are documented, 
+assessed, approved, implemented, verified and closed.
+2
+SCOPE
+This document applies to everyone involved in the management of GxP-related 
+changes within the Grünenthal Group. 
+The process applies to the following change types:
+
+Product Change 
+
+Technical Change
+The process can be applied to non-GxP related changes, whenever deemed 
+appropriate, business relevant and beneficial.
+Out of scope are:
+
+All GVP-related Changes
+
+IT Infrastructure Changes
+(see PROC-004973 “IT infrastructure Change 
+Management”)
+
+Label/text changes to Printed Packaging Material (PROC-004879 “Global Label 
+Management Process”)
+
+SAP adjustments/enhancements with non-GxP impact managed via SAP Service 
+Request or via IT Change in the ITSM system (SUP-004246 “List of SAP Service 
+Request types”)
+
+“Like for Like” exchanges of removable parts (identical in function and construction) 
+of GMP regulated systems, devices, equipment (e.g., HVAC filter exchange)
+3
+RESPONSIBILITIES
+Role
+Function/Profile
+Approver
+Business representative (Process/System owner or a person at 
+management level) and/or Quality Assurance representative.
+The Approver from the business is responsible to ensure that all the 
+changes are managed in compliance with this procedure.
+The Approver from Quality Assurance function is responsible to 
+ensure that all the changes are managed in compliance with 
+regulations and company procedures.
+Quality Assurance approval is mandatory for all GxP-related 
+changes.
+Extension 
+Request 
+Approver
+The Extension Request Approver has the responsibility to evaluate 
+and approve requests for the step due date extensions. 
+The Extension Request Approver role can be assigned only to users 
+having also the Approver role.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+term
+definition
+data integrity 
+(di) 
+data integrity is the degree to which data are complete, consistent, 
+accurate, trustworthy, reliable and that these characteristics of the 
+data are maintained throughout the data life cycle. 
+the data must be collected and maintained in a secure manner, so 
+that they are attributable, legible, contemporaneously recorded, 
+original (or a true copy) and accurate. 
+data 
+management
+in the frame of this document data refers to all process/ product/ 
+system/ equipment affected by the change
+effectiveness 
+check [ec]
+the prove of the effectiveness of changes implemented is part of 
+the change management process. 
+the effectiveness check aims to confirm that the change meets its 
+intended objectives and pre-defined acceptance criteria with no 
+unexpected consequences.
+the acceptance criteria must define:
+- what to be monitored and measured (e.g., deviations/ incidents 
+after the implementation)
+- how to be measured (e.g., trend analysis, cpv, periodic incident 
+reviews, % of deviations) 
+- how many: maximum limit accepted if measurable (e.g,  less 
+than 2% of new deviations)
+- how long: the duration of monitoring period (e.g., monitor the 
+number of deviations within 6 months after the implementation, or a 
+specific number of produced batches, or based on a periodic review 
+scheduled etc.)
+the check of the effectiveness is mandatory for all major changes, 
+but applicable to minor changes as well whenever deemed 
+appropriate and beneficial.
+emergency 
+change
+any technical gxp-related change (cs change) that must be 
+implemented in a compressed timeframe in order to ensure the 
+business continuity. this is generally caused by either one or 
+several of the following circumstances:
+
+a productive system is completely down.
+
+the imminent go-live or upgrade is jeopardized.
+
+the core business processes are seriously affected.
+
+no approved workaround available.
+gxp
+gxp is a general abbreviation for “good practice” quality guidelines 
+and regulations. in the frame of this sop the “x” might stands l = 
+laboratory, c = clinical, m = manufacturing, d = distribution,) and 
+includes all processes impacted by regulations, standards or 
+guidelines, e.g., ema regulations, ich guidelines, iso standards.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 4.
+Term
+Definition
+Data Integrity 
+(DI) 
+Data integrity is the degree to which data are complete, consistent, 
+accurate, trustworthy, reliable and that these characteristics of the 
+data are maintained throughout the data life cycle. 
+The data must be collected and maintained in a secure manner, so 
+that they are attributable, legible, contemporaneously recorded, 
+original (or a true copy) and accurate. 
+DATA 
+Management
+In the frame of this document DATA refers to all process/ product/ 
+system/ equipment affected by the change
+Effectiveness 
+Check [EC]
+The prove of the effectiveness of changes implemented is part of 
+the Change Management process. 
+The effectiveness check aims to confirm that the change meets its 
+intended objectives and pre-defined acceptance criteria with no 
+unexpected consequences.
+The Acceptance criteria must define:
+- WHAT to be monitored and measured (e.g., deviations/ incidents 
+after the implementation)
+- HOW to be measured (e.g., trend analysis, CPV, Periodic Incident 
+reviews, % of deviations) 
+- HOW MANY: maximum limit accepted if measurable (e.g,  less 
+than 2% of new deviations)
+- HOW LONG: the duration of monitoring period (e.g., monitor the 
+number of deviations within 6 months after the implementation, or a 
+specific number of produced batches, or based on a periodic review 
+scheduled etc.)
+The check of the effectiveness is mandatory for all major changes, 
+but applicable to minor changes as well whenever deemed 
+appropriate and beneficial.
+Emergency 
+Change
+Any technical GxP-related change (CS Change) that must be 
+implemented in a compressed timeframe in order to ensure the 
+business continuity. This is generally caused by either one or 
+several of the following circumstances:
+
+A productive system is completely down.
+
+The imminent go-live or upgrade is jeopardized.
+
+The core business processes are seriously affected.
+
+No approved workaround available.
+GxP
+GxP is a general abbreviation for “good practice” quality guidelines 
+and regulations. In the frame of this SOP The “x” might stands L = 
+laboratory, C = clinical, M = manufacturing, D = distribution,) and 
+includes all processes impacted by regulations, standards or 
+guidelines, e.g., EMA regulations, ICH guidelines, ISO standards.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+term
+definition
+gxp-related 
+changes
+any change that might be related to gxp processes and might affect 
+– directly or indirectly – the patient safety and/or rights, quality, 
+efficacy of medicinal products, investigational medicinal products, 
+medical devices, any related pharmaceutical material (including 
+active pharmaceutical ingredients, excipients or any further raw 
+material) or the validity of gxp data.
+it infrastructure
+it infrastructure comprises all it systems and it services that are 
+needed to deliver it applications to end-users. 
+major change
+all changes that might affect, but not limited to:
+-
+patient safety and/or rights, quality, efficacy of medicinal 
+products, investigational medicinal products, medical devices, 
+any 
+related 
+pharmaceutical 
+material 
+(including 
+active 
+pharmaceutical ingredients, excipients or any further raw 
+material) 
+-
+data integrity
+-
+business continuity
+management of 
+change [moc]
+module available in mc to manage the change control process.
+mastercontrol 
+[mc]
+an integrated software solution supporting the quality management 
+system provided by mastercontrol inc.
+minor change
+any change not classified as major change (e.g. change to batch 
+record template layout, administrative change to regulatory dossier 
+not requiring approval, changes to equipment not requiring process 
+validation activities)
+product change
+a change that can be related to one or more medicinal products, 
+medical devices, investigational products and materials (for 
+examples see sup-007521 “guideline for the sub-category
+selection in moc process”)
+technical 
+change
+any 
+change 
+related 
+to 
+equipment/system 
+facility/utility/process/service with no direct impact to a specific 
+medicinal product, medical device, investigational product or 
+material. (for examples see sup-007521 “guideline for the sub-
+category selection in moc process”)
+5
+process
+5.1
+general
+all gxp-related changes must be requested, reviewed, assessed, approved, 
+implemented, verified and closed through a defined change control process. this must
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 5.
+Term
+Definition
+GxP-related 
+changes
+Any change that might be related to GxP processes and might affect 
+– directly or indirectly – the patient safety and/or rights, quality, 
+efficacy of medicinal products, investigational medicinal products, 
+medical devices, any related pharmaceutical material (including 
+active pharmaceutical ingredients, excipients or any further raw 
+material) or the validity of GxP data.
+IT infrastructure
+IT infrastructure comprises all IT systems and IT services that are 
+needed to deliver IT applications to end-users. 
+Major Change
+All changes that might affect, but not limited to:
+-
+Patient safety and/or rights, quality, efficacy of medicinal 
+products, investigational medicinal products, medical devices, 
+any 
+related 
+pharmaceutical 
+material 
+(including 
+active 
+pharmaceutical ingredients, excipients or any further raw 
+material) 
+-
+Data integrity
+-
+Business Continuity
+Management of 
+Change [MOC]
+Module available in MC to manage the change control process.
+MasterControl 
+[MC]
+An integrated software solution supporting the Quality Management 
+System provided by MasterControl Inc.
+Minor Change
+Any change not classified as Major change (e.g. change to batch 
+record template layout, administrative change to regulatory dossier 
+not requiring approval, changes to equipment not requiring process 
+validation activities)
+Product Change
+A change that can be related to one or more medicinal products, 
+medical devices, investigational products and materials (For 
+examples see SUP-007521 “Guideline for the Sub-Category
+Selection in MOC process”)
+Technical 
+Change
+Any 
+change 
+related 
+to 
+Equipment/System 
+Facility/Utility/Process/Service with no direct impact to a specific 
+medicinal product, medical device, investigational product or 
+material. (For examples see SUP-007521 “Guideline for the Sub-
+Category Selection in MOC process”)
+5
+PROCESS
+5.1
+General
+All GxP-related changes must be requested, reviewed, assessed, approved, 
+implemented, verified and closed through a defined change control process. This must
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+be documented in mastercontrol. an unique identification change number is assigned 
+automatically to changes by the system. 
+any employee, who has any initiative of a gxp-related change proposal, has to ensure 
+the reporting in mastercontrol and follow-up the tasks to get the respective final 
+decision leading to the potential approval for implementation.
+the description of the change must be clear and written in a language that can be 
+understood by all involved people and any concerned parties.
+the gxp-related change can be classified as product change or technical change.
+the classification determines the change control approach and the responsibility 
+matrix.
+any potential risk for the continuation of any step might require clarifications and/or 
+escalation to the project change framework by the step responsible person and the
+final decision must be documented in the system by means of attachments or meeting 
+minutes (see § 5.4).
+more information on how to document the steps in mastercontrol tmat-001129
+“management of change (moc)”.
+5.2
+process steps
+the change management process consists of the following steps:
+each step (except implementation and verification) has a pre-defined step duration in 
+order to:
+
+ensure the management of the change on timely manner 
+
+guide the user through the workflow. 
+if a step cannot be completed according to the set due date, an extension request must
+be created, justified by the responsible of the respective step and approved by the 
+appropriate function (see section 3).
+5.2.1
+change proposal
+documentation of initial information and details related to the proposed gxp-related 
+change.
+change 
+proposal
+change 
+review
+impact
+assessment
+change 
+approval
+implementation
+verification
+change 
+close-out
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 6.
+be documented in MasterControl. An unique identification change number is assigned 
+automatically to Changes by the system. 
+Any employee, who has any initiative of a GxP-related change proposal, has to ensure 
+the reporting in MasterControl and follow-up the tasks to get the respective final 
+decision leading to the potential approval for implementation.
+The description of the change must be clear and written in a language that can be 
+understood by all involved people and any concerned parties.
+The GxP-related change can be classified as Product Change or Technical Change.
+The classification determines the change control approach and the responsibility 
+matrix.
+Any potential risk for the continuation of any step might require clarifications and/or 
+escalation to the Project Change framework by the step responsible person and the
+final decision must be documented in the system by means of attachments or meeting 
+minutes (see § 5.4).
+More information on how to document the steps in MasterControl TMAT-001129
+“Management of Change (MOC)”.
+5.2
+Process Steps
+The Change Management Process consists of the following steps:
+Each step (except Implementation and Verification) has a pre-defined step duration in 
+order to:
+
+Ensure the management of the change on timely manner 
+
+Guide the user through the workflow. 
+If a step cannot be completed according to the set due date, an extension request must
+be created, justified by the responsible of the respective step and approved by the 
+appropriate function (see section 3).
+5.2.1
+Change Proposal
+Documentation of initial information and details related to the proposed GxP-related 
+change.
+Change 
+Proposal
+Change 
+Review
+Impact
+Assessment
+Change 
+Approval
+Implementation
+Verification
+Change 
+Close-out
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+step
+role
+activity
+1
+requester
+
+enter the relevant information in all fields (e.g., title, 
+location/site, source, change description,
+justification, 
+scope of impact, change type, reason for emergency 
+change, etc)
+
+list all product or process/systems or equipment impacted
+by the proposed changes
+
+define if any notification to the client/ supplier/ vendor/ 
+authorities is needed
+
+select suppliers or customers impacted
+
+link any infocard supporting the change proposal (e.g, data 
+management infocard)
+
+attach any relevant supporting materials to justify the 
+change 
+
+select the reviewers (see table 1) 
+
+sign-off the completion of the change request.
+table 1. “reviewer assignment”
+product change
+technical change
+cmc compliance (mandatory), and 
+other business functions (if needed)
+business function (e.g., system/process
+owner or responsible), and/or qa function 
+if needed according to the organization
+note: multiple reviewers can be selected
+5.2.2
+change review
+the defined change reviewer(s) are involved for the change proposal revision in 
+terms of completeness of information and feasibility to continue to the impact 
+assessment.
+step
+role
+activity
+1
+reviewer
+
+review the change proposal content and if all information 
+needed was provided
+
+select the appropriate option:
+o
+approve (confirm) the change proposal
+o
+insert the nrp and approvers based on the change 
+type (see table 2)
+o
+cancel the change to close the change
+o
+revise proposal to request more details in the change 
+proposal
+
+sign off the completion of the change review. in case of 
+proposal revision or change cancellation, provide the 
+reasons of the respective selection. the change can be 
+cancelled in case the proposal is not feasible (all the 
+reviewers have to sign off with the “cancelled” option 
+selected) .
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 7.
+Step
+Role
+Activity
+1
+Requester
+
+Enter the relevant information in all fields (e.g., title, 
+location/site, source, change description,
+justification, 
+scope of impact, change type, reason for emergency 
+change, etc)
+
+List all product or process/systems or equipment impacted
+by the proposed changes
+
+Define if any notification to the client/ Supplier/ Vendor/ 
+Authorities is needed
+
+Select Suppliers or Customers impacted
+
+Link any infocard supporting the change proposal (e.g, Data 
+Management infocard)
+
+Attach any relevant Supporting Materials to justify the 
+change 
+
+Select the reviewers (see Table 1) 
+
+Sign-off the completion of the change request.
+Table 1. “Reviewer Assignment”
+Product Change
+Technical Change
+CMC compliance (mandatory), and 
+other business functions (if needed)
+Business Function (e.g., System/Process
+Owner or Responsible), and/or QA function 
+if needed according to the organization
+Note: Multiple reviewers can be selected
+5.2.2
+Change Review
+The defined Change Reviewer(s) are involved for the change proposal revision in 
+terms of completeness of information and feasibility to continue to the impact 
+assessment.
+Step
+Role
+Activity
+1
+Reviewer
+
+Review the change proposal content and if all information 
+needed was provided
+
+Select the appropriate option:
+o
+Approve (Confirm) the change proposal
+o
+Insert the NRP and Approvers based on the Change 
+Type (see Table 2)
+o
+Cancel the change to close the change
+o
+Revise Proposal to request more details in the change 
+proposal
+
+Sign off the completion of the change review. In case of 
+proposal revision or change cancellation, provide the 
+reasons of the respective selection. The change can be 
+cancelled in case the proposal is not feasible (all the 
+reviewers have to sign off with the “Cancelled” option 
+selected) .
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+table 2. “nrp and approver(s) assignment”
+role
+product change
+technical change
+nrp
+cmc compliance function
+or another function agreed 
+with cmc
+business function (e.g., system/process
+owner) or qa function
+only one nrp name can be selected
+approver
+cmc compliance function
+or business function
+business function, system 
+owner/process (if applicable) and/or qa 
+(required always in case of gxp-related 
+change)
+multiple approvers can be selected
+5.2.3
+impact assessment
+all the potential affected gxp functions, processes, analysis must be identified and the 
+any potential risks related to patient safety, product quality and/or data integrity must 
+be assessed.
+a structured impact assessment of the change is performed via driven checklists 
+assigned to the smes of the areas potentially affected by the change (e.g., ehs,
+manufacturing, quality, regulatory affairs, medical, it, etc.). this shall ensure that 
+appropriate science- and knowledge-based impact assessments are carried out, and 
+are adequately and consistently documented for a change. during the impact 
+assessment the points below are taken in account:
+
+potential risks linked to the proposed change
+
+the level of accuracy, effort (e.g., testing, validation, review, training) and 
+documentation corresponds with the level of risk aligned with the type of 
+proposed change.
+
+change plan in detail included if apply
+
+data to support the change by requesting and attaching additional documents.
+the impact assessment is managed by the nrp who is responsible to launch the 
+assessment request and review the outcome.
+the outcomes of the assessments drive the definition of the implementation strategy,
+the classification of the change level and the effectiveness check criteria (including the 
+proposed ec plan).
+step
+role
+activity
+1
+nrp
+
+identify the functional area(s) that must perform the assessment 
+by applying the following rule according to the change type:
+product changes
+technical changes
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 8.
+Table 2. “NRP and Approver(s) assignment”
+Role
+Product Change
+Technical Change
+NRP
+CMC Compliance Function
+or another Function agreed 
+with CMC
+Business Function (e.g., System/Process
+Owner) or QA Function
+Only one NRP name can be selected
+Approver
+CMC Compliance Function
+or Business Function
+Business function, System 
+Owner/Process (if applicable) and/or QA 
+(required always in case of GxP-related 
+change)
+Multiple Approvers can be selected
+5.2.3
+Impact assessment
+All the potential affected GxP functions, processes, analysis must be identified and the 
+any potential risks related to patient safety, product quality and/or data integrity must 
+be assessed.
+A structured impact assessment of the change is performed via driven checklists 
+assigned to the SMEs of the areas potentially affected by the change (e.g., EHS,
+Manufacturing, Quality, Regulatory Affairs, Medical, IT, etc.). This shall ensure that 
+appropriate science- and knowledge-based impact assessments are carried out, and 
+are adequately and consistently documented for a change. During the impact 
+assessment the points below are taken in account:
+
+Potential risks linked to the proposed change
+
+The level of accuracy, effort (e.g., testing, validation, review, training) and 
+documentation corresponds with the level of risk aligned with the type of 
+proposed change.
+
+Change plan in detail included if apply
+
+Data to support the change by requesting and attaching additional documents.
+The impact assessment is managed by the NRP who is responsible to launch the 
+assessment request and review the outcome.
+The outcomes of the assessments drive the definition of the implementation strategy,
+the classification of the change level and the effectiveness check criteria (including the 
+proposed EC plan).
+Step
+Role
+Activity
+1
+NRP
+
+Identify the functional area(s) that must perform the assessment 
+by applying the following rule according to the change type:
+Product Changes
+Technical Changes
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+step
+role
+activity
+
+regulatory affairs
+
+cmc compliance
+
+quality assurance
+note: in some cases an external 
+assessment can be provided and 
+attached (e.g. cmb)
+
+validation
+
+it (in case of cs changes) 
+
+quality assurance (only for 
+all gxp-related changes)
+(in case of assessment 
+synergies, the input can be 
+documented in one check list 
+only, e.g. validation and qa 
+assessment).
+any additional assessment needed, based on the potential 
+functional area(s) affected.
+
+assign the impact assessment task to the sme of the relevant 
+area.
+
+select a due date within the assessment must be completed.
+
+initiate all the respective checklists.
+2
+sme
+
+receive the impact assessment checklist completion task.
+
+involve further experts to assess the impact of the change, if 
+needed.
+
+perform the assessment in the respective section “checklist”
+considering all risks related to the proposed change.
+
+select the nrp of change for the checklist review task (if needed 
+additional user(s) with the proper role of nrp and approver can 
+be added to perform the checklist review task as well - e.g qa 
+function for gxp- related changes to cs).
+
+provide the action plan for implementation/verification (if needed)
+in the respective section “change plan”.
+
+attach any relevant document if applicable in the respective 
+section “attachments”. 
+
+sign-off the checklist completion.
+3
+nrp
+
+review the assessment performed by each functional area. 
+
+sign-off the checklist review. in case of rejection, provide a 
+reason 
+and
+ensure 
+that 
+respective 
+modifications 
+are 
+implemented (if applicable).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 9.
+Step
+Role
+Activity
+
+Regulatory Affairs
+
+CMC compliance
+
+Quality Assurance
+Note: in some cases an external 
+assessment can be provided and 
+attached (e.g. CMB)
+
+Validation
+
+IT (in case of CS changes) 
+
+Quality Assurance (only for 
+all GxP-related changes)
+(in case of assessment 
+synergies, the input can be 
+documented in one check list 
+only, e.g. Validation and QA 
+assessment).
+Any additional assessment needed, based on the potential 
+functional area(s) affected.
+
+Assign the impact assessment task to the SME of the relevant 
+area.
+
+Select a due date within the assessment must be completed.
+
+Initiate all the respective checklists.
+2
+SME
+
+Receive the impact assessment checklist completion task.
+
+Involve further experts to assess the impact of the change, if 
+needed.
+
+Perform the assessment in the respective section “Checklist”
+considering all risks related to the proposed change.
+
+Select the NRP of change for the checklist review task (if needed 
+additional user(s) with the proper role of NRP and Approver can 
+be added to perform the Checklist review task as well - e.g QA 
+Function for GxP- related changes to CS).
+
+Provide the action plan for implementation/verification (if needed)
+in the respective section “Change Plan”.
+
+Attach any relevant document if applicable in the respective 
+section “Attachments”. 
+
+Sign-off the Checklist Completion.
+3
+NRP
+
+Review the assessment performed by each functional area. 
+
+Sign-off the checklist review. In case of rejection, provide a 
+reason 
+and
+ensure 
+that 
+respective 
+modifications 
+are 
+implemented (if applicable).
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+step
+role
+activity
+4
+nrp
+
+select the proper option if the change can be approved for 
+implementation based on the assessment outcome from the 
+smes (note: in case the nrp evaluates that the change cannot 
+be implemented, a rationale must be provided)
+
+enter the relevant information needed
+
+the implementation strategy (e.g., for a cs change, nrp 
+must define the release of the system)
+
+depending on the definition in the quality agreement, 
+confirmation
+
+that the customer was informed
+
+that the customer approved or acknowledged the 
+change
+
+customer notification or approval must be attached to the 
+change in the system
+
+the level of the change 
+
+the effectiveness check evaluation and plan (if 
+applicable) by specifying the acceptance criteria.
+
+sign-off the impact assessment.
+5.2.4
+change approval
+the defined change approver(s) approve the gxp-related change proposal based on 
+the information provided in the change proposal, the impact assessment outcome, 
+implementation strategy and the effectiveness check evaluation/plan.
+the change approver(s) can request more details to be included in the change 
+proposal or impact assessment in order to make a proper decision.
+step
+role
+activity
+1
+approver
+
+review the information inserted in all previous steps (e.g. 
+proposal 
+of 
+the 
+change, 
+impact 
+assessment, 
+implementation strategy)
+
+approve the change for implementation. in case of 
+rejection, provide a reason and ensure that respective 
+modifications are implemented (if applicable)
+note: in case of multiple approvers, the final rejection of the 
+change can occur when only one of the approvers select the 
+rejection option.
+5.2.5
+implementation
+as soon as the change proposal, impact assessment outcome (including 
+implementation strategy) and effectiveness check evaluation/plan are approved by the 
+responsible approvers, the implementation activities of the change can start according
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 10.
+Step
+Role
+Activity
+4
+NRP
+
+Select the proper option if the change can be approved for 
+implementation based on the assessment outcome from the 
+SMEs (Note: In case the NRP evaluates that the change cannot 
+be implemented, a rationale must be provided)
+
+Enter the relevant information needed
+
+The implementation strategy (e.g., for a CS change, NRP 
+must define the release of the system)
+
+Depending on the definition in the Quality Agreement, 
+confirmation
+
+That the customer was informed
+
+That the customer approved or acknowledged the 
+change
+
+Customer notification or approval must be attached to the 
+change in the system
+
+The level of the change 
+
+The Effectiveness Check Evaluation and Plan (if 
+applicable) by specifying the acceptance criteria.
+
+Sign-off the Impact Assessment.
+5.2.4
+Change approval
+The defined change approver(s) approve the GxP-related change proposal based on 
+the information provided in the change proposal, the impact assessment outcome, 
+implementation strategy and the effectiveness check evaluation/plan.
+The change approver(s) can request more details to be included in the change 
+proposal or impact assessment in order to make a proper decision.
+Step
+Role
+Activity
+1
+Approver
+
+Review the information inserted in all previous steps (e.g. 
+proposal 
+of 
+the 
+change, 
+impact 
+assessment, 
+implementation strategy)
+
+Approve the change for implementation. In case of 
+rejection, provide a reason and ensure that respective 
+modifications are implemented (if applicable)
+Note: In case of multiple approvers, the final rejection of the 
+change can occur when only one of the approvers select the 
+rejection option.
+5.2.5
+Implementation
+As soon as the change proposal, impact assessment outcome (including 
+implementation strategy) and effectiveness check evaluation/plan are approved by the 
+responsible Approvers, the implementation activities of the change can start according
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+to the change plan proposed by the group of smes and the defined implementation 
+strategy.
+all the actions for implementation are created by the responsible person of the 
+implementation step (automatically assigned by the system to the nrp). however, the 
+responsibility of the implementation step can be shared with multiple users who are
+trained on the nrp role.
+step
+role
+activity
+1
+nrp
+
+create the implementation tasks (via ais) according to the 
+implementation strategy defined
+note: additional approvers can be included, if needed
+
+monitor all the dependencies of the ais in order to ensure 
+the proper starting of implementation activities (e.g. some 
+ai must be implemented first)
+depending on the change type, the following action creation 
+approach can be processed according to the implementation 
+strategy defined in the impact assessment step:
+product change
+technical change
+
+actions that can be 
+implemented before 
+submission to health 
+authorities, including 
+changes that do not require 
+any submission to any 
+health authority.
+
+actions that can only be 
+implemented after 
+submission or approval to 
+health authorities.
+
+actions that must be 
+implemented before  the 
+equipment/ utility/ 
+facility/process is released for 
+use.
+
+actions that must be 
+implemented in case a cs 
+change: actions for the 
+validation and productive 
+environment, including the  
+authorization to implement in  
+production.
+
+actions that can be 
+implemented after the release 
+for use of a system/ equipment/ 
+utility/ facility/process.
+2
+moc task 
+assignee
+
+perform all assigned action items within defined timelines
+(if needed justify the delay and inform the nrp)
+
+provide appropriate documentation, if applicable
+
+sign-off all action items. in case of rejection, provide a 
+reason and ensure that the respective modifications are 
+implemented (if applicable)
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 11.
+to the change plan proposed by the group of SMEs and the defined implementation 
+strategy.
+All the actions for implementation are created by the responsible person of the 
+Implementation step (automatically assigned by the system to the NRP). However, the 
+responsibility of the implementation step can be shared with multiple users who are
+trained on the NRP role.
+Step
+Role
+Activity
+1
+NRP
+
+Create the implementation tasks (via AIs) according to the 
+implementation strategy defined
+Note: Additional Approvers can be included, if needed
+
+Monitor all the dependencies of the AIs in order to ensure 
+the proper starting of implementation activities (e.g. some 
+AI must be implemented first)
+Depending on the change type, the following action creation 
+approach can be processed according to the implementation 
+strategy defined in the impact assessment step:
+Product Change
+Technical change
+
+Actions that can be 
+implemented before 
+submission to Health 
+authorities, including 
+changes that do not require 
+any submission to any 
+Health authority.
+
+Actions that can only be 
+implemented after 
+submission or approval to 
+Health authorities.
+
+Actions that must be 
+implemented before  the 
+equipment/ utility/ 
+facility/process is released for 
+use.
+
+Actions that must be 
+implemented in case a CS 
+change: actions for the 
+Validation and Productive 
+environment, including the  
+authorization to implement in  
+Production.
+
+Actions that can be 
+implemented after the release 
+for use of a system/ equipment/ 
+utility/ facility/process.
+2
+MOC Task 
+Assignee
+
+Perform all assigned action items within defined timelines
+(if needed justify the delay and inform the NRP)
+
+Provide appropriate documentation, if applicable
+
+Sign-off all action items. In case of rejection, provide a 
+reason and ensure that the respective modifications are 
+implemented (if applicable)
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+step
+role
+activity
+3
+nrp
+
+monitor the progress of all change implementation actions 
+to ensure each action is completed on timely manner and in 
+the required time sequence
+
+track any significant information regarding the adherence 
+to the implementation plan in the relevant field 
+
+approve completion of all action items and document the 
+completion date, including upload of related documentation, 
+if applicable
+
+check the completion of all action items
+
+enter the implementation date. 
+within the framework of this procedure some examples of the 
+implementation date can be considered as follows:
+product change
+technical change
+
+activation of the 
+respective bill of material 
+(if affected) and therefore 
+enabling the company in 
+manufacturing of finished 
+products displaying the 
+respective change
+
+the first release in the 
+last country
+
+the release of system/ 
+equipment/ utility/ 
+facility/process for the use 
+in a productive 
+environment (e.g., after 
+validation or testing 
+activities are successfully 
+completed and approved)
+
+the closure of last action 
+item
+note: in case of specific local regulatory requirements, an 
+agreement with the quality assurance function is mandatory 
+about the implementation date.
+
+document any modification from the original change plan or 
+any additional impact/result in the implementation summary
+
+sign-off the implementation step
+the implementation is completed when all the defined actions in the implementation 
+are completed regardless the outcome itself.
+the change at this stage is considered as implemented (the moc form is still open to 
+perform post activity and/or effectiveness check actions.)
+5.2.6
+verification
+verification phase is used to perform post implementation activities if they are defined 
+in the implementation strategy and/or to carry out actions to perform the effectiveness 
+check of the change implemented if planned and approved in the respective previous 
+steps.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 12.
+Step
+Role
+Activity
+3
+NRP
+
+Monitor the progress of all change implementation actions 
+to ensure each action is completed on timely manner and in 
+the required time sequence
+
+Track any significant information regarding the adherence 
+to the implementation plan in the relevant field 
+
+Approve completion of all action items and document the 
+completion date, including upload of related documentation, 
+if applicable
+
+Check the completion of all action items
+
+Enter the implementation date. 
+Within the framework of this procedure some examples of the 
+implementation date can be considered as follows:
+Product Change
+Technical Change
+
+Activation of the 
+respective bill of material 
+(if affected) and therefore 
+enabling the company in 
+manufacturing of finished 
+products displaying the 
+respective change
+
+The first release in the 
+last country
+
+The release of system/ 
+Equipment/ Utility/ 
+facility/Process for the use 
+in a productive 
+environment (e.g., after 
+validation or testing 
+activities are successfully 
+completed and approved)
+
+The closure of last action 
+item
+Note: In case of specific local regulatory requirements, an 
+agreement with the Quality Assurance function is mandatory 
+about the implementation date.
+
+Document any modification from the original change plan or 
+any additional impact/result in the implementation summary
+
+Sign-off the implementation step
+The implementation is completed when all the defined actions in the implementation 
+are completed regardless the outcome itself.
+The change at this stage is considered as implemented (the MOC form is still open to 
+perform post activity and/or effectiveness check actions.)
+5.2.6
+Verification
+Verification phase is used to perform post implementation activities if they are defined 
+in the implementation strategy and/or to carry out actions to perform the effectiveness 
+check of the change implemented if planned and approved in the respective previous 
+steps.
+
+==================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 13', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+step
+role
+activity
+1
+nrp
+
+create any verification task (via ais) as defined in the 
+implementation strategy.
+2
+moc task 
+assignee
+
+perform all assigned action items within defined 
+timelines (if needed justify the delay and inform the 
+nrp)
+
+provide appropriate documentation, if applicable
+
+sign-off all action items. in case of rejection, provide a 
+reason and ensure that the respective modifications are 
+implemented (if applicable)
+3
+nrp
+
+monitor  the progress of all change verification actions 
+to ensure each action is completed on timely manner 
+and in the required time sequence
+
+track any significant information regarding the 
+adherence to the implementation plan in the relevant 
+field 
+
+approve completion of all action items and document 
+the completion date, including upload of related 
+documentation, if applicable.
+4
+nrp
+
+check the completion of all action items
+
+evaluate if the verification is successful
+(e.g., 
+effectiveness checks result are
+successful, post 
+implementation tasks are completed successfully, etc.)
+
+report a summary of the verification action results or 
+any significant information, when appropriate  (e.g., any 
+modification from the original change plan or any 
+additional impact/result)
+
+set the verification date as the latest action item 
+completion date
+
+sign-off the verification step. in case of rejection, 
+provide a reason and
+ensure that respective 
+modifications are implemented (if applicable).
+5.2.7
+change close out
+the change is considered closed once all implementation and verification actions 
+(including effectiveness check, if applicable) are completed, reviewed and approved 
+on the change control form.
+the change form is closed once all the approvers for the step have signed off the
+change close-out step.
+if defined in the quality agreement, the customers identified in the assessment step 
+should be informed about the change close out and about the details of the first batch 
+produced by:
+-
+the nrp in case of a product change
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 13.
+Step
+Role
+Activity
+1
+NRP
+
+Create any verification task (via AIs) as defined in the 
+implementation strategy.
+2
+MOC Task 
+Assignee
+
+Perform all assigned action items within defined 
+timelines (if needed justify the delay and inform the 
+NRP)
+
+Provide appropriate documentation, if applicable
+
+Sign-off all action items. In case of rejection, provide a 
+reason and ensure that the respective modifications are 
+implemented (if applicable)
+3
+NRP
+
+Monitor  the progress of all change verification actions 
+to ensure each action is completed on timely manner 
+and in the required time sequence
+
+Track any significant information regarding the 
+adherence to the implementation plan in the relevant 
+field 
+
+Approve completion of all action items and document 
+the completion date, including upload of related 
+documentation, if applicable.
+4
+NRP
+
+Check the completion of all action items
+
+Evaluate if the verification is successful
+(e.g., 
+effectiveness checks result are
+successful, post 
+implementation tasks are completed successfully, etc.)
+
+Report a summary of the verification action results or 
+any significant information, when appropriate  (e.g., any 
+modification from the original change plan or any 
+additional impact/result)
+
+Set the verification date as the latest action item 
+completion date
+
+Sign-off the Verification step. In case of rejection, 
+provide a reason and
+ensure that respective 
+modifications are implemented (if applicable).
+5.2.7
+Change Close Out
+The change is considered closed once all implementation and verification actions 
+(including Effectiveness Check, if applicable) are completed, reviewed and approved 
+on the change control form.
+The change form is closed once all the approvers for the step have signed off the
+change close-out step.
+If defined in the Quality Agreement, the customers identified in the assessment step 
+should be informed about the change close out and about the details of the first batch 
+produced by:
+-
+The NRP in case of a product change
+
+==================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 14', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+-
+the imq in case of a technical change (the nrp must inform the imq about the 
+change close out).
+step
+role
+activity
+1
+approver
+
+review all the implemented actions and the verification 
+actions (included the effectiveness check ones) when 
+defined.
+
+evaluate if the change can be considered successfully 
+or not successfully implemented.
+
+summarize the overall results and it is mandatory to 
+perform and document an assessment in case the 
+change closure is not successful.
+
+insert all the relevant information required.
+
+confirm the closure results and closure date.
+note: the closure date must be entered manually and it 
+corresponds to the same verification date.
+
+select the option to open any moc child if needed, and 
+fill in the relevant fields of additional moc section as 
+consecutive action of the selection.
+
+sign-off the change close out step. in case of rejection, 
+provide a reason and ensure that the respective 
+modifications are implemented (if applicable).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 14.
+-
+The IMQ in case of a technical change (the NRP must inform the IMQ about the 
+change close out).
+Step
+Role
+Activity
+1
+Approver
+
+Review all the implemented actions and the verification 
+actions (included the effectiveness check ones) when 
+defined.
+
+Evaluate if the change can be considered successfully 
+or not successfully implemented.
+
+Summarize the overall results and it is mandatory to 
+perform and document an assessment in case the 
+change closure is not successful.
+
+Insert all the relevant information required.
+
+Confirm the closure results and closure date.
+Note: The closure date must be entered manually and it 
+corresponds to the same verification date.
+
+Select the option to open any MOC child if needed, and 
+fill in the relevant fields of additional MOC section as 
+consecutive action of the selection.
+
+Sign-off the change close out step. In case of rejection, 
+provide a reason and ensure that the respective 
+modifications are implemented (if applicable).
+
+==================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 15', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+5.3
+process flow
+change management in mastercontrol
+change review
+change proposal
+impact assessment
+change approval
+implementation
+verification
+change close out
+and 
+start
+creation of the 
+change proposal
+(fill in all the fields and 
+select the reviewer(s))
+initiate assessment
+(selecting the 
+funcional areas and 
+assigning the sme) 
+no
+yes
+review the change 
+proposal
+data: ok?
+revise proposal?
+no
+cancelled?
+change is closed 
+(closed form vault)
+nrp
+perform impact 
+assessment
+(checklist 
+completion)
+sme
+document the 
+implementation 
+strategy and 
+effectiveness check 
+evaluation/plan
+nrp
+data: ok?
+yes
+initiate
+implementation
+action items (based on 
+change plan)
+nrp
+action completion
+action approval
+yes
+moc task assignee
+nrp
+document 
+implementation 
+summary and 
+implementation date
+nrp
+change is closed 
+(closed form vault)
+sign-off as final 
+rejection
+initiate verification 
+action items (based on 
+change plan)
+nrp
+action initiation
+nrp
+review the actions 
+implemented  
+requester
+reviewer
+approver
+approver
+can be closed?
+additional  child
+changes
+needed?
+yes
+no
+sign-off as “data 
+rejection” to select the 
+step to reject back or 
+“work in process”
+no
+create of additional 
+changes
+yes
+sign off as data 
+complete
+select “approved”, 
+insert the nrp and 
+approver(s)
+sign off as data 
+complete
+data: ok?
+sign-off as work in 
+progress
+nrp
+no
+no
+review the change 
+proposal and impact 
+assessment 
+content
+approver
+is change 
+approved for 
+implementation
+?
+no
+sign-off as data 
+approval
+yes
+approver
+change is aborted 
+(aborted form 
+vault)
+approver
+reviewer
+reviewer
+approver
+requester
+sign-off as data 
+complete
+data: ok?
+yes
+data: ok?
+sign-off as “data 
+rejection” to select 
+the step to reject 
+back or “work in 
+process”
+no
+yes
+enter a rationale 
+and sign-off as 
+“data complete”
+describe the required 
+modifications and sign-off 
+as “data rejection”
+sign-off as data 
+rejection and go
+back to the impact 
+assessment
+sign-off as data  
+complete
+yes
+action completion
+action approval
+moc task assignee
+nrp
+document 
+verification
+summary and 
+verification date
+nrp
+action initiation
+nrp
+data: ok?
+sign-off as “data 
+rejection” to select 
+the step to reject back 
+or “work in process”
+nrp
+no
+sign-off as data  
+complete
+yes
+sign-off as 
+“data 
+complete”
+sign-off as 
+“data 
+rejection”
+no
+sign-off as 
+“data 
+complete”
+yes
+c o m m u n ic a tio n  l o g /  m e e t in g  m in u t e  o p t io n
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 15.
+5.3
+Process Flow
+Change Management in MasterControl
+Change Review
+Change Proposal
+Impact Assessment
+Change Approval
+Implementation
+Verification
+Change Close Out
+and 
+Start
+Creation of the 
+Change Proposal
+(fill in all the fields and 
+select the Reviewer(s))
+Initiate Assessment
+(selecting the 
+funcional areas and 
+assigning the SME) 
+No
+Yes
+Review the change 
+Proposal
+Data: OK?
+Revise Proposal?
+No
+Cancelled?
+Change is closed 
+(Closed Form Vault)
+NRP
+Perform Impact 
+Assessment
+(Checklist 
+completion)
+SME
+Document the 
+Implementation 
+strategy and 
+Effectiveness check 
+Evaluation/plan
+NRP
+Data: OK?
+Yes
+Initiate
+IMPLEMENTATION
+Action Items (based on 
+Change Plan)
+NRP
+Action Completion
+Action Approval
+Yes
+MOC Task Assignee
+NRP
+Document 
+Implementation 
+Summary and 
+Implementation date
+NRP
+Change is Closed 
+(Closed Form Vault)
+Sign-off as Final 
+Rejection
+Initiate VERIFICATION 
+Action Items (based on 
+Change Plan)
+NRP
+Action Initiation
+NRP
+Review the actions 
+implemented  
+Requester
+Reviewer
+Approver
+Approver
+Can be closed?
+Additional  child
+changes
+needed?
+Yes
+No
+Sign-off as “Data 
+Rejection” to select the 
+step to reject back or 
+“Work in Process”
+No
+Create of Additional 
+changes
+Yes
+Sign Off as Data 
+Complete
+Select “Approved”, 
+insert the NRP and 
+Approver(s)
+Sign Off as Data 
+Complete
+Data: OK?
+Sign-off as Work in 
+Progress
+NRP
+No
+No
+Review the Change 
+Proposal and Impact 
+Assessment 
+content
+Approver
+Is Change 
+Approved for 
+implementation
+?
+No
+Sign-off as Data 
+Approval
+Yes
+Approver
+Change is Aborted 
+(Aborted Form 
+Vault)
+Approver
+Reviewer
+Reviewer
+Approver
+Requester
+Sign-off as Data 
+Complete
+Data: OK?
+Yes
+Data: OK?
+Sign-off as “Data 
+Rejection” to select 
+the step to reject 
+back or “Work in 
+Process”
+No
+Yes
+Enter a Rationale 
+and Sign-off as 
+“Data Complete”
+Describe the required 
+modifications and Sign-off 
+as “Data Rejection”
+Sign-off as Data 
+Rejection and go
+back to the Impact 
+Assessment
+Sign-off as Data  
+Complete
+Yes
+Action Completion
+Action Approval
+MOC Task Assignee
+NRP
+Document 
+Verification
+Summary and 
+Verification date
+NRP
+Action Initiation
+NRP
+Data: OK?
+Sign-off as “Data 
+Rejection” to select 
+the step to reject back 
+or “Work in Process”
+NRP
+No
+Sign-off as Data  
+Complete
+Yes
+Sign-off as 
+“Data 
+Complete”
+Sign-off as 
+“Data 
+Rejection”
+No
+Sign-off as 
+“Data 
+Complete”
+Yes
+C o m m u n ic a tio n  L o g /  M e e t in g  m in u t e  O p t io n
+
+==================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 16', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+
+[CONTENT - LOWERCASE]:
+5.4
+moc functionalities
+any meetings can be documented via the meeting minutes form if needed. the 
+meeting minute functionality can be used to document meeting minutes/decisions, to 
+track any additional tasks needed (e.g. collaboration or pre-activities before 
+implementation) or any decision relevant for processing the change (e.g. tasks to be 
+done before making a decision like data collection to support the assessment, 
+definition of  the implementation strategy, notification to authorities).
+anytime the functionality of the communication log can be used for notifications to 
+the functions involved and/or affected by the change. for example:
+perform any escalation notification
+notify the update of some actions to the needed stakeholders
+notify the task assignee to start  the assigned action item
+5.5
+business continuity
+the mastercontrol system can be restored in less than 12 hours (proc-001798). this 
+temporary unavailability of mastercontrol has a low risk concerning product quality, 
+patient safety or other critical business. therefore, a special process for business 
+continuity for change control management is not needed.
+nevertheless, in case the mastercontrol system is not available for a longer time, 
+quality assurance or other similar function (if qa is not available the responsible 
+person of the affected area) must be contacted to discuss a paper-based 
+documentation. as soon as the system has been restored, the information documented 
+on paper must be completely transferred into the system by the user who is in charge 
+of the process step at the time the system is recovered. the transferred information in 
+the moc form must be reviewed for completeness and correctness by a second 
+person. both people must sign the respective moc step in mastercontrol.
+6
+references
+
+ich q10 pharmaceutical quality system
+
+eu gmp chapter 4, annex 11, annex 15 
+
+us-fda 21 code of federal regulations (cfr) part 11
+
+pi 054-1 “how to evaluate and demonstrate the effectiveness of the 
+pharmaceutical quality system with regard to risk-based change management”
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 16.
+5.4
+MOC Functionalities
+Any meetings can be documented via the Meeting Minutes form if needed. The 
+meeting minute functionality can be used to document meeting minutes/decisions, to 
+track any additional tasks needed (e.g. collaboration or pre-activities before 
+implementation) or any decision relevant for processing the change (e.g. tasks to be 
+done before making a decision like data collection to support the assessment, 
+definition of  the implementation strategy, notification to authorities).
+Anytime the functionality of the Communication Log can be used for notifications to 
+the functions involved and/or affected by the change. For example:
+perform any escalation notification
+notify the update of some actions to the needed stakeholders
+notify the Task assignee to start  the assigned action item
+5.5
+Business Continuity
+The MasterControl system can be restored in less than 12 hours (PROC-001798). This 
+temporary unavailability of MasterControl has a low risk concerning product quality, 
+patient safety or other critical business. Therefore, a special process for business 
+continuity for Change Control Management is not needed.
+Nevertheless, in case the MasterControl system is not available for a longer time, 
+Quality Assurance or other similar function (if QA is not available the responsible 
+person of the affected area) must be contacted to discuss a paper-based 
+documentation. As soon as the system has been restored, the information documented 
+on paper must be completely transferred into the system by the user who is in charge 
+of the process step at the time the system is recovered. The transferred information in 
+the MOC form must be reviewed for completeness and correctness by a second 
+person. Both people must sign the respective MOC step in MasterControl.
+6
+REFERENCES
+
+ICH Q10 Pharmaceutical Quality System
+
+EU GMP Chapter 4, Annex 11, Annex 15 
+
+US-FDA 21 Code of Federal Regulations (CFR) Part 11
+
+PI 054-1 “How to Evaluate and Demonstrate the Effectiveness of the 
+Pharmaceutical Quality System with regard to Risk-Based Change Management”
+7
+
+==================================================
+

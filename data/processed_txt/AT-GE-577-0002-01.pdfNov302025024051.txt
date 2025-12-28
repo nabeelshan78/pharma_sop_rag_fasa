@@ -1,0 +1,734 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 4', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+at-ge-577-0002-01 
+
+ 
+1 
+objective 
+this sop defines data protection processes according to 's information 
+security governance. 
+2 
+scope 
+this document applies to all  employees in  gmbh austria who are 
+involved in the processing of personal data or sensitive personal data. 
+3 
+responsibilities 
+all  employees have to respect 's data privacy standard and 
+applicable laws and regulations in their business activities to protect  from 
+exposure to potential breaches. this requires employees to take full responsibility for 
+adherence to this sop. 
+, as a company, is responsible for ensuring the correct handling of personal 
+data by  and any third party engaged to act on 's behalf.  
+employees contracting third parties must verify and secure the correct handling of personal 
+data by those third parties. 
+the roles and responsibilities listed in this document are as follows: 
+role 
+data protection coordinator 
+responsibility 
+data protection contact within the local  
+department or affiliate, who within their organisation or 
+function: 
+-
+provides guidance to employees on how to 
+follow 
+the 
+ 
+data 
+protection 
+standards. 
+-
+answers employees' questions and issues 
+related to data protection. 
+-
+informs global/local compliance if any issue is 
+identified or corrective action required. 
+-
+proactively identifies data protection needs in 
+new projects and systems. 
+-
+identifies any local changes in data protection 
+regulations applicable. 
+-
+supports the implementation of controls and 
+data security measures. 
+-!-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 4.
+AT-GE-577-0002-01 
+
+ 
+1 
+Objective 
+This SOP defines Data Protection processes according to 's Information 
+Security Governance. 
+2 
+Scope 
+This document applies to all  employees in  GmbH Austria who are 
+involved in the processing of personal data or sensitive personal data. 
+3 
+Responsibilities 
+All  employees have to respect 's data privacy standard and 
+applicable laws and regulations in their business activities to protect  from 
+exposure to potential breaches. This requires employees to take full responsibility for 
+adherence to this SOP. 
+, as a company, is responsible for ensuring the correct handling of personal 
+data by  and any third party engaged to act on 's behalf.  
+employees contracting third parties must verify and secure the correct handling of personal 
+data by those third parties. 
+The roles and responsibilities listed in this document are as follows: 
+Role 
+Data Protection Coordinator 
+Responsibility 
+Data Protection contact within the local  
+department or affiliate, who within their organisation or 
+function: 
+-
+Provides guidance to employees on how to 
+follow 
+the 
+ 
+Data 
+Protection 
+standards. 
+-
+Answers employees' questions and issues 
+related to Data Protection. 
+-
+Informs Global/local Compliance if any issue is 
+identified or corrective action required. 
+-
+Proactively identifies Data Protection needs in 
+new projects and systems. 
+-
+Identifies any local changes in Data Protection 
+regulations applicable. 
+-
+Supports the implementation of controls and 
+Data Security measures. 
+-!-
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 5', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+.....{")_. 
+at-ge-577-0002-01 
+
+ 
+role 
+responsibility 
+global/local compliance 
+support global/local implementation of this sop. 
+legal department 
+perform legal review of data protection related topics 
+and provide legal advice. 
+senior management 
+support and ensure data protection standards 
+implementation, training and adequate monitoring in 
+their department or affiliate. 
+4 
+definitions and abbreviations 
+definitions and abbreviations of terms used in this document are explained here. 
+term 
+consent 
+data controller 
+data processing 
+data protection 
+definition/explanation 
+permission received from a data subject on the 
+processing of his/her personal data/sensitive personal 
+data. 
+a natural or legal person, public authority, agency or 
+any other body which determines the purposes for 
+which and the manner in which any personal data are, 
+or are to be processed. 
+any operation or set of operations which is performed 
+upon personal data and sensitive personal data, 
+whether or not by automatic means, such as the 
+collection, storage, retention, adaptation, modification, 
+reading, retrieval, use, transmission by data transfer, 
+blocking, erasure or disposal. 
+the act of ensuring that the collection and use of 
+personal data is limited to the minimum necessary, 
+that individuals should also be clearly informed in a 
+transparent way on how, why, by whom, and for how 
+long their data is collected and used and that people 
+should be able to give their informed consent to the 
+processing of their personal data. 
+data privacy is a synonym for data protection, used 
+in european guidelines and laws. 
+-!-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 5.
+.....{")_. 
+AT-GE-577-0002-01 
+
+ 
+Role 
+Responsibility 
+Global/local Compliance 
+Support global/local implementation of this SOP. 
+Legal department 
+Perform legal review of Data Protection related topics 
+and provide legal advice. 
+Senior management 
+Support and ensure Data Protection standards 
+implementation, training and adequate monitoring in 
+their department or affiliate. 
+4 
+Definitions and abbreviations 
+Definitions and abbreviations of terms used in this document are explained here. 
+Term 
+Consent 
+Data Controller 
+Data Processing 
+Data Protection 
+Definition/Explanation 
+Permission received from a data subject on the 
+processing of his/her personal data/sensitive personal 
+data. 
+A natural or legal person, public authority, agency or 
+any other body which determines the purposes for 
+which and the manner in which any personal data are, 
+or are to be processed. 
+Any operation or set of operations which is performed 
+upon personal data and sensitive personal data, 
+whether or not by automatic means, such as the 
+collection, storage, retention, adaptation, modification, 
+reading, retrieval, use, transmission by data transfer, 
+blocking, erasure or disposal. 
+The act of ensuring that the collection and use of 
+Personal Data is limited to the minimum necessary, 
+that individuals should also be clearly informed in a 
+transparent way on how, why, by whom, and for how 
+long their data is collected and used and that people 
+should be able to give their informed consent to the 
+processing of their personal data. 
+Data Privacy is a synonym for Data Protection, used 
+in European guidelines and laws. 
+-!-
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 6', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+._()._ 
+ 
+term 
+data transfer 
+data subject 
+external data processor 
+personal data 
+sensitive personal data 
+at-ge-577-0002-01 
+
+ 
+definition/explanation 
+the disclosure, transmission or process of making 
+personal data available between  entities 
+and between  and third parties or to the 
+public. 
+each identified or identifiable, directly or indirectly, 
+natural or legal person whose data is processed. 
+a natural or legal person, public authority, agency or 
+any other body which processes personal data on 
+behalf of the controller. 
+information about an identified or identifiable natural 
+or legal person regardless of the format in which it is 
+displayed (hardcopy or digital). with this kind of data a 
+living individual or legal entity can be identified either 
+from the data or from the data in conjunction with 
+other information that is in, or is likely to come into, 
+the possession of the data processor. 
+information or an opinion about an individual's racial 
+or ethnic origin; political opinions; membership of a 
+political association; religious beliefs or affiliations; 
+philosophical beliefs; membership of a professional or 
+trade association; membership of a trade union; 
+sexual preferences or practices; or criminal record. 
+sensitive 
+personal 
+data 
+also 
+includes 
+health 
+information 
+and 
+genetic 
+information 
+about 
+an 
+individual. 
+-/-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 6.
+._()._ 
+ 
+Term 
+Data Transfer 
+Data Subject 
+External Data Processor 
+Personal Data 
+Sensitive Personal Data 
+AT-GE-577-0002-01 
+
+ 
+Definition/Explanation 
+The disclosure, transmission or process of making 
+personal data available between  entities 
+and between  and third parties or to the 
+public. 
+Each identified or identifiable, directly or indirectly, 
+natural or legal person whose data is processed. 
+A natural or legal person, public authority, agency or 
+any other body which processes personal data on 
+behalf of the controller. 
+Information about an identified or identifiable natural 
+or legal person regardless of the format in which it is 
+displayed (hardcopy or digital). With this kind of data a 
+living individual or legal entity can be identified either 
+from the data or from the data in conjunction with 
+other information that is in, or is likely to come into, 
+the possession of the data processor. 
+Information or an opinion about an individual's racial 
+or ethnic origin; political opinions; membership of a 
+political association; religious beliefs or affiliations; 
+philosophical beliefs; membership of a professional or 
+trade association; membership of a trade union; 
+sexual preferences or practices; or criminal record. 
+Sensitive 
+personal 
+data 
+also 
+includes 
+health 
+information 
+and 
+genetic 
+information 
+about 
+an 
+individual. 
+-/-
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 7', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+_ 
+at-ge-577-0002-01 
+
+ 
+5 
+process description 
+this sop defines processes and responsibilities for 's data protection 
+standards as specified in the following sections. 
+there are 4 major data subject groups on which we handle personal data at : 
+employee data (e.g.: data on active and former employees). 
+patient and volunteers data (e.g.: data collected during clinical research, adverse 
+event reporting or handling of medical enquiries). 
+customer and supplier data (and third party collaborating with , e.g.: 
+healthcare professionals, partners, consultants). 
+data from any other individual or legal entity outside the three groups mentioned 
+above (e.g.: job applicants data). 
+when handling personal data, we need to comply with the next legal requirements and 
+company standards: 
+5.1 
+collection of personal data 
+to collect, process, use and transfer personal data, it must be: 
+expressly permitted and provided by law (e.g. employee's contract) or 
+the data subject must have given, in advance, his informed consent. 
+personal data must be collected directly from the data subject, unless the data subject has 
+made such data available through generally accessible sources. 
+consent must be: 
+unambiguous 
+voluntarily expressed 
+detailed, as a minimum should contain: 
+o name and address of the data controller ( legal entity) 
+o purpose of collection, processing or use 
+o personal data to be collected (e.g.: name, date of birth, dna etc.) 
+-!-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 7.
+_ 
+AT-GE-577-0002-01 
+
+ 
+5 
+Process Description 
+This SOP defines processes and responsibilities for 's Data Protection 
+standards as specified in the following sections. 
+There are 4 major data subject groups on which we handle personal data at : 
+Employee data (e.g.: data on active and former employees). 
+Patient and volunteers data (e.g.: data collected during clinical research, adverse 
+event reporting or handling of medical enquiries). 
+Customer and supplier data (and third party collaborating with , e.g.: 
+healthcare professionals, partners, consultants). 
+Data from any other individual or legal entity outside the three groups mentioned 
+above (e.g.: job applicants data). 
+When handling personal data, we need to comply with the next legal requirements and 
+company standards: 
+5.1 
+Collection of Personal Data 
+To collect, process, use and transfer personal data, it must be: 
+expressly permitted and provided by law (e.g. employee's contract) or 
+the data subject must have given, in advance, his informed consent. 
+Personal Data must be collected directly from the data subject, unless the data subject has 
+made such data available through generally accessible sources. 
+Consent must be: 
+Unambiguous 
+Voluntarily expressed 
+Detailed, as a minimum should contain: 
+o Name and address of the data controller ( legal entity) 
+o Purpose of collection, processing or use 
+o Personal data to be collected (e.g.: name, date of birth, DNA etc.) 
+-!-
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 8', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+.....()._ 
+at-ge-577-0002-01 
+
+ 
+o names of recipients who will receive or access the data 
+o a reference to the data subject's right to withdraw his/her consent. 
+this consent can be collected as follows: 
+written consent 
+econsent (created for online solutions on website, ipad, etc.) 
+verbal consent (in exceptional cases e.g. adverse event reporting via phone) 
+implicit consent (consent that is inferred from signs, actions, or facts, or by inaction 
+or silence. e.g.: use of cookies, giving a business card, etc). however, implicit 
+consent is not valid for the processing of sensitive personal data; in this case the 
+data subject has to consent explicitly. 
+the consent can be withdrawn by the data subject at any time. 
+employees must contact proactively their data protection coordinator/local or global 
+compliance when collecting personal data/sensitive personal data in a new activity to be 
+sure that the proposed consent fits all legal requirements. 
+sensitive personal data must not be collected, unless: 
+the data subject gives explicit consent. 
+the personal data concerned relates to data which is manifestly made public 
+by the data subject. 
+there is an existing legal requirement to collect the data concerned. 
+when sensitive personal data needs to be collected, processed, used or transferred, the 
+responsible  employee must liaise with the local data protection coordinator to 
+conduct an evaluation of the necessity of data and the right level of protection. 
+5.2 
+processing of personal data 
+employees must follow the following rules when processing (sensitive) personal data: 
+5.2.1 
+rule of specific purpose 
+personal data must be processed and used only for the purposes for which they were 
+collected. 
+-/-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 8.
+.....()._ 
+AT-GE-577-0002-01 
+
+ 
+o Names of recipients who will receive or access the data 
+o A reference to the data subject's right to withdraw his/her consent. 
+This consent can be collected as follows: 
+Written consent 
+eConsent (created for online solutions on website, ipad, etc.) 
+Verbal consent (in exceptional cases e.g. adverse event reporting via phone) 
+Implicit consent (Consent that is inferred from signs, actions, or facts, or by inaction 
+or silence. E.g.: use of cookies, giving a business card, etc). However, implicit 
+consent is not valid for the processing of sensitive personal data; in this case the 
+data subject has to consent explicitly. 
+The consent can be withdrawn by the data subject at any time. 
+Employees must contact proactively their Data Protection Coordinator/Local or Global 
+Compliance when collecting personal data/sensitive personal data in a new activity to be 
+sure that the proposed consent fits all legal requirements. 
+Sensitive personal data must not be collected, unless: 
+the data subject gives explicit consent. 
+the personal data concerned relates to data which is manifestly made public 
+by the data subject. 
+there is an existing legal requirement to collect the data concerned. 
+When sensitive personal data needs to be collected, processed, used or transferred, the 
+responsible  employee must liaise with the local Data Protection Coordinator to 
+conduct an evaluation of the necessity of data and the right level of protection. 
+5.2 
+Processing of Personal Data 
+Employees must follow the following rules when processing (sensitive) personal data: 
+5.2.1 
+Rule of Specific Purpose 
+Personal data must be processed and used only for the purposes for which they were 
+collected. 
+-/-
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 9', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+....n.... 
+at-ge-577-0002-01 
+
+ 
+employees must define understandable company purposes for the collection, processing 
+and usage of personal data prior to those actions. employees must ensure that they 
+collect consent in a way that all prior defined purposes are covered by the text of the 
+consent. 
+personal data and sensitive personal data must be kept only as long as is necessary to 
+satisfy the purposes for which it was intended. they must be disposed respecting the 
+specific defined timelines for retention of personal data. storing personal data for longer 
+than necessary for the intended purpose requires additional explicit consent of the data 
+subject. 
+personal data and sensitive personal data that were collected for different purposes must 
+not be combined or cross-referenced . 
+5.2.2 
+rule of necessity 
+employees must collect only the minimum personal data needed to achieve the defined 
+purpose. 
+5.2.3 
+rule of transparency 
+data subjects can contact anyone within  to: 
+be informed about his/her personal data held by ; 
+withdraw his/her consent to process his/her personal data at any moment: 
+ must delete his/her information from all  systems upon 
+request and send a confirmation to the data subject. 
+modify and rectify incorrect data:  must modify the incorrect personal 
+data and send a confirmation to the data subject with the changes performed. 
+sensitive personal data must be deleted, if  is unable to prove their 
+accuracy. 
+any external request from a data subject to obtain his personal data held by  
+must be submitted immediately to the data protection coordinator and/or global/local 
+compliance for follow-up, so  can provide the data subject the data  
+holds on him, respecting the timelines set by local regulation, i.e. in austria within 8 weeks 
+starting from the day on which  receives the request. 
+any request from an employee on his personal data held by  must be submitted 
+to and provided by the employee's hr contact person, respecting the timelines stated by 
+local regulation (in austria 8 weeks). 
+-!-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 9.
+....n.... 
+AT-GE-577-0002-01 
+
+ 
+Employees must define understandable company purposes for the collection, processing 
+and usage of personal data prior to those actions. Employees must ensure that they 
+collect consent in a way that all prior defined purposes are covered by the text of the 
+consent. 
+Personal data and sensitive personal data must be kept only as long as is necessary to 
+satisfy the purposes for which it was intended. They must be disposed respecting the 
+specific defined timelines for retention of personal data. Storing personal data for longer 
+than necessary for the intended purpose requires additional explicit consent of the data 
+subject. 
+Personal data and sensitive personal data that were collected for different purposes must 
+not be combined or cross-referenced . 
+5.2.2 
+Rule of Necessity 
+Employees must collect only the minimum personal data needed to achieve the defined 
+purpose. 
+5.2.3 
+Rule of Transparency 
+Data subjects can contact anyone within  to: 
+Be informed about his/her personal data held by ; 
+Withdraw his/her consent to process his/her personal data at any moment: 
+ must delete his/her information from all  systems upon 
+request and send a confirmation to the data subject. 
+Modify and rectify incorrect data:  must modify the incorrect personal 
+data and send a confirmation to the data subject with the changes performed. 
+Sensitive personal data must be deleted, if  is unable to prove their 
+accuracy. 
+Any external request from a data subject to obtain his personal data held by  
+must be submitted immediately to the Data Protection Coordinator and/or Global/local 
+Compliance for follow-up, so  can provide the data subject the data  
+holds on him, respecting the timelines set by local regulation, i.e. in Austria within 8 weeks 
+starting from the day on which  receives the request. 
+Any request from an employee on his personal data held by  must be submitted 
+to and provided by the employee's HR contact person, respecting the timelines stated by 
+local regulation (in Austria 8 weeks). 
+-!-
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 10', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+_().... 
+at-ge-577-0002-01 
+
+ 
+5.3 
+data transfer 
+if personal data are transferred between  entities and between  and 
+third parties or published, employees must ensure that: 
+the data protection coordinator and global/local compliance department has 
+been contacted in order to verify the admissibility of such transmission (e.g.: if 
+personal data will be transmitted to states outside the eu/eea) 
+the disclosure or transfer of personal data is: 
+o required for any legal purpose (e.g.: court case) 
+o 
+covered by informed consent 
+standard data protection annex, developed by hq or local, is included in any 
+agreement with external data processors 
+data disclosure between departments within one legal entity is permitted only insofar that 
+this is necessary for the receiving department to accomplish its tasks, and limited to the 
+specific purpose which  received consent for. 
+5.4 
+data security 
+departments involved in the processing of data in any way, must implement the technical 
+and organisational measures required to guarantee compliance with the provision of the 
+data protection regulation. 
+personal data must be handled in a way that its' confidentiality, integrity and availability is 
+ensured and that access to the data is limited to a minimum of people and systems ("need-
+to-know" principle). 
+personal data must be protected against unintended or unlawful erasure, alteration or loss 
+as well against unauthorised disclosure or access. especially: personal data in digital form 
+(servers and workstations), networks or communication links and applications have to be 
+protected in a reasonable way (with suitable techniques and acceptable costs). 
+any new application used by  needs to be reviewed by the grt it department 
+with respect to the grt "it demand management guideline" to fulfill data protection and 
+other data security obligations. 
+5.5 
+notification to authorities 
+in austria, data processing procedures ("data applications") need to be registered with the 
+data protection authority. this obligation does not apply to standard data applications. 
+inasmuch as sensitive data are processed the data protection authority needs to approve 
+the processing. 
+-/-
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 10.
+_().... 
+AT-GE-577-0002-01 
+
+ 
+5.3 
+Data Transfer 
+If personal data are transferred between  entities and between  and 
+third parties or published, employees must ensure that: 
+the Data Protection Coordinator and Global/local Compliance Department has 
+been contacted in order to verify the admissibility of such transmission (e.g.: If 
+personal data will be transmitted to states outside the EU/EEA) 
+the disclosure or transfer of personal data is: 
+o required for any legal purpose (e.g.: court case) 
+o 
+covered by informed consent 
+standard data protection annex, developed by HQ or local, is included in any 
+agreement with External Data Processors 
+Data disclosure between departments within one legal entity is permitted only insofar that 
+this is necessary for the receiving department to accomplish its tasks, and limited to the 
+specific purpose which  received consent for. 
+5.4 
+Data Security 
+Departments involved in the processing of data in any way, must implement the technical 
+and organisational measures required to guarantee compliance with the provision of the 
+Data Protection regulation. 
+Personal data must be handled in a way that its' confidentiality, integrity and availability is 
+ensured and that access to the data is limited to a minimum of people and systems ("need-
+to-know" principle). 
+Personal data must be protected against unintended or unlawful erasure, alteration or loss 
+as well against unauthorised disclosure or access. Especially: personal data in digital form 
+(servers and workstations), networks or communication links and applications have to be 
+protected in a reasonable way (with suitable techniques and acceptable costs). 
+Any new application used by  needs to be reviewed by the GRT IT department 
+with respect to the GRT "IT Demand management Guideline" to fulfill data protection and 
+other data security obligations. 
+5.5 
+Notification to Authorities 
+In Austria, data processing procedures ("data applications") need to be registered with the 
+Data Protection Authority. This obligation does not apply to standard data applications. 
+Inasmuch as sensitive data are processed the Data Protection Authority needs to approve 
+the processing. 
+-/-
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 11', 'sop_title': 'AT-GE-577-0002-01Nov302025024051'}
+
+[CONTENT - LOWERCASE]:
+....{)_ 
+at-ge-577-0002-01 
+
+ 
+5.6 
+training 
+all employees must complete the training on information-security which also contains the 
+principles of dataprotection via elearning including an online comprehension test. 
+whenever changes occur in processes or legislative concerning dataprotection a refresher 
+training must also be provided to ensure compliance with the  data protection 
+standards. 
+6 
+cross references 
+not applicable 
+6.1 
+references to standard procedural documents 
+grt code of conduct in the current version 
+gl-cm-070-0003-01 information security policy 
+gl-it-000-0007-01 acceptable use of it systems 
+grt it demand management guideline 
+6.2 
+legal references (frames) 
+local laws and regulation: data protection act 2000 ("dsg 2000"), regulation on 
+standard and template applications 2004 ("stmv 2004") 
+european directive 
+6.3 
+other references 
+not applicable 
+7 
+attachments 
+not applicable 
+8
+
+[CONTENT - ORIGINAL]:
+Source: AT-GE-577-0002-01.pdfNov302025024051.pdf, Page 11.
+....{)_ 
+AT-GE-577-0002-01 
+
+ 
+5.6 
+Training 
+All employees must complete the training on Information-Security which also contains the 
+principles of Dataprotection via elearning including an online comprehension test. 
+Whenever changes occur in processes or legislative concerning dataprotection a refresher 
+training must also be provided to ensure compliance with the  data protection 
+standards. 
+6 
+Cross references 
+Not applicable 
+6.1 
+References to standard procedural documents 
+GRT Code of Conduct in the current version 
+GL-CM-070-0003-01 Information Security Policy 
+GL-IT-000-0007-01 Acceptable Use of IT systems 
+GRT IT Demand Management Guideline 
+6.2 
+Legal references (frames) 
+Local Laws and regulation: Data Protection Act 2000 ("DSG 2000"), Regulation on 
+Standard and Template Applications 2004 ("StMV 2004") 
+European Directive 
+6.3 
+Other references 
+Not applicable 
+7 
+Attachments 
+Not applicable 
+8
+
+==================================================
+

@@ -1,0 +1,1522 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+local title: approval of promotional and non-promotional materials 
+concerning products iberia cluster
+1
+objective
+the objective of this document is to describe the process of managing promotional and 
+nonpromotional content, developed by grünenthal spain and grünenthal portugal 
+(cluster iberia) for external, as well as internal communication, independent of media 
+type and channel used. the process for the recall of all promotional and non-
+promotional materials is also described
+2
+scope
+this document applies to all iberia cluster employees involved in the design, review,
+approval and distribution and recall of materials, as well as their submission to the
+autonomous community of madrid (cam) or infarmed (portuguese authority for
+medicines).
+the following activities are included in the scope:
+
+developing content
+
+reviewing and approving content on cluster level
+
+maintaining content
+in scope of this this proc are the following materials:
+
+promotional materials
+-
+concerning medicinal products for human use,
+-
+concerning non-product related training,
+-
+concerning medical devices used to administer medication.
+
+non-promotional materials of a scientific nature.
+
+branded and unbranded press releases
+
+online content created and/or disseminated by grünenthal in the iberia 
+cluster, independently of the channel used to disseminate the material (face-
+to-face, web based, social media (for non-branded materials only, etc.).
+out of the scope of this procedure are materials related to market research studies as
+described in proc-003193 gsop_develop content for primary market researches 
+and risk management plans and related materials due to the fact that these ones are 
+regulated according to the pharmacovigilance applicable regulations. also, any official 
+documents prepared and used for the pricing and reimbursement process (e.g. core 
+value dossier) are not included in this process due to being officially required 
+documents and for a nonpromotional use.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 2.
+Local Title: APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS 
+CONCERNING PRODUCTS IBERIA CLUSTER
+1
+OBJECTIVE
+The objective of this document is to describe the process of managing promotional and 
+nonpromotional content, developed by Grünenthal Spain and Grünenthal Portugal 
+(Cluster Iberia) for external, as well as internal communication, independent of media 
+type and channel used. The process for the recall of all promotional and non-
+promotional materials is also described
+2
+SCOPE
+This document applies to all Iberia Cluster employees involved in the design, review,
+approval and distribution and recall of materials, as well as their submission to the
+Autonomous Community of Madrid (CAM) or INFARMED (Portuguese Authority for
+Medicines).
+The following activities are included in the scope:
+
+Developing content
+
+Reviewing and approving content on cluster level
+
+Maintaining content
+In scope of this this PROC are the following materials:
+
+Promotional materials
+-
+concerning medicinal products for human use,
+-
+concerning non-product related training,
+-
+concerning medical devices used to administer medication.
+
+Non-promotional materials of a scientific nature.
+
+Branded and unbranded press releases
+
+Online content created and/or disseminated by Grünenthal in the Iberia 
+Cluster, independently of the channel used to disseminate the material (face-
+to-face, web based, social media (for non-branded materials only, etc.).
+Out of the scope of this procedure are materials related to market research studies as
+described in PROC-003193 GSOP_Develop content for Primary Market Researches 
+and Risk Management Plans and related materials due to the fact that these ones are 
+regulated according to the pharmacovigilance applicable regulations. Also, any official 
+documents prepared and used for the Pricing and Reimbursement process (e.g. Core 
+Value Dossier) are not included In this process due to being officially required 
+documents and for a nonpromotional use.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+the employees involved have a duty to be aware of all legislation and regulations 
+applicable to the advertising and promotion of medicines and to comply with these in 
+their day-to-day work
+3
+responsibilities
+this section provides information on the functions involved in the process described
+function/role
+responsibility
+medical affairs
+asset lead
+brand manager
+product manager
+omnichannel manager
+market access specialist
+communication and patient
+specialist
+when acting as sponsor of the material, 
+prepare the material and ensure
+compliance with the applicable
+regulations.
+if necessary, adapt ghq materials to 
+local needs and regulations, thus 
+ensuring compliance with the applicable 
+regulations.
+ensure that all materials are modified in 
+accordance with the comments and 
+observations received, thus ensuring 
+compliance with the applicable 
+regulations.
+prepare the material in the review tool to 
+initiate the review process that applies 
+to each material.
+prepare the material for a paper-based 
+review by the parties involved if the 
+review tool is not functioning  correctly 
+or if review via the tool is not applicable.
+make the changes requested by the 
+different departments in the review
+process.
+activate production once the final 
+version of the material has been
+accepted and signed, with all approved 
+changes.
+prepare the documentation for 
+submission to cam/ infarmed.
+ensure that the material is destroyed 
+when it becomes obsolete or has been 
+subject to a review/ recall, informing the 
+ds team if it was safety-related and the 
+compliance with the timelines required 
+by category.
+medical affairs
+(manager/msl/advisor)
+in materials prepared by ghq, make 
+the appropriate adaptations, thus 
+guaranteeing compliance with the
+applicable regulations.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 3.
+The employees involved have a duty to be aware of all legislation and regulations 
+applicable to the advertising and promotion of medicines and to comply with these in 
+their day-to-day work
+3
+RESPONSIBILITIES
+This section provides information on the functions involved in the process described
+Function/Role
+Responsibility
+Medical Affairs
+Asset Lead
+Brand Manager
+Product Manager
+Omnichannel Manager
+Market Access Specialist
+Communication and Patient
+Specialist
+When acting as sponsor of the material, 
+prepare the material and ensure
+compliance with the applicable
+regulations.
+If necessary, adapt GHQ materials to 
+local needs and regulations, thus 
+ensuring compliance with the applicable 
+regulations.
+Ensure that all materials are modified in 
+accordance with the comments and 
+observations received, thus ensuring 
+compliance with the applicable 
+regulations.
+Prepare the material in the review tool to 
+initiate the review process that applies 
+to each material.
+Prepare the material for a paper-based 
+review by the parties involved if the 
+review tool is not functioning  correctly 
+or if review via the tool is not applicable.
+Make the changes requested by the 
+different departments in the review
+process.
+Activate production once the final 
+version of the material has been
+accepted and signed, with all approved 
+changes.
+Prepare the documentation for 
+submission to CAM/ INFARMED.
+Ensure that the material is destroyed 
+when it becomes obsolete or has been 
+subject to a review/ recall, informing the 
+DS team if it was safety-related and the 
+compliance with the timelines required 
+by category.
+Medical Affairs
+(Manager/MSL/Advisor)
+In materials prepared by GHQ, make 
+the appropriate adaptations, thus 
+guaranteeing compliance with the
+applicable regulations.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+in materials proposed by the brand 
+manager, product manager asset lead, 
+omnichannel manager, market access 
+specialist or communication and 
+patient specialist, review the scientific 
+content.
+ensure scientific accuracy and 
+robustness of claims and data against 
+relevant product information,
+available data on file or published 
+references.
+validity of references (the most up to 
+date), copyrights and suitability of 
+graphics and pictures against label.
+country regulatory affairs
+manager
+check against the relevant product 
+information texts (“label”) and local rules 
+for promotion and advertising
+of medicinal products.
+medical information manager
+review bibliographic references for final 
+approval.
+qp/ technical responsible for
+the corresponding mah
+review materials with information and 
+messages intended for advertising and 
+promoting medical devices used to 
+administer medication.
+drug safety lrppv/ deputy
+check that material safety messages 
+are properly included in accordance with 
+the product information and pv 
+regulations. review all non-promotional
+material to follow the applicable 
+pharmacovigilance processes.
+compliance officer / local
+compliance liaison/legal
+check that the material complies with 
+the applicable regulations for approval, 
+with comments and signature. sanity 
+check of the following areas:
+unfair competition laws, medical 
+advertising laws, product- and civil-
+liability, correctness of corporate
+information. 
+check against the global compliance 
+framework, with focus on ethical
+behaviour towards patients,hcps, 
+payers, authorities and other relevant
+stakeholders as well as grünenthal’s 
+ethical perception in the current context
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 4.
+In materials proposed by the Brand 
+Manager, Product Manager Asset Lead, 
+Omnichannel Manager, Market Access 
+Specialist or Communication and 
+Patient Specialist, review the scientific 
+content.
+Ensure scientific accuracy and 
+robustness of claims and data against 
+relevant product information,
+available data on file or published 
+references.
+Validity of references (the most up to 
+date), copyrights and suitability of 
+graphics and pictures against label.
+Country Regulatory Affairs
+Manager
+Check against the relevant product 
+information texts (“label”) and local rules 
+for promotion and advertising
+of medicinal products.
+Medical Information Manager
+Review bibliographic references for final 
+approval.
+QP/ Technical Responsible for
+the corresponding MAH
+Review materials with information and 
+messages intended for advertising and 
+promoting medical devices used to 
+administer medication.
+Drug Safety LRPPV/ Deputy
+Check that material safety messages 
+are properly included in accordance with 
+the product information and PV 
+regulations. Review all non-promotional
+material to follow the applicable 
+pharmacovigilance processes.
+Compliance Officer / Local
+Compliance Liaison/Legal
+Check that the material complies with 
+the applicable regulations for approval, 
+with comments and signature. Sanity 
+check of the following areas:
+Unfair competition laws, medical 
+advertising laws, product- and civil-
+liability, correctness of corporate
+Information. 
+Check against the Global Compliance 
+Framework, with focus on ethical
+behaviour towards patients,HCPs, 
+payers, authorities and other relevant
+stakeholders as well as Grünenthal’s 
+ethical perception in the current context
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+and environment and ensure
+compliance with applicable regulations.
+asset lead / brand manager
+product manager
+omnichannel manager
+market access specialist
+communication specialist
+check content alignment with source 
+data, check the accuracy of figures, 
+numbers and diagrams, etc., and check 
+the correctness of any claim.
+head medical affairs
+check that the content of the material 
+complies with the applicable regulations, 
+with comments and signature.
+head of marketing
+check that the messages and content 
+are correct and in line with the strategy 
+(both local materials and adapted ghq 
+materials) and that they comply with the 
+applicable regulations, with comments 
+and signature.
+head of market access & pricing
+check that the messages and content 
+are correct and in line with the strategy 
+(both local materials and adapted ghq 
+materials) and that they comply with the 
+applicable regulations, with comments 
+and signature.
+legal and compliance
+submit the approved materials to cam / 
+infarmed and upload proof of
+submission to the tool.
+4
+terms and definitions
+term
+definition
+company
+grünenthal cluster iberia
+veevapromomats
+grünenthal´s content management system (cms)
+non-promotional content
+non brand -related educational content e.g.; disease-
+related content, advisory board, press releases on 
+milestones regarding research & development, 
+independent press reports about symposia and
+statements by scientists (even if
+organized by grünenthal).
+promotional content
+any activity or inducement designed to promote the 
+prescription, supply, sale, or consumption of a specific 
+pharmaceutical product.
+module
+a combination of claims, general text and digital assets 
+(images, logos,…) used to convey a message
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 5.
+and environment and ensure
+compliance with applicable regulations.
+Asset Lead / Brand Manager
+Product Manager
+Omnichannel Manager
+Market Access Specialist
+Communication Specialist
+Check content alignment with source 
+data, check the accuracy of figures, 
+numbers and diagrams, etc., and check 
+the correctness of any claim.
+Head Medical Affairs
+Check that the content of the material 
+complies with the applicable regulations, 
+with comments and signature.
+Head of Marketing
+Check that the messages and content 
+are correct and in line with the strategy 
+(both local materials and adapted GHQ 
+materials) and that they comply with the 
+applicable regulations, with comments 
+and signature.
+Head of Market Access & Pricing
+Check that the messages and content 
+are correct and in line with the strategy 
+(both local materials and adapted GHQ 
+materials) and that they comply with the 
+applicable regulations, with comments 
+and signature.
+Legal and Compliance
+Submit the approved materials to CAM / 
+Infarmed and upload proof of
+submission to the tool.
+4
+TERMS AND DEFINITIONS
+Term
+Definition
+Company
+Grünenthal Cluster Iberia
+VeevaPromoMats
+Grünenthal´s Content Management System (CMS)
+Non-promotional content
+Non brand -related educational content e.g.; disease-
+related content, advisory board, press releases on 
+milestones regarding research & development, 
+Independent press reports about symposia and
+statements by scientists (even if
+organized by Grünenthal).
+Promotional content
+Any activity or inducement designed to promote the 
+prescription, supply, sale, or consumption of a specific 
+pharmaceutical product.
+Module
+A combination of claims, general text and digital assets 
+(images, logos,…) used to convey a message
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+review/approval for our material related to the new content creation process in addition 
+to the standard process of review/approval of promotional and non-promotional
+materials.
+5.1
+electronic review and approval workflow
+a) promotional materials initiated by ghq departments.
+the procedure set out in proc-002054 must be followed: manage promotional and
+non-promotional content.
+b) materials initiated by local departments:
+this requires approval of all roles involved in the approval procedure.
+applies to all other materials.
+opioid-related materials that are not in line with the key documents corresponding to 
+the global opioid product strategy approved by the company (product plan, brand book, 
+value dossier, etc.), such as promotional campaigns, digital campaigns, medical 
+initiatives, etc., must be referred to the rou-b for evaluation in accordance with 
+proc-007055 - communication on opioids in portugal and proc-007115 in spain.
+in the case of non-promotional materials, notification to cam/infarmed is not
+necessary.
+5.2
+electronic approval procedure
+the process consists of the following stages:
+5.2.1
+creation of the material:
+creation of the material
+assigned role
+responsibility
+status
+sponsor
+1 - define the material jointly with the other roles involved in 
+each case before submitting it to the review cycle for approval.
+development of the content
+upload of the draft material in veeva promomats
+na
+the roles involved in each material are responsible for ensuring that the material 
+complies with the applicable regulations.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 7.
+review/approval for our material related to the new content creation process in addition 
+to the standard process of review/approval of promotional and non-promotional
+materials.
+5.1
+Electronic review and approval workflow
+a) Promotional materials initiated by GHQ departments.
+The procedure set out in PROC-002054 must be followed: Manage promotional and
+non-promotional content.
+b) Materials initiated by local departments:
+This requires approval of all roles involved in the approval procedure.
+Applies to all other materials.
+Opioid-related materials that are not in line with the key documents corresponding to 
+the global opioid product strategy approved by the company (product plan, brand book, 
+value dossier, etc.), such as promotional campaigns, digital campaigns, medical 
+initiatives, etc., must be referred to the ROU-B for evaluation in accordance with 
+PROC-007055 - Communication on opioids in Portugal and PROC-007115 in Spain.
+In the case of non-promotional materials, notification to CAM/INFARMED is not
+necessary.
+5.2
+Electronic approval procedure
+The process consists of the following stages:
+5.2.1
+Creation of the material:
+Creation of the material
+Assigned role
+Responsibility
+Status
+Sponsor
+1 - Define the material jointly with the other roles involved in 
+each case before submitting it to the review cycle for approval.
+Development of the content
+Upload of the draft material in Veeva PromoMats
+NA
+The roles involved in each material are responsible for ensuring that the material 
+complies with the applicable regulations.
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+5.2.2
+uploading the material to the tool:
+the tool, veevapromomats, holds the documentation necessary to verify the accuracy 
+of the information on the material (articles, photocopies from journals, referenced 
+books, etc.).
+each time the review workflow moves forward, the tool users involved in each material 
+will receive an automatic email notifying them of the task to be performed.
+within the tool itself, the tasks assigned to each user can be seen in “my tasks” and 
+the notifications in the “notifications” section.
+uploading the material to the tool
+assigned role
+responsibility
+status
+sponsor
+upload the material to the tool, along with the smpc, and 
+bibliographic references, as applicable.
+name the material so that it is identifiable. minimum 
+information required: - "name" “subclassification”,
+“audience”, “promotional/non-
+promotional”, “internal/external”,“channel”, “version” 
+”language” ,
+• "country"
+• “product”
+enter the references related to the material in the “supporting 
+documents” section, highlighting the text that supports the 
+promotional message.
+use “links” and “anchors” to associate posts with the part(s) of 
+the post(s) that support each message.
+draft
+the reduced smpc, or the qr code that links to the updated reduced smpc
+for the product, must form part of the promotional material and not solely be
+included in the “supporting documents” section.
+5.2.3
+reviewing the material in the tool:
+reviewing the material in the tool
+material initiated by one of the following departments: marketing, commercial 
+excellence, communications, medical affairs, market access, governmental affairs, 
+regulatory affairs, legal, drug safety, compliance and finance
+role
+responsibility
+status
+sponsor
+start the material review process through the tool by sending 
+the corresponding “start review” task to medical affairs.
+in review
+medical affairs indicate the necessary modifications (if any) using annotations 
+(“annotate”).
+review 
+complete
+material initiated by the medical department
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 8.
+5.2.2
+Uploading the material to the tool:
+The tool, VeevaPromoMats, holds the documentation necessary to verify the accuracy 
+of the information on the material (articles, photocopies from journals, referenced 
+books, etc.).
+Each time the review workflow moves forward, the tool users involved in each material 
+will receive an automatic email notifying them of the task to be performed.
+Within the tool itself, the tasks assigned to each user can be seen in “My tasks” and 
+the notifications in the “Notifications” section.
+Uploading the material to the tool
+Assigned role
+Responsibility
+Status
+Sponsor
+Upload the material to the tool, along with the SmPC, and 
+bibliographic references, as applicable.
+Name the material so that it is identifiable. Minimum 
+information required: - "Name" “subclassification”,
+“Audience”, “Promotional/Non-
+Promotional”, “Internal/External”,“Channel”, “Version” 
+”language” ,
+• "Country"
+• “Product”
+Enter the references related to the material in the “Supporting 
+Documents” section, highlighting the text that supports the 
+promotional message.
+Use “links” and “anchors” to associate posts with the part(s) of 
+the post(s) that support each message.
+Draft
+The reduced SmPC, or the QR code that links to the updated reduced SmPC
+for the product, must form part of the promotional material and not solely be
+included in the “Supporting Documents” section.
+5.2.3
+Reviewing the material in the tool:
+Reviewing the material in the tool
+Material initiated by one of the following departments: Marketing, Commercial 
+Excellence, Communications, Medical Affairs, Market Access, Governmental Affairs, 
+Regulatory Affairs, Legal, Drug Safety, Compliance and Finance
+Role
+Responsibility
+Status
+Sponsor
+Start the material review process through the tool by sending 
+the corresponding “Start review” task to Medical Affairs.
+In review
+Medical Affairs Indicate the necessary modifications (if any) using annotations 
+(“Annotate”).
+Review 
+complete
+Material initiated by the Medical Department
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+sponsor
+start the material review process through the tool by sending 
+the corresponding “start review” task to the medical affairs.
+in review
+medical affairs indicate the necessary modifications (if any) using annotations 
+(“annotate”).
+review 
+complete
+5.2.4
+approval by the roles or departments involved:
+once the review is complete, the process continues as follows:
+parallel approval of the material in the tool
+assigned role
+responsibility
+status
+sponsor
+initiate the "start approval” circuit by distributing the 
+material in parallel to the other roles and departments 
+involved in the review process according to the matrix 
+below
+manually enter the number of days the reviewers have to 
+complete their task, always in working days and with a 
+minimum of 72 hours from the moment the material is sent 
+for review by each role, or in accordance with the matrix 
+below.
+in 
+approval
+roles that review according to the material type:
+materials
+minimum approvers
+minimum certifiers
+target timelines
+target timeframe 
+for approvers and 
+certifiers to 
+complete tasks
+(or according with 
+request of the 
+originator)
+asset plan
+medical
+compliance
+marketing
+country 
+manager
+approval: 5 working 
+days
+certification: 5 
+working days
+action plan (pda)
+medical
+marketing
+medical affairs
+approval: 3 working 
+days
+certification: n/a
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 9.
+Sponsor
+Start the material review process through the tool by sending 
+the corresponding “Start review” task to the Medical Affairs.
+In review
+Medical Affairs Indicate the necessary modifications (if any) using annotations 
+(“Annotate”).
+Review 
+complete
+5.2.4
+Approval by the roles or departments involved:
+Once the review is complete, the process continues as follows:
+Parallel approval of the material in the tool
+Assigned role
+Responsibility
+Status
+Sponsor
+Initiate the "Start approval” circuit by distributing the 
+material in parallel to the other roles and departments 
+involved in the review process according to the matrix 
+below
+Manually enter the number of days the reviewers have to 
+complete their task, always in working days and with a 
+minimum of 72 hours from the moment the material is sent 
+for review by each role, or in accordance with the matrix 
+below.
+In 
+approval
+Roles that review according to the material type:
+Materials
+Minimum Approvers
+Minimum Certifiers
+Target Timelines
+Target timeframe 
+for approvers and 
+certifiers to 
+complete tasks
+(or according with 
+request of the 
+originator)
+Asset plan
+Medical
+Compliance
+Marketing
+Country 
+Manager
+Approval: 5 working 
+days
+Certification: 5 
+working days
+Action plan (PDA)
+Medical
+Marketing
+Medical Affairs
+Approval: 3 working 
+days
+Certification: n/a
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+leave behind, detail 
+aid,, (approved) e-
+mail, invitation, 
+agenda, core claims 
+document, banner, 
+booth, , grt website
+ra/drug safety
+marketing / market 
+access/communication
+medical
+compliance
+medical information
+medical affairs
+approval: 3 working 
+days certification: 3 
+working days
+medical product 
+training, pain 
+external/disease 
+training external
+ra/drug safety
+medical
+compliance
+medical information
+medical affairs
+approval: 3 working 
+days certification: 3 
+working days
+medical training, 
+advisory board 
+materials, webinar, 
+invitation, agenda,
+ra/drug safety (pt)
+medical
+compliance
+market access
+medical affairs
+approval: 3 working 
+days certification: 3 
+working days
+local poster, 
+manuscript
+ra/drug safety
+medical
+global medical
+market access
+ra (pt)/
+compliance (es) 
+and 
+pharmacovigilance 
+(es)
+medical
+
+global medical if 
+applicable 
+according to
+proc-004064
+approval: 5 working 
+days (global 15)
+certification: 5 
+working
+days (global 3)
+speaker slides (ref 
+not anchored)
+ra/drug safety (pt)
+medical
+compliance
+ra (pt),
+compliance (es)
+medical affairs
+approval: 1 working 
+days certification: 1 
+working days
+training
+marketing
+medical
+medical affairs
+approval: 3 working 
+days certification: 3 
+working days
+press release related 
+to opioids
+medical
+compliance
+communication
+roub team
+medical information
+medical affairs
+approval: 2 working 
+days
+certification: 2 
+working days
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 10.
+Leave behind, detail 
+aid,, (approved) e-
+mail, invitation, 
+agenda, core claims 
+document, banner, 
+booth, , GRT website
+RA/Drug Safety
+Marketing / Market 
+Access/Communication
+Medical
+Compliance
+Medical Information
+Medical Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+Medical product 
+training, pain 
+external/disease 
+training external
+RA/Drug Safety
+Medical
+Compliance
+Medical Information
+Medical Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+Medical training, 
+advisory board 
+materials, webinar, 
+invitation, agenda,
+RA/Drug Safety (PT)
+Medical
+Compliance
+Market Access
+Medical Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+Local poster, 
+manuscript
+RA/Drug safety
+Medical
+Global medical
+Market Access
+RA (PT)/
+Compliance (ES) 
+and 
+Pharmacovigilance 
+(ES)
+Medical
+
+Global medical if 
+applicable 
+according to
+PROC-004064
+Approval: 5 working 
+days (global 15)
+Certification: 5 
+working
+days (global 3)
+Speaker slides (ref 
+not anchored)
+RA/Drug Safety (PT)
+Medical
+Compliance
+RA (PT),
+Compliance (ES)
+Medical Affairs
+Approval: 1 working 
+days Certification: 1 
+working days
+Training
+Marketing
+Medical
+Medical Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+Press release related 
+to opioids
+Medical
+Compliance
+Communication
+ROUB Team
+Medical information
+Medical Affairs
+Approval: 2 working 
+days
+Certification: 2 
+working days
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+social media (eg 
+linkedin, twitter etc.)
+medical
+compliance
+communication
+medical affairs
+approval: 3 working 
+days certification: 3 
+working days
+pt abbreviated (mpc
+ra
+drug safety
+marketing
+medical
+compliance
+ra
+drug safety
+head of medical 
+affairs
+approval: 3 working 
+days certification: 3 
+working days
+press releases not opioid related are approved by email by medical and compliance,
+dsmn8 and all the content for rrss are also approved by email by mkt , corporate
+communication, omnichannel medical and compliance.
+all people with functions involved in this procedure should make the comments or
+observations they deem appropriate and choose one of these possible material
+classifications:
+a) “approved” if no changes are required;
+b) “approved with changes” if any changes are necessary;
+c) “amend and resubmit” if it is considered necessary to restart the workflow 
+from the beginning (i.e. “draft” status).
+the review period must not exceed three working days per function involved, except 
+in justified cases, in which case the period may be extended by a further two working 
+days.
+for press releases, the review period must not exceed one working day.
+once the parallel review is complete, each role will sign the corresponding box in the 
+tool electronically.
+5.2.5
+adaptation and final certification:
+adaptation and certification of the material in the tool
+assigned role responsibility
+status
+sponsor
+enter comments or observations in a corrected version of 
+the material through the “new version” option in the tool.
+send the corrected material (final version) to the final 
+approver through the “start final certification” option.
+in certification
+medical 
+affairs
+certify the validity of the material, provided that the corrected 
+version of the material complies with the provisions of the 
+applicable regulations.
+approved for 
+production
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 11.
+Social media (eg 
+LinkedIn, twitter etc.)
+Medical
+Compliance
+Communication
+Medical Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+PT abbreviated (mPC
+RA
+Drug Safety
+Marketing
+Medical
+Compliance
+RA
+Drug Safety
+Head of Medical 
+Affairs
+Approval: 3 working 
+days Certification: 3 
+working days
+Press releases not opioid related are approved by email by Medical and compliance,
+DSMN8 and all the content for RRSS are also approved by email by MKT , Corporate
+Communication, Omnichannel Medical and Compliance.
+All people with functions involved in this procedure should make the comments or
+observations they deem appropriate and choose one of these possible material
+classifications:
+a) “approved” if no changes are required;
+b) “approved with changes” if any changes are necessary;
+c) “amend and resubmit” if it is considered necessary to restart the workflow 
+from the beginning (i.e. “draft” status).
+The review period must not exceed three working days per function involved, except 
+in justified cases, in which case the period may be extended by a further two working 
+days.
+For press releases, the review period must not exceed one working day.
+Once the parallel review is complete, each role will sign the corresponding box in the 
+tool electronically.
+5.2.5
+Adaptation and final certification:
+Adaptation and certification of the material in the tool
+Assigned role Responsibility
+Status
+Sponsor
+Enter comments or observations in a corrected version of 
+the material through the “new version” option in the tool.
+Send the corrected material (final version) to the final 
+approver through the “start final certification” option.
+In certification
+Medical 
+affairs
+Certify the validity of the material, provided that the corrected 
+version of the material complies with the provisions of the 
+applicable regulations.
+Approved for 
+production
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+the sponsor of the material will be automatically notified of the final certification 
+through the tool and by an automatic email.
+5.2.6
+submission of materials to cam:
+promotional materials will be submitted to cam in accordance with the applicable
+regulations.
+submission of materials to cam
+assigned role
+responsibility
+status
+spain
+sponsor
+in the “renditions” tab, upload the signed documents 
+needed to submit the material to cam, in accordance 
+with the applicable regulations:
+a) approved promotional material (“viewable 
+rendition”)
+b) advertising communication for medicinal 
+products for human use form in editable format, 
+completed and signed electronically.
+c) copy of the material in pdf.
+d) copy of the drug authorization granted by 
+aemps.
+through the tool, send the final version of the material 
+and the above-mentioned documents to the head of 
+communication with cam.
+approved for 
+production
+compliance/ 
+legal
+send the scientific service report to the drug 
+advertising control division of the cam department of 
+health by electronic means.
+include the following with the report:
+a) advertising communication for medicinal 
+products for human use form.
+b) copy of authorized ds or, failing that, of the 
+authorized package leaflet.
+c) copy of the material in pdf.
+d) copy of the drug authorization granted by 
+aemps.
+attach proof of submission to cam (“submission
+proof”) in the “attachments” tab of the tool.
+approved for 
+distribution
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 12.
+The sponsor of the material will be automatically notified of the final certification 
+through the tool and by an automatic email.
+5.2.6
+Submission of materials to CAM:
+Promotional materials will be submitted to CAM in accordance with the applicable
+regulations.
+Submission of materials to CAM
+Assigned role
+Responsibility
+Status
+SPAIN
+Sponsor
+In the “Renditions” tab, upload the signed documents 
+needed to submit the material to CAM, in accordance 
+with the applicable regulations:
+a) Approved promotional material (“viewable 
+rendition”)
+b) Advertising communication for medicinal 
+products for human use form in editable format, 
+completed and signed electronically.
+c) Copy of the material in PDF.
+d) Copy of the drug authorization granted by 
+AEMPS.
+Through the tool, send the final version of the material 
+and the above-mentioned documents to the Head of 
+Communication with CAM.
+Approved for 
+production
+Compliance/ 
+Legal
+Send the Scientific Service Report to the Drug 
+Advertising Control Division of the CAM Department of 
+Health by electronic means.
+Include the following with the report:
+a) Advertising communication for medicinal 
+products for human use form.
+b) Copy of authorized DS or, failing that, of the 
+authorized package leaflet.
+c) Copy of the material in PDF.
+d) Copy of the drug authorization granted by 
+AEMPS.
+Attach proof of submission to CAM (“submission
+proof”) in the “Attachments” tab of the tool.
+Approved for 
+distribution
+
+==================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 13', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+due to restrictions on cam’s platform, the documents must comply with the technical 
+specifications in force at the time the material is communicated.
+submission of materials to infarmed
+assigned role responsibility
+status
+portugal
+sponsor
+responsible for conducting the follow-up required to ensure 
+all approval steps of the promotional material are completed 
+in the veeva vault system, and to provide to the local 
+compliance liaison the material to be submitted to 
+infarmed – always before its distribution – or, where 
+applicable, to inform the departments implicated in the 
+approval that the material will not be distributed.
+approved for 
+distribution
+lcl
+submission of the promotional materials in the infarmed’s 
+database in the legal timelines, and the archive of those 
+materials, namely of the approval and certification folder, a 
+copy of the material and the audit trail document, generated 
+by the veeva vault system, for future possible inspections 
+and audits.
+sponsor
+is responsible for assuring that two original copy of each 
+authorized promotional material (final version) is made 
+available to lcl for archiving.
+is responsible recalling any expired material (though a 
+dedicated email to involved business areas) for applying for 
+the destruction of the promotional material when considered 
+no longer appropriate for promotion. the destruction of the 
+material will be requested directly by the sponsor through 
+the web platform of the promotional logistic company. 
+procurement will supervise the destruction of the material in 
+due time and will receive an email with the confirmation of 
+destruction.
+lcl
+in the case the mah of product is a third party, but marketed 
+or promoted by grt-pt, the process follows the same steps 
+with the exception of the notification of the material to 
+infarmed which is performed by the mah. the lcl will 
+send an email with all the necessary data to the mah to 
+perform the submission
+lcl will archive for a period of 5 years all the authorized 
+promotional materials (final version- two specimens) 
+together with a copy of the review and approval folder and 
+the copies of the forms and scientific reports sent to 
+infarmed for possible future inspections and audits
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 13.
+Due to restrictions on CAM’s platform, the documents must comply with the technical 
+specifications in force at the time the material is communicated.
+Submission of materials to INFARMED
+Assigned role Responsibility
+Status
+PORTUGAL
+Sponsor
+Responsible for conducting the follow-up required to ensure 
+all approval steps of the Promotional Material are completed 
+in the Veeva Vault system, and to provide to the Local 
+Compliance Liaison the material to be submitted to 
+INFARMED – always before its distribution – or, where 
+applicable, to inform the departments implicated in the 
+approval that the material will not be distributed.
+Approved for 
+distribution
+LCL
+Submission of the promotional materials in the INFARMED’s 
+database in the legal timelines, and the archive of those 
+materials, namely of the approval and certification folder, a 
+copy of the material and the Audit Trail document, generated 
+by the Veeva Vault system, for future possible inspections 
+and audits.
+Sponsor
+Is responsible for assuring that two original copy of each 
+authorized promotional material (final version) is made 
+available to LCL for archiving.
+Is responsible recalling any expired material (though a 
+dedicated email to involved business areas) for applying for 
+the destruction of the promotional material when considered 
+no longer appropriate for promotion. The destruction of the 
+material will be requested directly by the sponsor through 
+the web platform of the promotional logistic company. 
+Procurement will supervise the destruction of the material in 
+due time and will receive an email with the confirmation of 
+destruction.
+LCL
+In the case the MAH of product is a third party, but marketed 
+or promoted by GRT-PT, the process follows the same steps 
+with the exception of the notification of the material to 
+INFARMED which is performed by the MAH. The LCL will 
+send an email with all the necessary data to the MAH to 
+perform the submission
+LCL will archive for a period of 5 years all the authorized 
+promotional materials (final version- two specimens) 
+together with a copy of the review and approval folder and 
+the copies of the forms and scientific reports sent to 
+INFARMED for possible future inspections and audits
+
+==================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 14', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+5.2.7
+other considerations
+a) throughout the process, the sponsor of the material will be responsible for
+undertaking the necessary follow-up to obtain all signatures in the virtual 
+material review tool, as well as for obtaining the documentation that must be 
+submitted to cam / infarmed, all before distribution; or, where appropriate, 
+informing the departments involved in the approval process that the material 
+will not be distributed.
+b) an original copy of each authorized material (final version) must be kept by the 
+sponsor of the material for six years from the time they were last used.
+c) the tool will archive all authorized materials (final version) together with a 
+copy of the forms and scientific reports sent to cam (in the case of 
+promotional materials).
+d) to ensure that the information is up to date, all previously prepared material to 
+be reused or reprinted must undergo the approval procedure again.
+e) support files generated by any of the roles involved in reviewing a material 
+must include the code and the name of the corresponding material.
+f)
+the sponsor of the material will be responsible for destroying the promotional 
+material when they consider that it is no longer suitable for promotion 
+according to the this procedure and whenever a label update is approved
+promotional materials | changes in smpc (new version) hardcopy and digital 
+or any update of the content of the material:
+to provide to the health care professionals with the most updated promotional material.
+grünenthal cluster should use the most up to date promotional materials for medicinal
+product with smpc). adequate steps are taken to ensure that relevant information 
+about changes in the smpc related to safety issues included in the promotional 
+material is communicated quickly to the appropriate members and all measures are 
+taken in the appropriate time.
+
+regulatory affairs sends to the marketing, the drug safety and medical team; 
+the new smpc, smpc version and limit date to implement the changes in the 
+promo materials and destruction or invalidation of the materials using previous 
+versions of the product information. when the label change in the smpc is 
+classified as a safety change label change category 1 or label change category 
+2 the time to implement is more restrictive and can never exceed the time 
+defined to implement according to proc 004879 and indicated by immediate 
+and 60d respectively (for promotional material 60 d to implement instead of 90 
+is feasible but shall never be more than 90 d. drug safety shall inform the 
+sponsor of the material, as these categories meant a risk, and all the 
+promotional materials affected shall be destroyed or updated and affect to 
+promotional activities.
+
+the marketing team sends an email to sales team informing the code of which
+materials will be removed from the circulation and the limit date to run off this
+materials (maximum of 6 month after the new smpc for label change category 
+3-4 when applicable, that means when the sponsor of the material considers 
+that an update is needed but not more than one cycle as every new cycle the
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 14.
+5.2.7
+Other considerations
+a) Throughout the process, the sponsor of the material will be responsible for
+undertaking the necessary follow-up to obtain all signatures in the virtual 
+material review tool, as well as for obtaining the documentation that must be 
+submitted to CAM / INFARMED, all before distribution; or, where appropriate, 
+informing the departments involved in the approval process that the material 
+will not be distributed.
+b) An original copy of each authorized material (final version) must be kept by the 
+sponsor of the material for six years from the time they were last used.
+c) The tool will archive all authorized materials (final version) together with a 
+copy of the forms and Scientific Reports sent to CAM (in the case of 
+promotional materials).
+d) To ensure that the information is up to date, all previously prepared material to 
+be reused or reprinted must undergo the approval procedure again.
+e) Support files generated by any of the roles involved in reviewing a material 
+must include the code and the name of the corresponding material.
+f)
+The sponsor of the material will be responsible for destroying the promotional 
+material when they consider that it is no longer suitable for promotion 
+according to the this procedure and whenever a label update is approved
+Promotional Materials | Changes in SmPC (new version) hardcopy and digital 
+or any update of the content of the material:
+To provide to the health care professionals with the most updated promotional material.
+Grünenthal cluster should use the most up to date promotional materials for medicinal
+product with SmPC). Adequate steps are taken to ensure that relevant information 
+about changes in the SmPC related to safety issues included in the promotional 
+material is communicated quickly to the appropriate members and all measures are 
+taken in the appropriate time.
+
+Regulatory Affairs sends to the Marketing, the Drug Safety and Medical team; 
+the new SmPC, SmPC version and limit date to implement the changes in the 
+promo materials and destruction or invalidation of the materials using previous 
+versions of the product information. When the label change in the SmPC is 
+classified as a safety change label change category 1 or Label change category 
+2 the time to implement is more restrictive and can never exceed the time 
+defined to implement according to PROC 004879 and indicated by immediate 
+and 60d respectively (for promotional material 60 d to implement instead of 90 
+is feasible but shall never be more than 90 d. Drug Safety shall inform the 
+sponsor of the material, as these categories meant a risk, and all the 
+promotional materials affected shall be destroyed or updated and affect to 
+promotional activities.
+
+The Marketing team sends an email to Sales team informing the code of which
+materials will be removed from the circulation and the limit date to run off this
+materials (maximum of 6 month after the new SmPC for label change category 
+3-4 when applicable, that means when the sponsor of the material considers 
+that an update is needed but not more than one cycle as every new cycle the
+
+==================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 15', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+material is reviewed and updated. for digital promotional material shall be 
+updated when the information is received and the users shall refresh their digital 
+material with the new smpc version.
+
+15 days before the end date, the marketing team will resend the email to the 
+sales team and inform that they need to send the promotional materials to the 
+logistics company to be destroyed.
+
+marketing team informs the procurement department of what needs to be 
+destroyed by the logistics company, sending the material code (materials that 
+are on the grt stock + materials that are on the sales reps stock and the 
+materials sent by the sales reps).
+
+procurement department sends an email to the asset lead / brand manager / 
+product manager/ market access specialist confirming the material destruction. 
+for label change category 1, 2 drug safety must be informed that the process 
+has been completed according to the timelines.
+
+when the update of the smpc is under the responsibility of a third company (in 
+license agreement), the dsa and the procedure of the third company will be 
+followed. in case the company does not have any procedure, grt procedures 
+shall be followed
+6
+references
+royal decree 1/ july, article 78.
+
+last approved version of the code of good practices for the promotion of
+medicines and interactions between the pharmaceutical industry and medical
+professionals.
+
+regulation applicable to self-regulatory bodies in the pharmaceutical industry.
+
+the grünenthal group code of conduct.
+
+regulations in force in spain and those of the autonomous community of
+madrid.
+
+memo of 21 may 2013 (muh, 8/2013): information about medicines subject to
+additional monitoring. (black inverted triangle).
+
+estatuto do medicamento (decree-law nº 20/2013, 14th of february)
+
+publicity code (decree-law nº 330/90, 23rd of october)
+
+regulation nº 655/2013 from the commission
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 15.
+material is reviewed and updated. For Digital promotional material shall be 
+updated when the information is received and the users shall refresh their digital 
+material with the new SmPC version.
+
+15 days before the end date, the Marketing Team will resend the email to the 
+Sales team and inform that they need to send the promotional materials to the 
+logistics company to be destroyed.
+
+Marketing Team informs the Procurement Department of what needs to be 
+destroyed by the logistics company, sending the material code (materials that 
+are on the GRT stock + materials that are on the Sales REPs stock and the 
+materials sent by the Sales REPs).
+
+Procurement Department sends an email to the Asset Lead / Brand Manager / 
+Product Manager/ Market Access Specialist confirming the material destruction. 
+For label change category 1, 2 Drug Safety must be informed that the process 
+has been completed according to the timelines.
+
+When the update of the SmPC is under the responsibility of a third company (in 
+license agreement), the DSA and the procedure of the third company will be 
+followed. In case the company does not have any procedure, GRT procedures 
+shall be followed
+6
+REFERENCES
+Royal Decree 1/ July, Article 78.
+
+Last approved version of the Code of Good Practices for the Promotion of
+Medicines and Interactions Between the Pharmaceutical Industry and Medical
+Professionals.
+
+Regulation applicable to self-regulatory bodies in the pharmaceutical industry.
+
+The Grünenthal Group Code of Conduct.
+
+Regulations in force in Spain and those of the Autonomous Community of
+Madrid.
+
+Memo of 21 May 2013 (MUH, 8/2013): Information about medicines subject to
+additional monitoring. (black inverted triangle).
+
+Estatuto do Medicamento (Decree-Law nº 20/2013, 14th of February)
+
+Publicity Code (Decree-Law nº 330/90, 23rd of October)
+
+Regulation nº 655/2013 from the Commission
+7
+
+==================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 16', 'sop_title': 'GRT PROC English stamped Rev07 (1).docxNov302025024526'}
+
+[CONTENT - LOWERCASE]:
+revision no.
+description of changes
+01
+this proc replaces proc-002292 (spain) and proc- 003230 
+( portugal), to have a common approach for the iberia cluster.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 16.
+Revision no.
+Description of changes
+01
+This PROC replaces PROC-002292 (Spain) and PROC- 003230 
+( Portugal), to have a common approach for the Iberia Cluster.
+
+==================================================
+

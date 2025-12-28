@@ -1,0 +1,1836 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+local title: proc-008833 sop on whistleblowing reporting
+1
+objective
+the objective of this sop is to ensure that the handling of suspected compliance 
+violations is performed in line with the requirements of the eu directive 2019/1937 on 
+the protection of whistleblowers and all other applicable laws. 
+2
+scope
+this procedure applies to all grünenthal employees globally. local management is 
+responsible for the local implementation. 
+3
+responsibilities
+this section provides information about the roles concerned in the process 
+described.
+role
+responsibility
+all employees (or any other 
+individuals acting as 
+whistleblowers).
+report any act or omission breaching (or attempted
+breach) of grt´s policies or sop´s, code of 
+conduct, applicable laws and regulations, or 
+professional
+and/or 
+industrial 
+guidelines 
+and 
+directives.
+compliance officer in 
+charge (member of the 
+compliance & responsibility 
+organization)
+coordinates all actions necessary to successfully 
+handle a compliance case and reach a conclusion. 
+investigation team
+team assembled by the compliance officer in 
+charge
+for the execution of any investigatory
+activities necessary to determine whether the
+allegations 
+received 
+are 
+substantiated, 
+unsubstantiated or inconclusive. 
+local/global head of the 
+concerned area
+carries out, or assigns to a team member, any 
+investigation activities for allegations received within 
+the scope of this sop and the relevant area (but 
+which are not in scope of
+compliance), with 
+assistance from the compliance officer in charge.
+anyone becoming aware of 
+a compliance case (line 
+manager, human resources, 
+legal, workers council or any 
+other individual)
+forward any allegations received to the compliance 
+& responsibility organization 
+(compliance_hq@.com), or to the  
+compliance officer of the respective grt cluster,  
+without undue delay.
+human resources
+forward any allegations of unfair treatment, including 
+discrimination or harassment, to the compliance &
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 2.
+Local Title: PROC-008833 SOP on Whistleblowing Reporting
+1
+OBJECTIVE
+The objective of this SOP is to ensure that the handling of suspected compliance 
+violations is performed in line with the requirements of the EU Directive 2019/1937 on 
+the protection of whistleblowers and all other applicable laws. 
+2
+SCOPE
+This procedure applies to all Grünenthal employees globally. Local management is 
+responsible for the local implementation. 
+3
+RESPONSIBILITIES
+This section provides information about the roles concerned in the process 
+described.
+Role
+Responsibility
+All employees (or any other 
+individuals acting as 
+whistleblowers).
+Report any act or omission breaching (or attempted
+breach) of GRT´s policies or SOP´s, Code of 
+Conduct, applicable laws and regulations, or 
+professional
+and/or 
+industrial 
+guidelines 
+and 
+directives.
+Compliance Officer in 
+Charge (member of the 
+Compliance & Responsibility 
+Organization)
+Coordinates all actions necessary to successfully 
+handle a compliance case and reach a conclusion. 
+Investigation Team
+Team assembled by the Compliance Officer in 
+Charge
+for the execution of any investigatory
+activities necessary to determine whether the
+allegations 
+received 
+are 
+substantiated, 
+unsubstantiated or inconclusive. 
+Local/Global Head of the 
+concerned area
+Carries out, or assigns to a team member, any 
+investigation activities for allegations received within 
+the scope of this SOP and the relevant area (but 
+which are not in scope of
+Compliance), with 
+assistance from the Compliance Officer in Charge.
+Anyone becoming aware of 
+a compliance case (Line 
+Manager, Human Resources, 
+Legal, Workers Council or any 
+other individual)
+Forward any allegations received to the Compliance 
+& Responsibility Organization 
+(compliance_hq@.com), or to the  
+Compliance Officer of the respective GRT cluster,  
+without undue delay.
+Human Resources
+Forward any allegations of unfair treatment, including 
+discrimination or harassment, to the Compliance &
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+responsibility organization to ensure they are 
+recorded in the ethics helpline.
+compliance & 
+responsibility organization
+responsible for the handling and resolution of 
+compliance cases globally. 
+global compliance & 
+responsibility officer
+receives and coordinates allegations globally and 
+assigns them to the compliance officer in charge. 
+approves communications to authorities together 
+with the general counsel and, when necessary 
+(depending on the severity of the case), with the 
+respective ceb member.
+general counsel
+approves communications to authorities together 
+with the global compliance & responsibility officer 
+and, when necessary (depending on the severity of 
+the case), with the respective ceb member.
+corporate executive board 
+(ceb) member
+approves communications to authorities together 
+with the global compliance & responsibility officer 
+and the general counsel for compliance cases that 
+concern their
+area
+when deemed necessary 
+(depending on the severity of the case).
+supervisory board
+handles compliance cases which concern members 
+of the compliance & responsibility organization. 
+global/regional/local
+ethics committee (gec)
+determines the appropriate disciplinary response to 
+improper or unethical behavior by grünenthal or 
+affiliate employees or third parties (such as business 
+partners) as indicated in section 5.5.3 of this sop. 
+4
+terms and definitions
+terms
+definition/ explanation
+compliance case
+assessment of an allegation from a whistleblower 
+to 
+determine 
+whether 
+it 
+is 
+substantiated, 
+unsubstantiated or inconclusive. 
+compliance investigation or 
+“investigation”
+formal fact-finding enquiry to examine allegations 
+of compliance violations, to determine whether they 
+have occurred and, if so, identify the person or 
+person’s responsible.
+compliance violation
+an act or omission breaching (or attempting to 
+breach) grt´s policies or sops, code of conduct, 
+applicable 
+laws 
+and 
+regulations, 
+or
+professional/industrial guidelines and directives.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 3.
+Responsibility Organization to ensure they are 
+recorded in the Ethics Helpline.
+Compliance & 
+Responsibility Organization
+Responsible for the handling and resolution of 
+compliance cases globally. 
+Global Compliance & 
+Responsibility Officer
+Receives and coordinates allegations globally and 
+assigns them to the Compliance Officer in Charge. 
+Approves communications to authorities together 
+with the General Counsel and, when necessary 
+(depending on the severity of the case), with the 
+respective CEB member.
+General Counsel
+Approves communications to authorities together 
+with the Global Compliance & Responsibility Officer 
+and, when necessary (depending on the severity of 
+the case), with the respective CEB member.
+Corporate Executive Board 
+(CEB) Member
+Approves communications to authorities together 
+with the Global Compliance & Responsibility Officer 
+and the General Counsel for compliance cases that 
+concern their
+area
+when deemed necessary 
+(depending on the severity of the case).
+Supervisory Board
+Handles compliance cases which concern members 
+of the Compliance & Responsibility Organization. 
+Global/Regional/Local
+Ethics Committee (GEC)
+Determines the appropriate disciplinary response to 
+improper or unethical behavior by Grünenthal or 
+affiliate employees or third parties (such as business 
+partners) as indicated in section 5.5.3 of this SOP. 
+4
+TERMS AND DEFINITIONS
+Terms
+Definition/ Explanation
+Compliance case
+Assessment of an allegation from a whistleblower 
+to 
+determine 
+whether 
+it 
+is 
+substantiated, 
+unsubstantiated or inconclusive. 
+Compliance investigation or 
+“investigation”
+Formal fact-finding enquiry to examine allegations 
+of compliance violations, to determine whether they 
+have occurred and, if so, identify the person or 
+person’s responsible.
+Compliance violation
+An act or omission breaching (or attempting to 
+breach) GRT´s policies or SOPs, Code of Conduct, 
+applicable 
+laws 
+and 
+regulations, 
+or
+professional/industrial guidelines and directives.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+allegation
+a statement, complaint or report, not yet found to be 
+either 
+substantiated, 
+unsubstantiated 
+or 
+inconclusive, concerning the possible existence of 
+an act or omission that breaches, or may potentially 
+breach, grt´s policies or sop´s, code of conduct, 
+applicable laws and regulations, or professional
+and/or industrial guidelines and directives.
+allegations which fall in the 
+scope of this sop
+facts that indicate a breach (or an attempt to 
+breach) grt´s  policies or sops, code of conduct, 
+applicable 
+laws 
+and 
+regulations, 
+or 
+professional/industrial guidelines and directives,
+that fall within the following areas: corruption; 
+conflicts of interest; public procurement; financial 
+services, products and markets, and prevention of 
+money laundering and terrorist financing; product 
+safety and compliance; transport safety; protection 
+of the environment; human rights; radiation 
+protection and nuclear safety; food and feed safety, 
+animal health and welfare; public health; consumer 
+protection; protection of privacy and personal data, 
+and security of network and information systems; 
+fraud and embezzlement; competition rules; tax 
+law.
+substantiated allegation
+an allegation
+that appears
+to be true, after 
+analyzing the evidence gathered in the investigation 
+phase. 
+unsubstantiated allegation
+an allegation that appears to be unsupported, after 
+performing the plausibility check or analyzing the 
+evidence gathered in the investigation phase. 
+inconclusive allegation
+an allegation that cannot be considered either true 
+or false, after analyzing the evidence gathered 
+during the investigation phase.
+evidence 
+any type of proof which tends to establish a fact 
+material to the case which may substantiate or 
+disprove an allegation. it might include, but is not 
+limited to, oral testimony of witnesses (including 
+experts 
+on 
+technical 
+matters), 
+documents, 
+electronic, audio, video records or photographs.
+ad hoc measures
+measures addressing certain immediate risks that 
+can materialize during an investigation.
+human resources (hr) 
+related cases
+cases regarding unfair treatment to employees, 
+such as discrimination or harassment.
+retaliation 
+any direct or indirect detrimental action or omission 
+threatened or taken because an individual reported 
+misconduct or cooperated with an investigation.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 4.
+Allegation
+A statement, complaint or report, not yet found to be 
+either 
+substantiated, 
+unsubstantiated 
+or 
+inconclusive, concerning the possible existence of 
+an act or omission that breaches, or may potentially 
+breach, GRT´s policies or SOP´s, Code of Conduct, 
+applicable laws and regulations, or professional
+and/or industrial guidelines and directives.
+Allegations which fall in the 
+scope of this SOP
+Facts that indicate a breach (or an attempt to 
+breach) GRT´s  policies or SOPs, Code of Conduct, 
+applicable 
+laws 
+and 
+regulations, 
+or 
+professional/industrial guidelines and directives,
+that fall within the following areas: corruption; 
+conflicts of interest; public procurement; financial 
+services, products and markets, and prevention of 
+money laundering and terrorist financing; product 
+safety and compliance; transport safety; protection 
+of the environment; human rights; radiation 
+protection and nuclear safety; food and feed safety, 
+animal health and welfare; public health; consumer 
+protection; protection of privacy and personal data, 
+and security of network and information systems; 
+fraud and embezzlement; competition rules; tax 
+law.
+Substantiated allegation
+An allegation
+that appears
+to be true, after 
+analyzing the evidence gathered in the investigation 
+phase. 
+Unsubstantiated allegation
+An allegation that appears to be unsupported, after 
+performing the plausibility check or analyzing the 
+evidence gathered in the investigation phase. 
+Inconclusive allegation
+An allegation that cannot be considered either true 
+or false, after analyzing the evidence gathered 
+during the investigation phase.
+Evidence 
+Any type of proof which tends to establish a fact 
+material to the case which may substantiate or 
+disprove an allegation. It might include, but is not 
+limited to, oral testimony of witnesses (including 
+experts 
+on 
+technical 
+matters), 
+documents, 
+electronic, audio, video records or photographs.
+Ad Hoc measures
+Measures addressing certain immediate risks that 
+can materialize during an investigation.
+Human Resources (HR) 
+related cases
+Cases regarding unfair treatment to employees, 
+such as discrimination or harassment.
+Retaliation 
+Any direct or indirect detrimental action or omission 
+threatened or taken because an individual reported 
+misconduct or cooperated with an investigation.
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+whistleblower 
+any individual (whether a grt employee or not) 
+who reports suspected wrongdoing. 
+ethics helpline
+grt tool that serves as a global reporting channel 
+enabling whistleblowers from all over the world to 
+report allegations 24/7. it can be accessed via the 
+link https://ethicshelpline..com   or by 
+phone (as indicated in section 5.3.1 of this sop). 
+grt
+abbreviation for “grünenthal”. 
+5
+     process
+5.1background
+whistleblowers are vital for maintaining an open and transparent society, as they 
+expose violations of applicable laws and misconduct. to ensure that they are better 
+protected against negative consequences, the eu directive 2019/1937 on the 
+protection of whistleblowers came into force on 16 december 2019.
+the goals of the eu whistleblowing directive are:
+
+to detect and prevent misconduct and breaches of laws and regulations.
+
+to improve law enforcement by establishing effective, confidential and secure 
+reporting channels to effectively protect whistleblowers from fear of retaliation.
+
+to protect and enable whistleblowers by helping them to raise concerns 
+confidently without fear of retaliation, by ensuring anonymity.
+grt is fully committed to executing its business activities with integrity and maintaining 
+the highest ethical standards. this sop aims at ensuring that the handling of 
+suspected compliance violations globally is conducted in line with the eu 
+whistleblowing directive and all applicable laws, even in non-eu countries where the 
+directive may not be directly applicable.
+5.2 principles to consider when handling compliance cases
+all compliance cases shall be handled in strict compliance with the following principles:
+
+lawfulness: compliance cases shall be handled in strict compliance with all 
+applicable laws and regulations, with special focus on data privacy and labor 
+laws. local legislation shall prevail over this sop.  
+
+objectivity & transparency: compliance cases shall be handled objectively 
+and following a transparent process.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 5.
+Whistleblower 
+Any individual (whether a GRT employee or not) 
+who reports suspected wrongdoing. 
+Ethics Helpline
+GRT tool that serves as a global reporting channel 
+enabling whistleblowers from all over the world to 
+report allegations 24/7. It can be accessed via the 
+link https://ethicshelpline..com   or by 
+phone (as indicated in section 5.3.1 of this SOP). 
+GRT
+Abbreviation for “Grünenthal”. 
+5
+     PROCESS
+5.1Background
+Whistleblowers are vital for maintaining an open and transparent society, as they 
+expose violations of applicable laws and misconduct. To ensure that they are better 
+protected against negative consequences, the EU Directive 2019/1937 on the 
+protection of whistleblowers came into force on 16 December 2019.
+The goals of the EU Whistleblowing Directive are:
+
+To detect and prevent misconduct and breaches of laws and regulations.
+
+To improve law enforcement by establishing effective, confidential and secure 
+reporting channels to effectively protect whistleblowers from fear of retaliation.
+
+To protect and enable whistleblowers by helping them to raise concerns 
+confidently without fear of retaliation, by ensuring anonymity.
+GRT is fully committed to executing its business activities with integrity and maintaining 
+the highest ethical standards. This SOP aims at ensuring that the handling of 
+suspected compliance violations globally is conducted in line with the EU 
+Whistleblowing Directive and all applicable laws, even in non-EU countries where the 
+directive may not be directly applicable.
+5.2 Principles to consider when handling compliance cases
+All compliance cases shall be handled in strict compliance with the following principles:
+
+Lawfulness: Compliance cases shall be handled in strict compliance with all 
+applicable laws and regulations, with special focus on data privacy and labor 
+laws. Local legislation shall prevail over this SOP.  
+
+Objectivity & transparency: Compliance cases shall be handled objectively 
+and following a transparent process.
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+
+right to be heard: employees shall be confronted with allegations raised 
+against them and shall have the right to be heard before the investigation
+activities are concluded. 
+
+need-to-know:
+only those individuals/functions whose input is strictly 
+necessary in the assessment and resolution of a compliance case shall be 
+involved and gain access to information of the case. 
+
+confidentiality: information gathered in the context of a compliance case shall 
+be treated with full confidentiality. the identity of the whistleblower will be at all 
+times protected with the utmost care. 
+
+presumption of innocence: every person accused of wrongdoing shall be
+considered innocent until proven guilty. any reactions/measures shall be taken 
+on the basis of confirmed findings. 
+
+efficiency: compliance cases shall be handled in such a way that unnecessary 
+delays will be avoided considering the priority and urgency of each case as well 
+as cost- and effort efficiency. 
+
+admissibility of results: compliance cases shall be handled in such a way 
+that the results of any investigations are admissible in court if grt decides to 
+litigate. 
+
+independence: the assessment of compliance cases serves the aim to protect 
+the best interests of grt and shall therefore be conducted independently from 
+any internal or external influence. people involved in the handling of the case 
+shall be free from actual or apparent bias or conflict of interest. 
+
+right to representation: if an employee is subject to an interview in the context 
+of a compliance investigation, they shall be informed about the right to be 
+accompanied by a member of the works council, where such council exists. 
+
+proportionality:
+investigation
+activities shall always
+be suitable and 
+proportionate to the allegation in question. they shall be performed in a way 
+that is as effective as possible, but only as intrusive as necessary. 
+
+non-coercive interviews: all interviews shall be based on the nemo tenetur
+principle (no one shall be forced to self-incriminate). interviews shall be stopped 
+upon the interviewee’s request. exceptions may apply in the context of leniency 
+programs and similar activities. 
+
+non retaliation: direct or indirect retaliation against whistleblowers (or 
+witnesses or any other person), whether they are grt employees or not, who 
+had sufficient reason to believe that the reported facts were true or were acting 
+in good faith, is prohibited and will be treated as a compliance violation. this 
+protection covers all forms of harm, such as dismissal, written or oral warnings, 
+job sanctions, discrimination, harassment, loss of status and benefits, or similar 
+actions.
+whistleblowers deliberately and knowingly
+reporting wrong or
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 6.
+
+Right to be heard: Employees shall be confronted with allegations raised 
+against them and shall have the right to be heard before the investigation
+activities are concluded. 
+
+Need-to-know:
+Only those individuals/functions whose input is strictly 
+necessary in the assessment and resolution of a compliance case shall be 
+involved and gain access to information of the case. 
+
+Confidentiality: Information gathered in the context of a compliance case shall 
+be treated with full confidentiality. The identity of the whistleblower will be at all 
+times protected with the utmost care. 
+
+Presumption of innocence: Every person accused of wrongdoing shall be
+considered innocent until proven guilty. Any reactions/measures shall be taken 
+on the basis of confirmed findings. 
+
+Efficiency: Compliance cases shall be handled in such a way that unnecessary 
+delays will be avoided considering the priority and urgency of each case as well 
+as cost- and effort efficiency. 
+
+Admissibility of results: Compliance cases shall be handled in such a way 
+that the results of any investigations are admissible in court if GRT decides to 
+litigate. 
+
+Independence: The assessment of compliance cases serves the aim to protect 
+the best interests of GRT and shall therefore be conducted independently from 
+any internal or external influence. People involved in the handling of the case 
+shall be free from actual or apparent bias or conflict of interest. 
+
+Right to representation: If an employee is subject to an interview in the context 
+of a compliance investigation, they shall be informed about the right to be 
+accompanied by a member of the Works Council, where such council exists. 
+
+Proportionality:
+Investigation
+activities shall always
+be suitable and 
+proportionate to the allegation in question. They shall be performed in a way 
+that is as effective as possible, but only as intrusive as necessary. 
+
+Non-coercive interviews: All interviews shall be based on the nemo tenetur
+principle (no one shall be forced to self-incriminate). Interviews shall be stopped 
+upon the interviewee’s request. Exceptions may apply in the context of leniency 
+programs and similar activities. 
+
+Non retaliation: Direct or indirect retaliation against whistleblowers (or 
+witnesses or any other person), whether they are GRT employees or not, who 
+had sufficient reason to believe that the reported facts were true or were acting 
+in good faith, is prohibited and will be treated as a compliance violation. This 
+protection covers all forms of harm, such as dismissal, written or oral warnings, 
+job sanctions, discrimination, harassment, loss of status and benefits, or similar 
+actions.
+Whistleblowers deliberately and knowingly
+reporting wrong or
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+misleading information, or information that is already fully available in the public 
+domain or unsubstantiated rumors or hearsay, shall not enjoy protection. the 
+motive of the whistleblowers in reporting shall be irrelevant in deciding whether 
+they should receive protection. hr must previously inform the compliance 
+officer in charge of any potential termination of contract/separation upfront to 
+confirm if the employee who will be terminated is connected with a compliance 
+case.
+
+duty to cooperate: employees have a duty to cooperate with, and respond 
+honestly to, the investigation team and the compliance officer in charge
+(except for the nemo tenetur principle which states that no one shall be forced 
+to self-incriminate).
+5.3 reporting an allegation
+suspicions of misconduct and compliance concerns shall be reported to the 
+compliance & responsibility organization without undue delay and in good faith.
+in particular, whistleblowers shall report (and grt employees have a duty to report) 
+facts that have occurred or are very likely to occur in the company, of which they gain 
+personal knowledge or which have been brought to their attention, if they indicate a 
+breach (or an attempt to breach) grt´s policies or sops, code of conduct, applicable 
+laws and regulations, or professional/industrial guidelines and directives.
+employees shall also provide the information and documents that support the 
+allegation.
+alternatively, cases may also be reported directly to the authorities. the list of country 
+authorities is provided in section 6 of this sop.
+5.3.1 grünenthal reporting channels
+allegations may be reported (anonymously) through any of the following channels: 
+
+groupwide 
+ethics 
+helpline:
+https://ethicshelpline..com
+which 
+provides a secure and continuous (anonymous) communication postbox for 
+whistleblowers to communicate with the compliance & responsibility 
+organization. 
+
+groupwide ethics helpline call center: phone numbers available here.
+
+groupwide compliance email: compliance_hq@.com.
+
+local reporting channel: each grt entity has established a local internal 
+reporting channel for allegations, with the local compliance officer as the contact 
+person. the local compliance email address for each grt entity is listed in section 
+6 of this sop. allegations can also be reported in person, by telephone or by post
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 7.
+misleading information, or information that is already fully available in the public 
+domain or unsubstantiated rumors or hearsay, shall not enjoy protection. The 
+motive of the whistleblowers in reporting shall be irrelevant in deciding whether 
+they should receive protection. HR must previously inform the Compliance 
+Officer in Charge of any potential termination of contract/separation upfront to 
+confirm if the employee who will be terminated is connected with a compliance 
+case.
+
+Duty to cooperate: Employees have a duty to cooperate with, and respond 
+honestly to, the Investigation Team and the Compliance Officer in Charge
+(except for the nemo tenetur principle which states that no one shall be forced 
+to self-incriminate).
+5.3 Reporting an allegation
+Suspicions of misconduct and compliance concerns shall be reported to the 
+Compliance & Responsibility Organization without undue delay and in good faith.
+In particular, whistleblowers shall report (and GRT employees have a duty to report) 
+facts that have occurred or are very likely to occur in the company, of which they gain 
+personal knowledge or which have been brought to their attention, if they indicate a 
+breach (or an attempt to breach) GRT´s policies or SOPs, Code of Conduct, applicable 
+laws and regulations, or professional/industrial guidelines and directives.
+Employees shall also provide the information and documents that support the 
+allegation.
+Alternatively, cases may also be reported directly to the authorities. The list of country 
+authorities is provided in section 6 of this SOP.
+5.3.1 Grünenthal reporting channels
+Allegations may be reported (anonymously) through any of the following channels: 
+
+Groupwide 
+Ethics 
+Helpline:
+https://ethicshelpline..com
+which 
+provides a secure and continuous (anonymous) communication postbox for 
+whistleblowers to communicate with the Compliance & Responsibility 
+Organization. 
+
+Groupwide Ethics Helpline Call Center: phone numbers available here.
+
+Groupwide Compliance Email: compliance_hq@.com.
+
+Local Reporting Channel: Each GRT entity has established a local internal 
+reporting channel for allegations, with the Local Compliance Officer as the contact 
+person. The local compliance email address for each GRT entity is listed in section 
+6 of this SOP. Allegations can also be reported in person, by telephone or by post
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+mail to the local reporting offices of the local grt entity (company addresses 
+available here: https://www..com/en/company/global-capabilities). 
+
+direct reporting: personally, to the line manager, human resources, legal, 
+compliance & responsibility, or the worker’s council.
+grt´s ethics helpline policy shall be made clearly and accessible to all employees 
+and, to the extent possible, all people other than workers who come in contact with 
+grt through their work-related activities, such as service providers, distributors and 
+business partners. 
+as a rule, all allegations shall be received by / forwarded to the compliance & 
+responsibility organization, regardless of the channel that is used. however, if the 
+allegation concerns a member of the compliance & responsibility organization, it can 
+be reported to the chairman of the supervisory board via the ethics helpline tool 
+directly. 
+when an allegation reaches the compliance & responsibility organization, the global 
+compliance & responsibility officer shall assign the assessment of the case to a 
+specific compliance officer (“compliance officer in charge”). 
+if the allegation pertains to a topic within the scope of another grt area, outside of 
+the compliance & responsibility organization, it shall be forwarded to the local or 
+global head of the concerned area. to the extent the allegation (partially) falls within 
+the scope of another grt area, but still within the scope of this sop, a compliance 
+officer in charge will be designated to support the respective area in conducting any 
+necessary investigations and to ensure that these activities are conducted in 
+accordance with this sop and applicable laws.
+allegations that do not fall within the scope of this sop, such as specific hr-related 
+topics, shall be forwarded to the local or global head of the respective grt area, and 
+the whistleblower shall be informed accordingly by the compliance & responsibility 
+organization that received the allegation (if applicable). cases of unfair treatment, 
+including discrimination or harassment, shall be forwarded to the compliance & 
+responsibility organization to ensure they are recorded in the ethics helpline, unless 
+they have already been reported directly to them.
+all allegations falling within the scope of this sop shall be captured in grt’s ethics 
+helpline tool, regardless of the reporting channel used and whether they are or not 
+substantiated. the compliance officer in charge will be responsible for capturing the
+allegation in the ethics helpline tool. allegations reported by the whistleblower through 
+the ethics helpline tool that do not fall within the scope of this sop shall be classified 
+as 'out of scope,' except for cases of unfair treatment, including discrimination or 
+harassment. these cases shall always be captured in the ethics helpline tool, 
+regardless of whether they were reported through this tool or not and shall be classified 
+as 'harassment & discrimination'. personal data is to be included in the ethics helpline 
+tool only where strictly necessary.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 8.
+mail to the local reporting offices of the local GRT entity (company addresses 
+available here: https://www..com/en/company/global-capabilities). 
+
+Direct reporting: Personally, to the Line Manager, Human Resources, Legal, 
+Compliance & Responsibility, or the Worker’s Council.
+GRT´s Ethics Helpline Policy shall be made clearly and accessible to all employees 
+and, to the extent possible, all people other than workers who come in contact with 
+GRT through their work-related activities, such as service providers, distributors and 
+business partners. 
+As a rule, all allegations shall be received by / forwarded to the Compliance & 
+Responsibility Organization, regardless of the channel that is used. However, if the 
+allegation concerns a member of the Compliance & Responsibility Organization, it can 
+be reported to the Chairman of the Supervisory Board via the Ethics Helpline tool 
+directly. 
+When an allegation reaches the Compliance & Responsibility Organization, the Global 
+Compliance & Responsibility Officer shall assign the assessment of the case to a 
+specific Compliance Officer (“Compliance Officer in Charge”). 
+If the allegation pertains to a topic within the scope of another GRT area, outside of 
+the Compliance & Responsibility Organization, it shall be forwarded to the Local or 
+Global Head of the concerned area. To the extent the allegation (partially) falls within 
+the scope of another GRT area, but still within the scope of this SOP, a Compliance 
+Officer in Charge will be designated to support the respective area in conducting any 
+necessary investigations and to ensure that these activities are conducted in 
+accordance with this SOP and applicable laws.
+Allegations that do not fall within the scope of this SOP, such as specific HR-related 
+topics, shall be forwarded to the Local or Global Head of the respective GRT area, and 
+the whistleblower shall be informed accordingly by the Compliance & Responsibility 
+Organization that received the allegation (if applicable). Cases of unfair treatment, 
+including discrimination or harassment, shall be forwarded to the Compliance & 
+Responsibility Organization to ensure they are recorded in the Ethics Helpline, unless 
+they have already been reported directly to them.
+All allegations falling within the scope of this SOP shall be captured in GRT’s Ethics 
+Helpline tool, regardless of the reporting channel used and whether they are or not 
+substantiated. The Compliance Officer in Charge will be responsible for capturing the
+allegation in the Ethics Helpline tool. Allegations reported by the whistleblower through 
+the Ethics Helpline tool that do not fall within the scope of this SOP shall be classified 
+as 'Out of scope,' except for cases of unfair treatment, including discrimination or 
+harassment. These cases shall always be captured in the Ethics Helpline tool, 
+regardless of whether they were reported through this tool or not and shall be classified 
+as 'Harassment & Discrimination'. Personal data is to be included in the Ethics Helpline 
+tool only where strictly necessary.
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+the following table outlines the appropriate course of action for each scenario:
+allegations which are 
+in the scope of this 
+sop and in the 
+scope of compliance 
+& responsibility1
+allegations which 
+are in the scope of 
+this sop but not in 
+the scope of 
+compliance & 
+responsibility
+allegations which 
+are neither in the 
+scope of this sop 
+nor in the scope of 
+compliance & 
+responsibility
+who communicates 
+with the 
+whistleblower?
+compliance &
+responsibility
+compliance & 
+responsibility
+concerned area
+who performs the 
+plausibility check?
+compliance & 
+responsibility
+concerned area
+concerned area
+who performs the 
+investigation?
+compliance & 
+responsibility
+concerned area
+concerned area
+where does the case 
+need to be 
+documented?
+ethics helpline
+ethics helpline
+own records of 
+concerned area2
+except for unfair 
+treatment, 
+discrimination or 
+harassment cases 
+(ethics helpline)
+who decides on the 
+resolution of the 
+case?
+ethics committee
+ethics committee3
+concerned area
+if (un)recorded telephone lines or voice messaging systems or face-to-face/virtual 
+meetings are used for reporting, the concerned whistleblowers shall be offered the 
+opportunity to check, rectify and agree to the transcript of the call or the minutes by 
+signing them. complete and accurate records of any relevant meetings in the context 
+of this sop shall be kept in a durable and retrievable form. meetings/calls cannot be 
+recorded without the prior consent of the whistleblower or any other person.   
+5.3.2 anonymity vs confidentiality when reporting an allegation
+when reporting an allegation, the whistleblower may decide to disclose his/her identity 
+or to remain anonymous. 
+if the whistleblower decides not to remain anonymous, his/her identity will be known to 
+the individuals that handle the compliance case and, potentially, to other third parties 
+involved in the assessment and resolution of such case, such as courts, attorneys or 
+even the people accused in certain circumstances. whistleblowers shall be informed 
+                                               
+1 determining whether an allegaon falls in the scope of compliance & responsibility may need to be evaluated 
+on a case-by-case basis. 
+2 if the allegaon is reported through the ethics helpline tool, it will be ﬂagged as “out of scope”.
+3 with the representaon of the concerned area.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 9.
+The following table outlines the appropriate course of action for each scenario:
+Allegations which are 
+in the scope of this 
+SOP AND in the 
+scope of Compliance 
+& Responsibility1
+Allegations which 
+are in the scope of 
+this SOP but NOT in 
+the scope of 
+Compliance & 
+Responsibility
+Allegations which 
+are NEITHER in the 
+scope of this SOP 
+NOR in the scope of 
+Compliance & 
+Responsibility
+Who communicates 
+with the 
+Whistleblower?
+Compliance &
+Responsibility
+Compliance & 
+Responsibility
+Concerned area
+Who performs the 
+plausibility check?
+Compliance & 
+Responsibility
+Concerned area
+Concerned area
+Who performs the 
+investigation?
+Compliance & 
+Responsibility
+Concerned area
+Concerned area
+Where does the case 
+need to be 
+documented?
+Ethics Helpline
+Ethics Helpline
+Own records of 
+concerned area2
+except for unfair 
+treatment, 
+discrimination or 
+harassment cases 
+(Ethics Helpline)
+Who decides on the 
+resolution of the 
+case?
+Ethics Committee
+Ethics Committee3
+Concerned area
+If (un)recorded telephone lines or voice messaging systems or face-to-face/virtual 
+meetings are used for reporting, the concerned whistleblowers shall be offered the 
+opportunity to check, rectify and agree to the transcript of the call or the minutes by 
+signing them. Complete and accurate records of any relevant meetings in the context 
+of this SOP shall be kept in a durable and retrievable form. Meetings/calls cannot be 
+recorded without the prior consent of the whistleblower or any other person.   
+5.3.2 Anonymity vs confidentiality when reporting an allegation
+When reporting an allegation, the whistleblower may decide to disclose his/her identity 
+or to remain anonymous. 
+If the whistleblower decides not to remain anonymous, his/her identity will be known to 
+the individuals that handle the compliance case and, potentially, to other third parties 
+involved in the assessment and resolution of such case, such as courts, attorneys or 
+even the people accused in certain circumstances. Whistleblowers shall be informed 
+                                               
+1 Determining whether an allegaon falls in the scope of Compliance & Responsibility may need to be evaluated 
+on a case-by-case basis. 
+2 If the allegaon is reported through the Ethics Helpline tool, it will be ﬂagged as “Out of scope”.
+3 With the representaon of the concerned area.
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+before their identity is disclosed. in cases where it is required by law, the consent of 
+the whistleblower will be obtained before his/her identity is disclosed to anyone beyond 
+the authorized staff members competent to receive and follow up on reports.
+regardless of whether the whistleblower decides to report an allegation anonymously 
+or disclosing his/her identity, all compliance cases shall be treated with full 
+confidentiality. this means that the identity of the whistleblower and of any individuals 
+involved, as well as the details of the compliance case itself, will only be disclosed to 
+the parties that need to access this information strictly for the assessment and 
+resolution of such case, on a “need-to-know basis”. the confidentiality of the 
+compliance case shall be observed by the investigation team as well as by any other 
+persons involved.
+5.3.3 confirmation of reception of an allegation
+in cases where the whistleblower does not report the case anonymously, the 
+compliance officer in charge shall confirm receipt of the message to the whistleblower 
+in writing without undue delay considering the timelines foreseen in applicable local 
+laws and, in any case, no later than within 7 days upon the reception of the case. the 
+whistleblower shall be provided with individual information about the way his/her 
+personal data will be processed in the context of the assessment of the allegation or 
+shall be directed to the respective privacy statement, in line with all applicable privacy 
+laws.   
+5.3.4     allegations from third parties
+notwithstanding the applicability of this sop to grt employees, grt's compliance & 
+responsibility organization shall make the reporting channel available and encourage 
+anyone, including employees of grt´s business partners or any other individual, to 
+report a potential compliance violation, whether caused by grt or by any business 
+partner.
+in this event, grt will make its best efforts to investigate and take appropriate actions 
+on the reported case, using the same methodology described in this sop (as 
+applicable), namely taking into consideration its related contractual rights and 
+limitations regarding any report concerning a business partner.
+5.4
+investigation activities
+when an allegation is reported, an assessment shall be performed to determine if such 
+allegation is (not) substantiated. 
+5.4.1 preparing the investigation plan 
+upon reception of an allegation (except if such allegation concerns a member of the 
+compliance & responsibility organization), the global compliance & responsibility
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 10.
+before their identity is disclosed. In cases where it is required by law, the consent of 
+the whistleblower will be obtained before his/her identity is disclosed to anyone beyond 
+the authorized staff members competent to receive and follow up on reports.
+Regardless of whether the whistleblower decides to report an allegation anonymously 
+or disclosing his/her identity, all compliance cases shall be treated with full 
+confidentiality. This means that the identity of the whistleblower and of any individuals 
+involved, as well as the details of the compliance case itself, will only be disclosed to 
+the parties that need to access this information strictly for the assessment and 
+resolution of such case, on a “need-to-know basis”. The confidentiality of the 
+compliance case shall be observed by the investigation team as well as by any other 
+persons involved.
+5.3.3 Confirmation of reception of an allegation
+In cases where the whistleblower does not report the case anonymously, the 
+Compliance Officer in Charge shall confirm receipt of the message to the whistleblower 
+in writing without undue delay considering the timelines foreseen in applicable local 
+laws and, in any case, no later than within 7 days upon the reception of the case. The 
+whistleblower shall be provided with individual information about the way his/her 
+personal data will be processed in the context of the assessment of the allegation or 
+shall be directed to the respective privacy statement, in line with all applicable privacy 
+laws.   
+5.3.4     Allegations from third parties
+Notwithstanding the applicability of this SOP to GRT employees, GRT's Compliance & 
+Responsibility Organization shall make the reporting channel available and encourage 
+anyone, including employees of GRT´s business partners or any other individual, to 
+report a potential compliance violation, whether caused by GRT or by any business 
+partner.
+In this event, GRT will make its best efforts to investigate and take appropriate actions 
+on the reported case, using the same methodology described in this SOP (as 
+applicable), namely taking into consideration its related contractual rights and 
+limitations regarding any report concerning a business partner.
+5.4
+Investigation activities
+When an allegation is reported, an assessment shall be performed to determine if such 
+allegation is (not) substantiated. 
+5.4.1 Preparing the Investigation Plan 
+Upon reception of an allegation (except if such allegation concerns a member of the 
+Compliance & Responsibility Organization), the Global Compliance & Responsibility
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+officer shall assign its assessment to a specific compliance officer (“compliance 
+officer in charge”), who will lead all activities necessary for the successful handling of 
+the compliance case.
+the compliance officer in charge will assemble, in close alignment with the global 
+compliance & responsibility officer, the investigation team. when selecting the 
+investigation team, the driver criteria shall be the specific skills needed as well as the 
+workload foreseen given the complexity of the case.  
+the compliance officer in charge shall draft the investigation plan, which will clearly 
+detail the objectives of the investigation, the specific investigation activities that are 
+planned, the composition of the investigation team, the specific milestones and 
+timelines as well as a preliminary assessment about who needs to be informed about 
+the case (e. g. board of directors, shareholders, insurance company, workers council, 
+etc.). all documentation and evidence generated during the processing of an allegation 
+shall be recorded in the ethics helpline tool. 
+5.4.2 plausibility check
+investigation activities shall only be started if the allegation is minimally substantiated 
+and includes the minimum elements for the investigation to be successfully performed. 
+for example, statements that lack the minimum piece of information in order to 
+understand the context of the allegation shall be discarded. 
+if necessary and possible (e.g. if the whistleblower has disclosed his/her identity), the 
+compliance officer in charge will request additional information to the whistleblower 
+to gain a better understanding of the allegations and decide if the case must be further 
+investigated.
+when performing the plausibility check, the compliance officer in charge will evaluate 
+the allegations in a neutral and fair manner and will consider any possible motivations 
+of the whistleblower to report the allegations. the plausibility check shall serve as a 
+first filter to avoid the (ab)use of allegations for illegitimate purposes (e.g., personal 
+interests).
+once the plausibility check has been finalized, the outcome (whether the plausibility 
+check supports or not the allegation) shall be documented in the ethics helpline tool 
+by the compliance officer in charge. 
+5.4.3 investigation activities
+all investigation activities shall be conducted in strict compliance with the principles 
+outlined in section 5.2 of this sop, the data economy principle and in accordance with 
+all applicable laws (in particular, data privacy and labor laws). 
+investigation activities might include (but are not limited to): 
+
+document review and interpretation
+
+data analysis
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 11.
+Officer shall assign its assessment to a specific Compliance Officer (“Compliance 
+Officer in Charge”), who will lead all activities necessary for the successful handling of 
+the compliance case.
+The Compliance Officer in Charge will assemble, in close alignment with the Global 
+Compliance & Responsibility Officer, the investigation team. When selecting the 
+investigation team, the driver criteria shall be the specific skills needed as well as the 
+workload foreseen given the complexity of the case.  
+The Compliance Officer in Charge shall draft the investigation plan, which will clearly 
+detail the objectives of the investigation, the specific investigation activities that are 
+planned, the composition of the investigation team, the specific milestones and 
+timelines as well as a preliminary assessment about who needs to be informed about 
+the case (e. g. Board of Directors, shareholders, insurance company, workers council, 
+etc.). All documentation and evidence generated during the processing of an allegation 
+shall be recorded in the Ethics Helpline tool. 
+5.4.2 Plausibility check
+Investigation activities shall only be started if the allegation is minimally substantiated 
+and includes the minimum elements for the investigation to be successfully performed. 
+For example, statements that lack the minimum piece of information in order to 
+understand the context of the allegation shall be discarded. 
+If necessary and possible (e.g. if the whistleblower has disclosed his/her identity), the 
+Compliance Officer in Charge will request additional information to the whistleblower 
+to gain a better understanding of the allegations and decide if the case must be further 
+investigated.
+When performing the plausibility check, the Compliance Officer in Charge will evaluate 
+the allegations in a neutral and fair manner and will consider any possible motivations 
+of the whistleblower to report the allegations. The plausibility check shall serve as a 
+first filter to avoid the (ab)use of allegations for illegitimate purposes (e.g., personal 
+interests).
+Once the plausibility check has been finalized, the outcome (whether the plausibility 
+check supports or not the allegation) shall be documented in the Ethics Helpline tool 
+by the Compliance Officer in Charge. 
+5.4.3 Investigation activities
+All investigation activities shall be conducted in strict compliance with the principles 
+outlined in section 5.2 of this SOP, the data economy principle and in accordance with 
+all applicable laws (in particular, data privacy and labor laws). 
+Investigation activities might include (but are not limited to): 
+
+Document review and interpretation
+
+Data analysis
+
+==================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+
+interviews
+
+background checks and deep dives
+
+e-mail and file screening
+
+search of workplace
+
+analysis of publicly available information
+investigation activities shall be conducted in a way that is as effective as possible, but 
+only as intrusive as necessary. legal advice might be sought in order to understand to 
+what extent investigation activities are permissible under applicable laws. when legally 
+required or if deemed appropriate, workers councils shall also be involved.
+investigation activities shall be documented by the compliance officer in charge in the 
+ethics helpline tool. 
+5.4.4 confidentiality during investigation activities
+the investigation team shall secure and protect from unauthorized disclosures all 
+information gathered and processed in the course of an investigation. the investigation 
+team shall ensure that such information is classified and labelled as “confidential”. 
+the investigation team may disclose certain information to the people accused or other 
+specific individuals or third parties on a strict “need-to-know” basis, if this is strictly 
+necessary during the investigation, for example, to corroborate certain facts or give 
+them the right to be heard.  
+this may include: 
+
+information provided to the people accused to allow them to fully respond to 
+allegations and to provide countervailing evidence,
+
+information contained in requests to witnesses or other people with whom the 
+investigation team communicate to verify facts,
+
+where appropriate, preliminary information may be shared with senior 
+management during an investigation to allow necessary actions to be taken 
+prior to the conclusion of such an investigation. 
+the investigation team shall ensure that the individuals that gain access to any details 
+of the compliance case are bound to confidentiality obligations, for example, by asking 
+them to sign a confidentiality agreement.
+in determining the level of information that is provided to the people accused, 
+witnesses and other third parties during an investigation, the investigation team shall 
+seek to strike a balance between the legitimate need for information and the risk that 
+the investigation will be compromised and/or that the witnesses and whistleblowers will 
+be subject to retaliation. 
+in order to protect the reputation of a person/entity against whom allegations have 
+been made, the disclosure of the identity of that person/entity must be restricted to a 
+need-to-know basis, that is, it may only be disclosed if this is necessary for the 
+investigation team to proceed with its investigative activities or to protect the interests 
+of grt.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 12.
+
+Interviews
+
+Background checks and deep dives
+
+E-mail and file screening
+
+Search of workplace
+
+Analysis of publicly available information
+Investigation activities shall be conducted in a way that is as effective as possible, but 
+only as intrusive as necessary. Legal advice might be sought in order to understand to 
+what extent investigation activities are permissible under applicable laws. When legally 
+required or if deemed appropriate, workers councils shall also be involved.
+Investigation activities shall be documented by the Compliance Officer in Charge in the 
+Ethics Helpline tool. 
+5.4.4 Confidentiality during investigation activities
+The investigation team shall secure and protect from unauthorized disclosures all 
+information gathered and processed in the course of an investigation. The investigation 
+team shall ensure that such information is classified and labelled as “Confidential”. 
+The investigation team may disclose certain information to the people accused or other 
+specific individuals or third parties on a strict “need-to-know” basis, if this is strictly 
+necessary during the investigation, for example, to corroborate certain facts or give 
+them the right to be heard.  
+This may include: 
+
+Information provided to the people accused to allow them to fully respond to 
+allegations and to provide countervailing evidence,
+
+Information contained in requests to witnesses or other people with whom the 
+investigation team communicate to verify facts,
+
+Where appropriate, preliminary information may be shared with senior 
+management during an investigation to allow necessary actions to be taken 
+prior to the conclusion of such an investigation. 
+The investigation team shall ensure that the individuals that gain access to any details 
+of the compliance case are bound to confidentiality obligations, for example, by asking 
+them to sign a confidentiality agreement.
+In determining the level of information that is provided to the people accused, 
+witnesses and other third parties during an investigation, the investigation team shall 
+seek to strike a balance between the legitimate need for information and the risk that 
+the investigation will be compromised and/or that the witnesses and whistleblowers will 
+be subject to retaliation. 
+In order to protect the reputation of a person/entity against whom allegations have 
+been made, the disclosure of the identity of that person/entity must be restricted to a 
+need-to-know basis, that is, it may only be disclosed if this is necessary for the 
+investigation team to proceed with its investigative activities or to protect the interests 
+of GRT.
+
+==================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+breach of confidentiality in the context of an investigation constitutes misconduct and 
+may lead to disciplinary proceedings.
+5.4.5 adoption of ad-hoc measures
+the compliance officer in charge shall consider whether specific measures must be 
+adopted considering the facts uncovered. such measures may be adopted, for 
+example, to bring an illegal situation to an end, to preserve evidence in case of potential 
+litigation or to ensure that the interests of grt are preserved. the compliance officer 
+in charge shall involve the relevant areas in the adoption of specific measures, 
+according to other applicable company policies and works council agreements.
+among the measures that can be taken, there are the following: 
+
+remedy for illegal misconduct:
+o
+stop ongoing undue payments or suspend a relationship with a business 
+partner.
+o
+impose disciplinary measures such as temporary suspension of the labor 
+contract.
+o
+report the case to the authorities.
+
+preservation of evidence
+o
+check whether the relevant evidence, including e-mails, physical files, 
+video recordings, etc. have been secured/saved.  
+o
+communicate the retention of the evidence to the relevant stakeholders. 
+
+business preservation
+o
+identify which stakeholders must be informed, whether the internal 
+and/or the external auditors, the risk management area, the data 
+protection officer, the corporate executive board, the authorities, etc. 
+o
+consider whether the “directors and officers insurance office” or other 
+insurance companies must be informed (consult with legal in case of 
+doubt).
+o
+consult whether the relevant finance areas must be informed in case a 
+financial impact is foreseen (e.g. whether any tax corrections or accruals 
+must be made).
+  
+5.5
+assessment and resolution of the compliance case
+5.5.1 assessment of the compliance case
+once all the evidence is gathered and the investigation is concluded, the investigation 
+team shall objectively assess the case to ascertain whether the allegations are 
+substantiated. 
+the assessment activities shall include:
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 13.
+Breach of confidentiality in the context of an investigation constitutes misconduct and 
+may lead to disciplinary proceedings.
+5.4.5 Adoption of ad-hoc measures
+The Compliance Officer in Charge shall consider whether specific measures must be 
+adopted considering the facts uncovered. Such measures may be adopted, for 
+example, to bring an illegal situation to an end, to preserve evidence in case of potential 
+litigation or to ensure that the interests of GRT are preserved. The Compliance Officer 
+in Charge shall involve the relevant areas in the adoption of specific measures, 
+according to other applicable company policies and works council agreements.
+Among the measures that can be taken, there are the following: 
+
+Remedy for illegal misconduct:
+o
+Stop ongoing undue payments or suspend a relationship with a business 
+partner.
+o
+Impose disciplinary measures such as temporary suspension of the labor 
+contract.
+o
+Report the case to the authorities.
+
+Preservation of evidence
+o
+Check whether the relevant evidence, including e-mails, physical files, 
+video recordings, etc. have been secured/saved.  
+o
+Communicate the retention of the evidence to the relevant stakeholders. 
+
+Business preservation
+o
+Identify which stakeholders must be informed, whether the internal 
+and/or the external auditors, the risk management area, the Data 
+Protection Officer, the Corporate Executive Board, the authorities, etc. 
+o
+Consider whether the “Directors and Officers Insurance Office” or other 
+insurance companies must be informed (consult with Legal in case of 
+doubt).
+o
+Consult whether the relevant Finance areas must be informed in case a 
+financial impact is foreseen (e.g. whether any tax corrections or accruals 
+must be made).
+  
+5.5
+Assessment and resolution of the compliance case
+5.5.1 Assessment of the compliance case
+Once all the evidence is gathered and the investigation is concluded, the investigation 
+team shall objectively assess the case to ascertain whether the allegations are 
+substantiated. 
+The assessment activities shall include:
+
+==================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+
+an evaluation of the findings against grt´s policies or sops, code of conduct 
+and applicable laws and regulations.
+
+an evaluation of the severity of the violation taking into account the context and 
+all circumstances.
+
+an analysis of violation-related process weaknesses.
+very serious and/or very complex compliance cases may require a deeper analysis 
+(“root cause analysis“). 
+the following possible root causes must be analyzed (not exhaustive list):
+
+lack of awareness of the individuals involved
+
+violations with criminal intent and/or the intent to cause damages
+
+inadequate implementation of the compliance system
+
+process weaknesses in the internal control system
+
+incentive strongly driven by turnover
+
+“sensitive” business units or entities where compliance violations occur 
+repeatedly
+5.5.2 outcome of the assessment
+once the assessment is finalized, the investigation team shall inform the compliance 
+officer in charge about the outcome of the assessment (in case they are different). 
+the compliance officer in charge shall form an opinion on whether the allegations are 
+(un)substantiated. 
+as a result, each allegation shall be classified as: 
+
+substantiated
+
+unsubstantiated 
+
+inconclusive. 
+additionally, the investigation may result in: 
+
+the identification of one or more people liable for the act or omission 
+
+the identification of weaknesses in existing procedures that allowed the events 
+to occur
+the outcome of the assessment shall be documented by the compliance officer in 
+charge of the ethics helpline tool. 
+5.5.3 resolution of the compliance case
+when the allegations are substantiated, an ethics committee shall be convened to 
+determine appropriate responses. the composition of such ethics committee (who will 
+typically include the general manager of the
+concerned
+cluster/region,
+local/regional/hq
+legal 
+counsel,
+local/regional/hq
+compliance 
+officer, 
+local/regional/hq
+head 
+of 
+human 
+resources 
+and 
+a 
+member 
+of 
+the 
+local/regional/hq leadership team whose area of responsibility is affected by the 
+compliance case) shall depend on the individuals involved in the allegations and on 
+the potential impact to grünenthal. in countries where it is legally required, the works 
+council must be involved in the resolution of the case.
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 14.
+
+An evaluation of the findings against GRT´s policies or SOPs, Code of Conduct 
+and applicable laws and regulations.
+
+An evaluation of the severity of the violation taking into account the context and 
+all circumstances.
+
+An analysis of violation-related process weaknesses.
+Very serious and/or very complex compliance cases may require a deeper analysis 
+(“root cause analysis“). 
+The following possible root causes must be analyzed (not exhaustive list):
+
+Lack of awareness of the individuals involved
+
+Violations with criminal intent and/or the intent to cause damages
+
+Inadequate implementation of the compliance system
+
+Process weaknesses in the internal control system
+
+Incentive strongly driven by turnover
+
+“Sensitive” business units or entities where compliance violations occur 
+repeatedly
+5.5.2 Outcome of the assessment
+Once the assessment is finalized, the investigation team shall inform the Compliance 
+Officer in Charge about the outcome of the assessment (in case they are different). 
+The Compliance Officer in Charge shall form an opinion on whether the allegations are 
+(un)substantiated. 
+As a result, each allegation shall be classified as: 
+
+Substantiated
+
+Unsubstantiated 
+
+Inconclusive. 
+Additionally, the investigation may result in: 
+
+The identification of one or more people liable for the act or omission 
+
+The identification of weaknesses in existing procedures that allowed the events 
+to occur
+The outcome of the assessment shall be documented by the Compliance Officer in 
+Charge of the Ethics Helpline tool. 
+5.5.3 Resolution of the compliance case
+When the allegations are substantiated, an Ethics Committee shall be convened to 
+determine appropriate responses. The composition of such Ethics Committee (who will 
+typically include the General Manager of the
+concerned
+Cluster/Region,
+Local/Regional/HQ
+Legal 
+Counsel,
+Local/Regional/HQ
+Compliance 
+Officer, 
+Local/Regional/HQ
+Head 
+of 
+Human 
+Resources 
+and 
+a 
+Member 
+of 
+the 
+Local/Regional/HQ Leadership Team whose area of responsibility is affected by the 
+compliance case) shall depend on the individuals involved in the allegations and on 
+the potential impact to Grünenthal. In countries where it is legally required, the Works 
+Council must be involved in the resolution of the case.
+
+==================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+a) global ethics committee (gec)
+a global ethics committee may be convened when the allegations involve: 
+
+general managers of the grt clusters or regional office.
+
+members of the leadership team of a grt cluster or regional office.
+
+employees from various grt clusters simultaneously.
+
+business partners used by the headquarters or by several grt clusters 
+simultaneously.
+
+any substantial violation of human rights and/or environmental protection 
+obligation, whether in our own business and in our global supply chain.
+
+any other individuals who cause substantial violations of the code of conduct, 
+systemic violations, significant financial impact or significant reputational impact 
+to the grünenthal group. 
+b) regional ethics committee (rec)
+a regional ethics committee may be convened (provided such a regional office 
+exists) when the allegations involve: 
+
+general managers of the grt clusters that report to the regional office.
+
+members of the leadership team of a cluster that report to the regional office.
+
+employees from various grt clusters simultaneously, when they all report to 
+the regional office.
+
+business partners used by the regional office or by several grt clusters 
+simultaneously, when they all report to the regional office.
+
+employee(s) of the regional office (excluding members of the leadership 
+team of the regional office).
+c) local ethics committee (lec)
+a local ethics committee may be convened when the allegations involve employees 
+or business partners with impact solely or mainly on the local affiliate (except for 
+general managers and members of the leadership team of the cluster).  
+in all other cases, where allegations do not have significant impact, the disciplinary 
+evaluation and decision on the appropriate response to non-compliant behavior shall 
+be undertaken by the affected employee’s line manager and the hr organization, 
+unless the local, regional or global ethics committee declares itself competent to 
+decide in specific cases. 
+5.5.4 adoption of measures
+the respective ethics committee shall decide regarding the adoption of measures to 
+respond to the compliance violations when the allegations are substantiated. 
+such measures may include: 
+
+organizational measures
+o
+changes in the operational structure (e.g. changing processes)
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 15.
+a) Global Ethics Committee (GEC)
+A Global Ethics Committee may be convened when the allegations involve: 
+
+General Managers of the GRT Clusters or Regional Office.
+
+Members of the Leadership Team of a GRT Cluster or Regional Office.
+
+Employees from various GRT Clusters simultaneously.
+
+Business partners used by the Headquarters or by several GRT Clusters 
+simultaneously.
+
+Any substantial violation of human rights and/or environmental protection 
+obligation, whether in our own business and in our global supply chain.
+
+Any other individuals who cause substantial violations of the Code of Conduct, 
+systemic violations, significant financial impact or significant reputational impact 
+to the Grünenthal Group. 
+b) Regional Ethics Committee (REC)
+A Regional Ethics Committee may be convened (provided such a Regional Office 
+exists) when the allegations involve: 
+
+General Managers of the GRT Clusters that report to the Regional Office.
+
+Members of the Leadership Team of a Cluster that report to the Regional Office.
+
+Employees from various GRT Clusters simultaneously, when they all report to 
+the Regional Office.
+
+Business partners used by the Regional Office or by several GRT Clusters 
+simultaneously, when they all report to the Regional Office.
+
+Employee(s) of the Regional Office (excluding members of the Leadership 
+Team of the Regional Office).
+c) Local Ethics Committee (LEC)
+A Local Ethics Committee may be convened when the allegations involve employees 
+or business partners with impact solely or mainly on the local affiliate (except for 
+General Managers and Members of the Leadership Team of the Cluster).  
+In all other cases, where allegations do not have significant impact, the disciplinary 
+evaluation and decision on the appropriate response to non-compliant behavior shall 
+be undertaken by the affected employee’s line manager and the HR Organization, 
+unless the Local, Regional or Global Ethics Committee declares itself competent to 
+decide in specific cases. 
+5.5.4 Adoption of measures
+The respective Ethics Committee shall decide regarding the adoption of measures to 
+respond to the compliance violations when the allegations are substantiated. 
+Such measures may include: 
+
+Organizational measures
+o
+Changes in the operational structure (e.g. changing processes)
+
+==================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+o
+changes in the organizational structure (e.g. bringing in additional 
+resources)
+
+disciplinary measures
+o
+reprimand
+o
+warning letter
+o
+transfer to another position or legal entity
+o
+termination of contract/separation
+o
+early retirement
+o
+bonus reduction
+
+legal measures
+o
+measures imposed by criminal law (e.g. criminal charge, informing the 
+public prosecution department, etc.)
+o
+measures imposed by civil law (e.g. damages, injunction, d&o insurance, 
+termination/adjustment business relation)
+o
+tax measures
+o
+making provisions/accruals
+o
+information to external auditor 
+
+other corrective measures
+o
+training
+o
+adjustment/creation of guidelines and/or instructions
+o
+process improvements 
+o
+case studies
+o
+other awareness-creating measures
+the outcome of the assessment and the final measures adopted shall be documented 
+in the ethics helpline tool by the compliance officer in charge.
+5.5.5 information to the whistleblower
+the whistleblower shall be informed in writing within 3 months, starting from the 
+acknowledgment of receipt, about the outcome of the investigation (that is, whether 
+the allegations are considered to be substantiated, unsubstantiated or inconclusive) 
+including any follow-up measures taken and planned and the reasons for them. any 
+extensions of this deadline are only acceptable in case the nature and complexity of 
+the subject may require a lengthy investigation with the approval of the compliance 
+officer in charge in alignment with the global compliance & responsibility officer. in 
+any case, such a timeframe shall never exceed 6 months. in cases where the 
+whistleblower decides not to report the case by disclosing his/her identity, such 
+communication will not be made.
+5.5.6 cooperation with authorities
+in jurisdictions where there is a legal obligation to disclose to public authorities reports 
+or findings regarding certain misconducts (i.e. reports related to alleged crimes or 
+anticompetitive behavior), the compliance officer in charge shall inform the global
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 16.
+o
+Changes in the organizational structure (e.g. bringing in additional 
+resources)
+
+Disciplinary measures
+o
+Reprimand
+o
+Warning letter
+o
+Transfer to another position or legal entity
+o
+Termination of contract/separation
+o
+Early retirement
+o
+Bonus reduction
+
+Legal measures
+o
+Measures imposed by criminal law (e.g. criminal charge, informing the 
+public prosecution department, etc.)
+o
+Measures imposed by civil law (e.g. damages, injunction, D&O insurance, 
+termination/adjustment business relation)
+o
+Tax measures
+o
+Making provisions/accruals
+o
+Information to external auditor 
+
+Other corrective measures
+o
+Training
+o
+Adjustment/creation of guidelines and/or instructions
+o
+Process improvements 
+o
+Case studies
+o
+Other awareness-creating measures
+The outcome of the assessment and the final measures adopted shall be documented 
+in the Ethics Helpline tool by the Compliance Officer in Charge.
+5.5.5 Information to the whistleblower
+The whistleblower shall be informed in writing within 3 months, starting from the 
+acknowledgment of receipt, about the outcome of the investigation (that is, whether 
+the allegations are considered to be substantiated, unsubstantiated or inconclusive) 
+including any follow-up measures taken and planned and the reasons for them. Any 
+extensions of this deadline are only acceptable in case the nature and complexity of 
+the subject may require a lengthy investigation with the approval of the Compliance 
+Officer in Charge in alignment with the Global Compliance & Responsibility Officer. In 
+any case, such a timeframe shall never exceed 6 months. In cases where the 
+whistleblower decides not to report the case by disclosing his/her identity, such 
+communication will not be made.
+5.5.6 Cooperation with authorities
+In jurisdictions where there is a legal obligation to disclose to public authorities reports 
+or findings regarding certain misconducts (i.e. reports related to alleged crimes or 
+anticompetitive behavior), the Compliance Officer in Charge shall inform the Global
+
+==================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+
+[CONTENT - LOWERCASE]:
+compliance & responsibility officer, the general counsel, and, if necessary 
+(depending on the severity of the case), the executive board member responsible for 
+the area concerned by the case, who shall jointly decide whether the case merits to be 
+reported to the authorities. 
+any other reporting of cases to authorities shall also be approved by the global 
+compliance & responsibility officer, the general counsel, and the executive board 
+member responsible for the concerned area, balancing grt’s control over the 
+investigation and the benefits of the cooperation.
+5.6
+data retention 
+the information about cases (including the information registered in the ethics helpline 
+tool), shall only be retained for as long as there is a need for it. when there no longer 
+is a strict business or legal need for retaining the registered information, the information 
+shall be deleted 5 years after the compliance case is closed, unless it is reasonably 
+expected that the information will be needed in future (e. g. in case of litigation) in which 
+case the data will be stored for the maximum period permitted by the law. if local data 
+protection laws provide shorter retention periods, these should be applied. 
+personal data which is manifestly not relevant for the handling of a specific case shall 
+not be collected or, if accidentally collected, shall be deleted without undue delay.
+5
+contact details per country
+national authorities may be contacted via the contact information available at the 
+following link: compliance - external reporting channels
+6
+references
+ethics helpline policy (included in: proc-005193 global compliance 
+framework_code of conduct)
+7
+
+[CONTENT - ORIGINAL]:
+Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 17.
+Compliance & Responsibility Officer, the General Counsel, and, if necessary 
+(depending on the severity of the case), the Executive Board Member responsible for 
+the area concerned by the case, who shall jointly decide whether the case merits to be 
+reported to the authorities. 
+Any other reporting of cases to authorities shall also be approved by the Global 
+Compliance & Responsibility Officer, the General Counsel, and the Executive Board 
+Member responsible for the concerned area, balancing GRT’s control over the 
+investigation and the benefits of the cooperation.
+5.6
+Data retention 
+The information about cases (including the information registered in the Ethics Helpline 
+tool), shall only be retained for as long as there is a need for it. When there no longer 
+is a strict business or legal need for retaining the registered information, the information 
+shall be deleted 5 years after the compliance case is closed, unless it is reasonably 
+expected that the information will be needed in future (e. g. in case of litigation) in which 
+case the data will be stored for the maximum period permitted by the law. If local data 
+protection laws provide shorter retention periods, these should be applied. 
+Personal data which is manifestly not relevant for the handling of a specific case shall 
+not be collected or, if accidentally collected, shall be deleted without undue delay.
+5
+CONTACT DETAILS PER COUNTRY
+National authorities may be contacted via the contact information available at the 
+following link: Compliance - External Reporting Channels
+6
+REFERENCES
+Ethics Helpline Policy (included in: PROC-005193 Global Compliance 
+Framework_Code of Conduct)
+7
+
+==================================================
+

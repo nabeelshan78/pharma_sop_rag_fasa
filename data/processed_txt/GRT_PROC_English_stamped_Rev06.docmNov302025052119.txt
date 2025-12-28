@@ -1,0 +1,1220 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+local title: global process for capa management
+1
+objective
+the objective of this document is to describe the management of corrective actions 
+and preventive actions (capa) as essential process for continuous improvement.
+2
+scope
+this document applies to everyone involved in capa management at grünenthal
+group (grt).
+this process is mandatory for all capas derived from qms processes (e.g., 
+deviations, complaints, audit findings), gxp-related opportunities for improvement 
+(stand-alone capas) and is optional for all other capas, whenever deemed 
+appropriate and beneficial. 
+capas owned by drug safety, ehs or external parties are not in scope.
+3
+responsibilities
+the responsibilities of users assigned to the following roles are described in more 
+detail in section 5. it can be possible that one person has more than one role. in any 
+case it must be ensured that at least two different persons are involved.
+in case an external party must be involved, a person within/ acting on behalf of grt 
+having the relevant role is responsible to follow-up and document the outcome.
+function/ role
+responsibility
+capa approvers
+capa approvers are: head of the affected department(s)/ 
+designee and the respective responsible qa function.
+the approvers confirm by their signature the following points:
+head of affected department(s) or designee - business 
+approver: 
+ensure the capa plan is adequate as well as appropriately timed 
+to eliminate the root cause or mitigate risk. ensure appropriate 
+resources are available to execute the plan. has ultimate 
+accountability for root cause identification and appropriateness 
+defined actions, timely implementation and capa effectiveness.
+qa function (see under “capa qa”)
+capa owner
+person of the affected department or business process owner of 
+the affected process (in which root cause was happening). 
+the capa owner, in alignment with approver(s), is responsible to 
+define/ document an appropriate capa plan and executing/
+implementing the plan and, where relevant, effectiveness check, 
+on behalf of the head of the affected department.
+assigns capa action(s) to responsible individual(s) (i.e., capa 
+task assignee=action owner) and establishes/ manages timeline.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 2.
+Local Title: Global Process for CAPA Management
+1
+OBJECTIVE
+The objective of this document is to describe the management of corrective actions 
+and preventive actions (CAPA) as essential process for continuous improvement.
+2
+SCOPE
+This document applies to everyone involved in CAPA management at Grünenthal
+group (GRT).
+This process is mandatory for all CAPAs derived from QMS processes (e.g., 
+deviations, complaints, audit findings), GxP-related opportunities for improvement 
+(stand-alone CAPAs) and is optional for all other CAPAs, whenever deemed 
+appropriate and beneficial. 
+CAPAs owned by Drug Safety, EHS or external parties are not in scope.
+3
+RESPONSIBILITIES
+The responsibilities of users assigned to the following roles are described in more 
+detail in section 5. It can be possible that one person has more than one role. In any 
+case it must be ensured that at least two different persons are involved.
+In case an external party must be involved, a person within/ acting on behalf of GRT 
+having the relevant role is responsible to follow-up and document the outcome.
+Function/ Role
+Responsibility
+CAPA Approvers
+CAPA Approvers are: Head of the affected department(s)/ 
+designee and the respective responsible QA function.
+The approvers confirm by their signature the following points:
+Head of affected department(s) or Designee - business 
+approver: 
+Ensure the CAPA plan is adequate as well as appropriately timed 
+to eliminate the root cause or mitigate risk. Ensure appropriate 
+resources are available to execute the plan. Has ultimate 
+accountability for root cause identification and appropriateness 
+defined actions, timely implementation and CAPA effectiveness.
+QA function (see under “CAPA QA”)
+CAPA Owner
+Person of the affected department or Business Process Owner of 
+the affected process (in which root cause was happening). 
+The CAPA Owner, in alignment with approver(s), is responsible to 
+define/ document an appropriate CAPA plan and executing/
+implementing the plan and, where relevant, effectiveness check, 
+on behalf of the Head of the affected department.
+Assigns CAPA action(s) to responsible individual(s) (i.e., CAPA 
+Task Assignee=action owner) and establishes/ manages timeline.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+function/ role
+responsibility
+capa qa
+person fulfilling a quality assurance function within the 
+organization or a representative of the specific department or unit 
+responsible for ensuring compliance with regulations and 
+company procedures. responsibilities include:
+plan approval:
+assessing the performed rca from a qa perspective and the 
+adequacy of the capa plan in relation to its associated source 
+(e.g., deviation). ensure the actions proposed aim to prevent/ 
+minimize recurrence and/ or occurrence, and adequate 
+explanation is given on required effectiveness check. if required, 
+confirm that the effectiveness check is adequately planned and 
+the plan well described. approving capa plan and due date 
+based on risk of the related issue.
+final closure:
+assessing and approving the outcome of all capa activities 
+including if applicable the effectiveness check. close the capa.
+capa task 
+assignee
+person responsible for implementing capa action(s) and 
+reporting results within defined timelines as well as pro-active 
+communication to capa owner, if activities will not be completed 
+as planned.
+capa initiator
+any person trained on this procedure, who is responsible to 
+provide/ confirm the initial details for the capa (e.g., necessary
+data to plan, execute/ coordinate and/or document rca activities
+as well as their outcome) and define the appropriate capa 
+owner. the capa initiator completes the capa initiation. 
+extension request 
+approver (for 
+capa due date)
+the persons who approved the capa plan (incl. initial capa due 
+date) or designees, are responsible to evaluate and approve 
+requested extension of the capa due date. 
+4
+terms and definitions
+term
+definition
+action item
+form to request a specified task from a capa task assignee to 
+be completed until a specified due date in the future. 
+during capa management, action items can be used to perform 
+activities concerning rci, capa plan or effectiveness checks.
+capa
+corrective action, preventive action.
+capa due date
+capas must be planned with a due date that covers all steps 
+until completed final approval. appropriate time must be planned
+for implementation and if required effectiveness check.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 3.
+Function/ Role
+Responsibility
+CAPA QA
+Person fulfilling a quality assurance function within the 
+organization or a representative of the specific department or unit 
+responsible for ensuring compliance with regulations and 
+company procedures. Responsibilities include:
+Plan Approval:
+Assessing the performed RCA from a QA perspective and the 
+adequacy of the CAPA plan in relation to its associated source 
+(e.g., deviation). Ensure the actions proposed aim to prevent/ 
+minimize recurrence and/ or occurrence, and adequate 
+explanation is given on required effectiveness check. If required, 
+confirm that the effectiveness check is adequately planned and 
+the plan well described. Approving CAPA plan and due date 
+based on risk of the related issue.
+Final Closure:
+Assessing and approving the outcome of all CAPA activities 
+including if applicable the effectiveness check. Close the CAPA.
+CAPA Task 
+Assignee
+Person responsible for implementing CAPA action(s) and 
+reporting results within defined timelines as well as pro-active 
+communication to CAPA Owner, if activities will not be completed 
+as planned.
+CAPA Initiator
+Any person trained on this procedure, who is responsible to 
+provide/ confirm the initial details for the CAPA (e.g., necessary
+data to plan, execute/ coordinate and/or document RCA activities
+as well as their outcome) and define the appropriate CAPA 
+Owner. The CAPA initiator completes the CAPA initiation. 
+Extension Request 
+Approver (for 
+CAPA due date)
+The persons who approved the CAPA plan (incl. initial CAPA due 
+date) or designees, are responsible to evaluate and approve 
+requested extension of the CAPA due date. 
+4
+TERMS AND DEFINITIONS
+Term
+Definition
+Action Item
+Form to request a specified task from a CAPA Task Assignee to 
+be completed until a specified due date in the future. 
+During CAPA management, Action Items can be used to perform 
+activities concerning RCI, CAPA plan or effectiveness checks.
+CAPA
+Corrective Action, Preventive Action.
+CAPA Due Date
+CAPAs must be planned with a due date that covers all steps 
+until completed final approval. Appropriate time must be planned
+for implementation and if required effectiveness check.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+term
+definition
+continuous 
+improvement
+“recurring activity to enhance performance.
+note 1 to entry: the process of establishing objectives and 
+finding opportunities for improvement is a continual process 
+through the use of audit findings and audit conclusions, analysis 
+of data, management reviews or other means and generally 
+leads to corrective action or preventive action.”
+(iso 9000, 2015) 
+synonym: continual improvement
+corrective action
+“action to eliminate the cause of a detected non-conformity or 
+other undesirable situation. note: corrective action is taken to 
+prevent recurrence whereas preventive action is taken to prevent 
+occurrence. (iso 9000:2005)“ * 
+effectiveness 
+check (ec)
+process used to verify if a capa has the expected outcome 
+(e.g., elimination of a deviation or complaint root cause, 
+observation/ finding or other undesirable situation)
+integrated qms 
+process
+an integrated quality management system (qms) process is 
+any process that is managed via mastercontrol, e.g. training, 
+deviations, complaints, etc.
+investigation
+structured approach, with the objective to determine the cause 
+and associated risk of a problem.
+mastercontrol (mc)
+an integrated software solution supporting the quality 
+management system.
+preventive action
+“action to eliminate the cause of a potential non-conformity or 
+other undesirable potential situation. note: preventive action is 
+taken to prevent occurrence whereas corrective action is taken to 
+prevent recurrence. (iso 9000:2005)” *
+risk-based 
+approach
+the level of effort, formality, and documentation of the 
+investigation shall be commensurate with the level of risk.
+root cause
+the most fundamental factor based on objective evidence, which 
+has been determined to be responsible for the deviation, 
+complaint, audit observation/ inspection finding, trend, or 
+unexpected result.
+root cause 
+analysis (rca)
+root cause analysis (synonym: root cause investigation) is a
+systematic approach that covers different in-depth techniques 
+and methodologies, e.g., ishikawa and 5 whys, used to identify 
+the root cause(s). 
+*definition is copied from ich q10 which references to iso9000:2005. although there is a more recent version 
+(iso9000:2015), the definitions are not affected.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 4.
+Term
+Definition
+Continuous 
+Improvement
+“Recurring activity to enhance performance.
+Note 1 to entry: The process of establishing objectives and 
+finding opportunities for improvement is a continual process 
+through the use of audit findings and audit conclusions, analysis 
+of data, management reviews or other means and generally 
+leads to corrective action or preventive action.”
+(ISO 9000, 2015) 
+Synonym: Continual Improvement
+Corrective Action
+“Action to eliminate the cause of a detected non-conformity or 
+other undesirable situation. NOTE: Corrective action is taken to 
+prevent recurrence whereas preventive action is taken to prevent 
+occurrence. (ISO 9000:2005)“ * 
+Effectiveness 
+Check (EC)
+Process used to verify if a CAPA has the expected outcome 
+(e.g., elimination of a deviation or complaint root cause, 
+observation/ finding or other undesirable situation)
+Integrated QMS 
+process
+An integrated Quality Management System (QMS) process is 
+any process that is managed via MasterControl, e.g. training, 
+deviations, complaints, etc.
+Investigation
+Structured approach, with the objective to determine the cause 
+and associated risk of a problem.
+MasterControl (MC)
+An integrated software solution supporting the Quality 
+Management System.
+Preventive Action
+“Action to eliminate the cause of a potential non-conformity or 
+other undesirable potential situation. NOTE: Preventive action is 
+taken to prevent occurrence whereas corrective action is taken to 
+prevent recurrence. (ISO 9000:2005)” *
+Risk-based 
+approach
+The level of effort, formality, and documentation of the 
+investigation shall be commensurate with the level of risk.
+Root Cause
+The most fundamental factor based on objective evidence, which 
+has been determined to be responsible for the deviation, 
+complaint, audit observation/ inspection finding, trend, or 
+unexpected result.
+Root Cause 
+Analysis (RCA)
+Root Cause Analysis (synonym: Root Cause Investigation) is a
+systematic approach that covers different in-depth techniques 
+and methodologies, e.g., Ishikawa and 5 Whys, used to identify 
+the root cause(s). 
+*Definition is copied from ICH Q10 which references to ISO9000:2005. Although there is a more recent version 
+(ISO9000:2015), the definitions are not affected.
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5
+process
+5.1
+general
+capas are initiated risk based. capa timelines must take into consideration the 
+risk associated to the issue from which they are originated.
+capas are mandatory for
+-
+critical and major deviations (proc-004019) 
+-
+justified critical and major (e.g., ras class i - ii) complaints (proc-004270)
+-
+confirmed audit observations and findings
+-
+identified critical trends in gxp processes
+capas should be originated for (recommendation)
+-
+other identified trends
+-
+reviews (e.g., opportunities for improvement e.g., stand alone capa’s
+-
+other situations that require tracking and trending of actions and issues 
+requiring short, mid and long-term monitoring and resolution
+capas can be originated for
+-
+minor deviations, only if sufficiently reasonable and explained.
+within mastercontrol (mc) one capa form is generated per issue, e.g., for a 
+deviation. only for minor audit observations/ findings it is allowed to issue only one 
+capa for several minor observations/ findings. 
+the process starts with capa initiation and ends with final qa approval of the capa 
+record (details see section 5.3.).
+if a capa requires a technical or product design change, this must be managed and 
+approved as a change control according to proc-007059. the capa can only be 
+closed when the related change control is at least in step implementation. 
+5.2
+smart principles
+“smart” concept is a valuable tool to facilitate effective capa management:
+smart attributes
+definition
+specific
+each capa must have its own record and workflow. it must 
+be specifically defined to allow an effective improvement.
+measurable
+the capa plan must include appropriate action items 
+resulting in measurable output.
+achievable
+all action items must be clearly assigned to a responsible 
+person, considering, but not limited to, availability, 
+qualification, and access to necessary resources.
+relevant
+the capa plan must be defined in relation to the real needs 
+of/ situation at grt.
+timely
+for each capa a reasonable timeframe must be defined.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 5.
+5
+PROCESS
+5.1
+General
+CAPAs are initiated risk based. CAPA timelines must take into consideration the 
+risk associated to the issue from which they are originated.
+CAPAs are mandatory for
+-
+critical and major deviations (PROC-004019) 
+-
+justified critical and major (e.g., RAS class I - II) complaints (PROC-004270)
+-
+confirmed audit observations and findings
+-
+identified critical trends in GxP processes
+CAPAs should be originated for (recommendation)
+-
+other identified trends
+-
+reviews (e.g., opportunities for improvement e.g., Stand Alone CAPA’s
+-
+other situations that require tracking and trending of actions and issues 
+requiring short, mid and long-term monitoring and resolution
+CAPAs can be originated for
+-
+minor deviations, only if sufficiently reasonable and explained.
+Within MasterControl (MC) one CAPA form is generated per issue, e.g., for a 
+deviation. Only for minor audit observations/ findings it is allowed to issue only one 
+CAPA for several minor observations/ findings. 
+The process starts with CAPA initiation and ends with final QA approval of the CAPA 
+record (details see section 5.3.).
+If a CAPA requires a technical or product design change, this must be managed and 
+approved as a Change Control according to PROC-007059. The CAPA can only be 
+closed when the related Change Control is at least in step implementation. 
+5.2
+SMART Principles
+“SMART” concept is a valuable tool to facilitate effective CAPA management:
+SMART Attributes
+Definition
+Specific
+Each CAPA must have its own record and workflow. It must 
+be specifically defined to allow an effective improvement.
+Measurable
+The CAPA plan must include appropriate action items 
+resulting in measurable output.
+Achievable
+All action items must be clearly assigned to a responsible 
+person, considering, but not limited to, availability, 
+qualification, and access to necessary resources.
+Relevant
+The CAPA plan must be defined in relation to the real needs 
+of/ situation at GRT.
+Timely
+For each CAPA a reasonable timeframe must be defined.
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5.3
+capa workflow
+detailed step-by-step information and guidance on how to document capas in 
+mastercontrol is provided in tmat-000654.
+the capa process consists of the following steps: initiation and based on identified 
+root cause allocation of responsible capa owner, capa plan definition, capa plan 
+approval, plan implementation, effectiveness check (if applicable), final qa review. 
+5.3.1
+capa initiation and root cause analysis (rca)
+step
+role
+activity
+1
+capa user
+(initiator)
+capa initiated from an integrated qms process: 
+•
+review mapped data and correct/complete as needed.
+stand-alone capas:
+•
+enter data for problem statement (e.g., what, where, when).
+2
+•
+select team members to support the rca, if needed, and document 
+rca method (proc-003381)
+•
+initiate rca activities via action items (step 3),.
+3
+capa task 
+assignee
+•
+perform assigned action items within agreed timelines,
+•
+provide appropriate documentation, confirm completion by signature.
+4
+capa user
+(initiator)
+•
+coordinate required rca activities,
+•
+approve completion of all action items and document dates, incl. 
+upload of related documentation, if applicable,
+•
+provide rca results summary, select capa owner,
+•
+propose a capa due date,
+•
+confirm by signature: root cause identified according to the current 
+state of knowledge.
+capa initiation and root cause analysis (rca)
+capa user
+capa task assignee
+initiate capa
+initiated from 
+deviation?
+no
+document 
+problem 
+statement/ issue 
+summary
+yes: 
+check all 
+mapped data
+plan and coordinate 
+activities for rca
+assign the capa owner
+perform preliminary 
+investigation
+sign-off rca
+approve action 
+item
+sign-off individual action item
+perform all planned activities 
+and document completion
+yes
+action item 
+completed?
+no
+enter rca results
+root cause 
+identified
+all action items 
+approved?
+yes
+no
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 6.
+5.3
+CAPA Workflow
+Detailed step-by-step information and guidance on how to document CAPAs in 
+MasterControl is provided in TMAT-000654.
+The CAPA process consists of the following steps: Initiation and based on identified 
+root cause allocation of responsible CAPA Owner, CAPA plan definition, CAPA Plan 
+approval, plan implementation, effectiveness check (if applicable), Final QA Review. 
+5.3.1
+CAPA Initiation and Root Cause Analysis (RCA)
+Step
+Role
+Activity
+1
+CAPA User
+(Initiator)
+CAPA initiated from an integrated QMS process: 
+•
+Review mapped data and correct/complete as needed.
+Stand-alone CAPAs:
+•
+Enter data for problem statement (e.g., what, where, when).
+2
+•
+Select team members to support the RCA, if needed, and document 
+RCA method (PROC-003381)
+•
+Initiate RCA activities via action items (step 3),.
+3
+CAPA Task 
+Assignee
+•
+Perform assigned action items within agreed timelines,
+•
+Provide appropriate documentation, confirm completion by signature.
+4
+CAPA User
+(Initiator)
+•
+Coordinate required RCA activities,
+•
+Approve completion of all action items and document dates, incl. 
+upload of related documentation, if applicable,
+•
+Provide RCA results summary, select CAPA Owner,
+•
+Propose a CAPA due date,
+•
+Confirm by signature: root cause identified according to the current 
+state of knowledge.
+CAPA Initiation and Root Cause Analysis (RCA)
+CAPA User
+CAPA Task Assignee
+Initiate CAPA
+Initiated from 
+Deviation?
+No
+Document 
+Problem 
+Statement/ Issue 
+Summary
+Yes: 
+Check all 
+mapped data
+Plan and coordinate 
+activities for RCA
+Assign the CAPA Owner
+Perform preliminary 
+investigation
+Sign-off RCA
+Approve action 
+item
+Sign-off individual action item
+Perform all planned activities 
+and document completion
+Yes
+Action item 
+completed?
+No
+Enter RCA results
+Root Cause 
+identified
+All action items 
+approved?
+Yes
+No
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5.3.2
+capa plan
+step
+role
+activity
+1
+capa owner
+•
+review data,
+•
+provide meaningful and reasonable capa plan*,
+•
+provide ec plan or justification if none is required
+(details, see section 5.3.4.),
+•
+select appropriate team to support capa activities,
+•
+define appropriate action items for individual 
+corrective and preventive actions, as needed,
+•
+state whether the activities will eliminate or diminish 
+the identified root cause,
+•
+verify and if needed adjust the capa due date.
+2
+capa task 
+assignee
+•
+if needed, support capa owner in action item
+definition.
+3
+capa owner
+•
+sign-off capa plan.
+4
+capa approvers
+•
+review and approve the capa plan 
+(in case of rejection, provide a reason and ensure 
+that respective changes are implemented).
+*in case it turned out that a capa plan is not needed, the capa can only be closed by completing all further 
+steps. therefore, the capa owner must enter a justification in the field “capa plan” (other mandatory fields can 
+be filled with "not applicable"). after the capa plan approval (by responsible management and capa qa), the 
+capa owner completes all further steps in the capa workflow with the appropriate justification. after final capa 
+qa approval the capa is closed.
+capa plan
+capa owner
+capa task assignee
+capa approvers
+develop capa plan
+sign-off capa plan
+approve capa plan
+capa plan 
+adequate?
+yes
+no
+root cause identified
+approved capa plan
+document capa plan by 
+individual action items
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 7.
+5.3.2
+CAPA Plan
+Step
+Role
+Activity
+1
+CAPA Owner
+•
+Review data,
+•
+Provide meaningful and reasonable CAPA plan*,
+•
+Provide EC plan or justification if none is required
+(details, see section 5.3.4.),
+•
+Select appropriate team to support CAPA activities,
+•
+Define appropriate action items for individual 
+corrective and preventive actions, as needed,
+•
+State whether the activities will eliminate or diminish 
+the identified root cause,
+•
+Verify and if needed adjust the CAPA due date.
+2
+CAPA Task 
+Assignee
+•
+If needed, support CAPA Owner in action item
+definition.
+3
+CAPA Owner
+•
+Sign-off CAPA plan.
+4
+CAPA Approvers
+•
+Review and approve the CAPA plan 
+(In case of rejection, provide a reason and ensure 
+that respective changes are implemented).
+*In case it turned out that a CAPA plan is not needed, the CAPA can only be closed by completing all further 
+steps. Therefore, the CAPA Owner must enter a justification in the field “CAPA plan” (other mandatory fields can 
+be filled with "not applicable"). After the CAPA plan approval (by responsible management and CAPA QA), the 
+CAPA Owner completes all further steps in the CAPA workflow with the appropriate justification. After Final CAPA 
+QA approval the CAPA is closed.
+CAPA Plan
+CAPA Owner
+CAPA Task Assignee
+CAPA Approvers
+Develop CAPA Plan
+Sign-off CAPA Plan
+Approve CAPA Plan
+CAPA Plan 
+adequate?
+Yes
+No
+Root Cause identified
+Approved CAPA Plan
+Document CAPA plan by 
+individual action items
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5.3.3
+capa implementation
+step
+role
+activity
+1
+capa owner
+•
+launch all corrective and if required preventive 
+action items.
+2
+capa task 
+assignee
+•
+perform assigned action items within defined time,
+•
+provide appropriate documentation,
+•
+confirm adequate completion by signature.
+3
+capa owner
+•
+approve completion of all action items and 
+document dates, incl. upload of related 
+documentation, if applicable,
+•
+provide a summary of results,
+•
+sign-off completion of implementation.
+capa implementation
+capa owner(s)
+capa task assignee
+sign-off capa 
+implementation
+perform all planned activities 
+and document completion
+approved capa plan
+capa implementation 
+completed
+launch all action items 
+of the capa plan
+enter results of the 
+implementation
+sign-off individual action item
+approve action 
+item
+yes
+action item 
+completed?
+all action items 
+approved?
+yes
+no
+no
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 8.
+5.3.3
+CAPA Implementation
+Step
+Role
+Activity
+1
+CAPA Owner
+•
+Launch all corrective and if required preventive 
+action items.
+2
+CAPA Task 
+Assignee
+•
+Perform assigned action items within defined time,
+•
+Provide appropriate documentation,
+•
+Confirm adequate completion by signature.
+3
+CAPA Owner
+•
+Approve completion of all action items and 
+document dates, incl. upload of related 
+documentation, if applicable,
+•
+Provide a summary of results,
+•
+Sign-off completion of implementation.
+CAPA Implementation
+CAPA Owner(s)
+CAPA Task Assignee
+Sign-off CAPA 
+Implementation
+Perform all planned activities 
+and document completion
+Approved CAPA Plan
+CAPA implementation 
+completed
+Launch all action items 
+of the CAPA plan
+Enter results of the 
+implementation
+Sign-off individual action item
+Approve action 
+item
+Yes
+Action item 
+completed?
+All action items 
+approved?
+Yes
+No
+No
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5.3.4
+effectiveness checks
+activities to check effectiveness are mandatory for capas initiated for critical issues. 
+the ec closes the loop between the identified root cause and its correction.
+whether or not to execute an effectiveness check must be described in the capa 
+plan (see section 5.3.2. step 1) including 
+-
+who will check the effectiveness
+-
+what will be checked (e.g., products, processes) 
+-
+how data will be collected (e.g., gemba walks, audits, assessments, metrics, 
+interviews, process observations, technical measurements, metrics, 
+verification/validation reports)
+-
+the time period for data collection to ensure sufficient time for evaluation 
+based on statistical probability of re-occurrence of the root cause
+-
+criteria to be fulfilled in order to define if the capa was effective
+an effectiveness check might not be required when it can be shown that the root 
+cause was sufficiently addressed immediately.
+step
+role
+activity
+1
+capa owner
+•
+select an appropriate team to support the ec,
+•
+initiate and coordinate all necessary activities.
+if no ec was performed or the initial plan had to be 
+modified, document a justification.
+2
+task assignee
+•
+support the capa owner in defining action items,
+•
+perform assigned action items within defined time,
+•
+provide appropriate documentation, if applicable.
+3
+capa owner
+•
+approve completion of action items, document dates
+and upload related documentation, if applicable,
+•
+provide results summary,
+•
+sign-off completion of the ec.
+5.3.5
+capa closure
+step
+role
+activity
+1
+capa qa
+•
+review complete capa documentation,
+•
+evaluate effectiveness of the implemented capa 
+(for ineffective capa, decide to trigger a new capa 
+or to reject capa to initiate new activities),
+•
+sign off the final qa review (in case of rejection, 
+select the step that should be corrected).
+only qa may reopen a capa form, and only if the form contains incorrect or 
+misleading information. a justification and indication of changes must be provided.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 9.
+5.3.4
+Effectiveness Checks
+Activities to check effectiveness are mandatory for CAPAs initiated for critical issues. 
+The EC closes the loop between the identified root cause and its correction.
+Whether or not to execute an effectiveness check must be described in the CAPA 
+plan (see section 5.3.2. step 1) including 
+-
+Who will check the effectiveness
+-
+What will be checked (e.g., products, processes) 
+-
+How data will be collected (e.g., Gemba Walks, audits, assessments, metrics, 
+interviews, process observations, technical measurements, metrics, 
+verification/validation reports)
+-
+The time period for data collection to ensure sufficient time for evaluation 
+based on statistical probability of re-occurrence of the root cause
+-
+Criteria to be fulfilled in order to define if the CAPA was effective
+An effectiveness check might not be required when it can be shown that the root 
+cause was sufficiently addressed immediately.
+Step
+Role
+Activity
+1
+CAPA Owner
+•
+Select an appropriate team to support the EC,
+•
+Initiate and coordinate all necessary activities.
+If no EC was performed or the initial plan had to be 
+modified, document a justification.
+2
+Task Assignee
+•
+Support the CAPA Owner in defining action items,
+•
+Perform assigned action items within defined time,
+•
+Provide appropriate documentation, if applicable.
+3
+CAPA Owner
+•
+Approve completion of action items, document dates
+and upload related documentation, if applicable,
+•
+Provide results summary,
+•
+Sign-off completion of the EC.
+5.3.5
+CAPA Closure
+Step
+Role
+Activity
+1
+CAPA QA
+•
+Review complete CAPA documentation,
+•
+Evaluate effectiveness of the implemented CAPA 
+(for ineffective CAPA, decide to trigger a new CAPA 
+or to reject CAPA to initiate new activities),
+•
+Sign off the Final QA Review (In case of rejection, 
+select the step that should be corrected).
+Only QA may reopen a CAPA form, and only if the form contains incorrect or 
+misleading information. A justification and indication of changes must be provided.
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+effectiveness check and capa closure
+capa owner
+capa task assignee
+capa qa
+capa implementation 
+completed
+plan effectiveness checks
+perform final qa review
+sign-off final qa review
+capa closed
+perform all planned activities 
+and document completion
+yes
+action item 
+completed?
+approve action 
+item
+sign-off effectiveness 
+checks
+yes
+all capa steps 
+completed 
+appropriately?
+is the capa effective?
+yes
+no
+no
+no
+sign-off individual
+action items
+enter results of the 
+effectiveness checks
+decide which step must 
+be repeated/corrected
+initiate new capa?
+no
+all action items 
+approved?
+yes
+no
+sign-off final qa review
+initiate new capa form
+yes
+sign-off: 
+data rejection
+5.4
+timelines/overall due date
+capas are assigned an overall due date that covers the time required to complete all 
+steps of the workflow. due dates of individual action items cannot be adjusted and 
+the respective action is counted as overdue once the defined due date is exceeded. 
+the capa overall due date can be adjusted by the capa owner during capa plan 
+development and before sign-off, as no action items for corrective and preventive 
+actions are launched at that time. 
+if during the implementation phase or effectiveness check completion, the capa 
+owner identifies that the capa overall due date cannot be met, this must be 
+addressed to the affected management and qa in order to define appropriate 
+measures.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 10.
+Effectiveness Check and CAPA Closure
+CAPA Owner
+CAPA Task Assignee
+CAPA QA
+CAPA Implementation 
+completed
+Plan Effectiveness Checks
+Perform Final QA Review
+Sign-off Final QA Review
+CAPA closed
+Perform all planned activities 
+and document completion
+Yes
+Action item 
+completed?
+Approve action 
+item
+Sign-off Effectiveness 
+Checks
+Yes
+All CAPA steps 
+completed 
+appropriately?
+Is the CAPA effective?
+Yes
+No
+No
+No
+Sign-off individual
+action items
+Enter results of the 
+Effectiveness Checks
+Decide which step must 
+be repeated/corrected
+Initiate new CAPA?
+No
+All action items 
+approved?
+Yes
+No
+Sign-off Final QA Review
+Initiate new CAPA form
+Yes
+Sign-off: 
+Data Rejection
+5.4
+Timelines/Overall Due Date
+CAPAs are assigned an overall due date that covers the time required to complete all 
+steps of the workflow. Due Dates of individual Action Items cannot be adjusted and 
+the respective action is counted as overdue once the defined due date is exceeded. 
+The CAPA overall due date can be adjusted by the CAPA Owner during CAPA plan 
+development and before sign-off, as no action items for corrective and preventive 
+actions are launched at that time. 
+If during the implementation phase or effectiveness check completion, the CAPA 
+Owner identifies that the CAPA overall due date cannot be met, this must be 
+addressed to the affected management and QA in order to define appropriate 
+measures.
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+
+[CONTENT - LOWERCASE]:
+5.5
+trend analysis
+a regular trend analysis of capas related to gxp must be performed by quality 
+assurance at least on a quarterly basis. the outcome of that regular trend analysis 
+must be shared with the affected management, e.g., in the frame of periodical 
+management review in order to define suitable actions if required.
+5.6
+business continuity
+the mastercontrol system can be restored in less than 12 hours (proc-001798). 
+this temporary unavailability of mastercontrol has a low risk concerning product 
+quality, patient safety or other critical business. therefore, a special process for 
+business continuity for capa management is not needed.
+nevertheless, in case mc system is not available for a longer time, quality 
+assurance or other similar function (if qa is not available the responsible person of 
+the affected area) must be contacted to discuss a paper-based documentation. as 
+soon as the system has been restored, the information documented on paper must 
+be completely transferred into the system by the user who is in charge of the process 
+step at the time the system is recovered. the transferred information in the capa 
+form must be reviewed for completeness and correctness by a second person. both 
+persons must sign the respective step in mc.
+6
+references
+•
+din en iso 9000:2005, quality management systems – fundamentals and 
+vocabulary (2015)
+•
+din en iso 9000:2015, quality management systems – fundamentals and 
+vocabulary (2015)
+•
+ich q10: pharmaceutical quality system (2008). harmonised tripartite 
+guideline of the international conference on harmonisation (ich)
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 11.
+5.5
+Trend Analysis
+A regular trend analysis of CAPAs related to GxP must be performed by Quality 
+Assurance at least on a quarterly basis. The outcome of that regular trend analysis 
+must be shared with the affected Management, e.g., in the frame of periodical 
+Management Review in order to define suitable actions if required.
+5.6
+Business Continuity
+The MasterControl system can be restored in less than 12 hours (PROC-001798). 
+This temporary unavailability of MasterControl has a low risk concerning product 
+quality, patient safety or other critical business. Therefore, a special process for 
+business continuity for CAPA management is not needed.
+Nevertheless, in case MC system is not available for a longer time, Quality 
+Assurance or other similar function (if QA is not available the responsible person of 
+the affected area) must be contacted to discuss a paper-based documentation. As 
+soon as the system has been restored, the information documented on paper must 
+be completely transferred into the system by the user who is in charge of the process 
+step at the time the system is recovered. The transferred information in the CAPA 
+form must be reviewed for completeness and correctness by a second person. Both 
+persons must sign the respective step in MC.
+6
+REFERENCES
+•
+DIN EN ISO 9000:2005, Quality management systems – Fundamentals and 
+vocabulary (2015)
+•
+DIN EN ISO 9000:2015, Quality management systems – Fundamentals and 
+vocabulary (2015)
+•
+ICH Q10: Pharmaceutical Quality System (2008). Harmonised Tripartite 
+Guideline of the International Conference on Harmonisation (ICH)
+7
+
+==================================================
+

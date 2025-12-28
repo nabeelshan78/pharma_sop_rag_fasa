@@ -1,0 +1,888 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 5', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+1 
+objective 
+the objective of this document is to describe the acceptable and secure use of e-mail, 
+internet and social media professionally whilst conducting company business and privately 
+during personal use. 
+2 
+scope 
+this document applies to all grünenthal uk & ireland employees and to employees of 
+external partners, agency workers or self-employed contractors. 
+3 
+concerned roles  
+this section provides information about the concerned roles in the described process.  
+concerned role 
+responsibility 
+grünenthal employee 
+usage of it systems provided by grünenthal 
+appropriate to the rules defined in this guideline. 
+it help desk 
+1st & 2nd line support for users of it-systems. 
+external partner 
+usage of it systems provided by grünenthal in 
+correspondence to the rules outlined in this sop and 
+the agreement terms on execution of remote 
+support.  this agreement must be signed by all 
+external partners prior to access to grünenthal it 
+systems. 
+ 
+see section 5 for the responsibilities of concerned roles given above.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 5.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+1 
+Objective 
+The objective of this document is to describe the acceptable and secure use of e-mail, 
+Internet and Social Media professionally whilst conducting company business and privately 
+during personal use. 
+2 
+Scope 
+This document applies to all Grünenthal UK & Ireland employees and to employees of 
+external partners, agency workers or self-employed contractors. 
+3 
+Concerned roles  
+This section provides information about the concerned roles in the described process.  
+Concerned Role 
+Responsibility 
+Grünenthal employee 
+Usage of IT systems provided by Grünenthal 
+appropriate to the rules defined in this guideline. 
+IT Help Desk 
+1st & 2nd Line Support for users of IT-Systems. 
+External Partner 
+Usage of IT systems provided by Grünenthal in 
+correspondence to the rules outlined in this SOP and 
+the agreement Terms on Execution of Remote 
+Support.  This agreement must be signed by all 
+external partners prior to access to Grünenthal IT 
+Systems. 
+ 
+See Section 5 for the responsibilities of concerned roles given above.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 6', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+4 
+terms  
+ 
+term 
+definition/explanation 
+grünenthal it (grt it) 
+it department of grünenthal companies (global it at 
+headquarters and local it in subsidiaries). 
+user 
+grünenthal employees as well as employees of 
+external partners, consultants and contractors with 
+access to it systems provided by grünenthal for work 
+purposes. 
+business critical data 
+business critical data should be considered in the 
+broadest sense to include research, intellectual 
+property of grünenthal, personally identifiable 
+information, business and product development, 
+clinical test and evaluation data, sales, marketing and 
+business plans, customer and supplier information, 
+supply chain, manufacturing, distribution, finance, 
+human resources, consulting, partnerships, contracts 
+and mergers and acquisitions. the criticality and the 
+required protection level are derived from the result of 
+its classification process. 
+malware 
+software that infiltrates and harms a computer system 
+by bypassing the acceptance of the system owner 
+(known as viruses, trojans and worms). 
+ransomware 
+a type of malicious software designed to block access 
+to a computer system until a sum of money is paid. 
+mclaren 
+a type of malicious software designed to block access 
+to a computer system until a sum of money is paid. 
+phishing 
+criminal attempt to steal user data, credit card details 
+and identity by means of fake e-mails and websites. 
+man-in-the-middle attack 
+attempt to redirect encrypted data traffic to a 
+rogue/hackers server in order to break the encryption. 
+social media 
+websites and applications that enable users to create 
+and share content or to participate in social 
+networking, e.g. facebook, youtube and twitter. 
+social networking 
+the use of dedicated websites and applications to 
+interact with other users, or to find people with similar 
+interests to one's own.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 6.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+4 
+Terms  
+ 
+Term 
+Definition/Explanation 
+Grünenthal IT (GRT IT) 
+IT Department of Grünenthal companies (Global IT at 
+Headquarters and local IT in subsidiaries). 
+User 
+Grünenthal employees as well as employees of 
+external partners, consultants and contractors with 
+access to IT systems provided by Grünenthal for work 
+purposes. 
+Business critical data 
+Business critical data should be considered in the 
+broadest sense to include research, intellectual 
+property of Grünenthal, personally identifiable 
+information, business and product development, 
+clinical test and evaluation data, sales, marketing and 
+business plans, customer and supplier information, 
+supply chain, manufacturing, distribution, finance, 
+human resources, consulting, partnerships, contracts 
+and mergers and acquisitions. The criticality and the 
+required protection level are derived from the result of 
+its classification process. 
+Malware 
+Software that infiltrates and harms a computer system 
+by bypassing the acceptance of the system owner 
+(known as Viruses, Trojans and Worms). 
+Ransomware 
+A type of malicious software designed to block access 
+to a computer system until a sum of money is paid. 
+McLaren 
+A type of malicious software designed to block access 
+to a computer system until a sum of money is paid. 
+Phishing 
+Criminal attempt to steal user data, credit card details 
+and identity by means of fake e-mails and websites. 
+Man-in-the-middle attack 
+Attempt to redirect encrypted data traffic to a 
+rogue/hackers server in order to break the encryption. 
+Social Media 
+Websites and applications that enable users to create 
+and share content or to participate in social 
+networking, e.g. Facebook, YouTube and Twitter. 
+Social Networking 
+The use of dedicated websites and applications to 
+interact with other users, or to find people with similar 
+interests to one's own.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 7', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+5 
+process description 
+all grünenthal employees are responsible for using the it systems provided to them in a 
+secure and responsible manner. this includes the use of company e-mail, internet usage 
+and the use of social media. 
+a breach of the following rules violates the grünenthal code of conduct and may result in 
+disciplinary action and or legal proceedings (employment, civil or under criminal law). 
+ 
+5.1 
+company e-mail  
+• it is forbidden to forward your grünenthal work e-mail, either manually or by any 
+automated means, to any private or external e-mail account.  doing so is deemed to 
+be gross misconduct and anyone found to be in breach of this rule maybe liable for 
+disciplinary action. 
+• e-mail with information which is meant exclusively for grünenthal employees or of 
+confidential nature must not be forwarded to any externals, third parties or private e-
+mail accounts.  doing so will be a breach and will also lead to disciplinary action. 
+• the grünenthal work e-mail account must exclusively be used to conduct the 
+company’s business. 
+• sending e-mails to everyone in the company or to a large collective e-mail group is 
+the responsibility of the leadership team, hr, compliance and the it department 
+which are authorised by the company to do so.  should a situation arise where an 
+individual outside the functions mentioned above has to send an e-mail to the entire 
+company, then they must seek the approval of a leadership team member before 
+sending. 
+• do not use the reply all option to reply to a company-wide communication.  doing 
+so sends your reply to the entire company unnecessarily and is considered bad e-
+mail etiquette.  if you do need to send a reply e-mail, then you should only reply to 
+the individual who has sent the original email.  do not copy in the entire company. 
+• avoid sending or forwarding e-mails containing pointless or questionable contents.  
+• delete e-mails from unknown senders requesting personal information or payment 
+for any outstanding invoice.  especially if these emails contain a document which 
+you are required to open.  if you have any doubts and or the reliability of the sender 
+cannot be guaranteed, then delete the e-mail.  these could be spam or phishing 
+emails containing viruses or malware, such as ransomware, which can infect your 
+computer system and render your files unusable.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 7.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+5 
+Process description 
+All Grünenthal employees are responsible for using the IT systems provided to them in a 
+secure and responsible manner. This includes the use of company e-mail, Internet usage 
+and the use of Social Media. 
+A breach of the following rules violates the Grünenthal Code of Conduct and may result in 
+disciplinary action and or legal proceedings (employment, civil or under criminal law). 
+ 
+5.1 
+Company e-mail  
+• It is forbidden to forward your Grünenthal work e-mail, either manually or by any 
+automated means, to any private or external e-mail account.  Doing so is deemed to 
+be gross misconduct and anyone found to be in breach of this rule maybe liable for 
+disciplinary action. 
+• E-mail with information which is meant exclusively for Grünenthal employees or of 
+confidential nature must not be forwarded to any externals, third parties or private e-
+mail accounts.  Doing so will be a breach and will also lead to disciplinary action. 
+• The Grünenthal work e-mail account must exclusively be used to conduct the 
+company’s business. 
+• Sending e-mails to everyone in the company or to a large collective e-mail group is 
+the responsibility of the Leadership Team, HR, Compliance and the IT department 
+which are authorised by the company to do so.  Should a situation arise where an 
+individual outside the functions mentioned above has to send an e-mail to the entire 
+company, then they must seek the approval of a Leadership Team member before 
+sending. 
+• Do not use the Reply All option to reply to a company-wide communication.  Doing 
+so sends your reply to the entire company unnecessarily and is considered bad e-
+mail etiquette.  If you do need to send a reply e-mail, then you should only reply to 
+the individual who has sent the original email.  Do not copy in the entire company. 
+• Avoid sending or forwarding e-mails containing pointless or questionable contents.  
+• Delete e-mails from unknown senders requesting personal information or payment 
+for any outstanding invoice.  Especially if these emails contain a document which 
+you are required to open.  If you have any doubts and or the reliability of the sender 
+cannot be guaranteed, then delete the e-mail.  These could be SPAM or Phishing 
+emails containing viruses or malware, such as Ransomware, which can infect your 
+computer system and render your files unusable.
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 8', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+• before sending an e-mail check that the e-mail does not contain any private 
+individuals e-mail addresses, names of any colleagues who have left the company 
+or any old e-mail distribution lists. delete these e-mail addresses from your outlook 
+e-mail’s cache memory (contact your local it helpdesk if you require any 
+assistance with this). 
+• e-mail attachments should only be opened if the identity and reliability of the sender 
+is known. otherwise you can infect your computer with a virus. 
+• urls (links to web pages) should not be clicked or accessed unless their reliability 
+has been checked. the link in the e-mail may not necessarily take you to the 
+destination it pretends to be leading you to (these are also known as phishing 
+mails). 
+• receiving and sending of executable attachments (e.g. .exe files, even when they 
+are included inside .zip archives) are blocked by the grünenthal it system. 
+• the maximum file size for e-mail attachments is 30 megabytes (mb). 
+• where possible always avoid e-mailing files as attachments internally. when 
+sharing files and information, always save these under the folder appropriate for 
+your department on the shared network drives e.g.; (o drive, k drive or s drive 
+etc.), or ask the person responsible for the local intranet to place these on the local 
+intranet. 
+• when sending e-mail to anyone outside the organisation, it is recommended to use 
+the option bcc, (blind carbon copy), to include any grünenthal colleagues, instead 
+of cc (carbon copy). this option hides the colleagues’ names and e-mail addresses 
+from external recipients.  
+• e-mails containing business critical data may only be sent in encrypted form. before 
+sending business critical data, the user has to make sure that e-mail encryption is 
+enabled for the external partner and a secrecy agreement is in place. 
+• details regarding e-mail encryption and secure exchange of grünenthal data with 
+external partners can be found in the global it handout secure data exchange. 
+• e-mails must be stored by the user in accordance with gl-it-000-0007 acceptable 
+use of it systems. 
+• the it department is responsible for maintaining and updating company e-mail 
+distribution lists.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 8.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+• Before sending an e-mail check that the e-mail does not contain any private 
+individuals e-mail addresses, names of any colleagues who have left the company 
+or any old e-mail distribution lists. Delete these e-mail addresses from your Outlook 
+e-mail’s cache memory (contact your local IT Helpdesk if you require any 
+assistance with this). 
+• E-mail attachments should only be opened if the identity and reliability of the sender 
+is known. Otherwise you can infect your computer with a virus. 
+• URLs (links to web pages) should not be clicked or accessed unless their reliability 
+has been checked. The link in the e-mail may not necessarily take you to the 
+destination it pretends to be leading you to (these are also known as Phishing 
+mails). 
+• Receiving and sending of executable attachments (e.g. .exe files, even when they 
+are included inside .zip archives) are blocked by the Grünenthal IT system. 
+• The maximum file size for e-mail attachments is 30 Megabytes (MB). 
+• Where possible always avoid e-mailing files as attachments internally. When 
+sharing files and information, always save these under the folder appropriate for 
+your department on the shared Network drives e.g.; (O drive, K drive or S drive 
+etc.), or ask the person responsible for the local intranet to place these on the local 
+Intranet. 
+• When sending e-mail to anyone outside the organisation, it is recommended to use 
+the option BCC, (blind carbon copy), to include any Grünenthal colleagues, instead 
+of CC (carbon copy). This option hides the colleagues’ names and e-mail addresses 
+from external recipients.  
+• E-mails containing business critical data may only be sent in encrypted form. Before 
+sending business critical data, the user has to make sure that e-mail encryption is 
+enabled for the external partner and a secrecy agreement is in place. 
+• Details regarding e-mail encryption and secure exchange of Grünenthal data with 
+external partners can be found in the Global IT handout Secure Data Exchange. 
+• E-mails must be stored by the user in accordance with GL-IT-000-0007 Acceptable 
+use of IT systems. 
+• The IT department is responsible for maintaining and updating company e-mail 
+distribution lists.
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 9', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+ 
+5.2 
+internet usage. 
+5.2.1 
+basics rules for using the internet on company it equipment. 
+the internet is considered a work tool.  any private usage is covered by the same 
+regulations regarding security measures as business related use. 
+any form of internet use which harms the interests, the reputation of the company, cause 
+offence to others or violates the law is forbidden and may result in disciplinary action. 
+in particular: 
+• content which violates privacy, personal rights, copy rights and laws is forbidden. 
+ 
+• information, internet sites or web pages which are insulting, defaming, 
+unconstitutional, racist or pornographic in content. 
+ 
+if for working purposes you require access to a web page which is blocked by the web 
+filter security system, a request must be submitted to your local it help desk and 
+thereafter the appropriateness to allow access to this site will be assessed.  all requests 
+will be reviewed separately.  
+5.2.2 
+network and client security rules whilst using the internet. 
+although an internet content filter and anti-virus software is in place, everyone must abide 
+by the following rules concerning internet usage: 
+• suspicious internet pages (questionable web sites, doubtful contents, etc.) must be 
+closed immediately. 
+• business critical data may only be stored with qualified web application providers 
+who have been approved by grünenthal.  
+• you must pay attention to warnings issued by web browsers and report anything 
+suspicious to your it department. 
+o special attention should be paid to certificate warnings as they could be 
+caused by a man-in-the-middle attack. 
+• downloading and executing of software from the internet is forbidden. contact your 
+local it help desk for further information. 
+• documents or any technical documentation must be downloaded from official, 
+trustworthy web sources (e.g. web site of manufacturer). do not download 
+documents provided by social networks or untrusted bulletin boards as there is a 
+risk of malware infiltration.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 9.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+ 
+5.2 
+Internet usage. 
+5.2.1 
+Basics rules for using the internet on company IT equipment. 
+The internet is considered a work tool.  Any private usage is covered by the same 
+regulations regarding security measures as business related use. 
+Any form of Internet use which harms the interests, the reputation of the company, cause 
+offence to others or violates the law is forbidden and may result in disciplinary action. 
+In Particular: 
+• Content which violates privacy, personal rights, copy rights and laws is forbidden. 
+ 
+• Information, internet sites or web pages which are insulting, defaming, 
+unconstitutional, racist or pornographic in content. 
+ 
+If for working purposes you require access to a web page which is blocked by the Web 
+Filter security system, a request must be submitted to your local IT Help desk and 
+thereafter the appropriateness to allow access to this site will be assessed.  All requests 
+will be reviewed separately.  
+5.2.2 
+Network and client security rules whilst using the internet. 
+Although an internet content filter and anti-virus software is in place, everyone must abide 
+by the following rules concerning internet usage: 
+• Suspicious Internet pages (questionable web sites, doubtful contents, etc.) must be 
+closed immediately. 
+• Business critical data may only be stored with qualified web application providers 
+who have been approved by Grünenthal.  
+• You must pay attention to warnings issued by web browsers and report anything 
+suspicious to your IT Department. 
+o Special attention should be paid to certificate warnings as they could be 
+caused by a man-in-the-middle attack. 
+• Downloading and executing of software from the internet is forbidden. Contact your 
+local IT Help desk for further information. 
+• Documents or any technical documentation must be downloaded from official, 
+trustworthy web sources (e.g. web site of manufacturer). Do not download 
+documents provided by social networks or untrusted bulletin boards as there is a 
+risk of malware infiltration.
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 11', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+ 
+if you come across any incident which is not outlined above or where you are unsure of 
+which course of action to take. please contact the compliance department 
+(ukcompliance@.com) 
+any matter or alleged matter in relation to misuse or misconduct of e-mail, internet and 
+or social media will be managed in accordance to grünenthal disciplinary policy.     
+6 
+cross references 
+not applicable. 
+6.1 
+references to standard procedural documents 
+grünenthal code of conduct (available on the group intranet) 
+gl-it-000-0007 - acceptable use of it systems (available on mclaren) 
+gb-cm-908-0005 - use of digital media in the conduct of business – uk & ie (available on 
+mclaren) 
+gl-or-067-0003 - social media policy (available on mclaren) 
+gl-or-067-0004 - professional use of social media (available on mclaren) 
+6.2 
+legal references  
+not applicable. 
+6.3 
+other references (available in grt erooms on the group intranet) 
+windows 10 guide   
+secure data exchange 
+terms on execution of remote support
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 11.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+ 
+ 
+If you come across any incident which is not outlined above or where you are unsure of 
+which course of action to take. Please contact the Compliance department 
+(UKCompliance@.com) 
+Any matter or alleged matter in relation to misuse or misconduct of e-mail, internet and 
+or social media will be managed in accordance to Grünenthal Disciplinary Policy.     
+6 
+Cross references 
+Not Applicable. 
+6.1 
+References to standard procedural documents 
+Grünenthal Code of Conduct (Available on the Group Intranet) 
+GL-IT-000-0007 - Acceptable use of IT systems (Available on McLaren) 
+GB-CM-908-0005 - Use of digital media in the conduct of business – UK & IE (Available on 
+McLaren) 
+GL-OR-067-0003 - Social Media Policy (Available on McLaren) 
+GL-OR-067-0004 - Professional Use of Social Media (Available on McLaren) 
+6.2 
+Legal references  
+Not Applicable. 
+6.3 
+Other references (Available in GRT eRooms on the Group Intranet) 
+WINDOWS 10 GUIDE   
+SECURE DATA EXCHANGE 
+TERMS ON EXECUTION OF REMOTE SUPPORT
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 12', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+gb-it-904-0007-02 
+
+ 
+ 
+-/- 
+7 
+attachments 
+ 
+attachment 
+no. 
+title 
+number of 
+pages 
+1 
+skype for business 
+4 
+8
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 12.
+GB-IT-904-0007-02 
+
+ 
+ 
+-/- 
+7 
+Attachments 
+ 
+Attachment 
+no. 
+Title 
+Number of 
+pages 
+1 
+Skype for Business 
+4 
+8
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 13', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+attachment 1 of gb-it-904-0007-02 
+skype for business 
+
+ 
+ 
+-/- 
+ 
+start and options 
+skype is started from the start menu and connects to the server automatically. your 
+presence information is displayed.  
+latest information can be added daily under 
+(what’s happening today?). 
+your presence status is indicated by colour and 
+text, settings can be changed in the tools, options 
+found under the cogwheel icon.  
+for further information you can also add your 
+location information (set your location). 
+options for availability  
+ 
+available 
+you are online and people can contact you. 
+ 
+busy 
+you are in a lync call or your outlook calendar shows that a 
+meeting is active and you don’t want to be disturbed. 
+ 
+do not 
+disturb 
+you don’t want to be disturbed, meeting notifications are only 
+displayed, when they arrive from members of your workgroup. 
+ 
+be right 
+back 
+you are not at your computer for a short time. 
+ 
+appear 
+away 
+your computer has been idle for some time (default 15 min.). 
+ 
+off work  
+you are off work and cannot be contacted. 
+ 
+offline 
+you are not signed in. if your presence information is blocked 
+for others, the status "offline" is displayed to them. 
+ 
+unknown 
+no presence information is available.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 13.
+Attachment 1 of GB-IT-904-0007-02 
+Skype for Business 
+
+ 
+ 
+-/- 
+ 
+Start and Options 
+Skype is started from the Start menu and connects to the server automatically. Your 
+presence information is displayed.  
+Latest information can be added daily under 
+(What’s happening today?). 
+Your presence status is indicated by colour and 
+text, settings can be changed in the Tools, Options 
+found under the Cogwheel icon.  
+For further information you can also add your 
+location information (Set Your Location). 
+Options for Availability  
+ 
+Available 
+You are online and people can contact you. 
+ 
+Busy 
+You are in a Lync call or your Outlook calendar shows that a 
+meeting is active and you don’t want to be disturbed. 
+ 
+Do not 
+disturb 
+You don’t want to be disturbed, Meeting notifications are only 
+displayed, when they arrive from members of your workgroup. 
+ 
+Be right 
+back 
+You are not at your computer for a short time. 
+ 
+Appear 
+away 
+Your computer has been idle for some time (default 15 min.). 
+ 
+Off Work  
+You are off work and cannot be contacted. 
+ 
+Offline 
+You are not signed in. If your presence information is blocked 
+for others, the status "Offline" is displayed to them. 
+ 
+Unknown 
+No presence information is available.
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 14', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+attachment 1 of gb-it-904-0007-02 
+skype for business 
+
+ 
+ 
+-/- 
+skype for business - options 
+the following settings can be set in the 
+options dialog (tools, options): 
+ update of the presence information 
+based on your outlook calendar. 
+ 
+ determination of the location 
+where meeting and im 
+conversations are saved. 
+ 
+ activate/deactivate the sharing of 
+your location to others. 
+ 
+ activate/deactivate the display of 
+photos of your contacts. 
+ 
+ set the time periods for your status 
+be right back and appear away.  
+ 
+ choice to hide or show the photo 
+that is displayed (my picture). 
+ 
+ setting of the options which can be 
+shown, when the status do not 
+disturb is set (alerts).
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 14.
+Attachment 1 of GB-IT-904-0007-02 
+Skype for Business 
+
+ 
+ 
+-/- 
+Skype for Business - Options 
+The following settings can be set in the 
+Options dialog (Tools, Options): 
+ Update of the presence information 
+based on your Outlook calendar. 
+ 
+ Determination of the location 
+where meeting and IM 
+Conversations are saved. 
+ 
+ Activate/deactivate the sharing of 
+your location to others. 
+ 
+ Activate/deactivate the display of 
+photos of your contacts. 
+ 
+ Set the time periods for your Status 
+Be right back and Appear away.  
+ 
+ Choice to hide or show the photo 
+that is displayed (My Picture). 
+ 
+ Setting of the options which can be 
+shown, when the status Do not 
+disturb is set (Alerts).
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 15', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+attachment 1 of gb-it-904-0007-02 
+skype for business 
+
+ 
+ 
+-/- 
+contact lists 
+you can gather people you contact 
+regularly in a contact list. 
+ 
+ to search for contacts just enter the name or 
+email address in the search box  
+(find someone or a room). 
+ 
+ right-click a person in the search results and 
+select one of the following options: 
+ 
+ 
+existing groups are additionally displayed in the menu.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 15.
+Attachment 1 of GB-IT-904-0007-02 
+Skype for Business 
+
+ 
+ 
+-/- 
+Contact lists 
+You can gather people you contact 
+regularly in a contact list. 
+ 
+ To search for contacts just enter the name or 
+Email address in the search box  
+(Find someone or a room). 
+ 
+ Right-click a person in the search results and 
+select one of the following options: 
+ 
+ 
+Existing Groups are additionally displayed in the menu.
+
+==================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 16', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+
+[CONTENT - LOWERCASE]:
+attachment 1 of gb-it-904-0007-02 
+skype for business 
+
+ 
+ 
+-/- 
+ 
+ 
+privacy relationships 
+you can assign “privacy relationships” to each contact. the 
+“privacy relationship” effects the information that is displayed to the 
+members of the group. 
+ 
+ friends and family can see all information except meeting 
+details. 
+ workgroup members don’t see private and other phone 
+numbers, they can interrupt the status do not disturb. 
+ colleagues see all information except private and mobile 
+phone numbers and meeting details. 
+ external contacts only see name, company, title, email 
+address and photo. 
+ blocked contacts see only name and email address and 
+cannot communicate via skype. 
+instant messaging (im) 
+instant messages can be invoked by double-click on a contact, 
+pointing at a contact or contact group (message is sent to all 
+members of the group) or by right clicking the contact and 
+selecting send an im. 
+online meeting 
+the option meet now in skype allows you to immediately 
+start an online meeting. you can choose to invite more participants 
+into the meeting from the invite more people option. 
+ 
+participants receive a notification and can directly join the meeting.
+
+[CONTENT - ORIGINAL]:
+Source: GB-IT-904-0007-02.pdfNov302025024010.pdf, Page 16.
+Attachment 1 of GB-IT-904-0007-02 
+Skype for Business 
+
+ 
+ 
+-/- 
+ 
+ 
+Privacy Relationships 
+You can assign “Privacy Relationships” to each contact. The 
+“Privacy Relationship” effects the information that is displayed to the 
+members of the group. 
+ 
+ Friends and Family can see all information except meeting 
+details. 
+ Workgroup members don’t see private and other phone 
+numbers, they can interrupt the status Do not disturb. 
+ Colleagues see all information except private and mobile 
+phone numbers and meeting details. 
+ External Contacts only see name, company, title, email 
+address and photo. 
+ Blocked Contacts see only name and email address and 
+cannot communicate via Skype. 
+Instant Messaging (IM) 
+Instant Messages can be invoked by double-click on a contact, 
+pointing at a contact or contact group (message is sent to all 
+members of the group) or by Right Clicking the contact and 
+selecting Send an IM. 
+Online Meeting 
+The option Meet Now in Skype allows you to immediately 
+start an online meeting. You can choose to invite more participants 
+into the meeting from the Invite More People option. 
+ 
+Participants receive a notification and can directly join the meeting.
+
+==================================================
+

@@ -1,0 +1,1036 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+local title: backup and restore
+1
+objective
+this standard operation procedure defines processes for backup and restore of data
+and applications at grünenthal, applied at a global level, including all sites and 
+subsidiaries.
+the backup and restore processes defined in the present procedure protects 
+grünenthal digital assets. data, records and software can be restored in case of failure, 
+loss of integrity, unexpected modification during operation or damage of the original. 
+2
+scope
+this document applies to data, records and application hosted on grünenthal 
+headquarters and locations/subsidiaries premises and supported by git.
+global it offers a default backup and restore service for systems and server 
+applications as described in chapter 5.1.
+backup or restore of end user devices are out of scope, they are under users/system 
+owners responsibility.
+standalone systems (not connected to the network) and non-server operating system
+are not covered by this procedure.
+backup and restore process executed by cloud suppliers for saas applications is not 
+in scope of this procedure.
+3
+responsibilities
+the responsibilities of roles listed in this document are as follows:
+role
+responsibility
+business process owner 
+(bpo)
+the bpo is the owner of the process and the related associated data / records. the 
+bpo defines the business requirements for protection of the application and the 
+application data.
+system owner (so)
+the so has the technical responsibility of the computerized system, including 
+availability, support, maintenance security and integrity of the data. so can be also 
+called service owner. so is in direct contact with the am.
+application manager (am)
+the am is responsible for the administration of an it application. the am can use the 
+centralized backup services to protect data of applications within her / his responsibility 
+if necessary.
+the development of recovery procedures and processes to rebuild the running 
+application belongs to the am’s responsibility.
+application manager backup 
+(am backup) 
+git
+the am backup (and his deputy) is responsible for administration and maintenance of 
+backup tools and media. he / she will schedule backups according to the definitions 
+given by the bpo / am. in addition, the am backup will restore data on request of the 
+bpo / am or according to pre-defined test schedules. 
+4
+terms and definitions
+term
+definition / explanation
+backup
+backup is the process of copying records, data and software to protect against loss of 
+integrity or availability of the original. in the context of this document “backup definition” will 
+also refer to the scheduling of backups in backup tools.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 2.
+Local Title: Backup and Restore
+1
+OBJECTIVE
+This Standard Operation Procedure defines processes for backup and restore of data
+and applications at Grünenthal, applied at a Global level, including all sites and 
+subsidiaries.
+The Backup and restore processes defined in the present procedure protects 
+Grünenthal digital assets. Data, records and software can be restored in case of failure, 
+loss of integrity, unexpected modification during operation or damage of the original. 
+2
+SCOPE
+This document applies to data, records and application hosted on Grünenthal 
+Headquarters and locations/subsidiaries premises and supported by GIT.
+Global IT offers a default backup and restore service for systems and server 
+applications as described in Chapter 5.1.
+Backup or restore of end user devices are out of scope, they are under users/System 
+Owners responsibility.
+Standalone systems (not connected to the network) and non-server operating system
+are not covered by this procedure.
+Backup and restore process executed by cloud suppliers for SaaS applications is not 
+in scope of this procedure.
+3
+RESPONSIBILITIES
+The responsibilities of roles listed in this document are as follows:
+Role
+Responsibility
+Business Process Owner 
+(BPO)
+The BPO is the owner of the process and the related associated Data / records. The 
+BPO defines the business requirements for protection of the application and the 
+application data.
+System Owner (SO)
+The SO has the technical responsibility of the computerized system, including 
+availability, support, maintenance security and integrity of the data. SO can be also 
+called Service Owner. SO is in direct contact with the AM.
+Application Manager (AM)
+The AM is responsible for the administration of an IT application. The AM can use the 
+centralized backup services to protect data of applications within her / his responsibility 
+if necessary.
+The development of recovery procedures and processes to rebuild the running 
+application belongs to the AM’s responsibility.
+Application Manager Backup 
+(AM Backup) 
+GIT
+The AM Backup (and his deputy) is responsible for administration and maintenance of 
+backup tools and media. He / She will schedule backups according to the definitions 
+given by the BPO / AM. In addition, the AM backup will restore data on request of the 
+BPO / AM or according to pre-defined test schedules. 
+4
+TERMS AND DEFINITIONS
+Term
+Definition / Explanation
+Backup
+Backup is the process of copying records, data and software to protect against loss of 
+integrity or availability of the original. In the context of this document “backup definition” will 
+also refer to the scheduling of backups in backup tools.
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+term
+definition / explanation
+backup definitions
+it is composed by “backup jobs” or “backup policies” where the configurations and settings 
+are defined.
+backup generation
+backed-up data must be kept for well-defined time. the definition of a backup includes a 
+decision how many backup generations to retain (may vary per system / application). the 
+retained backups (corresponding to multiple points in time for restore) represent backup 
+generations. backup generations are subject to aging (i.e. they will be automatically deleted 
+at the end of the retention period).
+backup media
+backup media are mass storage media (e.g. clouds or disk storages) that are used to store 
+backed-up data. 
+backup schedule
+besides the option to invoke a one-time backup (e.g. prior to planned changes on it 
+systems), most backups run according to a defined schedule. the backup schedule is part 
+of the backup definition.
+backup tool
+at grünenthal, multiple backup tools are in use. the choice of an appropriate backup tool 
+to given backup requirements lies within the responsibility of the am backup.
+backup window
+for some applications, running backups will degrade the service quality of the application -
+sometimes even an application downtime will be required for backup. with respect to this 
+fact, the backup definition of such applications will include backup windows during which 
+the backups are performed. the backup window is part of the backup definition.
+full backup & incremental
+backup
+a full backup represents a complete copy of all data to be backed up to the backup media. 
+to reduce backup media consumption, incremental backups only store data that has 
+changed since the last backup. starting with one full backup multiple backup generations 
+may be stored as incremental backups. 
+data mirroring
+enterprise level storage systems allow to copy storage data “on the fly” to a secondary 
+storage system. every block of data that is written to the primary storage is mirrored 
+immediately to a secondary storage system. 
+at grünenthal, data mirroring is implemented to mitigate disaster scenarios (e.g. if the 
+primary storage fails). in these scenarios, mirrored data on the secondary storage system 
+can be activated. data mirroring cannot be regarded as a solution for backup & restore.
+snapshots
+in virtualized environments, data, complete servers or storage units can be subject of
+snapshotting. when a snapshot is invoked, all current data in scope gets frozen. starting 
+from that point in time, data changes (add, modify or delete) are stored to another place 
+with references to the snapshotted data. on demand, snapshotted data can be reverted 
+back to the point in time when the snapshot was taken.
+grünenthal makes use of several snapshot techniques to implement the backup definitions.
+restore
+restore is the subsequent restoration of records, data or software when required.
+recovery
+“recovery” are techniques to rebuild it applications on an infrastructure (i.e. servers or 
+applications) to a backed-up recovery point. outcome is a running application.
+service desk
+service desk is the first level support for users
+end user devices
+any it hardware device, which grünenthal individually assigns to a specific employee or 
+which grünenthal otherwise makes available to its employees, including temporary 
+workers, regardless of whether such device is stationary or handheld, for example:
+
+personal computers (pcs).
+
+mobile phones/smartphones.
+
+tablet-computers, e-readers.
+
+printers.
+storage devices.
+rpo
+recovery point objective (rpo) is the distance between points in time to which systems 
+can be recovered to, or data can be restored to. 
+an rpo of 1 day means, that on every day a backup is made.
+itsm
+information technology service management system. system in which the most important 
+it processes are managed. in the itsm system all changes and configuration activities on 
+the it-infrastructure are managed and documented.
+gdpr
+general data protection regulation
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 3.
+Term
+Definition / Explanation
+Backup definitions
+It is composed by “backup jobs” or “backup policies” where the configurations and settings 
+are defined.
+Backup generation
+Backed-up data must be kept for well-defined time. The definition of a backup includes a 
+decision how many backup generations to retain (may vary per system / application). The 
+retained backups (corresponding to multiple points in time for restore) represent backup 
+generations. Backup generations are subject to aging (i.e. they will be automatically deleted 
+at the end of the retention period).
+Backup media
+Backup media are mass storage media (e.g. clouds or disk storages) that are used to store 
+backed-up data. 
+Backup schedule
+Besides the option to invoke a one-time backup (e.g. prior to planned changes on IT 
+systems), most backups run according to a defined schedule. The backup schedule is part 
+of the backup definition.
+Backup tool
+At Grünenthal, multiple backup tools are in use. The choice of an appropriate backup tool 
+to given backup requirements lies within the responsibility of the AM Backup.
+Backup window
+For some applications, running backups will degrade the service quality of the application -
+sometimes even an application downtime will be required for backup. With respect to this 
+fact, the backup definition of such applications will include backup windows during which 
+the backups are performed. The backup window is part of the backup definition.
+Full backup & Incremental
+backup
+A full backup represents a complete copy of all data to be backed up to the backup media. 
+To reduce backup media consumption, incremental backups only store data that has 
+changed since the last backup. Starting with one full backup multiple backup generations 
+may be stored as incremental backups. 
+Data Mirroring
+Enterprise level storage systems allow to copy storage data “on the fly” to a secondary 
+storage system. Every block of data that is written to the primary storage is mirrored 
+immediately to a secondary storage system. 
+At Grünenthal, data mirroring is implemented to mitigate disaster scenarios (e.g. if the 
+primary storage fails). In these scenarios, mirrored data on the secondary storage system 
+can be activated. Data mirroring cannot be regarded as a solution for backup & restore.
+Snapshots
+In virtualized environments, data, complete servers or storage units can be subject of
+snapshotting. When a snapshot is invoked, all current data in scope gets frozen. Starting 
+from that point in time, data changes (add, modify or delete) are stored to another place 
+with references to the snapshotted data. On demand, snapshotted data can be reverted 
+back to the point in time when the snapshot was taken.
+Grünenthal makes use of several snapshot techniques to implement the backup definitions.
+Restore
+Restore is the subsequent restoration of records, data or software when required.
+Recovery
+“Recovery” are techniques to rebuild IT applications on an infrastructure (i.e. servers or 
+applications) to a backed-up recovery point. Outcome is a running application.
+Service Desk
+Service Desk is the first level support for users
+End User Devices
+Any IT hardware device, which Grünenthal individually assigns to a specific employee or 
+which Grünenthal otherwise makes available to its employees, including temporary 
+workers, regardless of whether such device is stationary or handheld, for example:
+
+Personal Computers (PCs).
+
+mobile phones/smartphones.
+
+tablet-computers, e-readers.
+
+printers.
+storage devices.
+RPO
+Recovery Point Objective (RPO) is the distance between points in time to which systems 
+can be recovered to, or data can be restored to. 
+An RPO of 1 day means, that on every day a backup is made.
+ITSM
+Information Technology Service Management System. System in which the most important 
+IT processes are managed. In the ITSM system all changes and configuration activities on 
+the IT-Infrastructure are managed and documented.
+GDPR
+General Data Protection Regulation
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+term
+definition / explanation
+rto
+recovery time objective defines how quickly data needs to be restored in case of failure 
+or disaster.
+tlogs
+transaction logs.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 4.
+Term
+Definition / Explanation
+RTO
+Recovery Time Objective defines how quickly data needs to be restored in case of failure 
+or disaster.
+TLogs
+Transaction logs.
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+default backup service for file share data on primary netapp storage 
+(does not include file shares on servers)
+backup schedule
+incremental:
+
+2-hourly snapshots: 4 per day (monday to 
+sunday)
+
+daily snapshots: 1 per day (monday to 
+saturday)
+full: weekly snapshots: 1 per weekend (sunday)
+single file restore possible
+yes
+rpo
+according to backup schedule:
+incremental:
+
+2-hourly snapshots: 4 per day (monday to 
+sunday)
+
+daily snapshots: 1 per day (monday to 
+saturday)
+full: weekly snapshots: 1 per weekend (sunday)
+backup window
+24/7 (production and non-production 
+environnements)
+backup retention
+2-hourly snapshots: 24 hours 
+daily snapshots: 12 days
+weekly snapshots: 12 weeks
+monthly snapshots: 12 months
+backup type
+netapp snapshot + snapmirror
+veeam file backup*
+backup copy*
+azure blob storage
+backup copy retention*
+92 days
+*on top of “netapp snapshot”. not part of the default service: a demand is required.
+default backup service for databases
+backup schedule
+1 backup per weekend (friday to monday)
+1 daily backup on monday to thursday 
+tlogs backups every 15 min
+for non-production systems: 1 backup per week 
+(weekend)
+single item restore possible
+no 
+rpo
+for production systems: 1 working day
+for non-production systems: 1 week
+backup window
+24/7 (for production and non-production 
+environments)
+backup retention
+4 weeks
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 6.
+Default backup service for file share data on primary NetApp storage 
+(does not include file shares on servers)
+Backup schedule
+Incremental:
+
+2-hourly snapshots: 4 per day (Monday to 
+Sunday)
+
+Daily snapshots: 1 per day (Monday to 
+Saturday)
+Full: Weekly snapshots: 1 per weekend (Sunday)
+Single file restore possible
+Yes
+RPO
+According to backup schedule:
+Incremental:
+
+2-hourly snapshots: 4 per day (Monday to 
+Sunday)
+
+Daily snapshots: 1 per day (Monday to 
+Saturday)
+Full: Weekly snapshots: 1 per weekend (Sunday)
+Backup window
+24/7 (production and non-production 
+environnements)
+Backup retention
+2-hourly snapshots: 24 hours 
+Daily snapshots: 12 days
+Weekly snapshots: 12 weeks
+Monthly snapshots: 12 months
+Backup Type
+Netapp Snapshot + Snapmirror
+Veeam File Backup*
+Backup Copy*
+Azure Blob Storage
+Backup Copy Retention*
+92 days
+*On top of “Netapp Snapshot”. Not part of the default service: a demand is required.
+Default backup service for databases
+Backup schedule
+1 backup per weekend (Friday to Monday)
+1 daily backup on Monday to Thursday 
+TLogs backups every 15 min
+For non-production systems: 1 backup per week 
+(weekend)
+Single item restore possible
+No 
+RPO
+For production systems: 1 working day
+For non-production systems: 1 week
+Backup window
+24/7 (for production and non-production 
+environments)
+Backup retention
+4 weeks
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+backup type
+veeam image level backup +  tlogs backups *
+and when applicable rman backup (to veeam)
+backup copy
+azure blob storage
+backup copy retention
+7 daily in capacity tier + 12 monthly in archive tier
+* tlogs backups are retained until the corresponding image-level backup is deleted.
+default backup service for applications provided by ms office 365 (for 
+example: exchange online, sharepoint online, onedrive for business, 
+teams, groups, planner, …)
+backup schedule
+at least one backup per day for each application 
+single item restore possible
+yes
+rpo
+1 working day
+backup window
+none
+backup retention
+1 year
+5.2
+defining individual backup services
+if backup requirements differ from the default backup services described in chapter 
+5.1, the business process owner is responsible for defining the data requiring backup 
+and the application manager of the related system is responsible to provide a demand
+for a specific backup definition to git department. the request is documented in itsm 
+(demand module) and must specify the individual backup requirements based on the 
+following parameters:  
+
+data, files or systems to be backed-up
+
+if applicable: files to be excluded from backup
+
+if applicable: the possibility of single item restore
+
+rpo definition
+
+which / how many backup generations to be kept
+
+if required: the backup window definition
+
+name of the responsible process owner or application manager who authorizes 
+restores or changes.
+5.3
+backup process control
+backups access control
+strict access policies must be implemented and regularly reviewed. access to backup 
+servers and management consoles must follow the principle of least privilege, ensuring 
+that only authorized personnel with a legitimate operational need can perform backup 
+and restore operations. role-based access control (rbac) must be enforced to 
+segregate duties (e.g., backup administrators, security auditors, and storage 
+managers), minimizing the risk of misuse or error.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 7.
+Backup Type
+Veeam image Level backup +  TLogs backups *
+and when applicable RMAN Backup (to Veeam)
+Backup Copy
+Azure Blob Storage
+Backup Copy Retention
+7 daily in Capacity tier + 12 monthly in Archive tier
+* TLogs backups are retained until the corresponding image-level backup is deleted.
+Default backup service for applications provided by MS Office 365 (for 
+example: Exchange online, Sharepoint Online, OneDrive for Business, 
+Teams, Groups, Planner, …)
+Backup schedule
+at least one backup per day for each application 
+Single item restore possible
+Yes
+RPO
+1 working day
+Backup window
+None
+Backup retention
+1 year
+5.2
+Defining individual backup services
+If backup requirements differ from the default backup services described in chapter 
+5.1, the Business Process Owner is responsible for defining the data requiring backup 
+and the Application Manager of the related system is responsible to provide a demand
+for a specific backup definition to GIT department. The request is documented in ITSM 
+(Demand module) and must specify the individual backup requirements based on the 
+following parameters:  
+
+Data, files or systems to be backed-up
+
+If applicable: files to be excluded from backup
+
+If applicable: the possibility of single item restore
+
+RPO definition
+
+Which / how many backup generations to be kept
+
+If required: the backup window definition
+
+Name of the responsible Process Owner or Application Manager who authorizes 
+restores or changes.
+5.3
+Backup process control
+Backups Access Control
+Strict access policies must be implemented and regularly reviewed. Access to backup 
+servers and management consoles must follow the principle of least privilege, ensuring 
+that only authorized personnel with a legitimate operational need can perform backup 
+and restore operations. Role-based access control (RBAC) must be enforced to 
+segregate duties (e.g., backup administrators, security auditors, and storage 
+managers), minimizing the risk of misuse or error.
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+to further enhance security, backup servers must be kept outside the corporate active 
+directory domain. this isolation reduces the risk of lateral movement in case the 
+domain is compromised, preserving the integrity of the backup infrastructure. it 
+ensures that, even in the event of a ransomware attack or privilege escalation within 
+the domain, the backup systems remain secure and accessible for recovery.
+additionally, access logs must be enabled and monitored to detect and investigate any 
+unauthorized activity. combining logical access controls with network segmentation 
+and strong authentication mechanisms—such as multi-factor authentication—further 
+strengthens the resilience of backup systems against both internal and external 
+threats.
+implementation of backup definitions
+the am backup will implement backups according to backup service definitions as 
+defined in 5.1 “default backup services” or 5.2 “defining individual backup services”. 
+for any implemented backup definition, the am backup will check the successful 
+completion of the first backup by default and troubleshoot backup problems, if 
+necessary. this implementation is documented through the service request (if default 
+services apply) or an it change is opened (if individual backup services apply).
+after the first backup the am backup will restore a sample file (a random file or it can 
+also be a notepad file “test” with date and time created by the am backup) and check 
+the restore job for successful completion by comparing the restored sample file with 
+the original file. this must be a task in the service request or in the it change.
+backup monitoring
+the am backup is responsible for monitoring the completion of all backups on every 
+working day (monday to friday, except for public holidays). the monitoring system 
+provides information and/or warnings regarding the backup result (passed/failed). in 
+case of any failed backup, an incident in itsm (follow proc-002095) is created 
+automatically and the application manager is notified. backup manager is required to 
+analyze the cause of the failure and implement corrective measures (usually a 
+repetition of the backup during the day). 
+the application manager and the business process owner will evaluate if a quality 
+event/deviation is needed to be raised, in compliance with gxp regulations.
+managing secondary repository for backup media
+as backup target, different storage media types are useable. if backup is performed 
+onto suitable backup cloud storage, the backup tool automatically verifies backup data 
+stored on the cloud (as part of the backup execution) and recognizes poor backup 
+media. the am backup is responsible for maintaining the available space on the cloud 
+(blob storage).
+changes to backup definitions
+if a change in existing backup definitions is required (e.g. a changed backup schedule 
+or a pause of backup execution for planned application maintenance) the am or bpo 
+needs to open a service request in itsm. if the system is gxp relevant, the am or bpo
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 8.
+To further enhance security, backup servers must be kept outside the corporate Active 
+Directory domain. This isolation reduces the risk of lateral movement in case the 
+domain is compromised, preserving the integrity of the backup infrastructure. It 
+ensures that, even in the event of a ransomware attack or privilege escalation within 
+the domain, the backup systems remain secure and accessible for recovery.
+Additionally, access logs must be enabled and monitored to detect and investigate any 
+unauthorized activity. Combining logical access controls with network segmentation 
+and strong authentication mechanisms—such as multi-factor authentication—further 
+strengthens the resilience of backup systems against both internal and external 
+threats.
+Implementation of backup definitions
+The AM Backup will implement backups according to backup service definitions as 
+defined in 5.1 “Default Backup Services” or 5.2 “Defining Individual Backup Services”. 
+For any implemented backup definition, the AM Backup will check the successful 
+completion of the first backup by default and troubleshoot backup problems, if 
+necessary. This implementation is documented through the service request (if default 
+services apply) or an IT change is opened (if individual backup services apply).
+After the first Backup the AM Backup will restore a sample file (a random file or it can 
+also be a notepad file “Test” with date and time created by the AM Backup) and check 
+the restore job for successful completion by comparing the restored sample file with 
+the original file. This must be a task in the Service Request or in the IT change.
+Backup monitoring
+The AM Backup is responsible for monitoring the completion of all backups on every 
+working day (Monday to Friday, except for public holidays). The monitoring system 
+provides information and/or warnings regarding the backup result (passed/failed). In 
+case of any failed backup, an Incident in ITSM (follow PROC-002095) is created 
+automatically and the Application Manager is notified. Backup Manager is required to 
+analyze the cause of the failure and implement corrective measures (usually a 
+repetition of the backup during the day). 
+The Application Manager and the Business Process Owner will evaluate if a quality 
+event/deviation is needed to be raised, in compliance with GxP regulations.
+Managing secondary repository for backup media
+As backup target, different storage media types are useable. If backup is performed 
+onto suitable backup cloud storage, the backup tool automatically verifies backup data 
+stored on the cloud (as part of the backup execution) and recognizes poor backup 
+media. The AM Backup is responsible for maintaining the available space on the cloud 
+(blob storage).
+Changes to backup definitions
+If a change in existing backup definitions is required (e.g. a changed backup schedule 
+or a pause of backup execution for planned application maintenance) the AM or BPO 
+needs to open a service request in ITSM. If the system is GxP relevant, the AM or BPO
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+is responsible to assess if a moc (following proc-007059) or any other 
+documentation is required to document this change. the am backup will implement 
+the changes accordingly.
+the am backup may apply changes to backup tools if required to maintain the backup 
+functionality and if the agreed backup definitions are not violated by the changes, e.g. 
+definition of changed backup target media / storage or rescheduling of backups within 
+the backup window may be needed in daily business. all the described changes must
+follow the procedure proc-004973.
+restore process
+detection of lost or defective data lies in the responsibility of the user, am or the bpo.
+the person that detects data loss or defective data (user, am or bpo) must open a 
+quality event/deviation in case this affects a gxp relevant system, following proc-
+005388 and proc-004019. 
+the am backup will only restore data on explicit request by the user, am or bpo. a 
+service request in itsm is required to start into the process of restore. the user, am
+or bpo that identified the quality event/deviation must introduce the service request 
+number as action item in quality management system. the restore operation must be 
+documented in the service request through print screens or description.
+in case if a gxp or critical system is restored, the application manager is responsible 
+to verify and test the correctness of system functionality after the restore (e.g.  
+validation activities). in case the restore fails, a roll back plan must be assessed case 
+by case by the application manager together with am backup.
+the following workflow chart shows the process in detail.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 9.
+is responsible to assess if a MOC (following PROC-007059) or any other 
+documentation is required to document this change. The AM Backup will implement 
+the changes accordingly.
+The AM Backup may apply changes to backup tools if required to maintain the backup 
+functionality and if the agreed backup definitions are not violated by the changes, e.g. 
+definition of changed backup target media / storage or rescheduling of backups within 
+the backup window may be needed in daily business. All the described changes must
+follow the procedure PROC-004973.
+Restore process
+Detection of lost or defective data lies in the responsibility of the User, AM or the BPO.
+The person that detects data loss or defective data (user, AM or BPO) must open a 
+quality event/deviation in case this affects a GxP relevant system, following PROC-
+005388 and PROC-004019. 
+The AM Backup will only restore data on explicit request by the User, AM or BPO. A 
+Service Request in ITSM is required to start into the process of restore. The User, AM
+or BPO that identified the quality event/deviation must introduce the Service Request 
+number as action item in Quality Management System. The restore operation must be 
+documented in the service request through print screens or description.
+In case if a GxP or critical system is restored, the Application Manager is responsible 
+to verify and test the correctness of system functionality after the restore (e.g.  
+validation activities). In case the restore fails, a roll back plan must be assessed case 
+by case by the Application Manager together with AM Backup.
+The following workflow chart shows the process in detail.
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+requester chooses  
+backup data for restore 
+requester decides 
+whether existing data shall 
+be replaced or not during 
+restore
+request restore of data 
+via restore level 2
+am backup informs 
+requester about existing 
+backups
+requester 
+checks if 
+restored data 
+is ok
+no
+no
+yes
+create / update the itsm 
+service request / change / 
+incident with results of 
+restore 
+yes
+am backup runs restore of 
+data and creates or 
+updates itsm service 
+request / change / incident
+user/application manager / 
+system      owner (requestor)
+checks if restore is possible            
+via restore level 1
+no
+yes
+is another 
+backup generation 
+available?
+service request raised 
+in itsm 
+(using available 
+templates in service 
+catalogue)
+restore by user /
+application 
+manager / system 
+owner
+requester 
+evaluates opening 
+quality event/
+deviation
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 10.
+Requester chooses  
+backup data for restore 
+Requester decides 
+whether existing data shall 
+be replaced or not during 
+restore
+Request restore of data 
+via restore Level 2
+AM Backup informs 
+requester about existing 
+backups
+Requester 
+checks if 
+restored data 
+is ok
+no
+no
+yes
+Create / update the ITSM 
+service request / change / 
+incident with results of 
+restore 
+yes
+AM Backup runs restore of 
+data and creates or 
+updates ITSM service 
+request / change / incident
+User/Application Manager / 
+System      Owner (Requestor)
+checks if restore is possible            
+via restore Level 1
+no
+yes
+Is another 
+backup generation 
+available?
+Service Request raised 
+in ITSM 
+(using available 
+templates in Service 
+Catalogue)
+Restore by User /
+Application 
+Manager / System 
+Owner
+Requester 
+evaluates opening 
+quality event/
+deviation
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+application
+restore level 1
+who ?
+restore level 2
+who ?
+server 
+system
+n.a.
+n.a.
+server filesystem 
+data or whole 
+server system via 
+local backup 
+solution
+local am backup
+filesystem 
+(on windows 
+server)
+local vss (volume 
+shadowcopy 
+services)
+user self-service 
+server filesystem 
+data
+via local backup 
+solution
+local am backup
+filesystem 
+(on 
+netappfiler)
+local snapshot
+user self-service 
+remote snapshot 
+or via local backup 
+solution
+local am backup
+exchange 
+online
+recycle bin
+user self-service 
+restore via o365 
+backup
+global am backup
+onedrive for 
+business
+recycle bin
+user self-service 
+restore via o365 
+backup
+global am backup
+sharepoint 
+online / 
+business 
+worlds
+recycle bin
+user / owner self-
+service 
+restore via o365 
+backup
+global am backup
+teams
+recycle bin
+user / owner self-
+service
+restore via o365 
+backup
+global am backup
+decommissioning of backup definitions
+a service request in itsm is required to start into the process of decommissioning a 
+system. the requestor (am, bpo) is responsible to issue the needed documentation 
+(moc, risk assessment, any other) if the system under decommissioning is gxp 
+relevant. when systems or applications are taken out of service the am backup will 
+delete the backup definitions accordingly (this must be a task in the service request).
+5.4
+periodical restore tests for validated systems
+for validated applications / systems, restore of data will be tested at least once per 
+year for productive systems (no restore tests for non-production systems). gxp 
+machines are listed in sup-011745. this list is updated with info present on the cmdb 
+(reviewed once a year). the local am backup will restore sample data files and check 
+the restore job for successful completion by comparing restored and original files. the 
+am backup will inform the am about the results of the restore test. results are 
+recorded using template sup-011708 and shared with the am. these documents are 
+also attached to the it change opened to document the restore tests. these 
+documents are checked during system periodic review – see proc-004035 and 
+proc-007444.
+however, these tests verify if the backup tool is working as intended. additional restore 
+procedure that require data integrity checks, must be address by the am to the am 
+backup through a service request in which am identifies the file or database that can
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 11.
+Application
+Restore Level 1
+Who ?
+Restore Level 2
+Who ?
+Server 
+System
+n.a.
+n.a.
+Server Filesystem 
+data or whole 
+Server System via 
+local Backup 
+solution
+Local AM Backup
+Filesystem 
+(on Windows 
+Server)
+Local VSS (Volume 
+Shadowcopy 
+Services)
+User Self-Service 
+Server Filesystem 
+data
+via local Backup 
+solution
+Local AM Backup
+Filesystem 
+(on 
+NetAppFiler)
+Local Snapshot
+User Self-Service 
+Remote Snapshot 
+or via local Backup 
+solution
+Local AM Backup
+Exchange 
+Online
+Recycle Bin
+User Self-Service 
+Restore via O365 
+Backup
+Global AM Backup
+OneDrive for 
+Business
+Recycle Bin
+User Self-Service 
+Restore via O365 
+Backup
+Global AM Backup
+Sharepoint 
+Online / 
+Business 
+Worlds
+Recycle Bin
+User / Owner Self-
+Service 
+Restore via O365 
+Backup
+Global AM Backup
+TEAMS
+Recycle Bin
+User / Owner Self-
+Service
+Restore via O365 
+Backup
+Global AM Backup
+Decommissioning of backup definitions
+A Service Request in ITSM is required to start into the process of decommissioning a 
+system. The requestor (AM, BPO) is responsible to issue the needed documentation 
+(MOC, risk assessment, any other) if the system under decommissioning is GxP 
+relevant. When systems or applications are taken out of service the AM Backup will 
+delete the backup definitions accordingly (this must be a task in the Service Request).
+5.4
+Periodical restore tests for validated systems
+For validated applications / systems, restore of data will be tested at least once per 
+year for productive systems (no restore tests for non-production systems). GxP 
+machines are listed in SUP-011745. This list is updated with info present on the CMDB 
+(reviewed once a year). The local AM Backup will restore sample data files and check 
+the restore job for successful completion by comparing restored and original files. The 
+AM Backup will inform the AM about the results of the restore test. Results are 
+recorded using template SUP-011708 and shared with the AM. These documents are 
+also attached to the IT change opened to document the restore tests. These 
+documents are checked during system Periodic Review – see PROC-004035 and 
+PROC-007444.
+However, these tests verify if the backup tool is working as intended. Additional restore 
+procedure that require data integrity checks, must be address by the AM to the AM 
+backup through a service request in which AM identifies the file or database that can
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+
+[CONTENT - LOWERCASE]:
+be restored as part of the test. am must confirm the data integrity of the restored files 
+after restoring. this must be documented within system’s validation context.  
+5.5
+backup retention
+backup generations are retained securely for the defined retention period according to 
+the backup definitions – see: 5.1 “default backup services” and 5.2 “defining individual 
+backup services”.
+5.6
+spatial separation of original and backup data
+backup data must be stored in a different geographic location than the original data
+but remaining in a location compliant with local regulation, to assure all applicable data 
+privacy requirements, including gdpr and hipaa. this means that data produced in 
+europe shall remain in european union and european economic area, data produced 
+in south america shall remain in south america market, and data produced in the 
+united states shall remain in the united states.
+6
+references
+not applicable.
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 12.
+be restored as part of the test. AM must confirm the data integrity of the restored files 
+after restoring. This must be documented within system’s validation context.  
+5.5
+Backup retention
+Backup generations are retained securely for the defined retention period according to 
+the backup definitions – see: 5.1 “Default backup services” and 5.2 “Defining individual 
+backup services”.
+5.6
+Spatial separation of original and backup data
+Backup data must be stored in a different geographic location than the original data
+but remaining in a location compliant with local regulation, to assure all applicable data 
+privacy requirements, including GDPR and HIPAA. This means that data produced in 
+Europe shall remain in European Union and European Economic Area, data produced 
+in South America shall remain in South America Market, and data produced in the 
+United States shall remain in the United States.
+6
+REFERENCES
+Not applicable.
+7
+
+==================================================
+

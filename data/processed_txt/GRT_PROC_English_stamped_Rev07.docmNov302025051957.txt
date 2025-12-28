@@ -1,0 +1,2420 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+local title: process validation
+1
+objective
+the objective of this document is to describe the process validation as stage 2 of the 
+product lifecycle approach according to the applicable guidelines. this document is 
+part of the global validation master plan framework and lays down the rules for 
+process validation.
+2
+scope
+this document applies to all grünenthal manufacturing sites involved in the initial 
+validation of new processes, subsequent validation of modified processes or identified 
+revalidation needs, and site transfers. the defined process in this document is focused 
+on stage 2.2 of product lifecycle approach, see figure 1.
+figure 1. product lifecycle approach
+this procedure is applicable to the manufacture and packaging of all commercial drug 
+products including investigation medicinal products (imps) and apis including 
+intermediates and/or active substances.
+out of scope of this document are:
+
+the manufacturing of substances prior to the regulatory starting material. 
+
+stage 1: process design/development
+
+stages 2.1(proc-004031) and 3 (proc-007415)
+3
+responsibilities
+the areas of production, quality control and quality assurance have the shared or
+jointly exercised responsibilities relating to process validation. the process flowchart 
+described in the chapter 5.11 includes a raci matrix.
+
+each involved department must be able to identify potential gaps to further 
+define new validation needs
+
+the involvement of further departments (e.g. development departments as part 
+of a validation team) must be defined individually, based on the scope of the 
+validation
+the responsibilities of roles listed in this document are as follows:
+stage 1
+process design/development
+enhaced 
+approach
+traditional 
+approach
+stage 2
+process qualification
+2.1 engineering 
+qualification
+2.2. process validation/process performance 
+qualification
+continuos process 
+verification
+traditional pv
+hybrid 
+approach
+stage 3
+ongoing process 
+verification (opv)
+commercial 
+process
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 2.
+Local Title: Process Validation
+1
+OBJECTIVE
+The objective of this document is to describe the Process Validation as stage 2 of the 
+product lifecycle approach according to the applicable Guidelines. This document is 
+part of the Global Validation Master Plan framework and lays down the rules for 
+Process Validation.
+2
+SCOPE
+This document applies to all Grünenthal manufacturing sites involved in the initial 
+validation of new processes, subsequent validation of modified processes or identified 
+revalidation needs, and site transfers. The defined process in this document is focused 
+on stage 2.2 of product lifecycle approach, see figure 1.
+Figure 1. Product lifecycle Approach
+This procedure is applicable to the manufacture and packaging of all commercial drug 
+products including Investigation Medicinal Products (IMPs) and APIs including 
+intermediates and/or active substances.
+Out of Scope of this document are:
+
+The manufacturing of substances prior to the regulatory starting material. 
+
+Stage 1: Process Design/Development
+
+Stages 2.1(PROC-004031) and 3 (PROC-007415)
+3
+RESPONSIBILITIES
+The areas of Production, Quality Control and Quality Assurance have the shared or
+jointly exercised responsibilities relating to Process Validation. The process flowchart 
+described in the chapter 5.11 includes a RACI matrix.
+
+Each involved department must be able to identify potential gaps to further 
+define new validation needs
+
+The involvement of further departments (e.g. development departments as part 
+of a validation team) must be defined individually, based on the scope of the 
+validation
+The responsibilities of roles listed in this document are as follows:
+Stage 1
+Process Design/Development
+Enhaced 
+Approach
+Traditional 
+Approach
+Stage 2
+Process Qualification
+2.1 Engineering 
+Qualification
+2.2. Process Validation/Process Performance 
+Qualification
+Continuos Process 
+Verification
+Traditional PV
+Hybrid 
+Approach
+Stage 3
+Ongoing Process 
+Verification (OPV)
+Commercial 
+Process
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+function/role
+responsibility
+internal manufacturing 
+quality assurance
+
+implementing the process on a local level
+
+ensuring compliance with the quality management 
+system and applicable local regulations
+
+ensuring training of this sop
+
+reviewing and approving of process validation 
+protocols and reports in compliance with the local 
+signature procedure and in line with the site 
+validation master plan and the grünenthal global 
+validation master plan strategy 
+production or equivalent 
+functions (processes 
+owner)
+
+ensure execution of the process validation program 
+in the frame of the validation master plan
+
+ensure that process validation protocols and reports 
+are reviewed and approved
+
+ensure that validation activities are performed by 
+suitably trained employees
+following approved 
+procedures
+quality control or 
+equivalent functions
+
+ensures that testing of in-process controls (when 
+applicable)
+and finished product is performed 
+according to the process validation protocol
+
+ensures that process validation protocols and 
+reports are reviewed and approved
+
+ensures that analytical procedures are validated and 
+the employees trained
+subject matter expert 
+(sme)
+smes have sufficient knowledge of the specific product, 
+process, or system to ensure that validation strategies, 
+execution, and outcomes are accurate, compliant, and 
+aligned with regulatory expectations. 
+sme may be engineering, automation, validation, 
+research and development, quality control, analytical 
+development, safety, or manufacturing technical lead, 
+etc.
+contract giver 
+(customer)
+
+to comment or finally agree to the proposed actions 
+as defined in the qa agreement (when applicable)
+4
+terms and definitions
+term
+definition/explanation
+bracketing approach
+a science and risk-based validation approach such that 
+only batches on the extremes (e.g. lowest and highest 
+dosage strengths) of certain predetermined and justified 
+design factors, e.g. strength, batch size and/or pack size, 
+are tested during process validation. the design assumes 
+that validation of any intermediate levels is represented by 
+validation of the extremes.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 3.
+Function/Role
+Responsibility
+Internal Manufacturing 
+Quality Assurance
+
+Implementing the process on a local level
+
+Ensuring compliance with the Quality Management 
+System and applicable local regulations
+
+Ensuring training of this SOP
+
+Reviewing and approving of Process Validation 
+Protocols and Reports in compliance with the local 
+signature procedure and in line with the Site 
+Validation Master Plan and the Grünenthal Global 
+Validation Master Plan strategy 
+Production or equivalent 
+functions (Processes 
+Owner)
+
+Ensure execution of the Process Validation program 
+in the frame of the Validation Master Plan
+
+Ensure that Process Validation Protocols and reports 
+are reviewed and approved
+
+Ensure that validation activities are performed by 
+suitably trained employees
+following approved 
+procedures
+Quality Control or 
+equivalent functions
+
+Ensures that testing of in-process controls (when 
+applicable)
+and finished product is performed 
+according to the Process Validation Protocol
+
+Ensures that Process Validation Protocols and 
+reports are reviewed and approved
+
+Ensures that analytical procedures are validated and 
+the employees trained
+Subject Matter Expert 
+(SME)
+SMEs have sufficient knowledge of the specific product, 
+process, or system to ensure that validation strategies, 
+execution, and outcomes are accurate, compliant, and 
+aligned with regulatory expectations. 
+SME may be Engineering, Automation, Validation, 
+Research and Development, Quality Control, analytical 
+development, Safety, or Manufacturing Technical Lead, 
+etc.
+Contract giver 
+(customer)
+
+To comment or finally agree to the proposed actions 
+as defined in the QA agreement (when applicable)
+4
+TERMS AND DEFINITIONS
+Term
+Definition/Explanation
+Bracketing approach
+A science and risk-based validation approach such that 
+only batches on the extremes (e.g. lowest and highest 
+dosage strengths) of certain predetermined and justified 
+design factors, e.g. strength, batch size and/or pack size, 
+are tested during Process Validation. The design assumes 
+that validation of any intermediate levels is represented by 
+validation of the extremes.
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+term
+definition/explanation
+change control
+a formal process by which qualified representatives of 
+appropriate disciplines evaluate any changes that might 
+affect the qualification status of facilities, systems, 
+equipment or utilities or the status of validated processes or 
+analytical methods or computerized systems. the intent is 
+to assess and determine the needed actions to ensure that 
+the process/system/facility/equipment/utility or analytical 
+methods are maintained in a qualified and/or validated 
+status.
+concurrent 
+validation
+validation carried out in exceptional circumstances, 
+justified on the basis of significant patient benefit, where the 
+validation 
+protocol 
+is 
+executed 
+concurrently 
+with 
+commercialization of the validation batches.
+continuous process 
+verification
+an alternative approach to process validation in which 
+manufacturing process performance is continuously 
+monitored and evaluated. (ich q8)
+control strategy
+a planned set of controls derived from current product and 
+process understanding that ensures process performance
+and product quality. the controls can include parameters 
+and attributes related to drug substances and drug product
+materials 
+and 
+components, 
+facility 
+and 
+equipment 
+operating conditions, in-process controls, finished product
+specifications and the associated methods and frequency 
+of monitoring and control. (ich q10)
+deviation
+departure from an approved instruction, requirement or 
+established standard.
+discrepancy
+departure of the defined range/acceptance criteria in the 
+test 
+protocol 
+or 
+validation/qualification 
+plan. 
+the 
+discrepancy can be classified and managed as a deviation 
+in case of a potential impact on the current process and/or 
+on the current operational status of the system.
+fmea (failure mode 
+and effect analysis)
+risk analysis method. within the validation process, this 
+technique is based on the evaluation of potential non-
+compliances and their effects on the final quality and safety 
+of the product.
+ipc (in-process-
+control)
+checks performed during production in order to monitor 
+and, if appropriate, to adjust the process and/or to ensure 
+that the product, intermediate or api conforms to its 
+specifications.
+lifecycle
+all phases in the life of a product, equipment or facility from 
+initial development or use through to discontinuation of use.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 4.
+Term
+Definition/Explanation
+Change Control
+A formal process by which qualified representatives of 
+appropriate disciplines evaluate any changes that might 
+affect the qualification status of facilities, systems, 
+equipment or utilities or the status of validated processes or 
+analytical methods or computerized systems. The intent is 
+to assess and determine the needed actions to ensure that 
+the process/system/facility/equipment/utility or analytical 
+methods are maintained in a qualified and/or validated 
+status.
+Concurrent 
+Validation
+Validation carried out in exceptional circumstances, 
+justified on the basis of significant patient benefit, where the 
+Validation 
+Protocol 
+is 
+executed 
+concurrently 
+with 
+commercialization of the validation batches.
+Continuous process 
+verification
+An alternative approach to Process Validation in which 
+manufacturing process performance is continuously 
+monitored and evaluated. (ICH Q8)
+Control Strategy
+A planned set of controls derived from current product and 
+process understanding that ensures process performance
+and product quality. The controls can include parameters 
+and attributes related to drug substances and drug product
+materials 
+and 
+components, 
+facility 
+and 
+equipment 
+operating conditions, in-process controls, finished product
+specifications and the associated methods and frequency 
+of monitoring and control. (ICH Q10)
+Deviation
+Departure from an approved instruction, requirement or 
+established standard.
+Discrepancy
+Departure of the defined range/acceptance criteria in the 
+test 
+protocol 
+or 
+validation/qualification 
+plan. 
+The 
+discrepancy can be classified and managed as a Deviation 
+in case of a potential impact on the current process and/or 
+on the current operational status of the system.
+FMEA (Failure Mode 
+and Effect Analysis)
+Risk analysis method. Within the validation process, this 
+technique is based on the evaluation of potential non-
+compliances and their effects on the final quality and safety 
+of the product.
+IPC (In-Process-
+Control)
+Checks performed during production in order to monitor 
+and, if appropriate, to adjust the process and/or to ensure 
+that the product, intermediate or API conforms to its 
+specifications.
+Lifecycle
+All phases in the life of a product, equipment or facility from 
+initial development or use through to discontinuation of use.
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+term
+definition/explanation
+matrixing approach
+matrixing involves the assessment of the effect of more 
+than one parameter or variable by using a multidimensional 
+matrix to identify the "worst case" or "extreme" conditions 
+for a combination of parameters or variables. these 
+conditions are used during validation of the process, rather 
+than validating all possible combinations.
+medicinal products
+any substance or combination of substances presented for 
+treating or preventing disease. any substance or 
+combination of substances which may be administered to 
+human beings or animals with a view to making a medicinal 
+diagnosis or to restoring, correcting or modifying 
+physiological functions is likewise considered a medicinal 
+product.
+ongoing process 
+verification [opv]
+documented evidence that the process remains in a state 
+of control during commercial manufacture.
+opv is also known as continued process verification.
+operating 
+characteristic curve 
+[oc]
+curve showing the relationship between probability of 
+acceptance of product and the incoming quality level for a 
+given acceptance sampling plan.
+process analytical 
+technology [pat]
+guidance to provide the framework for development and 
+implementation of innovative pharmaceutical development, 
+manufacturing, and quality assurance.
+process validation
+[pv]
+the documented evidence that the process, operated 
+within established parameters, can perform effectively and 
+reproducibly to produce an intermediate, api, bulk or 
+finished product meeting its predetermined specifications 
+and quality attributes.
+process validation 
+protocol
+document defines the critical systems, attributes and 
+parameters and the associated acceptance criteria.
+process validation 
+report
+the review and conclusions of the validation must be 
+reported and the results obtained summarized against the 
+acceptance criteria.
+prospective 
+validation
+validation carried out before routine production of products 
+intended for sale.
+quality by design 
+(qbd)
+a systematic approach that begins with predefined 
+objectives 
+and 
+emphasizes 
+product 
+and 
+process 
+understanding and process control, based on sound 
+science and quality risk management.
+risk analysis
+the estimation of the risk associated with the identified 
+hazards.
+traditional validation 
+approach
+a validation approach where a number of at least three 
+subsequent 
+batches 
+of 
+the 
+finished 
+product 
+are 
+manufactured 
+under 
+routine 
+conditions 
+to 
+confirm 
+reproducibility.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 5.
+Term
+Definition/Explanation
+Matrixing approach
+Matrixing involves the assessment of the effect of more 
+than one parameter or variable by using a multidimensional 
+matrix to identify the "worst case" or "extreme" conditions 
+for a combination of parameters or variables. These 
+conditions are used during validation of the process, rather 
+than validating all possible combinations.
+Medicinal Products
+Any substance or combination of substances presented for 
+treating or preventing disease. Any substance or 
+combination of substances which may be administered to 
+human beings or animals with a view to making a medicinal 
+diagnosis or to restoring, correcting or modifying 
+physiological functions is likewise considered a medicinal 
+product.
+Ongoing Process 
+Verification [OPV]
+Documented evidence that the process remains in a state 
+of control during commercial manufacture.
+OPV is also known as continued process verification.
+Operating 
+Characteristic Curve 
+[OC]
+Curve showing the relationship between probability of 
+acceptance of product and the incoming quality level for a 
+given acceptance sampling plan.
+Process Analytical 
+Technology [PAT]
+Guidance to provide the framework for development and 
+implementation of innovative pharmaceutical development, 
+manufacturing, and quality assurance.
+Process Validation
+[PV]
+The documented evidence that the process, operated 
+within established parameters, can perform effectively and 
+reproducibly to produce an intermediate, API, bulk or 
+finished product meeting its predetermined specifications 
+and quality attributes.
+Process Validation 
+Protocol
+Document defines the critical systems, attributes and 
+parameters and the associated acceptance criteria.
+Process Validation 
+Report
+The review and conclusions of the validation must be 
+reported and the results obtained summarized against the 
+acceptance criteria.
+Prospective 
+Validation
+Validation carried out before routine production of products 
+intended for sale.
+Quality by design 
+(QbD)
+A systematic approach that begins with predefined 
+objectives 
+and 
+emphasizes 
+product 
+and 
+process 
+understanding and process control, based on sound 
+science and quality risk management.
+Risk Analysis
+The estimation of the risk associated with the identified 
+hazards.
+Traditional validation 
+approach
+A validation approach where a number of at least three 
+subsequent 
+batches 
+of 
+the 
+finished 
+product 
+are 
+manufactured 
+under 
+routine 
+conditions 
+to 
+confirm 
+reproducibility.
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+term
+definition/explanation
+validation
+action of proving, in accordance with the principles of good 
+manufacturing practice, that any procedure, process, 
+equipment, material, activity or system actually leads to the 
+expected results.
+5
+process
+process validation incorporates a lifecycle approach linking product and process 
+development, validation of the commercial manufacturing process and maintenance of 
+the process in a state of control during routine commercial production (as reflected in 
+figure 1).
+the general overview of the process validation is reflected in figure 2.
+figure 2. process validation steps in stage 2.2
+manufacturing process validation (stage 2.2)
+inputs to pv (stage 1 
+results)
+pv planning
+execution
+reporting
+continued 
+improvement
+product risk 
+assessment/ 
+control strategy 
+(ich q8)
+cqas
+cpps (inc. 
+qualification 
+range)
+regulatory, 
+organization/site, 
+operational, and 
+ehs 
+requirements
+number of pv
+batches
+pv protocol/
+plan
+sampling plan
+plan execution 
+and data 
+collection
+summary of test 
+results, 
+observations and 
+closure statement
+operation
+periodic review
+acceptance 
+criteria
+data 
+evaluation 
+rules
+1. simple random sampling
+2. stratified random sampling
+3. systematic sampling
+a control strategy must be designed to ensure that the product required will be 
+produced consistently. the controls can include parameters and attributes related to 
+drug substance or drug product materials and components, facility and equipment 
+operating conditions, in-process controls, finished product specifications, and the 
+associated methods and frequency of monitoring and control related to each process 
+step.
+a control strategy is developed during stage 1 where the commercial process is defined 
+considering science and risk-based approach.
+as a basic prerequisite, robust product development and product understanding 
+support successful process validation. hence, process validation is used to establish 
+the link between product development, process development and commercial 
+production. finally, a robust and validated manufacturing process can be established 
+for routine manufacturing of the product in question. process validation confirms that 
+the control strategy adequately ensures the process performance and the product 
+quality. 
+process validation is used to confirm:
+
+the suitability of the predetermined quality attributes and process parameters, 
+that are considered important for the control of the manufacturing process,
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 6.
+Term
+Definition/Explanation
+Validation
+Action of proving, in accordance with the principles of Good 
+Manufacturing Practice, that any procedure, process, 
+equipment, material, activity or system actually leads to the 
+expected results.
+5
+PROCESS
+Process validation incorporates a lifecycle approach linking product and process 
+development, validation of the commercial manufacturing process and maintenance of 
+the process in a state of control during routine commercial production (as reflected in 
+figure 1).
+The general overview of the process validation is reflected in figure 2.
+Figure 2. Process Validation steps in stage 2.2
+Manufacturing Process Validation (Stage 2.2)
+Inputs to PV (Stage 1 
+results)
+PV Planning
+Execution
+Reporting
+Continued 
+Improvement
+Product Risk 
+Assessment/ 
+Control Strategy 
+(ICH Q8)
+CQAs
+CPPs (inc. 
+Qualification 
+Range)
+Regulatory, 
+Organization/Site, 
+Operational, and 
+EHS 
+Requirements
+Number of PV
+Batches
+PV Protocol/
+Plan
+Sampling Plan
+Plan Execution 
+and Data 
+collection
+Summary of test 
+results, 
+observations and 
+closure statement
+Operation
+Periodic Review
+Acceptance 
+Criteria
+Data 
+Evaluation 
+Rules
+1. Simple random sampling
+2. Stratified Random Sampling
+3. Systematic Sampling
+A control strategy must be designed to ensure that the product required will be 
+produced consistently. The controls can include parameters and attributes related to 
+drug substance or drug product materials and components, facility and equipment 
+operating conditions, in-process controls, finished product specifications, and the 
+associated methods and frequency of monitoring and control related to each process 
+step.
+A control strategy is developed during stage 1 where the commercial process is defined 
+considering science and risk-based approach.
+As a basic prerequisite, robust product development and product understanding 
+support successful Process Validation. Hence, Process Validation is used to establish 
+the link between product development, process development and commercial 
+production. Finally, a robust and validated manufacturing process can be established 
+for routine manufacturing of the product in question. Process Validation confirms that 
+the control strategy adequately ensures the process performance and the product 
+quality. 
+Process Validation is used to confirm:
+
+The suitability of the predetermined quality attributes and process parameters, 
+that are considered important for the control of the manufacturing process,
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+
+to ensure the specified product quality and
+
+to demonstrate that the predetermined quality attributes and process 
+parameters can be consistently met by the process.
+the scope of the validation shall cover all manufactured strengths, and all 
+manufacturing sites used for production of the product.
+for transfers of products, from one site to another site or within the same site, a 
+bracketing or matrixing approach can be applied to reduce the number of validation 
+batches. however, the existing product knowledge, including the outcome of the 
+previous validation, must be considered for any validation activity.
+for the site transfer of already established "legacy" products, the manufacturing 
+process and controls must comply with the marketing authorization and meet the 
+registered specifications and controls of the product in question.
+however, irrespective of the validation approach, manufacturing processes must:
+be robust and
+ensure consistent product quality according to the specification before any 
+product is released into the market.
+normally, the batch size used for process validation shall be the same size as intended 
+for market supply. the use of any other batch sizes must be documented and justified 
+before any validation starts.
+5.1
+pre-requisites 
+processes equipment, facilities, utilities and systems used for process validation and 
+analytical equipment must be qualified.
+process design is assessed and found to be acceptable. in addition, process is 
+characterized adequately and well understood. as consequence, quality target 
+product profile, control strategy and manufacturing process description are available.
+analytical test methods must be validated for their intended use before starting process 
+validation.
+personnel involved in the manufacturing of validation batches must be trained for the 
+proposed task.
+for process validation batches, production, development, or other site transfer 
+personnel may be involved. batches must only be manufactured by trained personnel 
+in accordance with gmp using approved documentation (i.e., approved commercial 
+batch records documentation). in the case of scale up, in addition to the production 
+personnel involved in the manufacture of validation batches, development personnel 
+can support the manufacturing to facilitate product understanding.
+the suppliers of starting and packaging materials must be qualified prior to the 
+manufacture of validation batches; otherwise, a justification based on the application 
+of quality risk management principles must be documented.
+it is especially important that the underlying process knowledge for the justification of 
+the design space (if used) is supported e.g. by appropriate mathematical models to 
+confirm a rational process control strategy.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 7.
+
+to ensure the specified product quality and
+
+to demonstrate that the predetermined quality attributes and process 
+parameters can be consistently met by the process.
+The scope of the validation shall cover all manufactured strengths, and all 
+manufacturing sites used for production of the product.
+For transfers of products, from one site to another site or within the same site, a 
+bracketing or matrixing approach can be applied to reduce the number of validation 
+batches. However, the existing product knowledge, including the outcome of the 
+previous validation, must be considered for any validation activity.
+For the site transfer of already established "legacy" products, the manufacturing 
+process and controls must comply with the marketing authorization and meet the 
+registered specifications and controls of the product in question.
+However, irrespective of the validation approach, manufacturing processes must:
+be robust and
+ensure consistent product quality according to the specification before any 
+product is released into the market.
+Normally, the batch size used for Process Validation shall be the same size as intended 
+for market supply. The use of any other batch sizes must be documented and justified 
+before any validation starts.
+5.1
+Pre-requisites 
+Processes equipment, facilities, utilities and systems used for Process Validation and 
+analytical equipment must be qualified.
+Process design is assessed and found to be acceptable. In addition, process is 
+characterized adequately and well understood. As consequence, Quality Target 
+Product Profile, Control Strategy and Manufacturing process description are available.
+Analytical test methods must be validated for their intended use before starting process 
+Validation.
+Personnel involved in the manufacturing of validation batches must be trained for the 
+proposed task.
+For Process Validation batches, production, development, or other site transfer 
+personnel may be involved. Batches must only be manufactured by trained personnel 
+in accordance with GMP using approved documentation (i.e., approved commercial 
+batch records documentation). In the case of scale up, in addition to the production 
+personnel involved in the manufacture of validation batches, development personnel 
+can support the manufacturing to facilitate product understanding.
+The suppliers of starting and packaging materials must be qualified prior to the 
+manufacture of validation batches; otherwise, a justification based on the application 
+of quality risk management principles must be documented.
+It is especially important that the underlying process knowledge for the justification of 
+the design space (if used) is supported e.g. by appropriate mathematical models to 
+confirm a rational process control strategy.
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+5.2
+process validation planning
+process validation must follow an approved protocol which describes the planning of 
+the validation activities, which includes the validation strategy and the respective 
+applied validation approach (see chapter 5.2.2). 
+for a successful pv, good planning is key and essential for activities such as:
+
+determining the number of pv batches is necessary to demonstrate that 
+acceptable control over the process has been achieved during the process 
+validation studies. at least three consecutive batches per strength are used to 
+validate a manufacturing process
+
+giving instructions for the execution of pv in a protocol.
+
+establishing the representative number of samples to assess process 
+performance and to determine variability
+
+developing clear specification of acceptance criteria and expectations for 
+successful pv
+
+evaluating data and test results obtained from pv (see chapter 5.3)
+
+generating concise summary of test results, observations from pv batches, and 
+a closure statement concluding the validation activity (see chapter 5.3)
+5.2.1
+sampling plan and acceptance criteria
+the development of suitable sampling plans and associated acceptance criteria are 
+essential to achieving the objectives of process validation. these activities are best 
+addressed by incorporating the scientific knowledge of the product and process with 
+statistical sampling methodology. it is important that science and statistics are 
+leveraged so that the plans are rigorous and practical.
+the acceptance criteria for each parameter must be justified in the pv protocol if it is 
+not part of development documentation, based on available stage 1 data, prior 
+knowledge, and/or equipment capabilities.
+a sampling plan describes where (locations) and how the samples are taken from the 
+batch, and the number of samples taken from each location. the sampling plan must 
+ensure that the data collected is representative of the parameter to be measured and 
+that the sample size is sufficient to support the conclusions needed for process 
+validation.
+the choice of acceptance criteria is part of generating a sampling plan. the sampling 
+plan must be justified; operating characteristic (oc) curves are useful for this purpose. 
+in case of homogenous mixtures like in api and intermediate manufacturing, a detailed 
+sampling plan or justification is optional. 
+there are three common sampling strategies, which are described as follows:
+type
+definition
+1. simple 
+random 
+sampling
+"simple random sampling gives each possible unit an equal probability of being 
+chosen to be tested. a true random sample from a batch could theoretically be 
+obtained by identifying each unit in the batch and then by a completely random 
+process, pick 'n' units. to obtain a true simple random sample is nearly impossible 
+or impractical for sampling a batch of units."
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 8.
+5.2
+Process Validation Planning
+Process Validation must follow an approved protocol which describes the planning of 
+the validation activities, which includes the validation strategy and the respective 
+applied validation approach (see chapter 5.2.2). 
+For a successful PV, good planning is key and essential for activities such as:
+
+Determining the number of PV batches is necessary to demonstrate that 
+acceptable control over the process has been achieved during the process 
+validation studies. At least three consecutive batches per strength are used to 
+validate a manufacturing process
+
+Giving instructions for the execution of PV in a protocol.
+
+Establishing the representative number of samples to assess process 
+performance and to determine variability
+
+Developing clear specification of acceptance criteria and expectations for 
+successful PV
+
+Evaluating data and test results obtained from PV (see chapter 5.3)
+
+Generating concise summary of test results, observations from PV batches, and 
+a closure statement concluding the validation activity (see chapter 5.3)
+5.2.1
+Sampling Plan and Acceptance Criteria
+The development of suitable sampling plans and associated acceptance criteria are 
+essential to achieving the objectives of Process Validation. These activities are best 
+addressed by incorporating the scientific knowledge of the product and process with 
+statistical sampling methodology. It is important that science and statistics are 
+leveraged so that the plans are rigorous and practical.
+The acceptance criteria for each parameter must be justified in the PV Protocol if it is 
+not part of development documentation, based on available Stage 1 data, prior 
+knowledge, and/or equipment capabilities.
+A sampling plan describes where (locations) and how the samples are taken from the 
+batch, and the number of samples taken from each location. The sampling plan must 
+ensure that the data collected is representative of the parameter to be measured and 
+that the sample size is sufficient to support the conclusions needed for process 
+validation.
+The choice of acceptance criteria is part of generating a sampling plan. The sampling 
+plan must be justified; Operating Characteristic (OC) curves are useful for this purpose. 
+In case of homogenous mixtures like in API and intermediate manufacturing, a detailed 
+sampling plan or justification is optional. 
+There are three common sampling strategies, which are described as follows:
+Type
+Definition
+1. Simple 
+Random 
+Sampling
+"Simple random sampling gives each possible unit an equal probability of being 
+chosen to be tested. A true random sample from a batch could theoretically be 
+obtained by identifying each unit in the batch and then by a completely random 
+process, pick 'n' units. To obtain a true simple random sample is nearly impossible 
+or impractical for sampling a batch of units."
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+type
+definition
+2. stratified 
+random 
+sampling
+it is possible with simple random sampling that, just by chance, the samples may 
+not contain units from segments of the batch that are of interest. "for example, in 
+process validation, the beginning and end of the batch may be of interest. so, 
+although a simple random sample is statistically valid, one may not be satisfied 
+with a sampling plan that does not include samples taken from the beginning or 
+end of the batch."
+a stratified sampling strategy partitions the batch into "strata," or groups, where 
+differences may exist between the strata. the combination of all strata must cover 
+the entire batch. then random sampling is performed within each stratum.
+3. systematic 
+sampling
+"a systematic sampling strategy is performed by taking a sample(s) at equal 
+intervals throughout the batch, typically based on the total number of units or 
+manufacturing time. the first sample location is determined at random and then the 
+remaining samples are taken at equal intervals."
+5.2.2
+process validation approaches
+manufacturing processes can be validated by different approaches.
+process validation can be performed in a traditional way, regardless of the chosen 
+development approach.
+manufacturing processes applying the traditional approach shall undergo a prospective 
+validation program, prior to product approval.
+however, as an alternative, continuous process verification can be applied for products 
+that were developed by a qbd concept. as a prerequisite a substantial amount of 
+product and process knowledge and understanding has been gained by e.g. process 
+analytical technology and statistical tools such as multivariate statistical process 
+control.
+a combination of traditional process validation and continuous process verification 
+may be applied. the in-line, on-line or at-line monitoring that is often utilized for 
+continuous process verification provides substantially information and knowledge 
+about the process on going and might facilitate process improvements in a faster 
+manner.
+a bracketing approach can be applied in the case of process validation referred to 
+multiple strengths of identical or closely related formulations or different sites, if 
+adequately justified.
+examples include but are not limited to:
+
+capsules of different strengths made with different fill plug sizes from the same 
+powder blend,
+
+tablets of different strengths manufactured by compressing varying amounts of 
+the same granules/powder blend,
+
+oral solutions of different strengths with formulations that differ only in minor 
+excipients (e.g. colorants, flavorings) and
+
+site transfers.
+furthermore, bracketing can be applied to different container sizes or different fills in 
+the same container closure system.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 9.
+Type
+Definition
+2. Stratified 
+Random 
+Sampling
+It is possible with simple random sampling that, just by chance, the samples may 
+not contain units from segments of the batch that are of interest. "For example, in 
+process validation, the beginning and end of the batch may be of interest. So, 
+although a simple random sample is statistically valid, one may not be satisfied 
+with a sampling plan that does not include samples taken from the beginning or 
+end of the batch."
+A stratified sampling strategy partitions the batch into "strata," or groups, where 
+differences may exist between the strata. The combination of all strata must cover 
+the entire batch. Then random sampling is performed within each stratum.
+3. Systematic 
+Sampling
+"A systematic sampling strategy is performed by taking a sample(s) at equal 
+intervals throughout the batch, typically based on the total number of units or 
+manufacturing time. The first sample location is determined at random and then the 
+remaining samples are taken at equal intervals."
+5.2.2
+Process Validation Approaches
+Manufacturing processes can be validated by different approaches.
+Process validation can be performed in a traditional way, regardless of the chosen 
+development approach.
+Manufacturing processes applying the traditional approach shall undergo a prospective 
+validation program, prior to product approval.
+However, as an alternative, continuous process verification can be applied for products 
+that were developed by a QbD concept. As a prerequisite a substantial amount of 
+product and process knowledge and understanding has been gained by e.g. Process 
+Analytical Technology and statistical tools such as multivariate statistical process 
+control.
+A combination of traditional Process Validation and continuous process verification 
+may be applied. The in-line, on-line or at-line monitoring that is often utilized for 
+continuous process verification provides substantially information and knowledge 
+about the process on going and might facilitate process improvements in a faster 
+manner.
+A Bracketing approach can be applied in the case of Process Validation referred to 
+multiple strengths of identical or closely related formulations or different sites, if 
+adequately justified.
+Examples include but are not limited to:
+
+capsules of different strengths made with different fill plug sizes from the same 
+powder blend,
+
+tablets of different strengths manufactured by compressing varying amounts of 
+the same granules/powder blend,
+
+oral solutions of different strengths with formulations that differ only in minor 
+excipients (e.g. colorants, flavorings) and
+
+site transfers.
+Furthermore, bracketing can be applied to different container sizes or different fills in 
+the same container closure system.
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+a matrixing approach can be applied in the case of process validation when the target 
+is to assess the effects of more than one parameter or variable. matrixing approach 
+foresees the usage of a multidimensional matrix to identify the "worst-case" or 
+"extreme" conditions for a combination of parameters or variables. examples include 
+but are not limited to the same product manufactured by using alternative equipment, 
+alternative raw material sources and alternative batch sizes. the rationale for using 
+this strategy must be scientifically discussed and justified.
+validation trials using either bracketing or matrixing approaches must be described in 
+detail and must be scientifically justified. a combination of both may be acceptable in 
+complex cases where multiple variables must be considered (e.g. process validation 
+protocols where one or more changes must be applied to a product different dosage 
+strengths, 
+alternative 
+equipment 
+and/or 
+alternative 
+raw 
+material 
+source
+simultaneously).
+5.2.2.1
+retrospective process validation
+retrospective validation is no longer an acceptable approach for finished product 
+manufacturing.
+for apis a retrospective validation can be performed in case of well-established 
+processes that are used without significant changes to api quality due to changes e.g. 
+in raw materials, equipment, systems, facilities, or the production process. this is 
+acceptable under the following conditions:
+
+critical quality attributes and critical process parameters were identified in the 
+past.
+
+appropriate in-process acceptance criteria and controls were established,
+
+there have not been significant process/product failures attributable to causes 
+other than operator error or equipment failures unrelated to equipment 
+suitability; and,
+
+the impurity profile has been established for the existing api.
+batches selected for retrospective validation must be representative of all batches 
+made during the review period, including any batches that failed to meet specifications, 
+and must be sufficient in number to demonstrate process consistency. retained 
+samples can be tested to obtain data to retrospectively validate the process
+5.2.2.2
+traditional process validation
+applying the traditional process validation approach, a certain, predefined number of 
+batches of the finished product are manufactured according to the validation protocol 
+to confirm reproducibility.
+it is generally considered acceptable that a minimum of three consecutive batches per 
+strengths are used to validate a manufacturing process. an alternative number of 
+batches can be justified taking into account whether standard manufacturing methods 
+are used and whether similar products or processes are already used at the site. an 
+initial validation exercise with three consecutive batches may need to be supplemented 
+with further data, obtained from subsequent batches as part of an on-going process 
+verification exercise.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 10.
+A Matrixing approach can be applied in the case of Process Validation when the target 
+is to assess the effects of more than one parameter or variable. Matrixing approach 
+foresees the usage of a multidimensional matrix to identify the "worst-case" or 
+"extreme" conditions for a combination of parameters or variables. Examples include 
+but are not limited to the same product manufactured by using alternative equipment, 
+alternative raw material sources and alternative batch sizes. The rationale for using 
+this strategy must be scientifically discussed and justified.
+Validation trials using either bracketing or matrixing approaches must be described in 
+detail and must be scientifically justified. A combination of both may be acceptable in 
+complex cases where multiple variables must be considered (e.g. Process Validation 
+Protocols where one or more changes must be applied to a product different dosage 
+strengths, 
+alternative 
+equipment 
+and/or 
+alternative 
+raw 
+material 
+source
+simultaneously).
+5.2.2.1
+Retrospective Process Validation
+Retrospective validation is no longer an acceptable approach for finished product 
+manufacturing.
+For APIs a retrospective validation can be performed in case of well-established 
+processes that are used without significant changes to API quality due to changes e.g. 
+in raw materials, equipment, systems, facilities, or the production process. This is 
+acceptable under the following conditions:
+
+Critical quality attributes and critical process parameters were identified in the 
+past.
+
+Appropriate in-process acceptance criteria and controls were established,
+
+There have not been significant process/product failures attributable to causes 
+other than operator error or equipment failures unrelated to equipment 
+suitability; and,
+
+The impurity profile has been established for the existing API.
+Batches selected for retrospective validation must be representative of all batches 
+made during the review period, including any batches that failed to meet specifications, 
+and must be sufficient in number to demonstrate process consistency. Retained 
+samples can be tested to obtain data to retrospectively validate the process
+5.2.2.2
+Traditional Process Validation
+Applying the traditional Process Validation approach, a certain, predefined number of 
+batches of the finished product are manufactured according to the Validation Protocol 
+to confirm reproducibility.
+It is generally considered acceptable that a minimum of three consecutive batches per 
+strengths are used to validate a manufacturing process. An alternative number of 
+batches can be justified taking into account whether standard manufacturing methods 
+are used and whether similar products or processes are already used at the site. An 
+initial validation exercise with three consecutive batches may need to be supplemented 
+with further data, obtained from subsequent batches as part of an on-going process 
+verification exercise.
+
+==================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+traditional process validation is typically performed at the end of the pharmaceutical 
+development and/or process development, normally after upscaling to full production 
+scale and prior to marketing of the finished product.
+as part of the process validation lifecycle, some process validation studies may be 
+conducted on pilot scale batches if the process has not yet been scaled up to 
+production scale (e.g. in case of variations). it is important to note that pilot batch sizes 
+must be representative and correspond to at least 10% of the production scale batch 
+(i.e. such that the multiplication factor for the scale-up does not exceed 10). for solid 
+oral dosage forms this size must generally be 10% of the maximum production scale 
+or 100,000 units whichever is the greater. where the intended batch size is less than 
+100,000 units, the predictive value of the pilot batches may be limited. those batches 
+having a limited predictive value must be justified and followed by more predictive 
+batches.
+in the case of pilot batches of apis or intermediates the pilot batch size must be 
+representative compared to the industrial batch size. the batch scale must be justified
+with a science and risk-based approach.
+since it is not generally considered useful to conduct full validation studies on pilot 
+scale batches, the process validation scheme must be completed for each product for 
+subsequent execution on a production scale, if justified bracketing or matrixing can be 
+applied.
+5.2.2.3
+continuous process verification
+continuous process verification can be applied as an alternative to traditional process 
+validation. it may be applicable for the manufacturing of the finished product and api 
+processes that were newly developed by a qbd approach, where it has been 
+scientifically established during development that the applied control strategy provides 
+a high degree of assurance of product quality.
+the scope and extent of process verification will be influenced by a number of factors 
+including:
+
+prior development and knowledge of the manufacturing of similar products 
+and/or processes.
+
+the extent of process understanding gained during development;
+
+development studies and commercial manufacturing experience;
+
+the complexity of the product and/or manufacturing process;
+
+the level of process automation and analytical technologies used (e.g. process 
+analytical technology (pat));
+
+for already established "legacy" products, the robustness of the process and 
+the product understanding obtained during the product life-cycle;
+
+the manufacturing history since the point of commercialization, as appropriate.
+the key elements that need to be scientifically considered in the continuous process 
+verification are:
+
+required attributes for incoming materials;
+
+critical quality attributes of the product;
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 11.
+Traditional Process Validation is typically performed at the end of the pharmaceutical 
+development and/or process development, normally after upscaling to full production 
+scale and prior to marketing of the finished product.
+As part of the Process Validation lifecycle, some Process Validation studies may be 
+conducted on pilot scale batches if the process has not yet been scaled up to 
+production scale (e.g. in case of variations). It is important to note that pilot batch sizes 
+must be representative and correspond to at least 10% of the production scale batch 
+(i.e. such that the multiplication factor for the scale-up does not exceed 10). For solid 
+oral dosage forms this size must generally be 10% of the maximum production scale 
+or 100,000 units whichever is the greater. Where the intended batch size is less than 
+100,000 units, the predictive value of the pilot batches may be limited. Those batches 
+having a limited predictive value must be justified and followed by more predictive 
+batches.
+In the case of pilot batches of APIs or intermediates the pilot batch size must be 
+representative compared to the industrial batch size. The batch scale must be justified
+with a science and risk-based approach.
+Since it is not generally considered useful to conduct full validation studies on pilot 
+scale batches, the Process Validation scheme must be completed for each product for 
+subsequent execution on a production scale, if justified bracketing or matrixing can be 
+applied.
+5.2.2.3
+Continuous process verification
+Continuous process verification can be applied as an alternative to Traditional Process 
+Validation. It may be applicable for the manufacturing of the finished product and API 
+processes that were newly developed by a QbD approach, where it has been 
+scientifically established during development that the applied control strategy provides 
+a high degree of assurance of product quality.
+The scope and extent of process verification will be influenced by a number of factors 
+including:
+
+prior development and knowledge of the manufacturing of similar products 
+and/or processes.
+
+the extent of process understanding gained during development;
+
+development studies and commercial manufacturing experience;
+
+the complexity of the product and/or manufacturing process;
+
+the level of process automation and analytical technologies used (e.g. Process 
+Analytical Technology (PAT));
+
+for already established "legacy" products, the robustness of the process and 
+the product understanding obtained during the product life-cycle;
+
+the manufacturing history since the point of commercialization, as appropriate.
+The key elements that need to be scientifically considered in the continuous process 
+verification are:
+
+required attributes for incoming materials;
+
+critical quality attributes of the product;
+
+==================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+
+critical process parameters;
+the following elements must be defined:
+
+the type of testing or monitoring to be performed;
+
+the acceptance criteria to be applied;
+
+data evaluation 
+any statistical models or tools must be described. a regular periodical assessment of 
+the control strategy throughout the product life cycle must be described. enhanced 
+sampling and monitoring can be applied (e.g. after change control, after detection of 
+trend etc.) in order to confirm the validity of the process. periods of enhanced sampling 
+and monitoring may help to increase process understanding (continuous improvement) 
+and can be part of a further process monitoring program (i.e. predefined investigation 
+program/capa). process trends, such as the quality of incoming materials or 
+components, in-process and finished product results and non-conformances must be 
+assessed.
+it is necessary to use tools like process analytical technology or multivariate statistical 
+process control to confirm the process robustness.
+the general principles laid down in the previous chapters 5.1 general considerations 
+and 5.2 prerequisites still apply.
+5.2.2.4
+hybrid approach
+a hybrid of the traditional approach and continuous process verification can be applied 
+where there is a substantial amount of product and process knowledge and 
+understanding which has been gained from manufacturing experience and historical 
+batch data.
+this approach can be also used for any validation activities after changes or during 
+ongoing process verification even though the product was initially validated using a 
+traditional approach.
+5.2.2.5
+prospective validation vs. concurrent validation
+process validation activities must be complete before the release of the batches on 
+the market (prospective validation). in fact, processes must be shown to be robust and 
+ensure consistent product quality before any product is released to the market. 
+in exceptional circumstances, where there is a strong benefit-risk ratio for the patient 
+e.g., for rare diseases or limited availability of medicines, it may be acceptable not to 
+complete a validation program before routine production starts (concurrent validation). 
+however, if the company intends to apply in exceptional cases the concurrent 
+validation this decision must be justified and documented in the vmp as well as in the 
+validation protocol approved by qualified person (qp or function with equivalent 
+responsibilities) using a risk-based approach.
+where a concurrent validation approach is adopted, sufficient data must be presented 
+to support a conclusion that any given batch of products meets the predefined 
+acceptance criteria. the results and the conclusion must be formally documented and 
+available to the qualified person or person responsible for batch release prior to 
+certification of the batch.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 12.
+
+critical process parameters;
+The following elements must be defined:
+
+the type of testing or monitoring to be performed;
+
+the acceptance criteria to be applied;
+
+Data evaluation 
+Any statistical models or tools must be described. A regular periodical assessment of 
+the control strategy throughout the product life cycle must be described. Enhanced 
+sampling and monitoring can be applied (e.g. after change control, after detection of 
+trend etc.) in order to confirm the validity of the process. Periods of enhanced sampling 
+and monitoring may help to increase process understanding (continuous improvement) 
+and can be part of a further process monitoring program (i.e. predefined investigation 
+program/CAPA). Process trends, such as the quality of incoming materials or 
+components, in-process and finished product results and non-conformances must be 
+assessed.
+It is necessary to use tools like Process Analytical Technology or multivariate statistical 
+process control to confirm the process robustness.
+The general principles laid down in the previous chapters 5.1 General Considerations 
+and 5.2 Prerequisites still apply.
+5.2.2.4
+Hybrid approach
+A hybrid of the traditional approach and continuous process verification can be applied 
+where there is a substantial amount of product and process knowledge and 
+understanding which has been gained from manufacturing experience and historical 
+batch data.
+This approach can be also used for any validation activities after changes or during 
+ongoing process verification even though the product was initially validated using a 
+traditional approach.
+5.2.2.5
+Prospective Validation vs. Concurrent validation
+Process Validation activities must be complete before the release of the batches on 
+the market (Prospective Validation). In fact, processes must be shown to be robust and 
+ensure consistent product quality before any product is released to the market. 
+In exceptional circumstances, where there is a strong benefit-risk ratio for the patient 
+e.g., for rare diseases or limited availability of medicines, it may be acceptable not to 
+complete a validation program before routine production starts (concurrent validation). 
+However, if the company intends to apply in exceptional cases the Concurrent 
+Validation this decision must be justified and documented in the VMP as well as in the 
+Validation Protocol approved by Qualified Person (QP or function with equivalent 
+responsibilities) using a risk-based approach.
+Where a concurrent validation approach is adopted, sufficient data must be presented 
+to support a conclusion that any given batch of products meets the predefined 
+acceptance criteria. The results and the conclusion must be formally documented and 
+available to the Qualified Person or person responsible for batch release prior to 
+certification of the batch.
+
+==================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 13', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+5.3
+process validation execution and reporting
+after the process validation execution is completed, graphical tools like run charts, 
+individual value plots, and (in some cases) box plots can be used to confirm that the 
+process performance is like that expected based on stage 1 data, when available.
+statistical tools (e.g., minitab) can be used to perform the defined statistical 
+evaluations.
+data must be collected and reviewed against predetermined acceptance criteria of the 
+validation protocol and fully documented in process validation reports. the report 
+must reflect the validation protocol. 
+the validation report (sup-012078) includes an assessment of all executed validation 
+activities.
+any change or departure to the approved protocol during execution (e.g. acceptance 
+criteria, operating parameters etc.) must be scientifically assessed on the impact of the 
+finished product and must be documented as a discrepancy (sup-012243) and/or 
+event/deviation (proc-005388).
+results which fail to meet the pre-defined acceptance criteria must be recorded as a 
+deviation/oos and be fully investigated according to global procedures (proc-
+004019). any implications for the validation must be discussed in the validation report.
+moreover, a suitable conclusion (i.e. capa) to correct any deficiency must be included.
+finally, the completion of the pv triggers the initiation of the ongoing process 
+verification (proc-007415).
+5.4
+risk assessment
+the decision on the scope and extent of validation must be based on a justified using 
+a risk-based approach of the manufacturing process.
+the basis by which process parameters and quality attributes are identified as being 
+critical or non-critical must be clearly documented and justified, considering the results 
+of any risk assessment activities. the cpps and cqas are defined in the respective 
+control strategy, which is established during stage 1 of the product lifecycle. the 
+methodology for the definition of the cpps and cqas is described in the tmat-
+002332.
+the potential risk identified during risk analysis for any new processes/changes, 
+introduced in existing processes, is mitigated by the development of an adequate risk 
+mitigation plan. the detectability of possible failures during process validation is 
+supported by a suitable testing and sampling plan.
+based on the outcome of process validation, the risks associated with routine 
+production must be re-assessed, and the results must ensure the control of the whole 
+production process.
+5.5
+validation of packaging
+process validation may also cover primary and secondary packaging operations. 
+process qualification of packaging equipment (primary and secondary) can be 
+combined with process validation. minimum and maximum operating ranges defined 
+for the critical process parameters such as temperature, machine speed and sealing 
+pressure or for any other critical factors must be tested within lifecycle approach.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 13.
+5.3
+Process Validation Execution and Reporting
+After the process validation execution is completed, graphical tools like run charts, 
+individual value plots, and (in some cases) box plots can be used to confirm that the 
+process performance is like that expected based on stage 1 data, when available.
+Statistical tools (e.g., Minitab) can be used to perform the defined statistical 
+evaluations.
+Data must be collected and reviewed against predetermined acceptance criteria of the 
+Validation Protocol and fully documented in Process Validation reports. The report 
+must reflect the Validation Protocol. 
+The validation report (SUP-012078) includes an assessment of all executed validation 
+activities.
+Any change or departure to the approved protocol during execution (e.g. acceptance 
+criteria, operating parameters etc.) must be scientifically assessed on the impact of the 
+finished product and must be documented as a discrepancy (SUP-012243) and/or 
+event/deviation (PROC-005388).
+Results which fail to meet the pre-defined acceptance criteria must be recorded as a 
+deviation/OOS and be fully investigated according to global procedures (PROC-
+004019). Any implications for the validation must be discussed in the validation report.
+Moreover, a suitable conclusion (i.e. CAPA) to correct any deficiency must be included.
+Finally, the completion of the PV triggers the initiation of the Ongoing Process 
+Verification (PROC-007415).
+5.4
+Risk Assessment
+The decision on the scope and extent of validation must be based on a justified using 
+a risk-based approach of the manufacturing process.
+The basis by which process parameters and quality attributes are identified as being 
+critical or non-critical must be clearly documented and justified, considering the results 
+of any risk assessment activities. The CPPs and CQAs are defined in the respective 
+control strategy, which is established during stage 1 of the product lifecycle. The 
+methodology for the definition of the CPPs and CQAs is described in the TMAT-
+002332.
+The potential risk identified during risk analysis for any new processes/changes, 
+introduced in existing processes, is mitigated by the development of an adequate risk 
+mitigation plan. The detectability of possible failures during Process Validation is 
+supported by a suitable testing and sampling plan.
+Based on the outcome of Process Validation, the risks associated with routine 
+production must be re-assessed, and the results must ensure the control of the whole 
+production process.
+5.5
+Validation of Packaging
+Process Validation may also cover primary and secondary packaging operations. 
+Process Qualification of packaging equipment (primary and secondary) can be 
+combined with Process Validation. Minimum and maximum operating ranges defined 
+for the critical process parameters such as temperature, machine speed and sealing 
+pressure or for any other critical factors must be tested within lifecycle approach.
+
+==================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 14', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+in the case of well-established packaging processes, a scientific evaluation associated 
+to a matrixing, bracketing or worst-case approaches can be applied to define the 
+extension of the revalidation for e.g. changes affecting the primary and secondary 
+packaging steps.
+exchanges of the packaging equipment and consequential changes of the processing 
+parameters during primary packaging may have a significant impact on the integrity 
+and correct functioning of the pack, e.g. blister strips, sachets and sterile components. 
+as prerequisite, the packaging equipment must be qualified.
+5.6
+validation documents
+validations documents, including at least protocols and reports, must be created to 
+support and to provide documented evidence about process validation activities.
+where validation protocols and other documentation are supplied by a third-party
+providing validation services, the validation responsible team at the manufacturing site 
+must confirm suitability and compliance with internal procedures and regulations 
+before 
+approval. 
+vendor 
+protocols 
+may 
+be 
+supplemented 
+by 
+additional 
+documentation/test protocols by the manufacturer before use.
+5.6.1
+process validation protocol
+validation of process must be conducted according to the approved written process 
+validation protocol (sup-012077). the protocol must be reviewed by quality 
+assurance and at least by production, qc or equivalent functions.
+the process validation protocol must be approved at least by the process owner and 
+qa/qp. 
+each protocol must be properly identified including edition.
+if there is the need to revise a protocol after it was signed and approved, it is possible 
+to issue an updated edition that replaces the previous one. the validation protocol 
+must include a dedicated table (history) where all editions are properly listed, with the 
+description of the reasons for the updating.
+process validation protocol must include or refer at least to the following elements:
+1. review and approval of the protocol by appropriate departments and the 
+qa;
+2. involved product description (dosage form and dosage strength, apis );
+3. process validation scope (including reference to change control);
+4. functions and responsibilities;
+5. involved personnel training;
+6. reference to previous validation(s) (if applicable);
+7. validation strategy (including suitable justifications):
+
+validation approach (traditional, continuous process verification, hybrid 
+approach);
+
+the number of batches for which additional monitoring is proposed;
+
+process for release and certification of batches, if applicable 
+(prospective validation, concurrent validation);
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 14.
+In the case of well-established packaging processes, a scientific evaluation associated 
+to a Matrixing, Bracketing or worst-case approaches can be applied to define the 
+extension of the revalidation for e.g. changes affecting the primary and secondary 
+packaging steps.
+Exchanges of the packaging equipment and consequential changes of the processing 
+parameters during primary packaging may have a significant impact on the integrity 
+and correct functioning of the pack, e.g. blister strips, sachets and sterile components. 
+As prerequisite, the packaging equipment must be qualified.
+5.6
+Validation documents
+Validations documents, including at least protocols and reports, must be created to 
+support and to provide documented evidence about Process Validation Activities.
+Where Validation Protocols and other documentation are supplied by a third-party
+providing validation services, the validation responsible team at the manufacturing site 
+must confirm suitability and compliance with internal procedures and regulations 
+before 
+approval. 
+Vendor 
+protocols 
+may 
+be 
+supplemented 
+by 
+additional 
+documentation/test protocols by the manufacturer before use.
+5.6.1
+Process Validation Protocol
+Validation of process must be conducted according to the approved written Process 
+Validation Protocol (SUP-012077). The protocol must be reviewed by Quality 
+Assurance and at least by Production, QC or equivalent functions.
+The Process Validation Protocol must be approved at least by the process owner and 
+QA/QP. 
+Each protocol must be properly identified including edition.
+If there is the need to revise a protocol after it was signed and approved, it is possible 
+to issue an updated edition that replaces the previous one. The Validation Protocol 
+must include a dedicated table (history) where all editions are properly listed, with the 
+description of the reasons for the updating.
+Process Validation Protocol must include or refer at least to the following elements:
+1. Review and approval of the protocol by appropriate departments and the 
+QA;
+2. Involved product description (Dosage form and Dosage Strength, APIs );
+3. Process Validation Scope (including reference to change control);
+4. Functions and responsibilities;
+5. Involved Personnel Training;
+6. Reference to Previous Validation(s) (if applicable);
+7. Validation Strategy (including suitable justifications):
+
+Validation Approach (Traditional, Continuous process verification, Hybrid 
+Approach);
+
+The number of batches for which additional monitoring is proposed;
+
+Process for release and certification of batches, if applicable 
+(Prospective Validation, Concurrent Validation);
+
+==================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 15', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+8. process flow sheet;
+9. list of the equipment/facilities to be used (including measuring / monitoring 
+/ recording equipment) together with the qualification/calibration status;
+10.
+control strategy which includes:
+a. summary of critical process parameters and critical quality 
+attributes with their associated limits/specifications.
+b. the type of testing in place during the standard routine (in-process, 
+release characterization) and acceptance criteria for each significant 
+processing step;
+c. additional testing to be carried out with acceptance criteria;
+11.the manufacturing conditions including operating parameters, processing 
+limits and component (raw material) inputs;
+12.summary of other (non-critical) attributes and parameters (including yield) 
+which will be investigated or monitored during the validation activity and the 
+reasons for their inclusion; 
+13.list of analytical methods and method validation status, as appropriate;
+14.risk analysis and relevant outcome or a reference to (when it is part of 
+another document);
+15.sampling plan and the rationale behind it: who, where, when, how, how 
+many and how much (sample size);
+16.methods for recording and evaluating results;
+17.change history.
+5.7
+validation of clinical trials batches
+process validation for the production of apis and investigational medicinal products 
+for use in clinical trials is normally inappropriate where a single batch is produced but 
+the extension of process validation must be scientifically sound and reflect the stage 
+of the development process.
+the combination of controls, calibration and equipment qualifications assures quality 
+during this development phase and guarantees gmp compliance.
+production steps such as e.g. the sterilization process for investigational medicinal 
+products must be completely validated.
+5.8
+change management
+changes to validated processes must follow the change control procedure and must 
+be formally authorized before execution, where also the impact to the registered 
+product dossier must be assessed.
+all planned actions to process equipment, process environment (or site), method of 
+production or testing or any other change that may affect the product quality or 
+reproducibility of the process must be documented and executed as defined in the 
+corresponding plan.
+the likely impact of the changes of facilities, systems and equipment on the product 
+must be evaluated, including risk analysis. the need for, and the extent of, revalidation 
+must be determined.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 15.
+8. Process flow sheet;
+9. List of the equipment/facilities to be used (including measuring / monitoring 
+/ recording equipment) together with the qualification/calibration status;
+10.
+Control strategy which includes:
+a. Summary of Critical Process Parameters and Critical Quality 
+Attributes with their associated limits/specifications.
+b. The type of testing in place during the standard routine (in-process, 
+release characterization) and acceptance criteria for each significant 
+processing step;
+c. Additional testing to be carried out with acceptance criteria;
+11.The manufacturing conditions including operating parameters, processing 
+limits and component (raw material) inputs;
+12.Summary of other (non-critical) attributes and parameters (including yield) 
+which will be investigated or monitored during the validation activity and the 
+reasons for their inclusion; 
+13.List of analytical methods and method validation status, as appropriate;
+14.Risk Analysis and relevant outcome or a reference to (when it is part of 
+another document);
+15.Sampling plan and the rationale behind it: who, where, when, how, how 
+many and how much (sample size);
+16.Methods for recording and evaluating results;
+17.Change History.
+5.7
+Validation of Clinical Trials Batches
+Process Validation for the production of APIs and Investigational Medicinal Products 
+for use in clinical trials is normally inappropriate where a single batch is produced but 
+the extension of Process Validation must be scientifically sound and reflect the stage 
+of the development process.
+The combination of controls, calibration and equipment qualifications assures quality 
+during this development phase and guarantees GMP compliance.
+Production steps such as e.g. the sterilization process for Investigational Medicinal 
+Products must be completely validated.
+5.8
+Change Management
+Changes to validated processes must follow the change control procedure and must 
+be formally authorized before execution, where also the impact to the registered 
+product dossier must be assessed.
+All planned actions to process equipment, process environment (or site), method of 
+production or testing or any other change that may affect the product quality or 
+reproducibility of the process must be documented and executed as defined in the 
+corresponding plan.
+The likely impact of the changes of facilities, systems and equipment on the product 
+must be evaluated, including risk analysis. The need for, and the extent of, revalidation 
+must be determined.
+
+==================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 16', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+the change control procedure ensures that sufficient supporting data are generated 
+to demonstrate that the revised process is maintained in a validated status.
+see also the global sop for "global process for change management” (proc-
+007059).
+5.9
+legacy products implementation
+the implementation of the product lifecycle approach for legacy products can be 
+determined by the following scenarios:
+
+expectations for revalidation activities due to changes in the current process
+
+evaluation of opv results indicates the need for control strategy improvement, 
+where the stage 1 application is required.
+
+previous pv package flawed or does not cover current process according to 
+the periodic review results.
+where an evaluation is required to identify which stage of the product lifecycle must 
+be started to ensure product and process robustness.
+figure 3 reflects the decision tree for legacy products and must be used to determine 
+the respective stage of the product lifecycle according to the assessment:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 16.
+The Change Control procedure ensures that sufficient supporting data are generated 
+to demonstrate that the revised process is maintained in a validated status.
+See also the global SOP for "Global Process for Change Management” (PROC-
+007059).
+5.9
+Legacy Products Implementation
+The implementation of the product lifecycle approach for legacy products can be 
+determined by the following scenarios:
+
+Expectations for revalidation activities due to changes in the current process
+
+Evaluation of OPV results indicates the need for control strategy improvement, 
+where the stage 1 application is required.
+
+Previous PV package flawed or does not cover current process according to 
+the Periodic Review results.
+Where an evaluation is required to identify which stage of the product lifecycle must 
+be started to ensure product and process robustness.
+Figure 3 reflects the decision tree for legacy products and must be used to determine 
+the respective stage of the product lifecycle according to the assessment:
+
+==================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 17', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+consider 
+validated legacy 
+product 
+opv program in place?
+review known cqas 
+and release criteria 
+performance 
+variability
+no
+some cqa capability weak 
+or inadequate data?
+yes
+yes
+perform capability study 
+and/or enhanced opv 
+protocol
+no
+product data quality history 
+indicates for need for control 
+strategy improvement or 
+process knowledge inadequate to 
+manage process?
+no
+product monitoring data ok but 
+previous pv package flawed or 
+does not cover cover current 
+process?
+no
+process monitoring in place, 
+cqas already demonstrated 
+capable and in control, pv 
+package meets requirements 
+effective at execution
+yes
+return to process 
+design stage
+yes
+repeat of pv against current 
+standards or supplement pv 
+package with additional 
+information
+yes
+routine opv – monitor 
+for trends, adjust as 
+needed
+opv report
+change control
+periodic review 
+results
+remediation/
+revalidation needs?
+yes
+no
+process remains on 
+validation status
+5.10
+periodic review and revalidation
+the process shall be reviewed and evaluated in a defined period to determine if a 
+revalidation is required. moreover, frequency of revalidation depends on the rigor of 
+the opv program (proc-007415), including the frequency and thoroughness of within 
+and between batch variability evaluation.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 17.
+Consider 
+Validated Legacy 
+Product 
+OPV Program in place?
+Review Known CQAs 
+and release criteria 
+performance 
+variability
+No
+Some CQA capability weak 
+or inadequate data?
+Yes
+Yes
+Perform capability study 
+and/or enhanced OPV 
+protocol
+No
+Product data quality history 
+indicates for need for control 
+strategy improvement OR 
+process knowledge inadequate to 
+manage process?
+No
+Product monitoring data OK but 
+previous PV package flawed or 
+does not cover cover current 
+process?
+No
+Process monitoring in place, 
+CQAs already demonstrated 
+capable and in control, PV 
+package meets requirements 
+effective at execution
+Yes
+Return to Process 
+Design Stage
+Yes
+Repeat of PV against current 
+standards or supplement PV 
+package with additional 
+information
+Yes
+Routine OPV – Monitor 
+for trends, adjust as 
+needed
+OPV Report
+Change Control
+Periodic Review 
+Results
+Remediation/
+Revalidation needs?
+Yes
+No
+Process remains on 
+validation status
+5.10
+Periodic Review and Revalidation
+The process shall be reviewed and evaluated in a defined period to determine if a 
+revalidation is required. Moreover, frequency of revalidation depends on the rigor of 
+the OPV program (PROC-007415), including the frequency and thoroughness of within 
+and between batch variability evaluation.
+
+==================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 18', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+the elements to be reviewed are the following but not limited to:
+
+trends of critical quality attributes and critical process parameters or outcome 
+of ongoing process verification (opv) report.
+
+trends in quality indicators (e.g., capa, deviation, change requests, complaint, 
+etc.)
+
+quality management review outcome
+
+change(s) to the actual process
+
+transfer of product to another facility
+
+findings (from audit or self-inspection)
+the periodic review of the validation status can be done by:
+o
+leveraging opv data analysis and,
+o
+trending for the process performance which is evaluated within product 
+quality review.
+opv is implemented using the risk-based approach defined in the proc-007415. 
+therefore, if the opv is not established for a particular product, a revalidation must be 
+performed in a maximum period of 5 years.
+finally, the conclusion of validation status must be included within the pqr report, 
+including the revalidation needs.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 18.
+The elements to be reviewed are the following but not limited to:
+
+Trends of Critical Quality Attributes and Critical Process Parameters or outcome 
+of ongoing process verification (OPV) report.
+
+Trends in quality indicators (e.g., CAPA, deviation, change requests, complaint, 
+etc.)
+
+Quality Management Review outcome
+
+Change(s) to the actual process
+
+Transfer of product to another facility
+
+Findings (from Audit or Self-Inspection)
+The periodic review of the validation status can be done by:
+o
+leveraging OPV data analysis and,
+o
+trending for the process performance which is evaluated within Product 
+Quality Review.
+OPV is implemented using the risk-based approach defined in the PROC-007415. 
+Therefore, if the OPV is not established for a particular product, a revalidation must be 
+performed in a maximum period of 5 years.
+Finally, the conclusion of validation status must be included within the PQR report, 
+including the revalidation needs.
+
+==================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 19', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+5.11
+process flowchart
+process validation flowchart and raci
+r
+a
+c
+i
+process steps
+deliverable
+collect all the 
+required 
+information for 
+validation
+control 
+strategy
+equipment 
+qualification 
+status
+determine the 
+validation 
+initial strategy 
+verification of 
+pre-requisites 
+for validation 
+planning
+determine/
+justify the 
+number of pv 
+batches
+develop the 
+pv protocol 
+providing 
+instructions for 
+execution
+plan execution 
+and data 
+collection
+start opv process
+are data 
+collected for 
+min. 3 
+batches?
+are data 
+collected for 
+total pv 
+batches?
+yes
+prepare the 
+final validation 
+report
+yes
+prepare the 
+partial 
+validation 
+report
+no
+no
+continue data collection
+process 
+validation 
+protocol + 
+data 
+collection 
+records
+process 
+validation 
+report
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+qp
+smes
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+smes
+validation 
+team
+po
+qa
+qp
+smes
+new or existing production 
+process (change)
+concurrent batch 
+release can be 
+allowed (min 3 
+batches) must be 
+ensured for the first 
+pv report
+smes: subject matter experts
+6
+references
+6.1
+guidelines
+
+eu directive 2003/94/ec
+
+eu guidelines for gmp, part i 1.2, 2.5, 2.6, 2.7, 5.23-5.26
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 19.
+5.11
+Process flowchart
+Process Validation FlowChart and RACI
+R
+A
+C
+I
+Process Steps
+Deliverable
+Collect all the 
+required 
+information for 
+Validation
+Control 
+Strategy
+Equipment 
+Qualification 
+Status
+Determine the 
+validation 
+initial strategy 
+Verification of 
+Pre-requisites 
+for Validation 
+Planning
+Determine/
+Justify the 
+number of PV 
+Batches
+Develop the 
+PV Protocol 
+providing 
+instructions for 
+execution
+Plan Execution 
+and Data 
+collection
+Start OPV Process
+Are data 
+collected for 
+Min. 3 
+batches?
+Are data 
+collected for 
+Total PV 
+batches?
+Yes
+Prepare the 
+Final Validation 
+Report
+Yes
+Prepare the 
+Partial 
+Validation 
+Report
+No
+No
+Continue data collection
+Process 
+Validation 
+Protocol + 
+Data 
+collection 
+records
+Process 
+Validation 
+Report
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+QP
+SMEs
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+SMEs
+Validation 
+Team
+PO
+QA
+QP
+SMEs
+New or existing production 
+process (change)
+Concurrent batch 
+release can be 
+allowed (min 3 
+batches) must be 
+ensured for the first 
+PV Report
+SMEs: Subject Matter Experts
+6
+REFERENCES
+6.1
+Guidelines
+
+EU Directive 2003/94/EC
+
+EU Guidelines for GMP, Part I 1.2, 2.5, 2.6, 2.7, 5.23-5.26
+
+==================================================
+
+=== CHUNK 19 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 20', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+
+eu guidelines for gmp, part ii 2.2, 8.45, 12, 19.6
+
+eu guidelines for gmp, annex 15, annex 13
+
+ema/chmp/cvmp/qwp/bwp/70278/2012-rev.1, corr. 1 (ema guideline on 
+process validation)
+
+fda guidance for industry - process validation: general principles and 
+practices
+
+ispe practical implementation of the lifecycle approach for process 
+validation, 2019
+
+who technical report series 992, 2015, annex 3, appendix 7
+
+who technical report series 937, 2006, annex 4
+
+21 cfr §211.68, 21 cfr820
+
+ichq2, ichq7a, ichq8, ichq9, ichq10
+
+pic pe-009, annex 15
+
+pe-009-12 part i, part ii
+6.2
+standard procedural documents
+proc-004019
+global process for deviation management
+proc-004031
+commissioning and qualification (c&q) of equipment
+proc-005388
+global process for quality event management
+proc-007059
+global process for change management
+proc-007415
+opv-ongoing process verification
+sup-012077
+pv template: process validation protocol
+sup-012078
+pv template: process validation report
+sup-012243
+c&q/pv discrepancy form
+tmat-002332
+application of qrm to qualification and process validation
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 20.
+
+EU Guidelines for GMP, Part II 2.2, 8.45, 12, 19.6
+
+EU Guidelines for GMP, Annex 15, Annex 13
+
+EMA/CHMP/CVMP/QWP/BWP/70278/2012-Rev.1, Corr. 1 (EMA guideline on 
+Process Validation)
+
+FDA Guidance for Industry - Process Validation: General Principles and 
+Practices
+
+ISPE Practical Implementation of the Lifecycle Approach for Process 
+Validation, 2019
+
+WHO Technical Report Series 992, 2015, Annex 3, Appendix 7
+
+WHO Technical Report Series 937, 2006, Annex 4
+
+21 CFR §211.68, 21 CFR820
+
+ICHQ2, ICHQ7A, ICHQ8, ICHQ9, ICHQ10
+
+PIC PE-009, Annex 15
+
+PE-009-12 Part I, Part II
+6.2
+Standard Procedural Documents
+PROC-004019
+Global Process for Deviation Management
+PROC-004031
+Commissioning and Qualification (C&Q) of Equipment
+PROC-005388
+Global Process for Quality Event Management
+PROC-007059
+Global Process for Change Management
+PROC-007415
+OPV-Ongoing Process Verification
+SUP-012077
+PV Template: Process Validation Protocol
+SUP-012078
+PV Template: Process Validation Report
+SUP-012243
+C&Q/PV Discrepancy Form
+TMAT-002332
+Application of QRM to Qualification and Process Validation
+7
+
+==================================================
+
+=== CHUNK 20 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 21', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051957'}
+
+[CONTENT - LOWERCASE]:
+revision no.
+description of changes
+
+section 5.4. it was reworded one of the sentences to 
+provide examples how the trends of cqa and cpp can be 
+periodically evaluated.
+
+section 5.10. is a new section to provide the frame for the 
+periodic revalidation
+in addition, it was replaced the wording “should” by “must”, “shall” 
+or “can”.
+03
+the content of the process was adapted to introduce the product 
+lifecycle approach where the three stages are differentiated. the 
+ra approach was clarified to include as part of the product 
+development/design phase and opv section was removed due 
+to a dedicated procedure is in place.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 21.
+Revision no.
+Description of changes
+
+Section 5.4. It was reworded one of the sentences to 
+provide examples how the trends of CQA and CPP can be 
+periodically evaluated.
+
+Section 5.10. is a new section to provide the frame for the 
+periodic revalidation
+In addition, it was replaced the wording “should” by “must”, “shall” 
+or “can”.
+03
+The content of the process was adapted to introduce the product 
+lifecycle approach where the three stages are differentiated. The 
+RA approach was clarified to include as part of the Product 
+Development/Design phase and OPV section was removed due 
+to a dedicated procedure is in place.
+
+==================================================
+

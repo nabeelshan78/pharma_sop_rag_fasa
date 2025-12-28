@@ -1,0 +1,928 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+revision 04
+
+local title: product quality review
+1
+objective
+the objective of this document is to define how the product quality review process must 
+be managed for medicinal products or drug substances manufactured by grünenthal or 
+where grünenthal acts as marketing authorization holder.
+2
+scope
+this document applies to all grünenthal employees which are involved in the product 
+quality review process.
+3
+responsibilities
+function/role 
+responsibility
+global quality 
+management system
+department
+ensure compliance of the quality management system at 
+grünenthal with external guidelines/ standards/ regulations 
+applicable;
+ensure global oversight on the process.
+internal 
+manufacturing 
+quality assurance
+implement the process on a local level and ensure 
+adequate documentation management according to this 
+sop;
+create pqrs according to the annual pqr plan;
+align with contributing departments to create annexes 
+timely to fulfill the annual pqr plan; 
+alignment with the releasing qp the need for further 
+capas/revalidation as an outcome of the evaluation of the 
+consistency of the existing processes, the appropriateness 
+of current specifications for both starting materials and 
+finished products;
+notify cqa that approved pqrs are ready for mah 
+review;
+share pqrs with customers whenever requested.
+contributing 
+departments 
+create pqr annexes (as defined in sup-013083
+“overview and responsibilities of api and fp pqr 
+annexes”)
+commercial 
+quality 
+assurance
+planning of mah reviews of the pqrs; 
+approve the pqr plans;
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 2.
+Revision 04
+
+Local Title: Product Quality Review
+1
+OBJECTIVE
+The objective of this document is to define how the Product Quality Review Process must 
+be managed for Medicinal Products or Drug Substances manufactured by Grünenthal or 
+where Grünenthal acts as Marketing Authorization Holder.
+2
+SCOPE
+This document applies to all Grünenthal employees which are involved in the Product 
+Quality Review Process.
+3
+RESPONSIBILITIES
+Function/Role 
+Responsibility
+Global Quality 
+Management System
+department
+Ensure compliance of the Quality Management System at 
+Grünenthal with external guidelines/ standards/ regulations 
+applicable;
+Ensure global oversight on the process.
+Internal 
+Manufacturing 
+Quality Assurance
+Implement the process on a local level and ensure 
+adequate documentation management according to this 
+SOP;
+Create PQRs according to the Annual PQR Plan;
+Align with contributing departments to create annexes 
+timely to fulfill the Annual PQR Plan; 
+Alignment with the releasing QP the need for further 
+CAPAs/revalidation as an outcome of the evaluation of the 
+consistency of the existing processes, the appropriateness 
+of current specifications for both starting materials and 
+finished products;
+Notify CQA that approved PQRs are ready for MAH 
+Review;
+Share PQRs with customers whenever requested.
+Contributing 
+departments 
+Create PQR annexes (as defined in SUP-013083
+“Overview and Responsibilities of API and FP PQR 
+Annexes”)
+Commercial 
+Quality 
+Assurance
+Planning of MAH reviews of the PQRs; 
+Approve the PQR plans;
+
+==================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+function/role 
+responsibility
+review the pqr results as marketing authorization holder 
+(mah) or according to specific local responsibility and 
+assess the necessity for further capas, revalidation or 
+amendments to the pqr;
+if applicable, create the pqr of in-country gmp activities 
+(e.g. qc testing);
+if all manufacturing steps including batch certification are 
+performed by a cmo, involve responsible regulatory 
+affairs department to create annex 6 and/or 10 and attach 
+these annexes to the mah review document
+external supply quality 
+assurance
+prepare and approve the pqr plan if all manufacturing 
+steps including batch certification are performed by a cmo
+and/or esq;
+approve the pqr plan of products where cmos are 
+involved;
+implement responsibilities for pqr creation in tqas with 
+external cmos;
+request pqr timely to external cmos; 
+if batch certification is done by imq, forward cmo pqr to 
+imq for review and approval;
+if all manufacturing steps including batch certification are 
+performed by a cmo, review and approve cmo pqr;
+if batch certification is done by esq, prepare, review and 
+approve the pqr;
+notify cqa that approved pqrs are ready for mah 
+review; 
+when needed, escalate issues related to cmo pqrs.
+qualified 
+person 
+for 
+batch certification
+review the pqrs whenever batch certification is done by 
+grt qp and evaluate (also if raised by cqa during the 
+mah review)
+any need for further capas
+and/or 
+revalidation;
+approve the pqrs whenever batch certification is done by 
+grt qp.
+notify cqa that approved pqrs are ready for mah 
+review
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 3.
+Function/Role 
+Responsibility
+Review the PQR results as Marketing Authorization Holder 
+(MAH) or according to specific local responsibility and 
+assess the necessity for further CAPAs, revalidation or 
+amendments to the PQR;
+If applicable, create the PQR of in-country GMP activities 
+(e.g. QC Testing);
+If all manufacturing steps including batch certification are 
+performed by a CMO, involve responsible Regulatory 
+Affairs department to create Annex 6 and/or 10 and attach 
+these annexes to the MAH Review document
+External Supply Quality 
+Assurance
+Prepare and approve the PQR plan if all manufacturing 
+steps including batch certification are performed by a CMO
+and/or ESQ;
+Approve the PQR plan of products where CMOs are 
+involved;
+Implement responsibilities for PQR creation in TQAs with 
+external CMOs;
+Request PQR timely to external CMOs; 
+If batch certification is done by IMQ, forward CMO PQR to 
+IMQ for review and approval;
+If all manufacturing steps including batch certification are 
+performed by a CMO, review and approve CMO PQR;
+If batch certification is done by ESQ, prepare, review and 
+approve the PQR;
+Notify CQA that approved PQRs are ready for MAH 
+Review; 
+When needed, escalate issues related to CMO PQRs.
+Qualified 
+Person 
+for 
+batch certification
+Review the PQRs whenever batch certification is done by 
+GRT QP and evaluate (also if raised by CQA during the 
+MAH review)
+any need for further CAPAs
+and/or 
+revalidation;
+Approve the PQRs whenever batch certification is done by 
+GRT QP.
+Notify CQA that approved PQRs are ready for MAH 
+Review
+
+==================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+4
+terms and definitions
+term/abbreviation
+definition
+api
+active pharmaceutical ingredient
+capas
+corrective actions and/or
+preventive 
+actions
+cmo 
+contract manufacturing organization
+cqa
+commercial quality assurance 
+contributing departments
+e.g. but not limited to: quality control, 
+production, regulatory affairs
+cluster of affiliates
+group of countries operating under the 
+same cqa organization
+esq 
+external supply quality assurance
+gmp
+good manufacturing practices
+cmc
+chemintry, manufacturing and controls
+gqa
+global quality assurance
+imq 
+internal manufacturing quality assurance 
+grt
+grünenthal 
+ipc
+in-process-control
+mah 
+marketing authorization holder
+mah review 
+a review performed on finished products 
+(pqr) by the mah  according to regulatory 
+standards applicable
+this may also include a review according 
+to specific local responsibilities.
+oos
+out of specification
+pic/s 
+pharmaceutical inspection co-operation 
+scheme
+pqr 
+product quality review 
+qa 
+quality assurance
+qc 
+quality control
+qms
+quality management system
+qp
+qualified person
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 4.
+4
+TERMS AND DEFINITIONS
+Term/Abbreviation
+Definition
+API
+Active Pharmaceutical Ingredient
+CAPAs
+Corrective Actions and/or
+Preventive 
+Actions
+CMO 
+Contract Manufacturing Organization
+CQA
+Commercial Quality Assurance 
+Contributing departments
+e.g. but not limited to: Quality Control, 
+Production, Regulatory Affairs
+Cluster of affiliates
+Group of countries operating under the 
+same CQA organization
+ESQ 
+External Supply Quality Assurance
+GMP
+Good Manufacturing Practices
+CMC
+Chemintry, Manufacturing and Controls
+GQA
+Global Quality Assurance
+IMQ 
+Internal Manufacturing Quality Assurance 
+GRT
+Grünenthal 
+IPC
+In-Process-Control
+MAH 
+Marketing Authorization Holder
+MAH Review 
+A review performed on finished products 
+(PQR) by the MAH  according to regulatory 
+standards applicable
+This may also include a review according 
+to specific local responsibilities.
+OOS
+Out of Specification
+PIC/S 
+Pharmaceutical Inspection Co-Operation 
+Scheme
+PQR 
+Product Quality Review 
+QA 
+Quality Assurance
+QC 
+Quality Control
+QMS
+Quality Management System
+QP
+Qualified Person
+
+==================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+5
+process description
+5.1
+general 
+regular periodic quality reviews (pqrs) of finished products and apis must be 
+conducted for products manufactured by grünenthal and/or where grünenthal acts as 
+marketing authorization holder, to verify the consistency of the existing process and the 
+appropriateness of current specifications for both starting materials and finished products. 
+additionally, pqrs allow to identify product and process improvements, ensuring
+complete oversight on the quality of the medicinal product and safety of the patient. 
+the process flow (figure 1) describes the end-to-end process steps that must be followed 
+when planning, creating, approving and executing the mah review of pqrs. compliance 
+with applicable local legislations and existing agreements with license partners must be 
+ensured.
+figure 1: end-to end pqr process 
+overview of the product quality review process in grünenthal
+process flow
+start
+2.  pqr plan review 
+and approval
+3. pqr creation
+update required?
+5. pqr approval
+end
+no
+yes
+oversight
+quality excellence q-bpo
+4. pqr  review
+6. mah review
+1.  pqr plan
+creation
+the responsibilities of each step of the pqr process are described in table 1 and depend 
+on the following scenarios:
+
+all the manufacturing steps (including release) are performed by cmo
+
+the manufacturing steps are separated between cmo and grünenthal
+manufacturing site(s)
+
+all the manufacturing steps (including release) are performed by grünenthal site(s)
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 5.
+5
+PROCESS DESCRIPTION
+5.1
+General 
+Regular Periodic Quality Reviews (PQRs) of Finished Products and APIs must be 
+conducted for products manufactured by Grünenthal and/or where Grünenthal acts as 
+Marketing Authorization Holder, to verify the consistency of the existing process and the 
+appropriateness of current specifications for both starting materials and finished products. 
+Additionally, PQRs allow to identify product and process improvements, ensuring
+complete oversight on the quality of the medicinal product and safety of the patient. 
+The process flow (figure 1) describes the end-to-end process steps that must be followed 
+when planning, creating, approving and executing the MAH review of PQRs. Compliance 
+with applicable local legislations and existing agreements with license partners must be 
+ensured.
+Figure 1: End-to end PQR Process 
+Overview of the Product Quality Review Process in Grünenthal
+Process Flow
+Start
+2.  PQR Plan review 
+and approval
+3. PQR creation
+Update required?
+5. PQR Approval
+End
+No
+Yes
+Oversight
+Quality Excellence Q-BPO
+4. PQR  Review
+6. MAH Review
+1.  PQR Plan
+creation
+The responsibilities of each step of the PQR process are described in table 1 and depend 
+on the following scenarios:
+
+All the manufacturing steps (including release) are performed by CMO
+
+The manufacturing steps are separated between CMO and Grünenthal
+manufacturing site(s)
+
+All the manufacturing steps (including release) are performed by Grünenthal site(s)
+
+==================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+table 1: pqr process responsibility matrix
+                   manufacturing 
+process 
+step  
+all manufacturing steps 
+(incl.
+release) 
+are 
+performed by a cmo
+manufacturing steps split 
+between cmo and grt site
+all 
+manufacturing 
+steps are performed 
+by grt site(s)
+1. pqr plan creation
+esq
+esq/imq
+imq
+2. pqr plan review and 
+approval
+esq, cqa
+imq, esq and cqa
+imq and cqa
+3. pqr creation
+esq (request to cmo)
+esq (request to cmo)
+imq (creation in grt site)1
+imq
+4. pqr review and 
+approval
+esq
+esq1/imq
+imq
+6. mah review
+cqa
+cqa
+cqa
+whenever more than one entity is involved in the creation and review of the pqr (e.g. 
+mah is not the manufacturer, or manufacturing/testing is split between different 
+manufacturing sites), a tqa must be in place between the various parties defining their 
+respective responsibilities in producing the pqr.
+5.2
+creation, review and approval of pqr plans
+regular periodic quality reviews of all authorized medicinal products must be conducted 
+and documented annually
+(unless differently specified and supported by risk 
+assessment). an annual plan for pqr creation must be generated by the responsible 
+department (see table 1).
+the planning of pqr creation, approval and mah review must consider the timelines 
+outlined in 5.3 and 5.4 (see below). when applicable, the timelines must be adjusted to 
+ensure timely provision of the pqr as agreed with suppliers and/or customers in the 
+respective technical quality agreements. 
+in case of products with manufacturing steps split between manufacturing sites, the imq 
+department of the manufacturing site performing the last manufacturing step is the leading 
+site and must coordinate the planning of pqr with the other affected imq department (in 
+case of grt site) or esq (in case of cmo). 
+the pqr plan must be created and approved by the responsible departments outlined in 
+table 1 within the first quarter of each year. a pqr plan template is provided in sup-
+004779 “product quality review plan template”. any delays to the pqr approval and 
+mah review as stipulated in the pqr plan must be appropriately documented by a 
+deviation (see proc-004019 – “global process for deviation management”). 
+                                                            
+1 when batch certification is done by esq qp, esq must create/approve the internal pqr
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 6.
+Table 1: PQR Process Responsibility Matrix
+                   Manufacturing 
+Process 
+Step  
+All manufacturing steps 
+(incl.
+release) 
+are 
+performed by a CMO
+Manufacturing steps split 
+between CMO and GRT site
+All 
+manufacturing 
+steps are performed 
+by GRT site(s)
+1. PQR Plan creation
+ESQ
+ESQ/IMQ
+IMQ
+2. PQR Plan Review and 
+Approval
+ESQ, CQA
+IMQ, ESQ and CQA
+IMQ and CQA
+3. PQR creation
+ESQ (request to CMO)
+ESQ (request to CMO)
+IMQ (creation in GRT site)1
+IMQ
+4. PQR Review and 
+Approval
+ESQ
+ESQ1/IMQ
+IMQ
+6. MAH Review
+CQA
+CQA
+CQA
+Whenever more than one entity is involved in the creation and review of the PQR (e.g. 
+MAH is not the manufacturer, or manufacturing/testing is split between different 
+manufacturing sites), a TQA must be in place between the various parties defining their 
+respective responsibilities in producing the PQR.
+5.2
+Creation, Review and Approval of PQR Plans
+Regular periodic quality reviews of all authorized medicinal products must be conducted 
+and documented annually
+(unless differently specified and supported by risk 
+assessment). An annual plan for PQR creation must be generated by the responsible 
+department (see table 1).
+The planning of PQR creation, approval and MAH review must consider the timelines 
+outlined in 5.3 and 5.4 (see below). When applicable, the timelines must be adjusted to 
+ensure timely provision of the PQR as agreed with suppliers and/or customers in the 
+respective Technical Quality Agreements. 
+In case of products with manufacturing steps split between manufacturing sites, the IMQ 
+department of the manufacturing site performing the last manufacturing step is the leading 
+site and must coordinate the planning of PQR with the other affected IMQ department (in 
+case of GRT site) or ESQ (in case of CMO). 
+The PQR plan must be created and approved by the responsible departments outlined in 
+table 1 within the first quarter of each year. A PQR Plan template is provided in SUP-
+004779 “Product Quality Review Plan Template”. Any delays to the PQR Approval and 
+MAH Review as stipulated in the PQR plan must be appropriately documented by a 
+deviation (see PROC-004019 – “Global Process for Deviation Management”). 
+                                                            
+1 When batch certification is done by ESQ QP, ESQ must create/approve the internal PQR
+
+==================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+pqr plans must be approved and stored as described in the win proc-008741 
+“managing pqrs in mastercontrol”.
+5.3
+creation, review and approval of pqrs
+products with similar composition (e.g. different strengths of a product) or a comparable 
+production process, can be grouped and assessed together in one pqr. if so, common 
+properties must be assessed together and specific features must be pointed out.
+whenever more than one manufacturing site is involved (internal or external) and batch 
+certification is done by a grt qp, the respective department/site in grt responsible 
+must:
+-
+coordinate the collection of the pqrs of the other manufacturing site(s)2 and other 
+annexes by grt functions3
+-
+prepare a consolidated pqr report, including a “summary and conclusion” 
+section, with reference to all annexes. 
+when performing the pqr review, if significant quality issues are identified for the first 
+time, these must be evaluated and if necessary, documented in grünenthal’s eqms 
+(mastercontrol) and properly escalated. 
+compiled pqrs must be reviewed/approved and stored as described in the win proc-
+008741 “managing pqrs in mastercontrol” by the department(s) described in table 1 
+“pqr process responsibility matrix”. whenever batch certification is done by grt qp, 
+the responsible qp must be one of the approvers. 
+the department responsible for pqr approval, as described in table 1 “pqr process 
+responsibility matrix”, must notify cqa that approved pqrs are ready for mah review.
+the tables below describe the timelines for the preparation, review and approval of the 
+pqr by the respective quality department (see table 1 – “pqr creation” and “pqr review 
+and approval”). while the periods pqr delivery/creation are indicative, the date of the 
+pqr approval (as outlined in the annual pqr plan) must be respected. when applicable, 
+the timelines may be adjusted to respect agreements stipulated in technical quality 
+agreement with cmos.
+                                                            
+2 whenever a cmo is involved, the coordination with the cmo is done through esq
+3 annexes by other grt functions include e.g. annex 6 and 10 (regulatory affairs) (see sup-013083
+“overview and responsibilities of api and fp pqr annexes”)
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 7.
+PQR Plans must be approved and stored as described in the WIN PROC-008741 
+“Managing PQRs in MasterControl”.
+5.3
+Creation, Review and Approval of PQRs
+Products with similar composition (e.g. different strengths of a product) or a comparable 
+production process, can be grouped and assessed together in one PQR. If so, common 
+properties must be assessed together and specific features must be pointed out.
+Whenever more than one manufacturing site is involved (internal or external) and batch 
+certification is done by a GRT QP, the respective department/site in GRT responsible 
+must:
+-
+Coordinate the collection of the PQRs of the other manufacturing site(s)2 and other 
+annexes by GRT functions3
+-
+Prepare a consolidated PQR report, including a “Summary and Conclusion” 
+section, with reference to all annexes. 
+When performing the PQR review, if significant quality issues are identified for the first 
+time, these must be evaluated and if necessary, documented in Grünenthal’s eQMS 
+(MasterControl) and properly escalated. 
+Compiled PQRs must be reviewed/approved and stored as described in the WIN PROC-
+008741 “Managing PQRs in MasterControl” by the department(s) described in table 1 
+“PQR Process Responsibility Matrix”. Whenever batch certification is done by GRT QP, 
+the responsible QP must be one of the approvers. 
+The department responsible for PQR approval, as described in table 1 “PQR Process 
+Responsibility Matrix”, must notify CQA that approved PQRs are ready for MAH Review.
+The tables below describe the timelines for the preparation, review and approval of the 
+PQR by the respective Quality department (see table 1 – “PQR creation” and “PQR review 
+and approval”). While the periods PQR delivery/creation are indicative, the date of the 
+PQR approval (as outlined in the annual PQR plan) must be respected. When applicable, 
+the timelines may be adjusted to respect agreements stipulated in Technical Quality 
+Agreement with CMOs.
+                                                            
+2 Whenever a CMO is involved, the coordination with the CMO is done through ESQ
+3 Annexes by other GRT functions include e.g. Annex 6 and 10 (Regulatory Affairs) (see SUP-013083
+“Overview and Responsibilities of API and FP PQR Annexes”)
+
+==================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+the mah review must be performed by the relevant commercial quality assurance of 
+the sale affiliate/cluster5 of grünenthal, when the sales affiliate is appointed as mah of 
+the product in the country. 
+if the qa representative (cqa) of the mah identifies:
+-
+any corrections/adjustments necessary to the relevant pqr report already 
+approved
+-
+any need for further capas 
+-
+any need for revalidation 
+he/she is accountable to align this with the product releasing qualified person/equivalent 
+function (or esq, when all manufacturing steps incl. batch release are done at cmo).
+for cmo products, if annex 6 and/or 10 are required, cqa must align this need with the 
+responsible regulatory affairs department (responsible unit, as described in sup-013083
+“overview and responsibilities of api and fp pqr annexes”. annex 6 and 10 must be 
+compiled with the mah review and become one single document.
+compiled mah review documents must be approved and stored as described in the win 
+proc-008741 “managing pqrs in mastercontrol” by the gdp-rp of the respective mah 
+(see table 1 “pqr process responsibility matrix”).
+6
+references 
+
+eu guidelines to good manufacturing practice medicinal products for human and
+
+veterinary use, part i, chapter 1.10
+
+eu guidelines to good manufacturing practice medicinal products for human and
+
+veterinary use, part ii, chapter 2.6
+
+pic/s guide to good manufacturing practice for medicinal products part i
+
+pic/s guide to good manufacturing practice for medicinal products part ii (api)
+
+reflection paper on good manufacturing practice and  marketing authorisation 
+holders  ema/457570/2019
+
+ich q7 note for
+guidance on good manufacturing practice for active 
+pharmaceuticals ingredients (cpmp/ich/4106/00)
+
+regulation (eu) 2017/745 (mdd)
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 10.
+The MAH review must be performed by the relevant Commercial Quality Assurance of 
+the sale affiliate/cluster5 of Grünenthal, when the sales affiliate is appointed as MAH of 
+the product in the country. 
+If the QA representative (CQA) of the MAH identifies:
+-
+any corrections/adjustments necessary to the relevant PQR report already 
+approved
+-
+any need for further CAPAs 
+-
+any need for revalidation 
+he/she is accountable to align this with the product releasing Qualified Person/equivalent 
+function (or ESQ, when all manufacturing steps incl. batch release are done at CMO).
+For CMO products, if Annex 6 and/or 10 are required, CQA must align this need with the 
+responsible Regulatory Affairs department (responsible unit, as described in SUP-013083
+“Overview and Responsibilities of API and FP PQR Annexes”. Annex 6 and 10 must be 
+compiled with the MAH Review and become one single document.
+Compiled MAH Review documents must be approved and stored as described in the WIN 
+PROC-008741 “Managing PQRs in MasterControl” by the GDP-RP of the respective MAH 
+(see table 1 “PQR Process Responsibility Matrix”).
+6
+REFERENCES 
+
+EU Guidelines to Good Manufacturing Practice Medicinal Products for Human and
+
+Veterinary Use, Part I, Chapter 1.10
+
+EU Guidelines to Good Manufacturing Practice Medicinal Products for Human and
+
+Veterinary Use, Part II, Chapter 2.6
+
+PIC/S Guide to Good Manufacturing Practice for Medicinal Products Part I
+
+PIC/S Guide to Good Manufacturing Practice for Medicinal Products Part II (API)
+
+Reflection paper on Good Manufacturing Practice and  Marketing Authorisation 
+Holders  EMA/457570/2019
+
+ICH Q7 Note for
+guidance on good manufacturing practice for active 
+pharmaceuticals ingredients (CPMP/ICH/4106/00)
+
+Regulation (EU) 2017/745 (MDD)
+7
+
+==================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+revision/ 
+document no.
+description of changes
+
+§ 2 scope: reduced to describe scope of the document. scope of 
+the process moved to § 5 process description
+
+§ 3 responsibilities: step-by-step responsibilities moved to § 5 
+process description
+
+§ 5 .1 general: generic process flowchart deleted (newly created 
+flowchart serves the same purpose); topics related to pqr 
+planning and creation moved to § 5.2 creation, review and 
+approval of pqr plans and § 5.3 creation, review and approval 
+of pqrs
+
+§ 5.2 process flows: process flowchart simplified to common 
+steps and placed in § 5 .1 general; responsibilities of three 
+scenarios depicted in table 1
+
+§ 5.3 filing of pqr plan, pqr review and mah review: deleted 
+since filing is done in mastercontrol (described in the newly 
+created win proc-008741 “managing pqrs in mastercontrol”)
+
+§ 5.4 content of finished product pqr: changed to § 5.3.1 
+structure and content of pqr report; addition of section 
+“description of the production process and batch listing” to 
+reflect pqr structure; removed “and/or any interruption of 
+product distribution.”; sections related to the creation, review and 
+approval steps of the pqr moved to § 5.3 creation, review and 
+approval of pqrs; sections related to details to be evaluated in 
+the pqr removed, since they are covered in the annexes/related 
+procedures.; naming convention details moved to win proc-
+008741 “managing pqrs in mastercontrol”
+
+§ 5.5 pqr annexes: table with overview of annexes and 
+responsibilities moved to newly created sup-013089 “overview 
+and responsibilities of api and fp pqr annexes”
+
+§ 5.6 manufacturing, testing and release on behalf: 
+requirement moved to section § 5.3 creation, review and 
+approval of pqrs
+
+§ 5.7 mah review and amendment of pqrs: addition of 
+requirement (cmo products) for cqa to evaluate the need for 
+creation of annex 6 and/or 10 by the responsible regulatory 
+affairs department 
+
+§ 5.7.2 amendment of pqrs according to national 
+requirements: merged with § 5.7 mah review and amendment 
+of pqrs
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 11.
+Revision/ 
+document no.
+Description of changes
+
+§ 2 Scope: Reduced to describe scope of the document. Scope of 
+the process moved to § 5 Process Description
+
+§ 3 Responsibilities: Step-by-step responsibilities moved to § 5 
+Process Description
+
+§ 5 .1 General: Generic process flowchart deleted (newly created 
+flowchart serves the same purpose); Topics related to PQR 
+planning and creation moved to § 5.2 Creation, Review and 
+Approval of PQR Plans and § 5.3 Creation, Review and Approval 
+of PQRs
+
+§ 5.2 Process Flows: Process flowchart simplified to common 
+steps and placed in § 5 .1 General; Responsibilities of three 
+scenarios depicted in table 1
+
+§ 5.3 Filing of PQR plan, PQR review and MAH Review: Deleted 
+since filing is done in MasterControl (described in the newly 
+created WIN PROC-008741 “Managing PQRs in MasterControl”)
+
+§ 5.4 Content of Finished Product PQR: Changed to § 5.3.1 
+Structure and Content of PQR Report; Addition of section 
+“Description of the Production Process and Batch Listing” to 
+reflect PQR structure; Removed “and/or any interruption of 
+product distribution.”; Sections related to the creation, review and 
+approval steps of the PQR moved to § 5.3 Creation, Review and 
+Approval of PQRs; Sections related to details to be evaluated in 
+the PQR removed, since they are covered in the annexes/related 
+procedures.; Naming convention details moved to WIN PROC-
+008741 “Managing PQRs in MasterControl”
+
+§ 5.5 PQR Annexes: table with overview of annexes and 
+responsibilities moved to newly created SUP-013089 “Overview 
+and Responsibilities of API and FP PQR Annexes”
+
+§ 5.6 Manufacturing, Testing and Release on behalf: 
+Requirement moved to section § 5.3 Creation, Review and 
+Approval of PQRs
+
+§ 5.7 MAH Review and Amendment of PQRs: Addition of 
+requirement (CMO products) for CQA to evaluate the need for 
+creation of Annex 6 and/or 10 by the responsible Regulatory 
+Affairs department 
+
+§ 5.7.2 Amendment of PQRs according to national 
+Requirements: Merged with § 5.7 MAH Review and Amendment 
+of PQRs
+
+==================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+
+[CONTENT - LOWERCASE]:
+revision/ 
+document no.
+description of changes
+
+§ 5.8 distribution and archive: deleted since this step is covered 
+by mastercontrol system (described in win proc-008741 
+“managing pqrs in mastercontrol”)
+
+sup-004779 “product quality review plan template”: renamed 
+to “pqr plan (template)” and changed to excel format to 
+facilitate usage; instructions moved to section § 5.2 creation, 
+review and approval of pqr plans of main sop (proc-
+004198); simplification of timelines which were moved to section 
+§ 5.3 creation, review and approval of pqrs of main sop 
+(proc-004198)
+
+sup-005587 “filing pqr plan, pqr and mah review”: deleted 
+(archived); newly created process of upload, approval and 
+storage of pqrs in mc described in win proc-008741 
+“managing pqrs in mastercontrol”
+
+sup-001227 “esq review of cmo pqr”: deleted (archived) as 
+responsibilities of esq are described in main sop (proc-
+004198)
+
+sup-004663 “pqr evaluation sheet” renamed to “mah review 
+(template): reduced to elements needed to document mah 
+review 
+
+sup-004661 “product quality review for api (template)” and 
+sup-004662 “product quality review for finished products 
+(template)”: changes to templates
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 12.
+Revision/ 
+document no.
+Description of changes
+
+§ 5.8 Distribution and Archive: Deleted since this step is covered 
+by MasterControl system (described in WIN PROC-008741 
+“Managing PQRs in MasterControl”)
+
+SUP-004779 “Product Quality Review Plan Template”: Renamed 
+to “PQR Plan (Template)” and changed to Excel format to 
+facilitate usage; Instructions moved to section § 5.2 Creation, 
+Review and Approval of PQR Plans of main SOP (PROC-
+004198); Simplification of timelines which were moved to section 
+§ 5.3 Creation, Review and Approval of PQRs of main SOP 
+(PROC-004198)
+
+SUP-005587 “Filing PQR plan, PQR and MAH review”: Deleted 
+(archived); Newly created process of upload, approval and 
+storage of PQRs in MC described in WIN PROC-008741 
+“Managing PQRs in MasterControl”
+
+SUP-001227 “ESQ review of CMO PQR”: Deleted (archived) as 
+responsibilities of ESQ are described in main SOP (PROC-
+004198)
+
+SUP-004663 “PQR Evaluation Sheet” renamed to “MAH Review 
+(Template): Reduced to elements needed to document MAH 
+Review 
+
+SUP-004661 “Product Quality Review for API (Template)” and 
+SUP-004662 “Product Quality Review for Finished Products 
+(Template)”: Changes to templates
+
+==================================================
+
