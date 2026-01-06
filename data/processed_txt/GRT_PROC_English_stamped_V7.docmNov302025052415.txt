@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -68,10 +68,11 @@ The Senior Management has the ultimate accountability of the overall process who
 outcome is regularly evaluated during the management review.
 The main responsibilities of function/roles listed in this document are as follows:
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -224,10 +225,11 @@ Contributing
 Departments
 Creation of relevant PQRs annexes
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -362,10 +364,11 @@ CQA in Grünenthal local subsidiaries (GLS)
 MAH 
 Marketing Authorization Holder
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -458,10 +461,11 @@ relevant procedure applicable. The need of any effectiveness check of such actio
 be evaluated, monitored and documented accordingly.
 The general process flow from the planning to the final MAH Review is described below:
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -512,10 +516,11 @@ Documentaion
 PQR Review
 MAH Review
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -824,10 +829,11 @@ IMQ
 ESQ
 No
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 8', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -944,10 +950,11 @@ PQR shall be created in that native language.
 See § 5.4.1 for the details related the content of annexes and Part II of 
 SUP 004779 for approximate timelines reference
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 9', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -980,10 +987,11 @@ Person.
 The signature cycle of the PQR shall be started once all annexes are available and the 
 summary and conclusion is finalized.
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1072,10 +1080,11 @@ QC
 A review of all quality-related returns, complaints and recalls.
 IMQ
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1172,10 +1181,11 @@ A review of the results of the stability monitoring program and any
 adverse trends
 QC/IMQ
 
-==================================================
+
+================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1244,10 +1254,11 @@ A review of any contractual agreements as defined in Chapter 7 (of EU
 GMP Guideline, Part I) to ensure that they are up to date
 ESQ/IMQ
 
-==================================================
+
+================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 13', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 13', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1346,10 +1357,11 @@ Quality Review Finished Product SUP - 004662.
 QMS and ensure compliance with regulatory requirements in all countries under the 
 relevant cluster.
 
-==================================================
+
+================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 14', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 14', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1426,10 +1438,11 @@ pharmaceuticals ingredients (CPMP/ICH/4106/00)
 Regulation (EU) 2017/745 (MDD)
 7
 
-==================================================
+
+================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 15', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052415'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 15', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 03
@@ -1504,5 +1517,6 @@ Updated template version
 
 §5.2 Process Flows: removed the reference to the PROC-005047
 
-==================================================
+
+================================================================================
 

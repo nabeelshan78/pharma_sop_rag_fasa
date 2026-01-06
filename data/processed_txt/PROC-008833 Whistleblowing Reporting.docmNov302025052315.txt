@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 local title: proc-008833 sop on whistleblowing reporting
@@ -136,10 +136,11 @@ Human Resources
 Forward any allegations of unfair treatment, including 
 discrimination or harassment, to the Compliance &
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 responsibility organization to ensure they are 
@@ -276,10 +277,11 @@ regulations,
 or
 professional/industrial guidelines and directives.
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 allegation
@@ -424,10 +426,11 @@ Any direct or indirect detrimental action or omission
 threatened or taken because an individual reported 
 misconduct or cooperated with an investigation.
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 whistleblower 
@@ -516,10 +519,11 @@ laws. Local legislation shall prevail over this SOP.
 Objectivity & transparency: Compliance cases shall be handled objectively 
 and following a transparent process.
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 
@@ -638,10 +642,11 @@ actions.
 Whistleblowers deliberately and knowingly
 reporting wrong or
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 misleading information, or information that is already fully available in the public 
@@ -736,10 +741,11 @@ reporting channel for allegations, with the Local Compliance Officer as the cont
 person. The local compliance email address for each GRT entity is listed in section 
 6 of this SOP. Allegations can also be reported in person, by telephone or by post
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 mail to the local reporting offices of the local grt entity (company addresses 
@@ -828,10 +834,11 @@ regardless of whether they were reported through this tool or not and shall be c
 as 'Harassment & Discrimination'. Personal data is to be included in the Ethics Helpline 
 tool only where strictly necessary.
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 the following table outlines the appropriate course of action for each scenario:
@@ -986,10 +993,11 @@ on a case-by-case basis.
 2 If the allegaon is reported through the Ethics Helpline tool, it will be ﬂagged as “Out of scope”.
 3 With the representaon of the concerned area.
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 before their identity is disclosed. in cases where it is required by law, the consent of 
@@ -1070,10 +1078,11 @@ allegation is (not) substantiated.
 Upon reception of an allegation (except if such allegation concerns a member of the 
 Compliance & Responsibility Organization), the Global Compliance & Responsibility
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 officer shall assign its assessment to a specific compliance officer (“compliance 
@@ -1160,10 +1169,11 @@ Document review and interpretation
 
 Data analysis
 
-==================================================
+
+================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 
@@ -1266,10 +1276,11 @@ need-to-know basis, that is, it may only be disclosed if this is necessary for t
 investigation team to proceed with its investigative activities or to protect the interests 
 of GRT.
 
-==================================================
+
+================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 breach of confidentiality in the context of an investigation constitutes misconduct and 
@@ -1374,10 +1385,11 @@ team shall objectively assess the case to ascertain whether the allegations are
 substantiated. 
 The assessment activities shall include:
 
-==================================================
+
+================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 
@@ -1524,10 +1536,11 @@ compliance case) shall depend on the individuals involved in the allegations and
 the potential impact to Grünenthal. In countries where it is legally required, the Works 
 Council must be involved in the resolution of the case.
 
-==================================================
+
+================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 a) global ethics committee (gec)
@@ -1636,10 +1649,11 @@ Organizational measures
 o
 Changes in the operational structure (e.g. changing processes)
 
-==================================================
+
+================================================================================
 
 === CHUNK 15 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 o
@@ -1766,10 +1780,11 @@ In jurisdictions where there is a legal obligation to disclose to public authori
 or findings regarding certain misconducts (i.e. reports related to alleged crimes or 
 anticompetitive behavior), the Compliance Officer in Charge shall inform the Global
 
-==================================================
+
+================================================================================
 
 === CHUNK 16 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 compliance & responsibility officer, the general counsel, and, if necessary 
@@ -1832,5 +1847,6 @@ Ethics Helpline Policy (included in: PROC-005193 Global Compliance
 Framework_Code of Conduct)
 7
 
-==================================================
+
+================================================================================
 

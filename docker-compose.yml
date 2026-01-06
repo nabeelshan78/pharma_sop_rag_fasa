@@ -3,7 +3,7 @@ version: '3.8'
 services:
   qdrant:
     image: qdrant/qdrant:latest
-    container_name: fasa_sop_qdrant_ph1
+    container_name: fasa
     ports:
       - "6333:6333"
     environment:

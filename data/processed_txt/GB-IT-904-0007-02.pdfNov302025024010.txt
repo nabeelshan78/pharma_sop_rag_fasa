@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 5', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 5', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -72,10 +72,11 @@ Systems.
  
 See Section 5 for the responsibilities of concerned roles given above.
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 6', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 6', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -190,10 +191,11 @@ The use of dedicated websites and applications to
 interact with other users, or to find people with similar 
 interests to one's own.
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 7', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 7', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -282,10 +284,11 @@ cannot be guaranteed, then delete the e-mail.  These could be SPAM or Phishing
 emails containing viruses or malware, such as Ransomware, which can infect your 
 computer system and render your files unusable.
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 8', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 8', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -368,10 +371,11 @@ use of IT systems.
 • The IT department is responsible for maintaining and updating company e-mail 
 distribution lists.
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 9', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 9', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -464,10 +468,11 @@ trustworthy web sources (e.g. web site of manufacturer). Do not download
 documents provided by social networks or untrusted bulletin boards as there is a 
 risk of malware infiltration.
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 11', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 11', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -536,10 +541,11 @@ WINDOWS 10 GUIDE
 SECURE DATA EXCHANGE 
 TERMS ON EXECUTION OF REMOTE SUPPORT
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 12', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 12', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 gb-it-904-0007-02 
@@ -580,10 +586,11 @@ Skype for Business
 4 
 8
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 13', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 13', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 attachment 1 of gb-it-904-0007-02 
@@ -686,10 +693,11 @@ for others, the status "Offline" is displayed to them.
 Unknown 
 No presence information is available.
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 14', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 14', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 attachment 1 of gb-it-904-0007-02 
@@ -758,10 +766,11 @@ that is displayed (My Picture).
 shown, when the status Do not 
 disturb is set (Alerts).
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 15', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 15', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 attachment 1 of gb-it-904-0007-02 
@@ -806,10 +815,11 @@ select one of the following options:
  
 Existing Groups are additionally displayed in the menu.
 
-==================================================
+
+================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 16', 'sop_title': 'GB-IT-904-0007-02Nov302025024010'}
+[METADATA]: {'file_name': 'GB-IT-904-0007-02.pdfNov302025024010.pdf', 'page_label': 'Page 16', 'sop_title': 'Acceptable Use of E-mail Internet and Social Media UK & Ireland', 'document_number': 'PROC-003435', 'version_number': '01', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 attachment 1 of gb-it-904-0007-02 
@@ -884,5 +894,6 @@ into the meeting from the Invite More People option.
  
 Participants receive a notification and can directly join the meeting.
 
-==================================================
+
+================================================================================
 

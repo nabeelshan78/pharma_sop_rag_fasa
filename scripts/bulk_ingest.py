@@ -47,8 +47,11 @@ def file_already_indexed(qdrant_manager, filename: str) -> bool:
         return len(res[0]) > 0
 
     except Exception as e:
-        return False
-
+        print(f"\n[CRITICAL WARNING] DB Already Index Check Failed for '{filename}': {e}")
+        # If we can't check the DB, we should probably assume True (Skip) 
+        # or Stop the script to prevent duplicate chaos.
+        # Returning True here is safer than False.
+        return True
 
 def save_nodes_to_file(nodes, output_dir: Path, original_filename: str):
     """
@@ -80,7 +83,7 @@ def save_nodes_to_file(nodes, output_dir: Path, original_filename: str):
                 f.write(f"[CONTENT - ORIGINAL]:\n{original_text}\n")
                 
                 # 4. Separator
-                f.write("\n" + "="*50 + "\n\n")
+                f.write("\n\n" + "="*80 + "\n\n")
                 
         print(f"   Saved text dump to: {txt_filename}")
     except Exception as e:

@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 2', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 local title: backup and restore
@@ -118,10 +118,11 @@ Backup is the process of copying records, data and software to protect against l
 integrity or availability of the original. In the context of this document “backup definition” will 
 also refer to the scheduling of backups in backup tools.
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 3', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -280,10 +281,11 @@ the IT-Infrastructure are managed and documented.
 GDPR
 General Data Protection Regulation
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 4', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -304,10 +306,11 @@ or disaster.
 TLogs
 Transaction logs.
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 6', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 default backup service for file share data on primary netapp storage 
@@ -426,10 +429,11 @@ environments)
 Backup retention
 4 weeks
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 7', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 backup type
@@ -542,10 +546,11 @@ and restore operations. Role-based access control (RBAC) must be enforced to
 segregate duties (e.g., backup administrators, security auditors, and storage 
 managers), minimizing the risk of misuse or error.
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 8', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 to further enhance security, backup servers must be kept outside the corporate active 
@@ -634,10 +639,11 @@ If a change in existing backup definitions is required (e.g. a changed backup sc
 or a pause of backup execution for planned application maintenance) the AM or BPO 
 needs to open a service request in ITSM. If the system is GxP relevant, the AM or BPO
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 9', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 is responsible to assess if a moc (following proc-007059) or any other 
@@ -690,10 +696,11 @@ validation activities). In case the restore fails, a roll back plan must be asse
 by case by the Application Manager together with AM Backup.
 The following workflow chart shows the process in detail.
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 10', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 requester chooses  
@@ -798,10 +805,11 @@ evaluates opening
 quality event/
 deviation
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 11', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 application
@@ -984,10 +992,11 @@ However, these tests verify if the backup tool is working as intended. Additiona
 procedure that require data integrity checks, must be address by the AM to the AM 
 backup through a service request in which AM identifies the file or database that can
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped V5 (1) 1.docmNov302025024216'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 12', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 be restored as part of the test. am must confirm the data integrity of the restored files 
@@ -1032,5 +1041,6 @@ REFERENCES
 Not applicable.
 7
 
-==================================================
+
+================================================================================
 

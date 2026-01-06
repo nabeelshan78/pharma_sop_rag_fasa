@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision 04
@@ -106,10 +106,11 @@ Assurance
 Planning of MAH reviews of the PQRs; 
 Approve the PQR plans;
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 function/role 
@@ -206,10 +207,11 @@ GRT QP.
 Notify CQA that approved PQRs are ready for MAH 
 Review
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 4
@@ -330,10 +332,11 @@ Quality Management System
 QP
 Qualified Person
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5
@@ -422,10 +425,11 @@ manufacturing site(s)
 
 All the manufacturing steps (including release) are performed by Grünenthal site(s)
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 table 1: pqr process responsibility matrix
@@ -560,10 +564,11 @@ deviation (see PROC-004019 – “Global Process for Deviation Management”).
                                                             
 1 When batch certification is done by ESQ QP, ESQ must create/approve the internal PQR
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 pqr plans must be approved and stored as described in the win proc-008741 
@@ -640,10 +645,11 @@ Agreement with CMOs.
 3 Annexes by other GRT functions include e.g. Annex 6 and 10 (Regulatory Affairs) (see SUP-013083
 “Overview and Responsibilities of API and FP PQR Annexes”)
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 the mah review must be performed by the relevant commercial quality assurance of 
@@ -738,10 +744,11 @@ pharmaceuticals ingredients (CPMP/ICH/4106/00)
 Regulation (EU) 2017/745 (MDD)
 7
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision/ 
@@ -850,10 +857,11 @@ Affairs department
 Requirements: Merged with § 5.7 MAH Review and Amendment 
 of PQRs
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped V7.docmNov302025052354'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 revision/ 
@@ -924,5 +932,6 @@ SUP-004661 “Product Quality Review for API (Template)” and
 SUP-004662 “Product Quality Review for Finished Products 
 (Template)”: Changes to templates
 
-==================================================
+
+================================================================================
 

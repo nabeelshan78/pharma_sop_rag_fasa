@@ -1,0 +1,124 @@
+(venv) PS C:\Users\User\Desktop\Fvr\Orders\Dotter\pharma_sop_rag_fasa> python .\scripts\bulk_ingest.py
+##################    STARTING BULK INGESTION
+##################    Target Directory: C:\Users\User\Desktop\Fvr\Orders\Dotter\pharma_sop_rag_fasa\data\raw_sops
+##################    Text Output Dir:  C:\Users\User\Desktop\Fvr\Orders\Dotter\pharma_sop_rag_fasa\data\processed_txt
+##################    File Count: 11
+====================================================================================================
+>>>>>>>>>>>>>>>>>      Initializing FASA Ingestion Pipeline components...
+>>>>>>>>>>>>>>>>>      Pipeline components initialized successfully.
+Initializing FASA Indexing Pipeline (Ollama Backed)...
+Connecting to Ollama at http://localhost:11434 with model 'nomic-embed-text'...
+>>>>>>>>>>>>>>>>>>>>>>>>>     Global Embeddings Configured: Ollama (nomic-embed-text)
+[1/11] Checking: AT-GE-577-0002-01.pdfNov302025024051.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: AT-GE-577-0002-01.pdfNov302025024051.pdf
+Processing PDF: AT-GE-577-0002-01.pdfNov302025024051.pdf
+Generated 8 chunks from 8 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 8 high-quality vector nodes.
+   Saved text dump to: AT-GE-577-0002-01.pdfNov302025024051.txt
+>>> Indexing 8 nodes for 'PROC-003428: Data protection at Grünenthal Ges. m. b. H Austria' as 'Active'...
+>>> Indexing Complete.
+DONE (8 chunks)
+Indexed: AT-GE-577-0002-01.pdfNov302025024051.pdf
+================================================================================
+[2/11] Checking: GB-IT-904-0007-02.pdfNov302025024010.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GB-IT-904-0007-02.pdfNov302025024010.pdf
+Processing PDF: GB-IT-904-0007-02.pdfNov302025024010.pdf
+Generated 11 chunks from 11 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 11 high-quality vector nodes.
+   Saved text dump to: GB-IT-904-0007-02.pdfNov302025024010.txt
+>>> Indexing 11 nodes for 'PROC-003435: Acceptable Use of E-mail Internet and Social Media UK & Ireland' as 'Active'...
+>>> Indexing Complete.
+DONE (11 chunks)
+Indexed: GB-IT-904-0007-02.pdfNov302025024010.pdf
+================================================================================
+[3/11] Checking: GL-QA-094-A020-01.pdfNov302025024136.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GL-QA-094-A020-01.pdfNov302025024136.pdf
+Processing PDF: GL-QA-094-A020-01.pdfNov302025024136.pdf
+Generated 5 chunks from 5 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 5 high-quality vector nodes.
+   Saved text dump to: GL-QA-094-A020-01.pdfNov302025024136.txt
+>>> Indexing 5 nodes for 'PROC-003844: Check of Regulatory Compliance of GMP Documents' as 'Active'...
+>>> Indexing Complete.
+DONE (5 chunks)
+Indexed: GL-QA-094-A020-01.pdfNov302025024136.pdf
+================================================================================
+[4/11] Checking: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+Processing PDF: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+Generated 10 chunks from 10 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 10 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_Rev06.docmNov302025052119.txt
+>>> Indexing 10 nodes for 'PROC-003370: Global Process for CAPA Management' as 'Active'...
+>>> Indexing Complete.
+DONE (10 chunks)
+Indexed: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf
+================================================================================
+[5/11] Checking: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+Processing PDF: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+Generated 14 chunks from 14 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 14 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.txt
+>>> Indexing 14 nodes for 'PROC-007808: APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS' as 'Active'...
+>>> Indexing Complete.
+DONE (14 chunks)
+Indexed: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf
+================================================================================
+[6/11] Checking: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+Processing PDF: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+Generated 14 chunks from 14 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 14 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_Rev07.docmNov302025051730.txt
+>>> Indexing 14 nodes for 'PROC-007059: Global Process for Change Management' as 'Active'...
+>>> Indexing Complete.
+DONE (14 chunks)
+Indexed: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf
+================================================================================
+[7/11] Checking: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+Processing PDF: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+Generated 20 chunks from 20 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 20 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_Rev07.docmNov302025051957.txt
+>>> Indexing 20 nodes for 'PROC-005043: Process Validation' as 'Active'...
+>>> Indexing Complete.
+DONE (20 chunks)
+Indexed: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf
+================================================================================
+[8/11] Checking: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+Processing PDF: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+Generated 10 chunks from 10 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 10 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.txt
+>>> Indexing 10 nodes for 'PROC-005477: Backup and Restore' as 'Active'...
+>>> Indexing Complete.
+DONE (10 chunks)
+Indexed: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf
+================================================================================
+[9/11] Checking: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+Processing PDF: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+Generated 9 chunks from 9 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 9 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_V7.docmNov302025052354.txt
+>>> Indexing 9 nodes for 'PROC-004198: Product Quality Review' as 'Active'...
+>>> Indexing Complete.
+DONE (9 chunks)
+Indexed: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf
+================================================================================
+[10/11] Checking: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf
+Processing PDF: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf
+Generated 14 chunks from 14 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 14 high-quality vector nodes.
+   Saved text dump to: GRT_PROC_English_stamped_V7.docmNov302025052415.txt
+⚔️ Version Clash for PROC-004198: Incoming v3.0 vs Existing v4.0
+⚠️ Incoming PROC-004198 is older (v3.0) than Active (v4.0). Marking Inactive.
+>>> Indexing 14 nodes for 'PROC-004198: Product Quality Review' as 'Inactive'...
+>>> Indexing Complete.
+DONE (14 chunks)
+Indexed: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf
+================================================================================
+[11/11] Checking: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf ... >>>>>>>>>>>>>>>>>>>    Processing ... >>>>>>>>>>>>>>>>>>> STARTING PIPELINE for: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf
+Processing PDF: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf
+Generated 16 chunks from 16 pages.
+>>>>>>>>>>>>>>>>>>> FINISHED PIPELINE: Generated 16 high-quality vector nodes.
+   Saved text dump to: PROC-008833 Whistleblowing Reporting.docmNov302025052315.txt
+>>> Indexing 16 nodes for 'PROC-008833: PROC-008833 SOP on Whistleblowing Reporting' as 'Active'...
+>>> Indexing Complete.
+DONE (16 chunks)
+Indexed: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf
+================================================================================
+(venv) PS C:\Users\User\Desktop\Fvr\Orders\Dotter\pharma_sop_rag_fasa> from qdrant_client.http import models as rest_models  # Needed for Filters

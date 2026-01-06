@@ -4,6 +4,10 @@ from typing import List
 
 from llama_index.core.schema import TextNode
 from .cleaner import clean_text
+# ---------------------------------------------------------
+# CHANGE 1: Import the new function
+# ---------------------------------------------------------
+from .versioning import VersionManager
 
 class PDFLoader:
     
@@ -29,7 +33,22 @@ class PDFLoader:
             return []
         
         page_nodes = []
-        sop_title = file_name.replace(".pdf", "").replace("_", " ")
+        
+        # ---------------------------------------------------------
+        # CHANGE 2: Extract Metadata from Page 0 before looping
+        # ---------------------------------------------------------
+        # A. Extract raw text from the first page (Cover Page)
+        first_page_text = ""
+        if len(doc) > 0:
+            first_page_text = doc[0].get_text("text")
+            
+        # B. Run your new extraction function
+        sop_meta = VersionManager.extract_sop_metadata(first_page_text)
+        
+        # C. Determine Title: Use extracted title if found, otherwise fallback to filename
+        sop_title = sop_meta.get("document_title") or file_name.replace(".pdf", "").replace("_", " ")
+        
+        # ---------------------------------------------------------
 
         for i, page in enumerate(doc):
             if i == 0: continue 
@@ -58,14 +77,17 @@ class PDFLoader:
             page_label = f"Page {i + 1}"
             annotated_original = f"Source: {file_name}, {page_label}.\n{cleaned_original}"
             
-            # C. Create Node
+            # C. Create Node (Now with extra metadata!)
             node = TextNode(
                 text=text_for_storage,
                 metadata={
                     "file_name": file_name,
                     "page_label": page_label,
                     "sop_title": sop_title,
-                    "original_text": annotated_original
+                    "original_text": annotated_original,
+                    "document_number": sop_meta.get("document_number", "Unknown"),
+                    "version_number": sop_meta.get("version_number", "Unknown"),
+                    "status": "Active"
                 }
             )
                     
@@ -73,5 +95,10 @@ class PDFLoader:
             node.excluded_llm_metadata_keys = ["original_text"]
 
             page_nodes.append(node)
+        
         doc.close()
         return page_nodes
+    
+
+
+

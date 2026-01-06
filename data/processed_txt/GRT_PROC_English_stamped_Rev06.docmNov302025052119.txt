@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 local title: global process for capa management
@@ -94,10 +94,11 @@ on behalf of the Head of the affected department.
 Assigns CAPA action(s) to responsible individual(s) (i.e., CAPA 
 Task Assignee=action owner) and establishes/ manages timeline.
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 3', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 3', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 function/ role
@@ -208,10 +209,11 @@ CAPAs must be planned with a due date that covers all steps
 until completed final approval. Appropriate time must be planned
 for implementation and if required effectiveness check.
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -328,10 +330,11 @@ the root cause(s).
 *Definition is copied from ICH Q10 which references to ISO9000:2005. Although there is a more recent version 
 (ISO9000:2015), the definitions are not affected.
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5
@@ -446,10 +449,11 @@ of/ situation at GRT.
 Timely
 For each CAPA a reasonable timeframe must be defined.
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.3
@@ -626,10 +630,11 @@ approved?
 Yes
 No
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.3.2
@@ -756,10 +761,11 @@ Approved CAPA Plan
 Document CAPA plan by 
 individual action items
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.3.3
@@ -874,10 +880,11 @@ Yes
 No
 No
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.3.4
@@ -1018,10 +1025,11 @@ select the step that should be corrected).
 Only QA may reopen a CAPA form, and only if the form contains incorrect or 
 misleading information. A justification and indication of changes must be provided.
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 effectiveness check and capa closure
@@ -1142,10 +1150,11 @@ Owner identifies that the CAPA overall due date cannot be met, this must be
 addressed to the affected management and QA in order to define appropriate 
 measures.
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev06.docmNov302025052119'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.5
@@ -1216,5 +1225,6 @@ ICH Q10: Pharmaceutical Quality System (2008). Harmonised Tripartite
 Guideline of the International Conference on Harmonisation (ICH)
 7
 
-==================================================
+
+================================================================================
 

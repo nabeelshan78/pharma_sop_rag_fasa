@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 2', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 local title: global process for change management
@@ -116,10 +116,11 @@ and approve requests for the step due date extensions.
 The Extension Request Approver role can be assigned only to users 
 having also the Approver role.
 
-==================================================
+
+================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 4', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -236,10 +237,11 @@ laboratory, C = clinical, M = manufacturing, D = distribution,) and
 includes all processes impacted by regulations, standards or 
 guidelines, e.g., EMA regulations, ICH guidelines, ISO standards.
 
-==================================================
+
+================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 5', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -374,10 +376,11 @@ General
 All GxP-related changes must be requested, reviewed, assessed, approved, 
 implemented, verified and closed through a defined change control process. This must
 
-==================================================
+
+================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 6', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 be documented in mastercontrol. an unique identification change number is assigned 
@@ -472,10 +475,11 @@ Verification
 Change 
 Close-out
 
-==================================================
+
+================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 7', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -622,10 +626,11 @@ cancelled in case the proposal is not feasible (all the
 reviewers have to sign off with the “Cancelled” option 
 selected) .
 
-==================================================
+
+================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 8', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 table 2. “nrp and approver(s) assignment”
@@ -742,10 +747,11 @@ by applying the following rule according to the change type:
 Product Changes
 Technical Changes
 
-==================================================
+
+================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 9', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -892,10 +898,11 @@ modifications
 are 
 implemented (if applicable).
 
-==================================================
+
+================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 10', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -1034,10 +1041,11 @@ As soon as the change proposal, impact assessment outcome (including
 implementation strategy) and effectiveness check evaluation/plan are approved by the 
 responsible Approvers, the implementation activities of the change can start according
 
-==================================================
+
+================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 11', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 to the change plan proposed by the group of smes and the defined implementation 
@@ -1180,10 +1188,11 @@ Sign-off all action items. In case of rejection, provide a
 reason and ensure that the respective modifications are 
 implemented (if applicable)
 
-==================================================
+
+================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 12', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 12', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -1320,10 +1329,11 @@ in the implementation strategy and/or to carry out actions to perform the effect
 check of the change implemented if planned and approved in the respective previous 
 steps.
 
-==================================================
+
+================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 13', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 13', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -1470,10 +1480,11 @@ produced by:
 -
 The NRP in case of a product change
 
-==================================================
+
+================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 14', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 14', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 -
@@ -1546,10 +1557,11 @@ Sign-off the change close out step. In case of rejection,
 provide a reason and ensure that the respective 
 modifications are implemented (if applicable).
 
-==================================================
+
+================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 15', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 15', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.3
@@ -1920,10 +1932,11 @@ Complete”
 Yes
 C o m m u n ic a tio n  L o g /  M e e t in g  m in u t e  O p t io n
 
-==================================================
+
+================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 16', 'sop_title': 'GRT PROC English stamped Rev07.docmNov302025051730'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 16', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
 
 [CONTENT - LOWERCASE]:
 5.4
@@ -2008,5 +2021,6 @@ PI 054-1 “How to Evaluate and Demonstrate the Effectiveness of the
 Pharmaceutical Quality System with regard to Risk-Based Change Management”
 7
 
-==================================================
+
+================================================================================
 
