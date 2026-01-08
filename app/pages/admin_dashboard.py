@@ -90,7 +90,7 @@ def update_sop_status(file_name, new_status):
     client.set_payload(
         collection_name=collection_name,
         payload={"status": status_str},
-        filter=scroll_filter
+        points=scroll_filter
     )
     
     # Optional: Count how many we updated (just for UI feedback)
@@ -103,37 +103,6 @@ def update_sop_status(file_name, new_status):
     
     return len(points)
 
-# def update_sop_status(file_name, new_status):
-#     """
-#     Updates the 'status' metadata for ALL nodes belonging to a specific file
-#     and saves the change back to the index.
-#     """
-#     engine = st.session_state.rag_engine
-#     # Access docstore docs
-#     all_nodes = engine.index.docstore.docs.values()
-    
-#     # Convert Boolean (True/False) back to String ("Active"/"Inactive")
-#     status_str = "Active" if new_status else "Inactive"
-    
-#     count = 0
-#     nodes_to_update = []
-
-#     # Find all nodes for this file
-#     for node in all_nodes:
-#         if node.metadata.get("file_name") == file_name:
-#             node.metadata["status"] = status_str
-#             nodes_to_update.append(node)
-#             count += 1
-    
-#     # Bulk update the docstore
-#     if nodes_to_update:
-#         engine.index.docstore.add_documents(nodes_to_update, allow_update=True)
-#         # Persist storage if available
-#         if hasattr(engine.index.storage_context, "persist"):
-#             engine.index.storage_context.persist()
-            
-#     return count
-
 def get_all_sops():
     """
     Retrieves actual metadata from the FASA Engine's index.
@@ -144,18 +113,40 @@ def get_all_sops():
     
     engine = st.session_state.rag_engine
     
+    # 2. Access the Qdrant Client directly
     try:
-        all_nodes = engine.index.docstore.docs.values()
-    except AttributeError:
-        st.error("Index not found or Docstore empty.")
+        # Navigate through LlamaIndex to get the native Qdrant client
+        # structure: index -> vector_store -> client
+        client = engine.index.vector_store.client
+        collection_name = "fasa_sops"  # Ensure this matches your ingest config
+        
+        # 3. Fetch data (Scroll)
+        # We fetch up to 10,000 points to ensure we get everything.
+        # with_payload=True is crucial to get the metadata.
+        response = client.scroll(
+            collection_name=collection_name,
+            limit=10000, 
+            with_payload=True,
+            with_vectors=False # We don't need the vectors, just metadata
+        )
+        points = response[0] # scroll returns (points, offset)
+        
+    except Exception as e:
+        st.error(f"Failed to connect to Qdrant: {e}")
         return pd.DataFrame()
+    
 
+    # 4. Process & Deduplicate
     unique_sops = {}
 
-    for node in all_nodes:
-        meta = node.metadata
+    for point in points:
+        meta = point.payload
+        if not meta:
+            continue
+            
         file_name = meta.get("file_name")
 
+        # Deduplication Logic
         if file_name and file_name not in unique_sops:
             status_str = meta.get("status", "Active")
             is_active = True if status_str == "Active" else False
@@ -169,6 +160,7 @@ def get_all_sops():
                 "Active": is_active
             }
 
+    # 5. Return DataFrame
     if not unique_sops:
         return pd.DataFrame(columns=["File Name", "Title", "Doc Number", "Version", "Status", "Active"])
         
@@ -216,7 +208,7 @@ def render_admin_dashboard():
         selection_mode="single-row", 
         height=400,
         column_config={
-            "Active": st.column_config.Column(hidden=True), # Helper col hidden
+            "Active": None, # st.column_config.Column(hidden=True), # Helper col hidden
             "Status": st.column_config.TextColumn("Current Status")
         }
     )
