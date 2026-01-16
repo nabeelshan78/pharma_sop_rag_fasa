@@ -47,7 +47,6 @@ class PDFLoader:
         
         # C. Determine Title: Use extracted title if found, otherwise fallback to filename
         sop_title = sop_meta.get("document_title") or file_name.replace(".pdf", "").replace("_", " ")
-        
         # ---------------------------------------------------------
 
         for i, page in enumerate(doc):
