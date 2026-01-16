@@ -11,7 +11,7 @@ class EmbeddingManager:
     Manages the Local Ollama Embedding Model.
     """
     
-    @staticmethod
+    @staticmethod #ollama pull nomic-embed-text-v2-moe
     def get_embedding_model(model_name: str = "nomic-embed-text") -> OllamaEmbedding:
         """
         Instantiates the Ollama Embedding model.

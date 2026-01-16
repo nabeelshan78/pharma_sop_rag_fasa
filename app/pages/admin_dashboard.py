@@ -103,6 +103,43 @@ def update_sop_status(file_name, new_status):
     
     return len(points)
 
+
+def delete_sop_permanently(file_name):
+    """
+    Permanently deletes all vectors associated with a specific file from Qdrant.
+    WARNING: This action cannot be undone.
+    """
+    if "rag_engine" not in st.session_state:
+        st.error("Engine not loaded")
+        return False
+
+    engine = st.session_state.rag_engine
+    client = engine.index.vector_store.client
+    collection_name = "fasa_sops"
+    
+    # Define the Filter to match the specific file
+    delete_filter = rest_models.Filter(
+        must=[
+            rest_models.FieldCondition(
+                key="file_name",
+                match=rest_models.MatchValue(value=file_name)
+            )
+        ]
+    )
+
+    try:
+        # Execute Delete Operation
+        # points_selector is specific to Qdrant's delete API
+        client.delete(
+            collection_name=collection_name,
+            points_selector=rest_models.FilterSelector(filter=delete_filter)
+        )
+        return True
+    except Exception as e:
+        st.error(f"Delete failed: {e}")
+        return False
+    
+
 def get_all_sops():
     """
     Retrieves actual metadata from the FASA Engine's index.
@@ -213,6 +250,7 @@ def render_admin_dashboard():
         }
     )
 
+    
     # 4. Action Panel (Only shows when a row is selected)
     if len(event.selection.rows) > 0:
         selected_index = event.selection.rows[0]
@@ -226,9 +264,9 @@ def render_admin_dashboard():
 
         # Panel UI
         st.markdown("---")
-        st.subheader(f"✏️ Edit Status: {sel_title}")
+        st.subheader(f"✏️ Edit / Delete: {sel_title}")
         
-        # Create a container for the edit form
+        # --- A. EDIT STATUS SECTION ---
         with st.container(border=True):
             c1, c2, c3 = st.columns([2, 2, 1])
             
@@ -237,33 +275,101 @@ def render_admin_dashboard():
                 st.markdown(f"**Doc Number:** {selected_row['Doc Number']}")
             
             with c2:
-                # The Toggle Mechanism (Radio Button)
                 new_status_selection = st.radio(
                     "Visibility Status",
                     ["Active", "Inactive"],
                     index=0 if sel_is_active else 1,
                     horizontal=True,
+                    key="status_radio",
                     help="Inactive SOPs will be faded in the table and hidden from AI search."
                 )
             
             with c3:
-                # Logic to enable/disable button
+                st.write("") # Spacer
+                st.write("") 
+                
+                # Calculate change
                 new_is_active_bool = True if new_status_selection == "Active" else False
                 has_changed = new_is_active_bool != sel_is_active
                 
-                st.write("") # Spacer to align button
-                st.write("") 
-                
                 if has_changed:
-                    confirm_btn = st.button("✅ Confirm Update", type="primary", use_container_width=True)
-                    if confirm_btn:
+                    if st.button("Confirm Update", type="primary", use_container_width=True):
                         with st.spinner("Updating Metadata..."):
                             count = update_sop_status(sel_file, new_is_active_bool)
-                            time.sleep(0.5) # UX pause
-                        st.success(f"Updated {count} nodes to {new_status_selection}!")
+                            time.sleep(0.5)
+                        st.success(f"Updated {count} nodes!")
                         st.rerun()
                 else:
-                    st.button("No Changes", disabled=True, use_container_width=True)
+                    st.button("Saved", disabled=True, use_container_width=True)
+
+        # --- B. DANGER ZONE (DELETE) ---
+        st.write("")
+        # Use an expander to hide the dangerous button by default
+        with st.expander("🗑️ Danger Zone: Delete SOP", expanded=False):
+            st.error(f"Warning: You are about to permanently delete **{sel_file}**.")
+            st.markdown("This will remove the document and all its chunks from the vector database. This action **cannot** be undone.")
+            
+            col_del_1, col_del_2 = st.columns([4, 1])
+            with col_del_2:
+                if st.button("Confirm Delete", type="primary"):
+                    with st.spinner(f"Deleting {sel_file} from database..."):
+                        success = delete_sop_permanently(sel_file)
+                        if success:
+                            st.toast(f"Deleted {sel_file} successfully!", icon="🗑️")
+                            time.sleep(1)
+                            st.rerun()
+
+    # # 4. Action Panel (Only shows when a row is selected)
+    # if len(event.selection.rows) > 0:
+    #     selected_index = event.selection.rows[0]
+    #     selected_row = df.iloc[selected_index]
+        
+    #     # Extract details
+    #     sel_file = selected_row["File Name"]
+    #     sel_title = selected_row["Title"]
+    #     sel_status = selected_row["Status"]
+    #     sel_is_active = selected_row["Active"]
+
+    #     # Panel UI
+    #     st.markdown("---")
+    #     st.subheader(f"✏️ Edit Status: {sel_title}")
+        
+    #     # Create a container for the edit form
+    #     with st.container(border=True):
+    #         c1, c2, c3 = st.columns([2, 2, 1])
+            
+    #         with c1:
+    #             st.markdown(f"**File Name:** `{sel_file}`")
+    #             st.markdown(f"**Doc Number:** {selected_row['Doc Number']}")
+            
+    #         with c2:
+    #             # The Toggle Mechanism (Radio Button)
+    #             new_status_selection = st.radio(
+    #                 "Visibility Status",
+    #                 ["Active", "Inactive"],
+    #                 index=0 if sel_is_active else 1,
+    #                 horizontal=True,
+    #                 help="Inactive SOPs will be faded in the table and hidden from AI search."
+    #             )
+            
+    #         with c3:
+    #             # Logic to enable/disable button
+    #             new_is_active_bool = True if new_status_selection == "Active" else False
+    #             has_changed = new_is_active_bool != sel_is_active
+                
+    #             st.write("") # Spacer to align button
+    #             st.write("") 
+                
+    #             if has_changed:
+    #                 confirm_btn = st.button("✅ Confirm Update", type="primary", use_container_width=True)
+    #                 if confirm_btn:
+    #                     with st.spinner("Updating Metadata..."):
+    #                         count = update_sop_status(sel_file, new_is_active_bool)
+    #                         time.sleep(0.5) # UX pause
+    #                     st.success(f"Updated {count} nodes to {new_status_selection}!")
+    #                     st.rerun()
+    #             else:
+    #                 st.button("No Changes", disabled=True, use_container_width=True)
 
 # --- 8. RUN APP ---
 if __name__ == "__main__":
