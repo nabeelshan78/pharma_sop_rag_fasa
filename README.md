@@ -1,5 +1,7 @@
 # Pharmaceutical SOP RAG System Setup (FASA)
 
+# ollama pull nomic-embed-text-v2-moe / nomic-embed-text
+
 This is a local Retrieval-Augmented Generation (RAG) system designed for Pharmaceutical Regulatory assistance. It ingests Standard Operating Procedures (SOPs), indexes them into a vector database, and uses a local Large Language Model (LLM) to answer questions without data leaving your machine.
 
 ## System Architecture
@@ -8,8 +10,8 @@ This is a local Retrieval-Augmented Generation (RAG) system designed for Pharmac
 - **Vector Database:** Qdrant (Dockerized)
 - **LLM Engine:** Ollama (Local)
 - **Models:** 
-  - LLM: `llama3:8b`   # 7B Class
-  - Embeddings: `nomic-embed-text`
+  - LLM: `llama3.1:8b`
+  - Embeddings: `nomic-embed-text-v2-moe`
 
 ---
 
@@ -37,7 +39,7 @@ If the version number appears, the engine is ready. The server runs automaticall
 
    - Embedding model (for vector search):
      ```bash
-     ollama pull nomic-embed-text
+     ollama pull nomic-embed-text-v2-moe
      ```
 
    - Language model (for answering questions):
@@ -102,7 +104,7 @@ HYBRID_ALPHA=0.8
 Run the bulk ingestion script from the project root: `python .\scripts\bulk_ingest.py`
 
 ## Step 5: Running the Application
-Run the Streamlit app: `streamlit run .\app\streamlit_ui.py`
+Run the Streamlit app: `streamlit run .\app\app.py`
 
 A browser window will automatically open (usually at http://localhost:8501).
 Wait for the "Booting FASA Neural Core..." message to finish.

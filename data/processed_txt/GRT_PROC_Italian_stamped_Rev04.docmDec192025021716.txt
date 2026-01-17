@@ -1,0 +1,1667 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+controllo capsule precisa 120- pa1036
+1
+scopo della procedura
+la presente procedura ha lo scopo di dettagliare le operazioni di utilizzo, calibrazione e 
+pulizia dell’attrezzatura dispositivo controllo capsule “precisa 120 – pa1036”.
+2
+campo di applicazione
+la presente procedura si applica al dispositivo controllo capsule “precisa 120- pa1036” in 
+utilizzo all’interno del reparto manufacturing dello stabilimento del sito di origgio
+3
+responsabilità
+questo capitolo fornisce informazioni riguardanti i ruoli e le responsabilità relative al processo 
+descritto.
+funzione
+responsabilità
+operatore
+
+corretta esecuzione delle operazioni di pulizia, smontaggio 
+e carico.
+
+corretta compilazione dei documenti supportivi
+
+osservare tutte le cautele necessarie per evitare danni 
+durante le operazioni di utilizzo e smontaggio e segnalare 
+eventuali anomalie al supervisore
+supervisore
+
+verificare l’avvenuta pulizia, la corretta compilazione dei 
+documenti supportivi e il corretto utilizzo dell’attrezzatura.
+4
+termini e definizioni
+termine
+definizione/spiegazione
+soluzione detergente
+soluzione concentrata allo 0,1% (1:100) del prodotto 
+commerciale tego 51 in acqua.
+alcool
+alcool etilico 96%
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 2.
+CONTROLLO CAPSULE PRECISA 120- PA1036
+1
+SCOPO DELLA PROCEDURA
+La presente procedura ha lo scopo di dettagliare le operazioni di utilizzo, calibrazione e 
+pulizia dell’attrezzatura dispositivo controllo capsule “Precisa 120 – PA1036”.
+2
+CAMPO DI APPLICAZIONE
+La presente procedura si applica al dispositivo controllo capsule “Precisa 120- PA1036” in 
+utilizzo all’interno del Reparto Manufacturing dello stabilimento del sito di Origgio
+3
+RESPONSABILITÀ
+Questo capitolo fornisce informazioni riguardanti i ruoli e le responsabilità relative al processo 
+descritto.
+Funzione
+Responsabilità
+Operatore
+
+Corretta esecuzione delle operazioni di pulizia, smontaggio 
+e carico.
+
+Corretta compilazione dei documenti supportivi
+
+Osservare tutte le cautele necessarie per evitare danni 
+durante le operazioni di utilizzo e smontaggio e segnalare 
+eventuali anomalie al Supervisore
+Supervisore
+
+Verificare l’avvenuta pulizia, la corretta compilazione dei 
+documenti supportivi e il corretto utilizzo dell’attrezzatura.
+4
+TERMINI E DEFINIZIONI
+Termine
+Definizione/Spiegazione
+Soluzione detergente
+Soluzione concentrata allo 0,1% (1:100) del prodotto 
+commerciale Tego 51 in acqua.
+Alcool
+Alcool etilico 96%
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5
+processo
+5.1
+struttura e funzionamento del dispositivo controllo capsule “precisa 120-
+pa1036”
+il dispositivo “precisa 120- pa1036” è una macchina automatica progettata e realizzata per 
+controllare all’unità il peso di capsule, nei diversi formati (2 e 4).
+l’attrezzatura in oggetto può essere utilizzata solo da personale addestrato ed autorizzato.
+il controllo viene effettuato mediante 12 celle separate che provvedono a rilevare i pesi. i valori 
+ottenuti sono elaborati da un computer che elimina le eventuali capsule il cui peso risulta fuori 
+dai limiti di peso previsti.
+il rapporto di produzione viene stampato a fine lavorazione ed i dati del lotto sono memorizzati.
+i componenti principali della macchina, mostrati nella figura 1 sono:
+1. basamento
+2. tramoggia
+3. scivolo uscita capsule
+4. piastra a movimento alternato verticale 
+e gruppo di pesatura a 12 celle
+5. rullo trasporto capsule
+6. comandi
+7. monitor
+il funzionamento del dispositivo è articolato nelle seguenti fasi:
+
+caricamento delle capsule nella tramoggia superiore 
+
+discesa attraverso la piastra a movimento alternato verticale
+
+discesa attraverso le molle (fig.1 -5)
+
+separazione capsule (riferimenti 1 e 2 – figura 3)
+
+trasporto capsule mediante rullo con dentini (riferimento 4 – figura 3)
+
+pesatura mediante testine pesatrici 
+
+espulsione 
+
+uscita capsule con selezione automatica 
+le capsule caricate nella tramoggia superiore scendono nella piastra a saliscendi dedicata per 
+ciascun formato e quindi, mediante passaggio nelle molle, attraversano le piastre regolabili.
+fig.1
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 3.
+5
+PROCESSO
+5.1
+Struttura e funzionamento del dispositivo controllo capsule “Precisa 120-
+PA1036”
+Il dispositivo “Precisa 120- PA1036” è una macchina automatica progettata e realizzata per 
+controllare all’unità il peso di capsule, nei diversi formati (2 e 4).
+L’attrezzatura in oggetto può essere utilizzata solo da personale addestrato ed autorizzato.
+Il controllo viene effettuato mediante 12 celle separate che provvedono a rilevare i pesi. I valori 
+ottenuti sono elaborati da un computer che elimina le eventuali capsule il cui peso risulta fuori 
+dai limiti di peso previsti.
+Il rapporto di produzione viene stampato a fine lavorazione ed i dati del lotto sono memorizzati.
+I componenti principali della macchina, mostrati nella figura 1 sono:
+1. Basamento
+2. Tramoggia
+3. Scivolo uscita capsule
+4. Piastra a movimento alternato verticale 
+e gruppo di pesatura a 12 celle
+5. Rullo trasporto capsule
+6. Comandi
+7. Monitor
+Il funzionamento del dispositivo è articolato nelle seguenti fasi:
+
+caricamento delle capsule nella tramoggia superiore 
+
+discesa attraverso la piastra a movimento alternato verticale
+
+discesa attraverso le molle (Fig.1 -5)
+
+separazione capsule (riferimenti 1 e 2 – figura 3)
+
+trasporto capsule mediante rullo con dentini (riferimento 4 – figura 3)
+
+pesatura mediante testine pesatrici 
+
+espulsione 
+
+uscita capsule con selezione automatica 
+Le capsule caricate nella tramoggia superiore scendono nella piastra a saliscendi dedicata per 
+ciascun formato e quindi, mediante passaggio nelle molle, attraversano le piastre regolabili.
+Fig.1
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+nella parte inferiore di tali piastre, è posizionato un sistema di intercettazione e separazione 
+(1 e 2 – fig.2) che permette di dividere le capsule prima di giungere al dentino posizionato sul 
+rullo di trasporto (4 – fig.2).
+le capsule che eventualmente potrebbero intasare la piastra a saliscendi vengono espulse 
+attraverso un getto di aria compressa e raccolte in una tramoggia apposita (3 – fig.3).
+le capsule vengono quindi posizionate sulle celle di carico mediante un rullo a movimento 
+continuo, provvisto di fori aspiranti per trattenere mediante vuoto le capsule durante la 
+rotazione.
+una volta pesate, le capsule vengono espulse dalla rotazione del dentino e, se il peso relativo 
+rientra nei limiti previsti, vengono indirizzate verso il contenitore di raccolta attraverso la 
+piastra.
+al contrario, le capsule con peso al di fuori dei limiti impostati, cadono nel contenitore destinato 
+alla raccolta degli scarti attraverso il convogliatore.
+qualora, in caso di anomalo funzionamento del sistema di scarto, una capsula di peso al di 
+fuori dei limiti non venga trattenuta, un gruppo di fibre ottiche posto a valle provvede a 
+bloccarla. in tal caso, inoltre, viene attivato un dispositivo che intercetta e scarta tutte le 
+capsule in uscita dalla macchina; quindi, l’attrezzatura si ferma ed il monitor segnala l’allarme 
+“anomalia scarto”.
+prima di riavviare l’impianto, occorre rimuovere le capsule fermate dal gruppo di fibre ottiche, 
+che dovranno essere scartate, premere il pulsante reset scarto (riferimento paragrafo) e 
+riavviare la macchina.
+il gruppo di pesatura è collegato ad un pc ed il software installato consente di effettuare le 
+seguenti attività:
+
+controllo di peso della singola capsula
+
+conteggio del numero di capsule scartate (e relativa %)
+
+conteggio del numero capsule in rapporto a quelle da pesare 
+fig.3
+fig.2
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 4.
+Nella parte inferiore di tali piastre, è posizionato un sistema di intercettazione e separazione 
+(1 e 2 – Fig.2) che permette di dividere le capsule prima di giungere al dentino posizionato sul 
+rullo di trasporto (4 – Fig.2).
+Le capsule che eventualmente potrebbero intasare la piastra a saliscendi vengono espulse 
+attraverso un getto di aria compressa e raccolte in una tramoggia apposita (3 – Fig.3).
+Le capsule vengono quindi posizionate sulle celle di carico mediante un rullo a movimento 
+continuo, provvisto di fori aspiranti per trattenere mediante vuoto le capsule durante la 
+rotazione.
+Una volta pesate, le capsule vengono espulse dalla rotazione del dentino e, se il peso relativo 
+rientra nei limiti previsti, vengono indirizzate verso il contenitore di raccolta attraverso la 
+piastra.
+Al contrario, le capsule con peso al di fuori dei limiti impostati, cadono nel contenitore destinato 
+alla raccolta degli scarti attraverso il convogliatore.
+Qualora, in caso di anomalo funzionamento del sistema di scarto, una capsula di peso al di 
+fuori dei limiti non venga trattenuta, un gruppo di fibre ottiche posto a valle provvede a 
+bloccarla. In tal caso, inoltre, viene attivato un dispositivo che intercetta e scarta tutte le 
+capsule in uscita dalla macchina; quindi, l’attrezzatura si ferma ed il monitor segnala l’allarme 
+“Anomalia scarto”.
+Prima di riavviare l’impianto, occorre rimuovere le capsule fermate dal gruppo di fibre ottiche, 
+che dovranno essere scartate, premere il pulsante reset scarto (riferimento paragrafo) e 
+riavviare la macchina.
+Il gruppo di pesatura è collegato ad un PC ed il software installato consente di effettuare le 
+seguenti attività:
+
+controllo di peso della singola capsula
+
+conteggio del numero di capsule scartate (e relativa %)
+
+conteggio del numero capsule in rapporto a quelle da pesare 
+Fig.3
+Fig.2
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+
+conteggio delle capsule pesate (sia buone che scartate) per ogni singola cella
+
+disattivazione di una o più celle di pesatura 
+
+elaborazione di tutti i dati statistici relativi (peso medio, deviazione standard in mg e %)
+
+analisi statistica delle singole celle
+
+analisi della produzione totale con il relativo istogramma
+
+registrazione dei dati del lotto in corso di controllo 
+
+registrazione degli allarmi registrati in fase di produzione
+al di sotto del monitor sono posizionati i seguenti comandi (fig.4): 
+1. pulsante di avvio e reset allarmi 
+2. pulsante arresto macchina
+3. segnale acustico
+5.2
+  utilizzo del pannello di controllo
+5.2.1
+login
+all’accensione viene mostrata la schermata principale le funzioni sono abilitate per il livello 
+“guest” (utente non collegato al sistema). per collegarsi al sistema e rendere disponibili le 
+funzioni abilitate per il proprio gruppo utente riferirsi al paragrafo successivo (login).
+cliccare nella maschera superiore il campo a (fig.5)
+si apre quindi il seguente pop-up (fig.6), inserire nome utente (it-xxxxx) (1), password 
+(2) e premere conferma (4).
+dopo 15 minuti di inattività il sistema esegue il logout dell’utente corrente e passa all’utente 
+guest (ad ogni operazione eseguita il contatore che conteggia il tempo trascorso viene 
+azzerato).
+fig.4
+fig.5
+fig.6
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 5.
+
+conteggio delle capsule pesate (sia buone che scartate) per ogni singola cella
+
+disattivazione di una o più celle di pesatura 
+
+elaborazione di tutti i dati statistici relativi (peso medio, deviazione standard in mg e %)
+
+analisi statistica delle singole celle
+
+analisi della produzione totale con il relativo istogramma
+
+registrazione dei dati del lotto in corso di controllo 
+
+registrazione degli allarmi registrati in fase di produzione
+Al di sotto del monitor sono posizionati i seguenti comandi (Fig.4): 
+1. Pulsante di avvio e reset allarmi 
+2. Pulsante arresto macchina
+3. Segnale acustico
+5.2
+  Utilizzo del pannello di controllo
+5.2.1
+Login
+All’accensione viene mostrata la schermata principale le funzioni sono abilitate per il livello 
+“GUEST” (utente non collegato al sistema). Per collegarsi al sistema e rendere disponibili le 
+funzioni abilitate per il proprio gruppo utente riferirsi al paragrafo successivo (Login).
+Cliccare nella maschera superiore il campo A (Fig.5)
+Si apre quindi il seguente POP-UP (fig.6), inserire Nome utente (IT-XXXXX) (1), Password 
+(2) e premere conferma (4).
+Dopo 15 minuti di inattività il sistema esegue il LOGOUT dell’utente corrente e passa all’utente 
+GUEST (ad ogni operazione eseguita il contatore che conteggia il tempo trascorso viene 
+azzerato).
+Fig.4
+Fig.5
+Fig.6
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2
+struttura schermata principale 
+la schermata principale è composta da tre sezioni (fig.7): nella schermata principale sono 
+presenti i tasti di navigazione con i quali si raggiungono diversi gruppi di pagine, queste 
+verranno descritte nei successivi paragrafi.
+5.2.2.1
+screensaver - grafico stato macchina 
+quando si preme il tasto a (fig.8) viene visualizzato il grafico dello stato attuale della macchina. 
+la seguente pagina appare anche come screensaver dopo un tempo di inattività
+i seguenti campi permettono di:
+1 
+visualizzare lo stato attuale della 
+macchina. 
+2 
+visualizzare la velocità della 
+macchina. 
+3 
+visualizzare il contatore del lotto/ 
+sublotto: 
+- percentuale di capsule buone. 
+- percentuale di capsule scartate. 
+- tempo rimanente. 
+1
+tasto di navigazione 
+grafico stato 
+macchina 
+(screensaver). 
+2
+tasto di navigazione 
+menu taskboard. 
+3
+tasto per cambio 
+modalità di 
+funzionamento. 
+4 
+tasto di navigazione 
+menu dashboard. 
+5
+tasto di navigazione 
+menu principale. 
+fig.7
+fig.8
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 6.
+5.2.2
+Struttura schermata principale 
+La schermata principale è composta da tre sezioni (Fig.7): Nella schermata principale sono 
+presenti i tasti di navigazione con i quali si raggiungono diversi gruppi di pagine, queste 
+verranno descritte nei successivi paragrafi.
+5.2.2.1
+Screensaver - Grafico stato macchina 
+Quando si preme il tasto A (fig.8) viene visualizzato il grafico dello stato attuale della macchina. 
+La seguente pagina appare anche come screensaver dopo un tempo di inattività
+I seguenti campi permettono di:
+1 
+Visualizzare lo stato attuale della 
+macchina. 
+2 
+Visualizzare la velocità della 
+macchina. 
+3 
+Visualizzare il contatore del lotto/ 
+sublotto: 
+- Percentuale di capsule buone. 
+- Percentuale di capsule scartate. 
+- Tempo rimanente. 
+1
+Tasto di navigazione 
+Grafico stato 
+macchina 
+(Screensaver). 
+2
+Tasto di navigazione 
+Menu Taskboard. 
+3
+Tasto per cambio 
+Modalità di 
+funzionamento. 
+4 
+Tasto di navigazione 
+Menu Dashboard. 
+5
+Tasto di navigazione 
+Menu principale. 
+Fig.7
+Fig.8
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.2
+menu dashboard – schermata di produzione
+premendo sul menu dashboard (fig.7-2) compare la pagina che permette di 
+visualizzare la schermata di produzione della macchina (fig.9).
+nei seguenti campi è possibile:
+1. visualizzare l’alimentazione.
+2. visualizzare il rullo.
+3. visualizzare la bilancia.
+5.2.2.2.1
+alimentazione capsule (fig.9- punto 1)
+nella sezione alimentazione (fig.10) sono presenti i seguenti elementi: 
+1. velocità alimentazione: in questo campo 
+viene visualizzata la velocità di alimentazione 
+delle capsule, questa può essere modificata 
+direttamente in questo campo
+2. controllo livello capsule: attraverso questo 
+tasto è possibile attivare o disattivare il 
+sensore che controlla il livello di capsule 
+presenti nella tramoggia. durante la fase 
+finale del lotto questo va disabilitato per 
+consentire lo svuotamento della macchina.
+3. alimentazione capsule: questo tasto consente di attivare o disattivare 
+l’alimentazione delle capsule all’interno delle celle della precisa. 
+4.
+livello della tramoggia: in questa sezione si visualizza il livello della 
+tramoggia, può assumere varie colorazioni:
+5. celle: in questo campo è il numero di celle disabilitate
+fig.9
+fig.10
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 7.
+5.2.2.2
+Menu Dashboard – Schermata di produzione
+Premendo sul Menu Dashboard (Fig.7-2) compare la pagina che permette di 
+visualizzare la schermata di produzione della macchina (Fig.9).
+Nei seguenti campi è possibile:
+1. Visualizzare l’Alimentazione.
+2. Visualizzare il Rullo.
+3. Visualizzare la Bilancia.
+5.2.2.2.1
+Alimentazione capsule (Fig.9- punto 1)
+Nella sezione alimentazione (Fig.10) sono presenti i seguenti elementi: 
+1. Velocità alimentazione: in questo campo 
+viene visualizzata la velocità di alimentazione 
+delle capsule, questa può essere modificata 
+direttamente in questo campo
+2. Controllo livello capsule: attraverso questo 
+tasto è possibile attivare o disattivare il 
+sensore che controlla il livello di capsule 
+presenti nella tramoggia. Durante la fase 
+finale del lotto questo va disabilitato per 
+consentire lo svuotamento della macchina.
+3. Alimentazione capsule: questo tasto consente di attivare o disattivare 
+l’alimentazione delle capsule all’interno delle celle della Precisa. 
+4.
+Livello della tramoggia: in questa sezione si visualizza il livello della 
+tramoggia, può assumere varie colorazioni:
+5. Celle: in questo campo è il numero di celle disabilitate
+Fig.9
+Fig.10
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+cliccando la freccia in basso a destra (fig.10) si apre una schermata secondaria 
+(fig.11):
+in questa schermata è possibile disabilitare i canali di alimentazione delle capsule/ 
+celle (6) cliccando questo tasto 
+corrispondente al canale/cella che si desidera
+disabilitare. 
+nella sezione 7 (fig.11) vengono visualizzati i parametri della macchina impostati.
+5.2.2.2.2
+rullo (fig.9- punto 2)
+nella sezione rullo (fig.12) sono presenti i seguenti elementi:
+1. campo di visualizzazione della 
+velocità attuale del rullo
+2.
+campo per modificare la velocità del 
+rullo
+3. tasto per attivare / disattivare la 
+frizione del rullo. questo deve essere 
+attivato durante la produzione.
+canale/cella abilitata
+canale/cella disabilitata
+fig.11
+fig.12
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 8.
+Cliccando la freccia in basso a destra (Fig.10) si apre una schermata secondaria 
+(Fig.11):
+in questa schermata è possibile disabilitare i canali di alimentazione delle capsule/ 
+celle (6) cliccando questo tasto 
+corrispondente al canale/cella che si desidera
+disabilitare. 
+Nella sezione 7 (Fig.11) vengono visualizzati i parametri della macchina impostati.
+5.2.2.2.2
+Rullo (Fig.9- punto 2)
+Nella sezione rullo (Fig.12) sono presenti i seguenti elementi:
+1. Campo di visualizzazione della 
+velocità attuale del rullo
+2.
+Campo per modificare la velocità del 
+rullo
+3. Tasto per Attivare / disattivare la 
+frizione del rullo. Questo deve essere 
+attivato durante la produzione.
+Canale/cella abilitata
+Canale/cella disabilitata
+Fig.11
+Fig.12
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.2.3
+bilancia (fig.9 – punto 3)
+nella sezione bilancia è possibile visualizzare il grafico -statistiche pesi. premendo il 
+campo a (fig.13) si accede ad una pagina secondaria (fig.14) che permette di andare 
+a visualizzare tre diversi tipi di grafici relativi ai pesi campionati. in questa schermata 
+premendo il campo riquadrato è possibile selezionare uno dei tre diversi tipi di grafici:
+
+spread
+
+istogramma
+
+tabella pesi resettabili
+5.2.2.3
+menu taskboard – apertura lotto
+cliccando taskboard (fig.15- a) nella maschera inferiore si apre la schermata mostrata in 
+figura 15, premere il campo “apri lotto” (1) e compare la pagina con l’elenco delle ricette 
+inserite (fig.16).
+per aprire un nuovo lotto:
+-
+selezionare una ricetta (1- fig.16)
+-
+premere il tasto “prossimo” (2 -fig.16).
+fig.13
+fig.14
+fig.15
+fig.16
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 9.
+5.2.2.2.3
+Bilancia (Fig.9 – punto 3)
+Nella sezione bilancia è possibile visualizzare il grafico -statistiche pesi. Premendo il 
+campo A (fig.13) si accede ad una pagina secondaria (fig.14) che permette di andare 
+a visualizzare tre diversi tipi di grafici relativi ai pesi campionati. in questa schermata 
+premendo il campo riquadrato è possibile selezionare uno dei tre diversi tipi di grafici:
+
+Spread
+
+Istogramma
+
+Tabella pesi resettabili
+5.2.2.3
+Menu Taskboard – Apertura lotto
+Cliccando Taskboard (Fig.15- A) nella maschera inferiore si apre la schermata mostrata in 
+figura 15, premere il campo “apri lotto” (1) e compare la pagina con l’elenco delle ricette 
+inserite (fig.16).
+Per aprire un nuovo lotto:
+-
+Selezionare una ricetta (1- Fig.16)
+-
+Premere il tasto “prossimo” (2 -Fig.16).
+Fig.13
+Fig.14
+Fig.15
+Fig.16
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+successivamente si apre la schermata mostrata in figura 17 compilare i seguenti campi 
+come descritto di seguito:
+1. inserire il numero del lotto
+2. inserire il process order
+3. inserire nome del prodotto e il codice
+4. inserire note aggiuntive (opzionale). 
+5. impostazioni di termine produzione, questi valori sono già impostati da ricetta:
+- quantità cps teorica del lotto
+- arresto a fine lotto. 
+- obiettivo sublotto. 
+- arresto a fine sublotto (questa funzione è abilitata così la macchina si ferma al termine 
+di ciascun fustino.
+6. tasto per tornare alla pagina precedente (lista ricette). 
+7. premere il tasto “apertura lotto” e dare conferma tramite firma elettronica 
+(corrispondente alla password personale usata per il login). appare una finestra che 
+comunica l’avvenuta apertura del lotto. premere il tasto “ok” per proseguire.
+dopo aver aperto il lotto eseguire la calibrazione descritta 
+nel paragrafo 5.2.3. al termine della calibrazione eseguire 
+le seguenti operazioni per avviare la lavorazione (fig.18):
+1. attivare il tasto “alimentazione capsule”
+2. attivare il tasto “controllo livello capsule”
+3. attivare la frizione del rullo
+premere quindi il tasto fisico di avvio della macchina.
+fig.17
+fig.18
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 10.
+Successivamente si apre la schermata mostrata in figura 17 compilare i seguenti campi 
+come descritto di seguito:
+1. Inserire il numero del lotto
+2. Inserire il Process Order
+3. Inserire nome del prodotto e il codice
+4. Inserire note aggiuntive (opzionale). 
+5. Impostazioni di termine produzione, questi valori sono già impostati da ricetta:
+- Quantità cps teorica del lotto
+- Arresto a fine lotto. 
+- Obiettivo sublotto. 
+- Arresto a fine sublotto (questa funzione è abilitata così la macchina si ferma al termine 
+di ciascun fustino.
+6. Tasto per tornare alla pagina precedente (lista ricette). 
+7. Premere il tasto “apertura lotto” e dare conferma tramite Firma elettronica 
+(corrispondente alla password personale usata per il login). Appare una finestra che 
+comunica l’avvenuta apertura del lotto. Premere il tasto “ok” per proseguire.
+Dopo aver aperto il lotto eseguire la calibrazione descritta 
+nel paragrafo 5.2.3. Al termine della calibrazione eseguire 
+le seguenti operazioni per avviare la lavorazione (Fig.18):
+1. Attivare il tasto “Alimentazione capsule”
+2. Attivare il tasto “Controllo livello capsule”
+3. Attivare la Frizione del rullo
+Premere quindi il tasto fisico di avvio della macchina.
+Fig.17
+Fig.18
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.4
+chiusura lotto 
+cliccando il campo riquadrato in figura 19 si apre un pop-up, da questo è possibile:
+1. sospendere / riprendere il lotto.
+2. chiudere il lotto.
+3. visualizzare i dettagli sugli scarti
+4. inserire una nota.
+5. visualizzare la ricetta corrente.
+per terminare il lotto cliccare “chiudi lotto” e dare conferma tramite firma elettronica 
+(corrispondente alla password personale usata per il login).
+5.2.2.5
+report
+al termine del lotto, procedere esportando e stampando il report seguendo le istruzioni 
+elencate:
+1. premere nella maschera 
+inferiore il tasto di 
+navigazione menu 
+principale (a)
+2. selezionare “dati storici”
+3. selezionare “lotti”
+fig.19
+a
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 11.
+5.2.2.4
+Chiusura lotto 
+Cliccando il campo riquadrato in figura 19 si apre un POP-UP, da questo è possibile:
+1. Sospendere / riprendere il lotto.
+2. Chiudere il lotto.
+3. Visualizzare i dettagli sugli scarti
+4. Inserire una nota.
+5. Visualizzare la ricetta corrente.
+Per terminare il lotto cliccare “chiudi lotto” e dare conferma tramite firma elettronica 
+(corrispondente alla password personale usata per il login).
+5.2.2.5
+Report
+Al termine del lotto, procedere esportando e stampando il report seguendo le istruzioni 
+elencate:
+1. Premere nella maschera 
+inferiore il tasto di 
+navigazione Menu 
+principale (A)
+2. Selezionare “Dati storici”
+3. Selezionare “lotti”
+Fig.19
+A
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+4. si apre la lista dei lotti, 
+cliccare sul lotto di cui si 
+desidera stampare il report 
+5. si apre il pop-up mostrato, 
+selezionare stampa
+6. successivamente 
+selezionare “esporta” e 
+“conferma”, si apre il pop-
+up opzioni esportazione, 
+premere nuovamente 
+conferma
+7. cliccare nuovamente 
+stampa e selezionare 
+“anteprima report” e 
+conferma
+8. appare un elenco delle parti 
+di cui è composto il report: 
+selezionare “si” per i campi 
+che si desidera stampare
+9. cliccare “stampa” e “invia 
+alla stampante”
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 12.
+4. Si apre la lista dei lotti, 
+cliccare sul lotto di cui si 
+desidera stampare il report 
+5. Si apre il POP-UP mostrato, 
+selezionare stampa
+6. Successivamente 
+selezionare “Esporta” e 
+“Conferma”, si apre il pop-
+up opzioni esportazione, 
+premere nuovamente 
+conferma
+7. Cliccare nuovamente 
+stampa e selezionare 
+“Anteprima report” e 
+conferma
+8. Appare un elenco delle parti 
+di cui è composto il report: 
+selezionare “SI” per i campi 
+che si desidera stampare
+9. Cliccare “Stampa” e “invia 
+alla stampante”
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.6
+allarmi
+nella parte superiore di ogni pagina dell’interfaccia è presente la barra colorata (fig. 20-a) che 
+permette la visualizzazione della segnalazione prioritaria tra quelle attive (viene visualizzato il 
+numero di identificazione e il testo della segnalazione). 
+a seconda della tipologia della segnalazione lo sfondo della barra assume un diverso colore:
+
+messaggio di allarmerosso
+
+messaggio di anomalia arancione
+
+messaggio di avvisogiallo
+
+messaggio di indicazioneverde
+cliccando la barra colorata si accede alla pagina elenco allarmi dove sono elencate tutte le 
+segnalazioni attive (fig.21)
+per il ripristino della macchina alle normali condizioni di lavoro è necessario effettuare 
+un’operazione di reset sulla/e segnalazione/i attive, che può essere effettuata solo dopo 
+avere eliminato le cause che lo hanno determinato.
+procedura di reset:
+
+reset segnalazione (singola):
+premere il tasto 1 (fig-21), da qualsiasi pagina dell’interfaccia operatore, se attivo, 
+per il reset della singola segnalazione prioritaria.
+
+reset segnalazioni (multiple):
+accedere alla pagina segnalazioni attive (fig.20)
+premere il tasto “resetta tutto” (fig.21-2) per il reset di tutti le segnalazioni resettabili.
+nota: per resettare alcuni allarmi è prima necessario premere prima il tasto “reset” fisico.
+fig.20
+fig.21
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 13.
+5.2.2.6
+Allarmi
+Nella parte superiore di ogni pagina dell’Interfaccia è presente la barra colorata (Fig. 20-A) che 
+permette la visualizzazione della segnalazione prioritaria tra quelle attive (viene visualizzato il 
+numero di identificazione e il testo della segnalazione). 
+A seconda della tipologia della segnalazione lo sfondo della barra assume un diverso colore:
+
+Messaggio di ALLARMERosso
+
+Messaggio di ANOMALIA Arancione
+
+Messaggio di AVVISOGiallo
+
+Messaggio di INDICAZIONEVerde
+Cliccando la barra colorata si accede alla pagina elenco allarmi dove sono elencate tutte le 
+segnalazioni attive (Fig.21)
+Per il ripristino della macchina alle normali condizioni di lavoro è necessario effettuare 
+un’operazione di RESET sulla/e segnalazione/i attive, che può essere effettuata solo dopo 
+avere eliminato le cause che lo hanno determinato.
+Procedura di reset:
+
+Reset segnalazione (singola):
+Premere il tasto 1 (Fig-21), da qualsiasi pagina dell’interfaccia operatore, se attivo, 
+per il RESET della singola segnalazione prioritaria.
+
+Reset segnalazioni (multiple):
+Accedere alla pagina segnalazioni attive (Fig.20)
+Premere il tasto “resetta tutto” (Fig.21-2) per il reset di tutti le segnalazioni resettabili.
+Nota: per resettare alcuni allarmi è prima necessario premere prima il tasto “RESET” fisico.
+Fig.20
+Fig.21
+
+
+================================================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.7
+livelli e gestione utenti
+all’interno del sistema, sono predisposti diversi gruppi di utenti; a ciascun gruppo (escluso il 
+“guest”) appartengono una serie di privilegi, riportati nella tabella sotto. ogni utente 
+registrato possiede nome di identificazione e password che servono per autenticarsi all’interno 
+del sistema.
+quando il sistema si avvia, il livello di default è il “guest” che rappresenta il livello base che 
+ha tutti i diritti disabilitati.
+la precisa 120 è dotata di quattro livelli di utenza:
+utenza
+privilegi
+amministratore
+•
+accesso al sistema operativo windows
+•
+modifica data & ora
+•
+gestione utenti
+manutentore
+•
+comandi manutenzione
+supervisore
+•
+creazione e modifica ricette
+•
+comandi manutenzione
+in aggiunta, tutte i privilegi dell’utenza operatore.
+operatore
+•
+comandi lotto
+•
+reset allarmi
+•
+stampa report
+5.2.2.8
+gestione ricette 
+dal menu taskboard premendo sul campo “gestione ricette” compare la pagina che permette 
+di gestire le ricette di produzione. in questa pagina è possibile visualizzare la lista di tutte ricette 
+e crearne di nuove.
+per creare una nuova ricetta selezionare “nuova” (fig.22) e compilare quando richiesto.
+dopo aver creato la ricetta è necessario approvarla:
+nella lista delle ricette selezionare la ricetta creata e si apre il pop-
+up in figura 23 che mostra graficamente lo schema di flussi di 
+approvazione della ricetta. premere il tasto 1 per approvarla. 
+inoltre, il tasto 2 consente di cancellare la ricetta, il tasto 3 di 
+duplicarla e il tasto 4 di stampare la ricetta.
+fig.22
+fig.23
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 14.
+5.2.2.7
+Livelli e gestione utenti
+All’interno del sistema, sono predisposti diversi gruppi di utenti; a ciascun gruppo (escluso il 
+“GUEST”) appartengono una serie di privilegi, riportati nella tabella sotto. Ogni utente 
+registrato possiede nome di identificazione e password che servono per autenticarsi all’interno 
+del sistema.
+Quando il sistema si avvia, il livello di default è il “GUEST” che rappresenta il livello base che 
+ha tutti i diritti disabilitati.
+La Precisa 120 è dotata di quattro livelli di utenza:
+UTENZA
+PRIVILEGI
+AMMINISTRATORE
+•
+Accesso al sistema operativo windows
+•
+Modifica Data & ora
+•
+Gestione utenti
+MANUTENTORE
+•
+Comandi manutenzione
+SUPERVISORE
+•
+Creazione e modifica ricette
+•
+Comandi manutenzione
+In aggiunta, tutte i privilegi dell’utenza operatore.
+OPERATORE
+•
+Comandi lotto
+•
+Reset allarmi
+•
+Stampa report
+5.2.2.8
+Gestione ricette 
+Dal menu Taskboard premendo sul campo “gestione ricette” compare la pagina che permette 
+di gestire le ricette di produzione. In questa pagina è possibile visualizzare la lista di tutte ricette 
+e crearne di nuove.
+Per creare una nuova ricetta selezionare “Nuova” (Fig.22) e compilare quando richiesto.
+Dopo aver creato la ricetta è necessario approvarla:
+nella lista delle ricette selezionare la ricetta creata e si apre il pop-
+up in figura 23 che mostra graficamente lo schema di flussi di 
+approvazione della ricetta. Premere il tasto 1 per Approvarla. 
+Inoltre, il tasto 2 consente di cancellare la ricetta, il tasto 3 di 
+duplicarla e il tasto 4 di stampare la ricetta.
+Fig.22
+Fig.23
+
+
+================================================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.2.3
+calibrazione del dispositivo controllo capsule “precisa 120 - pa1036”
+la calibrazione del dispositivo controllo capsule “precisa 120 - pa1036” deve essere effettuata 
+con un peso campione certificato da 1,000 g prima dell’avvio della lavorazione di un nuovo 
+lotto di prodotto. 
+nota: la calibrazione deve essere eseguita dopo aver aperto il lotto seguendo le istruzioni 
+descritte nel paragrafo 5.2.2.3.
+di seguito sono descritte le operazioni da eseguire per effettuare la calibrazione delle celle 
+della precisa 120 – pa1036:
+1. selezionare la modalità manutenzione dalla maschera inferiore di qualsiasi 
+schermata: cliccare il tasto a e selezione il tasto 2 (fig.24), la modalità manutenzione 
+è attiva quando il tasto è di colore verde.
+2. selezionare dal menù taskboard (fig.25-a) il campo “manutenzione” (fig.25 –
+1), così appara la pagina dedicata alla calibrazione delle celle (fig.26)
+3. prima di iniziare il test premere il tasto 2 (fig.26) per eseguire la tara ed assicurarsi 
+che tutte le celle leggano il peso di 0 mg.
+fig.24
+fig.25
+fig.26
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 15.
+5.2.3
+Calibrazione del dispositivo controllo capsule “Precisa 120 - PA1036”
+La calibrazione del dispositivo controllo capsule “Precisa 120 - PA1036” deve essere effettuata 
+con un peso campione certificato da 1,000 g prima dell’avvio della lavorazione di un nuovo 
+lotto di prodotto. 
+Nota: La calibrazione deve essere eseguita dopo aver aperto il lotto seguendo le istruzioni 
+descritte nel paragrafo 5.2.2.3.
+Di seguito sono descritte le operazioni da eseguire per effettuare la calibrazione delle celle 
+della PRECISA 120 – PA1036:
+1. Selezionare la modalità MANUTENZIONE dalla maschera inferiore di qualsiasi 
+schermata: Cliccare il tasto A e selezione il Tasto 2 (Fig.24), la modalità manutenzione 
+è attiva quando il tasto è di colore verde.
+2. Selezionare dal menù TASKBOARD (Fig.25-A) il campo “MANUTENZIONE” (Fig.25 –
+1), così appara la pagina dedicata alla calibrazione delle celle (Fig.26)
+3. Prima di iniziare il test premere il tasto 2 (Fig.26) per eseguire la tara ed assicurarsi 
+che tutte le celle leggano il peso di 0 mg.
+Fig.24
+Fig.25
+Fig.26
+
+
+================================================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+4. successivamente inserire il numero della cella che si desidera calibrare nel campo 1 
+(fig.27), il peso target è già impostato ed è pari a 1000mg (fig.27-2).
+attivare quindi il pulsante start (fig.27-3) e il tasto “tara” (fig.27-4)
+5. posizionare il peso da 1000mg sulla cella da calibrare e attivare il tasto “calibrazione” 
+(fig.27-4).
+6. se la calibrazione della cella da esito conferme appare il messaggio “riuscita” nel 
+campo “codice errore” (fig.28)
+7. inserire il numero della cella successiva nel campo “cella” e ripetere le operazioni di 
+calibrazioni descritte nei punti 4 e 5
+8. dopo aver effettuato la calibrazione di tutte 12 le celle cliccare il tasto “termina”. in 
+automatico la macchina stampa il report della calibrazione appena eseguita. 
+nel caso in cui la calibrazione risulti “fallita” per una o più celle avvisare il supervisore.
+fig.27
+fig.28
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 16.
+4. Successivamente inserire il numero della cella che si desidera calibrare nel campo 1 
+(Fig.27), il peso target è già impostato ed è pari a 1000mg (Fig.27-2).
+Attivare quindi il pulsante Start (Fig.27-3) e il tasto “Tara” (Fig.27-4)
+5. Posizionare il peso da 1000mg sulla cella da calibrare e attivare il tasto “calibrazione” 
+(Fig.27-4).
+6. Se la calibrazione della cella da esito conferme appare il messaggio “Riuscita” nel 
+campo “Codice errore” (Fig.28)
+7. Inserire il numero della cella successiva nel campo “Cella” e ripetere le operazioni di 
+calibrazioni descritte nei punti 4 e 5
+8. Dopo aver effettuato la calibrazione di tutte 12 le celle cliccare il tasto “Termina”. In 
+automatico la macchina stampa il report della calibrazione appena eseguita. 
+Nel caso in cui la calibrazione risulti “fallita” per una o più celle avvisare il Supervisore.
+Fig.27
+Fig.28
+
+
+================================================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.3
+pulizia del dispositivo controllo capsule “precisa 120- pa”
+5.3.1
+norme generali
+
+non pulire il dispositivo mentre è in movimento.
+
+indossare gli opportuni dispositivi di protezione individuale; durante le operazioni di 
+rimontaggio dell’attrezzatura pulita è necessario indossare guanti monouso, 
+preventivamente sanitizzati con i prodotti opportunamente predisposti in reparto. 
+
+tutte le precauzioni adottate durante la lavorazione devono essere mantenute anche 
+durante la pulizia.
+
+durante le operazioni di pulizia, deve essere accuratamente evitato il contatto delle 
+parti elettriche dell’attrezzatura con l’acqua.
+
+nel corso delle operazioni di pulizia è necessario l’utilizzo preliminare di acqua di rete 
+e di acqua deionizzata per il risciacquo finale. le operazioni di pulizia devono 
+riguardare ogni punto del dispositivo e, dove necessario e previsto l'operatore deve 
+procedere a smontare la macchina per pulire le zone meno accessibili.
+
+l’operatore deve mantenere fisicamente separati i pezzi smontati sporchi da quelli 
+puliti.
+
+asportare tramite l’ausilio di un aspiratore tutti i residui di prodotto presenti 
+sull’attrezzatura prima, durante ed eventualmente dopo lo smontaggio di tutti i pezzi 
+che la compongono.
+
+qualora si utilizzi il panno carta usa e getta per la pulizia o per il risciacquo, è 
+necessario cambiare il panno ogni volta che si cambia superficie e ad ogni passata.
+
+ogni volta che viene indicato un tempo per la pulizia o il risciacquo di un componente, 
+questo deve essere inteso come tempo minimo da prolungare fino alla rimozione dei 
+residui visibili di prodotto e detergente.
+
+ogni volta che delle attrezzature o delle parti dell’attrezzatura devono essere 
+trasportate in sala lavaggio, sarà necessario isolarle. per fare ciò, utilizzare sacchi in 
+polietilene, in tyvec o altro materiale equivalente, in grado di contenere la potenziale 
+dispersione di prodotto in corridoio (rif. proc 002667); utilizzare gli stessi materiali 
+anche per contenere e proteggere i componenti lasciati nelle sale asciugatura.
+
+nel caso di pulizia a secco è sufficiente l’utilizzo di un aspiratore. le operazioni di 
+pulizia a secco devono riguardare soltanto i punti dell’apparecchiatura e dei relativi 
+pezzi descritti nel paragrafo 5.4.
+
+per la pulizia del rivestimento esterno, dei pannelli e dei comandi, utilizzare panno 
+carta asciutto o leggermente imbevuto di acqua.
+
+per la gestione di eventuali eventi/deviazioni, fare riferimento alle procedure proc-
+006774/proc-006775.
+5.3.2
+frequenza di applicazione operazioni di pulizia 
+le operazioni di pulizia e la compilazione della documentazione relativa devono essere 
+eseguite riprendendo i concetti espressi nella presente sop e nelle procedure proc-002773 
+e proc-002744.
+per quanto riguarda i casi in cui è possibile eseguire una pulizia a secco del dispositivo 
+controllo capsule “precisa 120” per tutte le referenze del prodotto a base di tramadolo 50 mg 
+(processo per miscelazione diretta) capsule, fare riferimento al documento supportivo sup-
+001610. 
+in presenza di campagne di lavorazione, al raggiungimento del tempo massimo di lavorazione 
+di lotti consecutivi e/o al raggiungimento del numero massimo di lotti consecutivi lavorati, prima 
+di procedere a nuove lavorazioni, l’impianto deve essere pulito seguendo le modalità descritte
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 17.
+5.3
+Pulizia del dispositivo controllo capsule “Precisa 120- PA”
+5.3.1
+Norme generali
+
+Non pulire il dispositivo mentre è in movimento.
+
+Indossare gli opportuni dispositivi di protezione individuale; durante le operazioni di 
+rimontaggio dell’attrezzatura pulita è necessario indossare guanti monouso, 
+preventivamente sanitizzati con i prodotti opportunamente predisposti in Reparto. 
+
+Tutte le precauzioni adottate durante la lavorazione devono essere mantenute anche 
+durante la pulizia.
+
+Durante le operazioni di pulizia, deve essere accuratamente evitato il contatto delle 
+parti elettriche dell’attrezzatura con l’acqua.
+
+Nel corso delle operazioni di pulizia è necessario l’utilizzo preliminare di acqua di rete 
+e di acqua deionizzata per il risciacquo finale. Le operazioni di pulizia devono 
+riguardare ogni punto del dispositivo e, dove necessario e previsto l'operatore deve 
+procedere a smontare la macchina per pulire le zone meno accessibili.
+
+L’Operatore deve mantenere fisicamente separati i pezzi smontati sporchi da quelli 
+puliti.
+
+Asportare tramite l’ausilio di un aspiratore tutti i residui di prodotto presenti 
+sull’attrezzatura prima, durante ed eventualmente dopo lo smontaggio di tutti i pezzi 
+che la compongono.
+
+Qualora si utilizzi il panno carta usa e getta per la pulizia o per il risciacquo, è 
+necessario cambiare il panno ogni volta che si cambia superficie e ad ogni passata.
+
+Ogni volta che viene indicato un tempo per la pulizia o il risciacquo di un componente, 
+questo deve essere inteso come tempo minimo da prolungare fino alla rimozione dei 
+residui visibili di prodotto e detergente.
+
+Ogni volta che delle attrezzature o delle parti dell’attrezzatura devono essere 
+trasportate in sala lavaggio, sarà necessario isolarle. Per fare ciò, utilizzare sacchi in 
+polietilene, in tyvec o altro materiale equivalente, in grado di contenere la potenziale 
+dispersione di prodotto in corridoio (rif. PROC 002667); utilizzare gli stessi materiali 
+anche per contenere e proteggere i componenti lasciati nelle sale asciugatura.
+
+Nel caso di pulizia a secco è sufficiente l’utilizzo di un aspiratore. Le operazioni di 
+pulizia a secco devono riguardare soltanto i punti dell’apparecchiatura e dei relativi 
+pezzi descritti nel paragrafo 5.4.
+
+Per la pulizia del rivestimento esterno, dei pannelli e dei comandi, utilizzare panno 
+carta asciutto o leggermente imbevuto di acqua.
+
+Per la gestione di eventuali eventi/deviazioni, fare riferimento alle procedure PROC-
+006774/PROC-006775.
+5.3.2
+Frequenza di applicazione operazioni di pulizia 
+Le operazioni di pulizia e la compilazione della documentazione relativa devono essere 
+eseguite riprendendo i concetti espressi nella presente SOP e nelle procedure PROC-002773 
+e PROC-002744.
+Per quanto riguarda i casi in cui è possibile eseguire una pulizia a secco del dispositivo 
+controllo capsule “Precisa 120” per tutte le referenze del prodotto a base di Tramadolo 50 mg 
+(processo per miscelazione diretta) capsule, fare riferimento al documento supportivo SUP-
+001610. 
+In presenza di campagne di lavorazione, al raggiungimento del tempo massimo di lavorazione 
+di lotti consecutivi e/o al raggiungimento del numero massimo di lotti consecutivi lavorati, prima 
+di procedere a nuove lavorazioni, l’impianto deve essere pulito seguendo le modalità descritte
+
+
+================================================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 18', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+per un cambio dosaggio/prodotto all’interno della proc-002773, indipendentemente dal 
+prodotto successivo in lavorazione.
+il tempo massimo entro il quale è consentito procedere alla lavorazione di lotti consecutivi per 
+tutte le referenze del prodotto a base di tramadolo 50 mg capsule, sia per i processi di 
+miscelazione diretta sia per granulazione ad umido, sull’impianto oggetto della presente 
+procedura, ed oltre il quale è necessario effettuare la pulizia per scadenza periodica, è fissato 
+in 45 giorni, calcolati a partire dal giorno successivo l’inizio della campagna a seguito 
+dell’ultima pulizia. 
+per ogni altro eventuale prodotto differente lavorato su questo impianto, resta valida la 
+scadenza fissata in 21 giorni, calcolati a partire dal giorno successivo l’inizio della campagna 
+a seguito dell’ultima pulizia.
+per quanto riguarda il numero massimo di lotti consecutivi per ciascuna referenza lavorabili 
+nel corso della medesima campagna fare riferimento al documento supportivo sup-002048.
+5.3.3
+pulizia della tramoggia di alimentazione
+per effettuare la pulizia della tramoggia di alimentazione (fig.29), procedere come di seguito 
+descritto; si raccomanda di non utilizzare acqua ad alta pressione o aria ad alta pressione.
+
+svuotare la tramoggia di alimentazione
+
+rimuovere la vasca in plexiglass trasparente di raccolta capsule
+
+sollevare il sensore livello capsule
+
+rimuovere la vasca raccolta polvere
+
+rimuovere il tubo di collegamento del caricatore capsule (tubo di raccordo)
+
+sganciare pomelli fissaggio tramoggia
+
+sfilare il sensore di livello minimo capsule ed eliminare i residui di prodotto con 
+l’aspiratore
+
+detergere tutte le parti smontate con panno imbevuto di acqua e detergente ad 
+eccezione del tubo di raccordo (rif. paragrafo 5.3.4) 
+
+risciacquare con panno imbevuto di acqua deionizzata ed asciugare
+
+accertarsi che tutte le parti sopra descritte siano asciutte
+
+verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o corpi 
+estranei su tutte le parti lavate; in caso contrario passare su tutta la superficie un panno 
+carta imbevuto di alcool.
+fig.29
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 18.
+per un cambio dosaggio/prodotto all’interno della PROC-002773, indipendentemente dal 
+prodotto successivo in lavorazione.
+Il tempo massimo entro il quale è consentito procedere alla lavorazione di lotti consecutivi per 
+tutte le referenze del prodotto a base di Tramadolo 50 mg capsule, sia per i processi di 
+miscelazione diretta sia per granulazione ad umido, sull’impianto oggetto della presente 
+procedura, ed oltre il quale è necessario effettuare la pulizia per scadenza periodica, è fissato 
+in 45 giorni, calcolati a partire dal giorno successivo l’inizio della campagna a seguito 
+dell’ultima pulizia. 
+Per ogni altro eventuale prodotto differente lavorato su questo impianto, resta valida la 
+scadenza fissata in 21 giorni, calcolati a partire dal giorno successivo l’inizio della campagna 
+a seguito dell’ultima pulizia.
+Per quanto riguarda il numero massimo di lotti consecutivi per ciascuna referenza lavorabili 
+nel corso della medesima campagna fare riferimento al documento supportivo SUP-002048.
+5.3.3
+Pulizia della tramoggia di alimentazione
+Per effettuare la pulizia della tramoggia di alimentazione (Fig.29), procedere come di seguito 
+descritto; si raccomanda di non utilizzare acqua ad alta pressione o aria ad alta pressione.
+
+Svuotare la tramoggia di alimentazione
+
+Rimuovere la vasca in plexiglass trasparente di raccolta capsule
+
+Sollevare il sensore livello capsule
+
+Rimuovere la vasca raccolta polvere
+
+Rimuovere il tubo di collegamento del caricatore capsule (tubo di raccordo)
+
+Sganciare pomelli fissaggio tramoggia
+
+Sfilare il sensore di livello minimo capsule ed eliminare i residui di prodotto con 
+l’aspiratore
+
+Detergere tutte le parti smontate con panno imbevuto di acqua e detergente ad 
+eccezione del tubo di raccordo (rif. paragrafo 5.3.4) 
+
+Risciacquare con panno imbevuto di acqua deionizzata ed asciugare
+
+Accertarsi che tutte le parti sopra descritte siano asciutte
+
+Verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o corpi 
+estranei su tutte le parti lavate; in caso contrario passare su tutta la superficie un panno 
+carta imbevuto di alcool.
+Fig.29
+
+
+================================================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 19', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.3.4
+pulizia tubo di raccordo
+per effettuare la pulizia del tubo di raccordo (tubo di collegamento del caricatore capsule) 
+rappresentato in figura 30-2 procedere come di seguito descritto:
+
+trasportare il tubo di raccordo in sala lavaggio coperto adeguatamente (rif. proc-
+002667). 
+
+lavare il componente con soluzione detergente per almeno 2 minuti servendosi della 
+lancia ad alta pressione. utilizzare all’occorrenza un panno di carta inumidito di 
+detergente per eliminare eventuali residui di difficile rimozione.
+
+risciacquare il componente con acqua di rete per almeno 2 minuti.
+
+risciacquare il componente con acqua deionizzata per almeno 2 minuti.
+
+dopo asciugatura verificare visivamente che non siano presenti tracce visibili o aloni di 
+prodotto e/o corpi estranei su tutte le parti lavate; in caso contrario passare su tutta la 
+superficie un panno carta imbevuto di alcool.
+5.3.5
+pulizia gruppo trattamento capsule
+per effettuare la pulizia del gruppo trattamento capsule, procedere come di seguito 
+descritto
+
+per accedere al gruppo trattamento capsule, è necessario rimuovere la barra 
+antistatica superiore: sfilare il connettore di alimentazione e rimuoverlo allentando 
+i 2 pomelli neri di fissaggio.
+
+procedere, quindi, alla rimozione delle singole parti del gruppo alimentazione 
+capsule. 
+
+nell’ordine, scollegare lo spinotto del blocco disintasamento pneumatico capsule e 
+svitare i 2 pomelli cromati laterali, togliere il carter di protezione, quindi svitare le 5 
+viti di bloccaggio esagonali presenti e, infine, rimuovere il gruppo molle (fig. 31).
+
+premere quindi il pulsante esclusione frizione per oltre 4 secondi (assicurarsi che 
+la relativa spia rimanga accesa in modo stabile) e smontare il rullo trasporto capsule 
+(fig.32) allentando l'apposito pomello.
+nel rimuovere il rullo osservare particolare attenzione a non danneggiare i 
+dentini trasporto capsule: ricercare con cautela la posizione corretta prima di 
+procedere all’ estrazione.
+
+rimuovere quindi la piastra di alimentazione capsule (parte esterna), allentando la 
+relativa vite esagonale
+
+scollegare il gruppo fibre ottiche.
+
+rimuovere il pettine protezione flap svitando le 3 viti a brugola presenti.
+
+rimuovere lo scivolo di convogliamento capsule scarto ed il relativo cassetto di 
+raccolta.
+
+rimuovere lo scivolo di uscita capsule buone.
+fig.30
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 19.
+5.3.4
+Pulizia tubo di raccordo
+Per effettuare la pulizia del tubo di raccordo (tubo di collegamento del caricatore capsule) 
+rappresentato in figura 30-2 procedere come di seguito descritto:
+
+Trasportare il tubo di raccordo in sala lavaggio coperto adeguatamente (rif. PROC-
+002667). 
+
+Lavare il componente con soluzione detergente per almeno 2 minuti servendosi della 
+lancia ad alta pressione. Utilizzare all’occorrenza un panno di carta inumidito di 
+detergente per eliminare eventuali residui di difficile rimozione.
+
+Risciacquare il componente con acqua di rete per almeno 2 minuti.
+
+Risciacquare il componente con acqua deionizzata per almeno 2 minuti.
+
+Dopo asciugatura verificare visivamente che non siano presenti tracce visibili o aloni di 
+prodotto e/o corpi estranei su tutte le parti lavate; in caso contrario passare su tutta la 
+superficie un panno carta imbevuto di alcool.
+5.3.5
+Pulizia gruppo trattamento capsule
+Per effettuare la pulizia del gruppo trattamento capsule, procedere come di seguito 
+descritto
+
+Per accedere al gruppo trattamento capsule, è necessario rimuovere la barra 
+antistatica superiore: sfilare il connettore di alimentazione e rimuoverlo allentando 
+i 2 pomelli neri di fissaggio.
+
+Procedere, quindi, alla rimozione delle singole parti del gruppo alimentazione 
+capsule. 
+
+Nell’ordine, scollegare lo spinotto del blocco disintasamento pneumatico capsule e 
+svitare i 2 pomelli cromati laterali, togliere il carter di protezione, quindi svitare le 5 
+viti di bloccaggio esagonali presenti e, infine, rimuovere il gruppo molle (fig. 31).
+
+Premere quindi il pulsante esclusione frizione per oltre 4 secondi (assicurarsi che 
+la relativa spia rimanga accesa in modo stabile) e smontare il rullo trasporto capsule 
+(Fig.32) allentando l'apposito pomello.
+Nel rimuovere il rullo osservare particolare attenzione a non danneggiare i 
+dentini trasporto capsule: ricercare con cautela la posizione corretta prima di 
+procedere all’ estrazione.
+
+Rimuovere quindi la piastra di alimentazione capsule (parte esterna), allentando la 
+relativa vite esagonale
+
+Scollegare il gruppo fibre ottiche.
+
+Rimuovere il pettine protezione flap svitando le 3 viti a brugola presenti.
+
+Rimuovere lo scivolo di convogliamento capsule scarto ed il relativo cassetto di 
+raccolta.
+
+Rimuovere lo scivolo di uscita capsule buone.
+Fig.30
+
+
+================================================================================
+
+=== CHUNK 19 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 20', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+
+ispezionare ed aspirare accuratamente tutti gli anfratti in modo da individuare ed 
+eliminare le capsule eventualmente presenti.
+
+procedere quindi alla pulizia di tutte le parti macchina e delle parti smontate 
+utilizzando panno carta imbevuto di detergente.
+
+ripetere le operazioni con un panno carta bagnato di acqua deionizzata ed 
+asciugare
+
+accertarsi che tutte le parti sopra descritte siano asciutte.
+
+verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o 
+corpi estranei su tutte le parti lavate; in caso contrario passare su tutta la superficie 
+un panno carta imbevuto di alcool.
+non rimuovere assolutamente le testine del gruppo di pesatura.
+5.3.6
+termine delle operazioni di pulizia
+verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o corpi 
+estranei su tutte le parti lavate. utilizzare un panno carta bagnato di alcol per eliminare 
+eventuali residui, o aloni, particolarmente difficili da asportare.
+eventuali anomalie devono essere comunicate immediatamente al supervisore di reparto.
+coprire i contenitori contenenti i singoli pezzi con fogli di plastica ed applicare l’etichetta 
+"pulito“, debitamente compilata.
+verificare la corretta compilazione della checklist (sup-002028 – checklist: pulizia “precisa 
+120”) con relativa trascrizione dei dati richiesti. 
+registrare le operazioni effettuate sul quaderno macchina, come previsto dalla proc-
+002744. 
+richiedere la verifica dell’avvenuta pulizia da parte del supervisore.
+solo a seguito della verifica dell’attrezzatura da parte del supervisore e la firma dei relativi 
+documenti è possibile riassemblare tutti i pezzi smontati.
+al termine di queste operazioni richiedere al supervisore l’autorizzazione all’avvio della 
+lavorazione.
+fig.31
+fig.32
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 20.
+
+Ispezionare ed aspirare accuratamente tutti gli anfratti in modo da individuare ed 
+eliminare le capsule eventualmente presenti.
+
+Procedere quindi alla pulizia di tutte le parti macchina e delle parti smontate 
+utilizzando panno carta imbevuto di detergente.
+
+Ripetere le operazioni con un panno carta bagnato di acqua deionizzata ed 
+asciugare
+
+Accertarsi che tutte le parti sopra descritte siano asciutte.
+
+Verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o 
+corpi estranei su tutte le parti lavate; in caso contrario passare su tutta la superficie 
+un panno carta imbevuto di alcool.
+Non rimuovere assolutamente le testine del gruppo di pesatura.
+5.3.6
+Termine delle operazioni di pulizia
+Verificare visivamente che non siano presenti tracce visibili o aloni di prodotto e/o corpi 
+estranei su tutte le parti lavate. Utilizzare un panno carta bagnato di alcol per eliminare 
+eventuali residui, o aloni, particolarmente difficili da asportare.
+Eventuali anomalie devono essere comunicate immediatamente al Supervisore di Reparto.
+Coprire i contenitori contenenti i singoli pezzi con fogli di plastica ed applicare l’etichetta 
+"PULITO“, debitamente compilata.
+Verificare la corretta compilazione della checklist (SUP-002028 – Checklist: pulizia “Precisa 
+120”) con relativa trascrizione dei dati richiesti. 
+Registrare le operazioni effettuate sul Quaderno Macchina, come previsto dalla PROC-
+002744. 
+Richiedere la verifica dell’avvenuta pulizia da parte del Supervisore.
+Solo a seguito della verifica dell’attrezzatura da parte del Supervisore e la firma dei relativi 
+documenti è possibile riassemblare tutti i pezzi smontati.
+Al termine di queste operazioni richiedere al Supervisore l’autorizzazione all’avvio della 
+lavorazione.
+Fig.31
+Fig.32
+
+
+================================================================================
+
+=== CHUNK 20 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 21', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.3.7
+modalità di compilazione della scheda di pulizia
+modalità di compilazione della scheda di pulizia: 
+
+sup-002028 - checklist: pulizia “precisa 120”
+a completamento delle operazioni di pulizia, è necessario compilare la scheda di pulizia con 
+le seguenti modalità:
+-
+ultima lavorazione eseguita / lotto: indicare le informazioni riguardanti il prodotto ed il 
+lotto relativi all’ultima lavorazione eseguita.
+-
+parte impianto ed esecuzione della pulizia: per ciascuna parte della attrezzatura 
+riportare la data e la sigla dell’operatore che ha effettuato la pulizia.
+-
+pulizia eseguita a secco: flaggare se la pulizia è stata eseguita a secco (per i casi 
+previsti da sup-001600). 
+-
+sigla e data da parte del supervisore: che verifica la corretta pulizia di ciascuna parte 
+dell’impianto al completamento delle operazioni di pulizia.
+-
+esecuzione pulizia per scadenza 14 giorni con attrezzatura pulita, quando applicabile, 
+se non applicabile, scegliere “na”.
+-
+sigla e data da parte del supervisore che verifica la corretta pulizia di ciascuna parte 
+dell’impianto a completamento delle operazioni di pulizia (dopo scadenza attrezzatura 
+pulita), se non applicabile, scegliere “na”.
+5.4
+modalità di pulizia a secco
+per quanto riguarda i casi in cui è possibile eseguire una pulizia a secco del dispositivo 
+controllo capsule “precisa 120” per tutte le referenze del prodotto a base di tramadolo 50 mg 
+capsule (processo per miscelazione diretta), fare riferimento al documento supportivo sup-
+001600. 
+per eseguire la pulizia a secco, procedere all’aspirazione della tramoggia contenente le 
+capsule piene utilizzando un apposito aspiratore. verificare inoltre che all’interno del gruppo 
+di trattamento capsule non ve ne siano presenti. eventualmente, procedere come indicato al 
+paragrafo 5.3.5 per la loro rimozione.
+al termine delle attività, verificare visivamente l’assenza di capsule all’interno dell’attrezzatura 
+appena pulita. 
+verificare la corretta compilazione della checklist (sup-002028 - checklist: pulizia precisa 
+120), per le sole parti dell’impianto pulite con pulizia a secco, e trascrivere i dati richiesti sulla 
+scheda di pulizia. riportare nel campo note l’esecuzione di una pulizia a secco.
+richiedere la verifica dell’avvenuta pulizia da parte del supervisore.
+solo a seguito della verifica dell’attrezzatura da parte del supervisore e la firma dei relativi 
+documenti è possibile procedere all’avvio della nuova lavorazione.
+5.5
+calibrazione e verifica funzionalità del sistema di scarto
+con frequenza annuale è necessario eseguire la verifica della funzionalità del sistema di scarto 
+dell’attrezzatura dispositivo controllo capsule “precisa 120”. tale verifica è da eseguirsi a 
+seguito della calibrazione della macchina, per questo fare riferimento al paragrafo 5.2 della 
+presente procedura. invece, per la modalità di verifica della funzionalità del sistema di scarto 
+dell’attrezzatura fare riferimento a quanto riportato nel documento sup-008574, quindi 
+compilare tale documento in ogni sua parte. 
+il documento sup-008574 viene poi archiviato nell’ufficio del reparto di fabbricazione.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 21.
+5.3.7
+Modalità di compilazione della scheda di pulizia
+Modalità di compilazione della scheda di pulizia: 
+
+SUP-002028 - Checklist: pulizia “Precisa 120”
+A completamento delle operazioni di pulizia, è necessario compilare la scheda di pulizia con 
+le seguenti modalità:
+-
+Ultima lavorazione eseguita / lotto: indicare le informazioni riguardanti il prodotto ed il 
+lotto relativi all’ultima lavorazione eseguita.
+-
+Parte impianto ed esecuzione della pulizia: per ciascuna parte della attrezzatura 
+riportare la data e la sigla dell’Operatore che ha effettuato la pulizia.
+-
+Pulizia eseguita a secco: flaggare se la pulizia è stata eseguita a secco (per i casi 
+previsti da SUP-001600). 
+-
+Sigla e data da parte del Supervisore: che verifica la corretta pulizia di ciascuna parte 
+dell’impianto al completamento delle operazioni di pulizia.
+-
+Esecuzione pulizia per scadenza 14 giorni con attrezzatura pulita, quando applicabile, 
+se non applicabile, scegliere “NA”.
+-
+Sigla e data da parte del Supervisore che verifica la corretta pulizia di ciascuna parte 
+dell’impianto a completamento delle operazioni di pulizia (dopo scadenza attrezzatura 
+pulita), se non applicabile, scegliere “NA”.
+5.4
+Modalità di pulizia a secco
+Per quanto riguarda i casi in cui è possibile eseguire una pulizia a secco del dispositivo 
+controllo capsule “Precisa 120” per tutte le referenze del prodotto a base di Tramadolo 50 mg 
+capsule (processo per miscelazione diretta), fare riferimento al documento supportivo SUP-
+001600. 
+Per eseguire la pulizia a secco, procedere all’aspirazione della tramoggia contenente le 
+capsule piene utilizzando un apposito aspiratore. Verificare inoltre che all’interno del gruppo 
+di trattamento capsule non ve ne siano presenti. Eventualmente, procedere come indicato al 
+paragrafo 5.3.5 per la loro rimozione.
+Al termine delle attività, verificare visivamente l’assenza di capsule all’interno dell’attrezzatura 
+appena pulita. 
+Verificare la corretta compilazione della checklist (SUP-002028 - Checklist: pulizia Precisa 
+120), per le sole parti dell’impianto pulite con pulizia a secco, e trascrivere i dati richiesti sulla 
+scheda di pulizia. Riportare nel campo note l’esecuzione di una pulizia a secco.
+Richiedere la verifica dell’avvenuta pulizia da parte del Supervisore.
+Solo a seguito della verifica dell’attrezzatura da parte del Supervisore e la firma dei relativi 
+documenti è possibile procedere all’avvio della nuova lavorazione.
+5.5
+Calibrazione e verifica funzionalità del sistema di scarto
+Con frequenza annuale è necessario eseguire la verifica della funzionalità del sistema di scarto 
+dell’attrezzatura dispositivo controllo capsule “Precisa 120”. Tale verifica è da eseguirsi a 
+seguito della calibrazione della macchina, per questo fare riferimento al paragrafo 5.2 della 
+presente procedura. Invece, per la modalità di verifica della funzionalità del sistema di scarto 
+dell’attrezzatura fare riferimento a quanto riportato nel documento SUP-008574, quindi 
+compilare tale documento in ogni sua parte. 
+Il documento SUP-008574 viene poi archiviato nell’ufficio del reparto di fabbricazione.
+
+
+================================================================================
+
+=== CHUNK 21 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf', 'page_label': 'Page 22', 'sop_title': 'PROC-008129 PROCEDURA DI UTILIZZO, CALIBRAZIONE E PULIZIA DEL', 'document_number': 'PROC-008129', 'version_number': '01', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+6
+riferimenti
+proc-002667
+modalità di accesso ai locali di lavoro del reparto fabbricazione tramite le 
+bussole dedicate al personale e ai materiali
+proc-002744
+quaderno macchina
+proc-002773   
+norme generali per le procedure di pulizia degli impianti e dei locali di 
+produzione
+proc-006774
+gestione degli eventi
+proc-006775 
+gestione delle deviazioni
+sup-001600
+scheda riassuntiva delle necessità di pulizia delle macchine opercolatrici in 
+caso di cambio codice semilavorato all’interno della linea tramal 50 mg 
+capsule
+sup-002048
+periodo massimo consentito di lavorazione di lotti in campagna prima di 
+procedere alle operazioni di pulizia
+sup-002028
+checklist: pulizia precisa 120
+sup-008574
+calibrazione e verifica funzionalità sistema di scarto precisa 120
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021716.pdf, Page 22.
+6
+RIFERIMENTI
+PROC-002667
+Modalità di accesso ai locali di lavoro del reparto fabbricazione tramite le 
+bussole dedicate al personale e ai materiali
+PROC-002744
+Quaderno macchina
+PROC-002773   
+Norme generali per le procedure di pulizia degli impianti e dei locali di 
+produzione
+PROC-006774
+Gestione degli eventi
+PROC-006775 
+Gestione delle deviazioni
+SUP-001600
+Scheda riassuntiva delle necessità di pulizia delle macchine opercolatrici in 
+caso di cambio codice semilavorato all’interno della linea Tramal 50 mg 
+capsule
+SUP-002048
+Periodo massimo consentito di lavorazione di lotti in campagna prima di 
+procedere alle operazioni di pulizia
+SUP-002028
+Checklist: pulizia Precisa 120
+SUP-008574
+Calibrazione e verifica funzionalità sistema di scarto Precisa 120
+7
+
+
+================================================================================
+

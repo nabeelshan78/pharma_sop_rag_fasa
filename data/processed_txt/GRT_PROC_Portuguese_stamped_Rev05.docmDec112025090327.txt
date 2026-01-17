@@ -1,0 +1,3221 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 2', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+1
+objetivo
+o objetivo deste documento é descrever a abordagem da grünenthal com relação ao 
+comissionamento e à qualificação (c&q) de equipamentos (esse termo abrange 
+instalações, utilidades, equipamentos de processo e instrumentos analíticos) de 
+acordo com o plano mestre de validação global.
+o equipamento que tem um potencial impacto na qualidade do produto, na segurança 
+do paciente e/ou na integridade dos dados deve ser devidamente comissionado e/ou 
+qualificado para estabelecer a adequação ao uso pretendido. este documento define 
+os requisitos gerais para que qualquer um desses itens seja qualificado.
+2
+alcance
+este documento se aplica a todos os locais de fabrico e funcionários da grünenthal 
+que estão envolvidos nas atividades de comissionamento e qualificação.
+a estrutura dos procedimentos de c&q é mostrada na figura 1.
+figura 1. estrutura dos procedimentos de c&q
+                     
+3
+responsabilidade
+as responsabilidades das funções listadas neste documento são as seguintes; 
+algumas funções/cargos podem ser conjuntos, dependendo da complexidade das 
+atividades do projeto:
+função
+responsabilidade
+“process owner”
+esse é o proprietário do processo ou dos processos de 
+negócios aos quais o equipamento dá suporte.
+o “process owner” é o principal responsável por garantir que 
+o equipamento e sua operação estejam em conformidade e 
+sejam adequados ao uso pretendido, de acordo com os 
+procedimentos aplicáveis.
+garantir a revisão e a aprovação dos protocolos e do 
+relatório de qualificação
+solicitador de 
+aquisição
+responsável por negociar a aquisição do novo equipamento 
+e ter contato direto com o fornecedor selecionado e 
+qualificado.
+commissioning and qualification (c&q) of 
+equipment
+equipment risk assessment
+(proc-003530/tmat-002332)
+periodic review 
+(sup-006909)
+templates
+(sup-011503)
+training material
+(tmat-002224)
+padrão de engenharia de 
+projeto (pes)
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 2.
+1
+Objetivo
+O objetivo deste documento é descrever a abordagem da Grünenthal com relação ao 
+comissionamento e à qualificação (C&Q) de equipamentos (esse termo abrange 
+instalações, utilidades, equipamentos de processo e instrumentos analíticos) de 
+acordo com o Plano Mestre de Validação Global.
+O equipamento que tem um potencial impacto na qualidade do produto, na segurança 
+do paciente e/ou na integridade dos dados deve ser devidamente comissionado e/ou 
+qualificado para estabelecer a adequação ao uso pretendido. Este documento define 
+os requisitos gerais para que qualquer um desses itens seja qualificado.
+2
+Alcance
+Este documento se aplica a todos os locais de fabrico e funcionários da Grünenthal 
+que estão envolvidos nas atividades de comissionamento e qualificação.
+A estrutura dos procedimentos de C&Q é mostrada na figura 1.
+Figura 1. Estrutura dos procedimentos de C&Q
+                     
+3
+Responsabilidade
+As responsabilidades das funções listadas neste documento são as seguintes; 
+algumas funções/cargos podem ser conjuntos, dependendo da complexidade das 
+atividades do projeto:
+Função
+Responsabilidade
+“Process Owner”
+Esse é o proprietário do processo ou dos processos de 
+negócios aos quais o equipamento dá suporte.
+O “Process Owner” é o principal responsável por garantir que 
+o equipamento e sua operação estejam em conformidade e 
+sejam adequados ao uso pretendido, de acordo com os 
+Procedimentos aplicáveis.
+Garantir a revisão e a aprovação dos protocolos e do 
+relatório de qualificação
+Solicitador de 
+aquisição
+Responsável por negociar a aquisição do novo equipamento 
+e ter contato direto com o fornecedor selecionado e 
+qualificado.
+Commissioning and Qualification (C&Q) of 
+Equipment
+Equipment Risk Assessment
+(PROC-003530/TMAT-002332)
+Periodic Review 
+(SUP-006909)
+Templates
+(SUP-011503)
+Training Material
+(TMAT-002224)
+Padrão de engenharia de 
+projeto (PES)
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 3', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+função
+responsabilidade
+engenheiro do 
+projecto
+representar o departamento de engenharia ou o 
+proprietário do sistema para garantir que as atividades de 
+comissionamento e os requisitos técnicos do equipamento 
+sejam adequados para o processo suportado.
+gerente de 
+projectos
+representar o proprietário do processo para garantir que 
+todas as atividades relacionadas à implementação do novo 
+equipamento sejam realizadas de acordo com o plano de 
+projeto definido e seguindo este procedimento.
+qualificação 
+(técnico 
+especialista)
+responsável técnico pela preparação e execução da 
+qualificação do equipamento.
+unidade de 
+qualidade
+garantir que os produtos entregues atendam às expectativas 
+de qualidade. 
+a qualidade tem um papel fundamental a desempenhar no 
+planejamento e gerenciamento bem-sucedidos e da 
+conformidade e adequação do sistema ao uso pretendido.
+implementar o processo em nível local, garantindo a 
+conformidade com o sistema de gestão da qualidade e as 
+regulamentações locais aplicáveis.
+especialista (sme)
+os smes têm conhecimento suficiente dos processos e 
+sistemas 
+para 
+garantir 
+que 
+os 
+sistemas 
+sejam 
+adequadamente projetados, testados e operem conforme o 
+projeto. 
+o sme pode ser um líder técnico de engenharia, 
+automação, validação, pesquisa e desenvolvimento, 
+segurança ou fabricação.
+proprietário do 
+sistema (so)
+o so é o responsável técnico pelo equipamento, incluindo 
+disponibilidade, suporte, testes de comissionamento e 
+manutenção, além da segurança dos dados no equipamento, 
+conforme aplicável.
+garantir a revisão e a aprovação dos protocolos e do 
+relatório de qualificação
+responsabilidades
+conjuntas
+
+o proprietário do sistema e o proprietário do processo 
+têm as responsabilidades compartilhadas, ou exercidas 
+em conjunto, relacionadas às atividades de qualificação de 
+instalações, utilidades, equipamentos (de processo ou 
+analíticos). 
+as atividades específicas podem incluir:
+o
+fornecimento de recursos adequados (pessoal, 
+incluindo sme, e financeiros) para apoiar o 
+desenvolvimento e a operação do equipamento.
+o
+garantir que os procedimentos necessários para a
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 3.
+Função
+Responsabilidade
+Engenheiro do 
+Projecto
+Representar o Departamento de Engenharia ou o 
+proprietário do sistema para garantir que as atividades de 
+comissionamento e os requisitos técnicos do equipamento 
+sejam adequados para o processo suportado.
+Gerente de 
+Projectos
+Representar o proprietário do processo para garantir que 
+todas as atividades relacionadas à implementação do novo 
+equipamento sejam realizadas de acordo com o plano de 
+projeto definido e seguindo este procedimento.
+Qualificação 
+(técnico 
+especialista)
+Responsável técnico pela preparação e execução da 
+qualificação do equipamento.
+Unidade de 
+Qualidade
+Garantir que os produtos entregues atendam às expectativas 
+de qualidade. 
+A qualidade tem um papel fundamental a desempenhar no 
+planejamento e gerenciamento bem-sucedidos e da 
+conformidade e adequação do sistema ao uso pretendido.
+Implementar o processo em nível local, garantindo a 
+conformidade com o Sistema de Gestão da Qualidade e as 
+regulamentações locais aplicáveis.
+Especialista (SME)
+Os SMEs têm conhecimento suficiente dos processos e 
+sistemas 
+para 
+garantir 
+que 
+os 
+sistemas 
+sejam 
+adequadamente projetados, testados e operem conforme o 
+projeto. 
+O SME pode ser um líder técnico de engenharia, 
+automação, validação, pesquisa e desenvolvimento, 
+segurança ou fabricação.
+Proprietário do 
+sistema (SO)
+O SO é o responsável técnico pelo equipamento, incluindo 
+disponibilidade, suporte, testes de comissionamento e 
+manutenção, além da segurança dos dados no equipamento, 
+conforme aplicável.
+Garantir a revisão e a aprovação dos protocolos e do 
+relatório de qualificação
+Responsabilidades
+conjuntas
+
+O Proprietário do Sistema e o Proprietário do Processo 
+têm as responsabilidades compartilhadas, ou exercidas 
+em conjunto, relacionadas às atividades de qualificação de 
+instalações, utilidades, equipamentos (de processo ou 
+analíticos). 
+As atividades específicas podem incluir:
+o
+Fornecimento de recursos adequados (pessoal, 
+incluindo SME, e financeiros) para apoiar o 
+desenvolvimento e a operação do equipamento.
+o
+Garantir que os procedimentos necessários para a
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 4', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+função
+responsabilidade
+operação e manutenção do equipamento sejam 
+seguidos e revisados periodicamente.
+
+todos os envolvidos devem ser capazes de identificar 
+possíveis 
+lacunas 
+para 
+definir 
+melhor 
+as 
+novas 
+necessidades de qualificação e validação.
+o envolvimento de outros departamentos (por exemplo, 
+departamentos de desenvolvimento como parte de uma 
+equipe de qualificação/validação) deve ser definido 
+individualmente.
+4
+termos e definições
+termos
+definições
+comissionamento
+uma abordagem de engenharia bem planejada, 
+documentada e gerenciada para a inicialização e a 
+rotatividade de instalações, sistemas, utilidades e 
+equipamentos para o usuário final que resulta em um 
+ambiente seguro e funcional que atende aos requisitos 
+de projeto estabelecidos e às expectativas das partes 
+interessadas.
+sistema 
+computadorizado
+consiste em componentes de hardware e software, 
+juntamente com a função ou o processo controlado 
+(incluindo procedimentos, pessoas, equipamentos e 
+documentação associada).
+pode haver sistemas de computador (sistema de 
+aplicativos e sistema de infraestrutura); equipamentos 
+(com ou sem software incorporado) e aplicativos para 
+usuários finais (planilhas, pequenos bancos de dados, 
+aplicativos estatísticos)
+aspectos críticos 
+(cas)
+funções, recursos, habilidades e desempenho ou 
+características necessárias para que o processo de 
+fabricação e os sistemas garantam a qualidade 
+consistente do produto e a segurança do paciente. 
+(astm e2500-13)
+elementos 
+críticos de projeto 
+(cdes)
+funções ou recursos de projeto de um sistema de 
+engenharia 
+que 
+são 
+necessários 
+para 
+fabricar 
+consistentemente produtos com os atributos de qualidade 
+desejados.
+exemplos de funções de design de automação incluem 
+alarmes e gerenciamento de dados.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 4.
+Função
+Responsabilidade
+operação e manutenção do equipamento sejam 
+seguidos e revisados periodicamente.
+
+Todos os envolvidos devem ser capazes de identificar 
+possíveis 
+lacunas 
+para 
+definir 
+melhor 
+as 
+novas 
+necessidades de qualificação e validação.
+O envolvimento de outros departamentos (por exemplo, 
+departamentos de desenvolvimento como parte de uma 
+equipe de qualificação/validação) deve ser definido 
+individualmente.
+4
+Termos e Definições
+Termos
+Definições
+Comissionamento
+Uma abordagem de engenharia bem planejada, 
+documentada e gerenciada para a inicialização e a 
+rotatividade de instalações, sistemas, utilidades e 
+equipamentos para o usuário final que resulta em um 
+ambiente seguro e funcional que atende aos requisitos 
+de projeto estabelecidos e às expectativas das partes 
+interessadas.
+Sistema 
+computadorizado
+Consiste em componentes de hardware e software, 
+juntamente com a função ou o processo controlado 
+(incluindo procedimentos, pessoas, equipamentos e 
+documentação associada).
+Pode haver sistemas de computador (sistema de 
+aplicativos e sistema de infraestrutura); equipamentos 
+(com ou sem software incorporado) e aplicativos para 
+usuários finais (planilhas, pequenos bancos de dados, 
+aplicativos estatísticos)
+Aspectos críticos 
+(CAs)
+Funções, recursos, habilidades e desempenho ou 
+características necessárias para que o processo de 
+fabricação e os sistemas garantam a qualidade 
+consistente do produto e a segurança do paciente. 
+(ASTM E2500-13)
+Elementos 
+críticos de projeto 
+(CDEs)
+Funções ou recursos de projeto de um sistema de 
+engenharia 
+que 
+são 
+necessários 
+para 
+fabricar 
+consistentemente produtos com os atributos de qualidade 
+desejados.
+Exemplos de funções de design de automação incluem 
+alarmes e gerenciamento de dados.
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 5', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+termos
+definições
+exemplos de recursos de projeto de engenharia incluem 
+componentes, instrumentos e materiais de construção. 
+os cdes são identificados e documentados com base no 
+entendimento técnico dos cqas do produto, dos cpps 
+do processo e do projeto/automação do equipamento. os 
+cdes são verificados por meio de c&q.
+parâmetro crítico 
+do processo 
+(cpp)
+um parâmetro de processo cuja variabilidade tem 
+impacto sobre um atributo crítico de qualidade e, 
+portanto, deve ser monitorado ou controlado para 
+garantir que o processo produza a qualidade desejada. 
+ich q8
+atributo crítico de 
+qualidade (cqa)
+uma propriedade ou característica física, química, 
+biológica ou microbiológica que deve estar dentro de um 
+limite, faixa ou distribuição adequados para garantir a 
+qualidade desejada do produto. os cqas geralmente 
+estão associados à substância medicamentosa, aos 
+excipientes, aos intermediários (materiais em processo) e 
+ao produto medicamentoso. ich q8
+desvio
+desvio de uma instrução aprovada, requisito ou padrão 
+estabelecido.
+discrepância
+dado ou resultado fora do intervalo definido/ esperado/ 
+critérios de aceitação no protocolo de teste ou no plano de 
+validação/qualificação. a discrepância pode ser classificada 
+e gerenciada como um desvio no caso de um possível 
+impacto no processo atual e/ou no status operacional atual 
+do sistema.
+equipamentos
+refere-se a várias máquinas, dispositivos e ferramentas 
+usados na fabricação, no processamento e no controle de 
+qualidade de produtos farmacêuticos. elas podem operar 
+com software incorporado ou apenas mecanicamente. 
+podem ser, mas não se limitam a:
+
+equipamentos 
+de 
+fabricação: 
+misturadores 
+e 
+liquidificadores, 
+reatores, 
+destilaria, 
+máquina 
+de 
+prensagem de comprimidos, secadores, máquinas de 
+enchimento 
+e 
+embalagem, 
+homogeneizadores, 
+máquinas de revestimento, máquinas de enchimento de 
+cápsulas, balança
+
+equipamentos de laboratório e de controle em 
+processo:
+hplc, centrífugas, phmetros, balança, 
+espectrofotômetro, termômetro, viscosímetro, aparelho 
+de dissolução
+
+utilidades: hvac, sistema de ar comprimido, sistema
+pw, wfi, ps
+
+instalações: acabamento civil, piso.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 5.
+Termos
+Definições
+Exemplos de recursos de projeto de engenharia incluem 
+componentes, instrumentos e materiais de construção. 
+Os CDEs são identificados e documentados com base no 
+entendimento técnico dos CQAs do produto, dos CPPs 
+do processo e do projeto/automação do equipamento. Os 
+CDEs são verificados por meio de C&Q.
+Parâmetro crítico 
+do processo 
+(CPP)
+Um parâmetro de processo cuja variabilidade tem 
+impacto sobre um atributo crítico de qualidade e, 
+portanto, deve ser monitorado ou controlado para 
+garantir que o processo produza a qualidade desejada. 
+ICH Q8
+Atributo crítico de 
+qualidade (CQA)
+Uma propriedade ou característica física, química, 
+biológica ou microbiológica que deve estar dentro de um 
+limite, faixa ou distribuição adequados para garantir a 
+qualidade desejada do produto. Os CQAs geralmente 
+estão associados à substância medicamentosa, aos 
+excipientes, aos intermediários (materiais em processo) e 
+ao produto medicamentoso. ICH Q8
+Desvio
+Desvio de uma instrução aprovada, requisito ou padrão 
+estabelecido.
+Discrepância
+Dado ou resultado fora do intervalo definido/ esperado/ 
+critérios de aceitação no protocolo de teste ou no plano de 
+validação/qualificação. A discrepância pode ser classificada 
+e gerenciada como um Desvio no caso de um possível 
+impacto no processo atual e/ou no status operacional atual 
+do sistema.
+Equipamentos
+Refere-se a várias máquinas, dispositivos e ferramentas 
+usados na fabricação, no processamento e no controle de 
+qualidade de produtos farmacêuticos. Elas podem operar 
+com software incorporado ou apenas mecanicamente. 
+Podem ser, mas não se limitam a:
+
+Equipamentos 
+de 
+fabricação: 
+misturadores 
+e 
+liquidificadores, 
+reatores, 
+destilaria, 
+máquina 
+de 
+prensagem de comprimidos, secadores, máquinas de 
+enchimento 
+e 
+embalagem, 
+homogeneizadores, 
+máquinas de revestimento, máquinas de enchimento de 
+cápsulas, balança
+
+Equipamentos de laboratório e de controle em 
+processo:
+HPLC, centrífugas, pHmetros, balança, 
+espectrofotômetro, termômetro, viscosímetro, aparelho 
+de dissolução
+
+Utilidades: HVAC, sistema de ar comprimido, sistema
+PW, WFI, PS
+
+Instalações: Acabamento civil, piso.
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 6', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+termos
+definições
+classificação de 
+equipamentos
+consulte sup-011591
+teste de aceitação 
+de fábrica [fat]
+inspeção e testes estáticos e/ou dinâmicos de sistemas de 
+manufatura (ou dos principais componentes do sistema) 
+realizados para aprovar os sistemas para entrega e para 
+apoiar a qualificação dos sistemas. os fats são 
+conduzidos e documentados no local do fornecedor e são 
+aprovados pela equipe do fornecedor em colaboração com 
+o(s) representante(s) do proprietário.
+boas práticas de 
+engenharia (gep)
+métodos e padrões de engenharia estabelecidos que são 
+aplicados em todo o ciclo de vida de um projeto para 
+fornecer soluções econômicas adequadas.
+qualificação de 
+instalação (iq)
+um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme instalados ou modificados, 
+estão em conformidade com o projeto aprovado e com as 
+recomendações do fabricante.
+verificação de 
+instalação (iv)
+a atividade de analisar, inspecionar, testar, verificar, 
+auditar ou, de outra forma, estabelecer e documentar se 
+itens, processos, serviços ou documentos estão em 
+conformidade com os requisitos especificados.
+sistema de 
+legado
+o termo usado para descrever sistemas previamente 
+qualificados usando metodologias diferentes das 
+apresentadas neste procedimento.
+off-the-shelf 
+(também 
+conhecido como 
+catálogo)
+equipamento que está disponível em uma configuração 
+padrão sem personalização.
+limites 
+operacionais
+os valores operacionais mínimos e/ou máximos definidos 
+para um sistema que garantirão que os requisitos de 
+segurança e do produto sejam atendidos.
+qualificação 
+operacional (oq)
+um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme instalados ou modificados, 
+funcionam conforme o previsto em todas as faixas 
+operacionais previstas.
+verificação 
+operacional (ov)
+a atividade de revisar, testar, verificar ou de outra forma 
+estabelecer e documentar que um sistema opera de 
+acordo com as especificações escritas e pré-aprovadas 
+em todas as faixas operacionais especificadas.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 6.
+Termos
+Definições
+Classificação de 
+equipamentos
+Consulte SUP-011591
+Teste de aceitação 
+de fábrica [FAT]
+Inspeção e testes estáticos e/ou dinâmicos de sistemas de 
+manufatura (ou dos principais componentes do sistema) 
+realizados para aprovar os sistemas para entrega e para 
+apoiar a qualificação dos sistemas. Os FATs são 
+conduzidos e documentados no local do fornecedor e são 
+aprovados pela equipe do fornecedor em colaboração com 
+o(s) representante(s) do proprietário.
+Boas práticas de 
+engenharia (GEP)
+Métodos e padrões de engenharia estabelecidos que são 
+aplicados em todo o ciclo de vida de um projeto para 
+fornecer soluções econômicas adequadas.
+Qualificação de 
+instalação (IQ)
+Um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme instalados ou modificados, 
+estão em conformidade com o projeto aprovado e com as 
+recomendações do fabricante.
+Verificação de 
+instalação (IV)
+A atividade de analisar, inspecionar, testar, verificar, 
+auditar ou, de outra forma, estabelecer e documentar se 
+itens, processos, serviços ou documentos estão em 
+conformidade com os requisitos especificados.
+Sistema de 
+legado
+O termo usado para descrever sistemas previamente 
+qualificados usando metodologias diferentes das 
+apresentadas neste procedimento.
+Off-the-Shelf 
+(também 
+conhecido como 
+catálogo)
+Equipamento que está disponível em uma configuração 
+padrão sem personalização.
+Limites 
+operacionais
+Os valores operacionais mínimos e/ou máximos definidos 
+para um sistema que garantirão que os requisitos de 
+segurança e do produto sejam atendidos.
+Qualificação 
+operacional (OQ)
+Um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme instalados ou modificados, 
+funcionam conforme o previsto em todas as faixas 
+operacionais previstas.
+Verificação 
+operacional (OV)
+A atividade de revisar, testar, verificar ou de outra forma 
+estabelecer e documentar que um sistema opera de 
+acordo com as especificações escritas e pré-aprovadas 
+em todas as faixas operacionais especificadas.
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 7', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+termos
+definições
+qualificação de 
+desempenho 
+(pq)
+um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme conectados, podem funcionar 
+de forma eficaz e reprodutível, com base no método de 
+processo aprovado e na especificação do produto.
+teste de 
+desempenho
+o processo pelo qual o desempenho de sistemas 
+interdependentes é demonstrado como estando dentro 
+das tolerâncias exigidas, a saída de sistemas 
+interdependentes é demonstrada como fornecendo o 
+dever ou a capacidade exigida e as funções 
+interdependentes dos sistemas são demonstradas como 
+especificadas e apropriadas.
+protocolo
+o documento define os sistemas, atributos e parâmetros 
+críticos e os critérios de aceitação associados.
+gerenciamento de 
+risco de qualidade 
+[qrm]
+o qrm é essencial para um sistema de qualidade 
+farmacêutico eficaz. ele pode fornecer uma abordagem 
+proativa para identificar, avaliar cientificamente e controlar os 
+possíveis riscos à qualidade. ele facilita a melhoria contínua 
+do desempenho do processo e da qualidade do produto 
+durante todo o ciclo de vida do produto.
+o objetivo do qrm é evitar, minimizar ou eliminar riscos 
+que possam comprometer a segurança, a eficácia ou a 
+qualidade do produto.
+teste de aceitação 
+do local [sat]
+inspeção e testes estáticos e/ou dinâmicos dos sistemas de 
+fabricação (ou dos principais componentes do sistema) 
+realizados para apoiar a qualificação de um sistema. os 
+sats são conduzidos, documentados e aprovados no local 
+de fabricação pela equipe do proprietário em colaboração 
+com o(s) representante(s) do fornecedor.
+5
+processo
+um requisito básico de gmp, os aspectos críticos das operações devem ser 
+controlados por meio de atividades de qualificação e validação durante o ciclo de 
+vida do produto e do processo.
+uma abordagem integrada com comissionamento e qualificação (c&q) deve ser 
+usada para tornar o processo de qualificação eficiente e econômico. essa 
+abordagem inclui um gerenciamento de risco de qualidade baseado na 
+identificação dos aspectos críticos (cas) e/ou elementos críticos de projeto (cdes). 
+uma visão geral da abordagem integrada de c&q é mostrada na figura 2.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 7.
+Termos
+Definições
+Qualificação de 
+desempenho 
+(PQ)
+Um processo documentado que verifica se as 
+instalações, os sistemas, as utilidades e os 
+equipamentos, conforme conectados, podem funcionar 
+de forma eficaz e reprodutível, com base no método de 
+processo aprovado e na especificação do produto.
+Teste de 
+desempenho
+O processo pelo qual o desempenho de sistemas 
+interdependentes é demonstrado como estando dentro 
+das tolerâncias exigidas, a saída de sistemas 
+interdependentes é demonstrada como fornecendo o 
+dever ou a capacidade exigida e as funções 
+interdependentes dos sistemas são demonstradas como 
+especificadas e apropriadas.
+Protocolo
+O documento define os sistemas, atributos e parâmetros 
+críticos e os critérios de aceitação associados.
+Gerenciamento de 
+risco de qualidade 
+[QRM]
+O QRM é essencial para um sistema de qualidade 
+farmacêutico eficaz. Ele pode fornecer uma abordagem 
+proativa para identificar, avaliar cientificamente e controlar os 
+possíveis riscos à qualidade. Ele facilita a melhoria contínua 
+do desempenho do processo e da qualidade do produto 
+durante todo o ciclo de vida do produto.
+O objetivo do QRM é evitar, minimizar ou eliminar riscos 
+que possam comprometer a segurança, a eficácia ou a 
+qualidade do produto.
+Teste de aceitação 
+do local [SAT]
+Inspeção e testes estáticos e/ou dinâmicos dos sistemas de 
+fabricação (ou dos principais componentes do sistema) 
+realizados para apoiar a qualificação de um sistema. Os 
+SATs são conduzidos, documentados e aprovados no local 
+de fabricação pela equipe do proprietário em colaboração 
+com o(s) representante(s) do fornecedor.
+5
+Processo
+Um requisito básico de GMP, os aspectos críticos das operações devem ser 
+controlados por meio de atividades de qualificação e validação durante o ciclo de 
+vida do produto e do processo.
+Uma abordagem integrada com Comissionamento e Qualificação (C&Q) deve ser 
+usada para tornar o processo de qualificação eficiente e econômico. Essa 
+abordagem inclui um Gerenciamento de Risco de Qualidade baseado na 
+identificação dos Aspectos Críticos (CAs) e/ou Elementos Críticos de Projeto (CDEs). 
+Uma visão geral da abordagem integrada de C&Q é mostrada na figura 2.
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 8', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+figura 2. mapa de processos de c&q baseado em ciência e ris
+mapa do processo de comissionamento e qualificação (c&q)
+entradas para o 
+processo de c&q
+definir requisitos
+projetar/especificar
+criar/verificar
+aceitar e liberar
+melhoria contínua
+avaliação de risco 
+do produto/
+estratégia de 
+controle (ich q8)
+cqas
+cpps
+requisitos 
+regulatórios, da 
+organização/local, 
+operacionais e de 
+ehs
+urs
+classificação de 
+equipamentos -
+avaliação inicial de 
+riscos (ira)
+avaliação de risco 
+do equipamento 
+(era)
+revisão de projeto 
+(dr)/qualificação 
+de projeto (dq)
+planejamento 
+c&q
+testes e 
+documentação de 
+c&q
+rastreabilidade
+aceitação e 
+liberação
+operação
+revisão periódica
+fonte: guia de linha de base ® ispe: comissionamento e qualificação
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 8.
+Figura 2. Mapa de Processos de C&Q Baseado em Ciência e RIS
+Mapa do processo de comissionamento e qualificação (C&Q)
+Entradas para o 
+processo de C&Q
+Definir requisitos
+Projetar/Especificar
+Criar/Verificar
+Aceitar e liberar
+Melhoria contínua
+Avaliação de risco 
+do produto/
+estratégia de 
+controle (ICH Q8)
+CQAs
+CPPs
+Requisitos 
+regulatórios, da 
+organização/local, 
+operacionais e de 
+EHS
+URS
+Classificação de 
+equipamentos -
+Avaliação inicial de 
+riscos (IRA)
+Avaliação de risco 
+do equipamento 
+(ERA)
+Revisão de projeto 
+(DR)/Qualificação 
+de projeto (DQ)
+Planejamento 
+C&Q
+Testes e 
+documentação de 
+C&Q
+Rastreabilidade
+Aceitação e 
+liberação
+Operação
+Revisão periódica
+Fonte: Guia de Linha de Base ® ISPE: Comissionamento e Qualificação
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 9', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+a abordagem de c&q integrada/alavancada significa que os testes durante o 
+comissionamento (por exemplo, fat, sat etc.), bem como os testes do fornecedor, 
+podem ser usados para dar suporte às atividades operacionais e de instalação para 
+demonstrar a finalidade pretendida do equipamento e, consequentemente, o status da 
+qualificação. 
+quando qualquer documentação é usada para dar suporte às qualificações, a equipe 
+de qualificação (especialista técnico) e a unidade de qualidade devem estar 
+envolvidas no planejamento e na coordenação de todas as atividades e produtos de 
+c&q.
+o aproveitamento dos testes pode ser feito com base nos seguintes fundamentos:
+o
+a natureza do teste é complexa e exige a intervenção do fabricante, vendedor 
+ou fornecedor.
+o
+o teste representa a repetição de esforços semelhantes ou equivalentes.
+o
+o teste pode ser considerado adequado e suficiente para o processo de 
+qualificação com conformidade com os requisitos das especificações de 
+requisitos do usuário (urs) no intervalo ou no tempo, se aplicável.
+o
+a alteração das condições ambientais do local onde o teste é realizado não tem 
+impacto sobre os resultados, que podem, portanto, ser considerados válidos.
+as atividades de comissionamento são normalmente executadas pelo departamento 
+de engenharia e o escopo do processo de comissionamento inclui equipamentos de 
+impacto direto e não direto e se concentra no elemento de projeto de engenharia e 
+automação contido nos limites do equipamento. o comissionamento é um processo a 
+ser realizado após a conclusão mecânica para verificar se o equipamento opera em 
+um ambiente seguro e funcional que atenda aos requisitos do projeto e às expectativas 
+das partes interessadas.
+além disso, o comissionamento, como parte do processo integrado de c&q, é um 
+processo de ciclo de vida gerenciado para garantir que o equipamento seja 
+adequado para a finalidade pretendida. 
+todas as atividades de teste devem ser realizadas por pessoal adequadamente 
+treinado que siga os procedimentos aprovados.
+as entradas para o processo integrado de c&q devem incluir produtos e processos 
+cqas/cpps (estabelecidos por meio de pesquisa e desenvolvimento e/ou do 
+processo de transferência de tecnologia)
+as etapas do processo integrado de c&q são:
+
+especificação de requisitos do usuário
+
+classificação do sistema/equipamento
+
+avaliação de risco do sistema/equipamento
+
+revisão do projeto (dr)/qualificação do projeto
+
+planejamento c&q
+
+testes e documentação de c&q
+
+aceitação e liberação
+
+revisão periódica
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 9.
+A abordagem de C&Q integrada/alavancada significa que os testes durante o 
+comissionamento (por exemplo, FAT, SAT etc.), bem como os testes do fornecedor, 
+podem ser usados para dar suporte às atividades operacionais e de instalação para 
+demonstrar a finalidade pretendida do equipamento e, consequentemente, o status da 
+qualificação. 
+Quando qualquer documentação é usada para dar suporte às qualificações, a Equipe 
+de Qualificação (Especialista Técnico) e a Unidade de Qualidade devem estar 
+envolvidas no planejamento e na coordenação de todas as atividades e produtos de 
+C&Q.
+O aproveitamento dos testes pode ser feito com base nos seguintes fundamentos:
+o
+A natureza do teste é complexa e exige a intervenção do fabricante, vendedor 
+ou fornecedor.
+o
+O teste representa a repetição de esforços semelhantes ou equivalentes.
+o
+O teste pode ser considerado adequado e suficiente para o processo de 
+qualificação com conformidade com os requisitos das Especificações de 
+Requisitos do Usuário (URS) no intervalo ou no tempo, se aplicável.
+o
+A alteração das condições ambientais do local onde o teste é realizado não tem 
+impacto sobre os resultados, que podem, portanto, ser considerados válidos.
+As atividades de comissionamento são normalmente executadas pelo departamento 
+de engenharia e o escopo do processo de comissionamento inclui equipamentos de 
+impacto direto e não direto e se concentra no elemento de projeto de engenharia e 
+automação contido nos limites do equipamento. O comissionamento é um processo a 
+ser realizado após a conclusão mecânica para verificar se o equipamento opera em 
+um ambiente seguro e funcional que atenda aos requisitos do projeto e às expectativas 
+das partes interessadas.
+Além disso, o comissionamento, como parte do processo integrado de C&Q, é um 
+processo de ciclo de vida gerenciado para garantir que o equipamento seja 
+adequado para a finalidade pretendida. 
+Todas as atividades de teste devem ser realizadas por pessoal adequadamente 
+treinado que siga os procedimentos aprovados.
+As entradas para o processo integrado de C&Q devem incluir produtos e processos 
+CQAs/CPPs (estabelecidos por meio de pesquisa e desenvolvimento e/ou do 
+processo de transferência de tecnologia)
+As etapas do processo integrado de C&Q são:
+
+Especificação de requisitos do usuário
+
+Classificação do Sistema/Equipamento
+
+Avaliação de risco do Sistema/Equipamento
+
+Revisão do projeto (DR)/Qualificação do projeto
+
+Planejamento C&Q
+
+Testes e documentação de C&Q
+
+Aceitação e liberação
+
+Revisão periódica
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 10', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+5.1
+definir requisitos
+na fase de definição de requisitos, são esperados os seguintes resultados:
+
+a definição dos requisitos do usuário relacionados à qualidade do produto deve 
+ser atendida com equipamentos adequados para a finalidade pretendida.
+
+a categorização do equipamento (ou seja, impacto direto ou indireto) depende 
+de seu impacto potencial na qualidade do produto. além disso, a classificação 
+está relacionada à complexidade do gerenciamento de dados, que serve de 
+orientação para definir o nível de c&q dos testes.
+
+aplicação do gerenciamento de risco de qualidade (qrm) (consulte proc-
+003530 ) no qual uma avaliação de risco do equipamento de impacto direto é 
+usada para identificar os controles de risco de qualidade do produto e identificar 
+os cas e cdes.
+5.1.1
+especificação de requisitos do usuário (urs)
+a especificação do equipamento deve ser definida em um documento urs e/ou em 
+uma declaração do urs (por exemplo, solicitação de compra, especificação 
+funcional, solicitação de alteração ou folha de dados, etc.). esse documento reúne os 
+requisitos do equipamento de fontes multidisciplinares para dar suporte ao projeto, à c&q, 
+às operações e à manutenção do equipamento.
+o urs representa um documento fundamental que identifica os requisitos de produto e 
+processo para o equipamento, com base no conhecimento do produto (cqa), no 
+conhecimento do processo (cpps), nos requisitos regulatórios e nos requisitos de 
+qualidade da organização/local. 
+outras fontes para a preparação do urs são:
+
+avaliação de risco do equipamento (inclui os cas e os cdes associados)
+
+faixa e precisão para quaisquer parâmetros controlados
+
+requisitos comerciais, de ehs, do proprietário do sistema e do sme
+
+especificações de engenharia e padrões do setor
+
+documento de requisitos do projeto 
+o urs deve ser desenvolvido para cada equipamento que tenha um impacto direto 
+na qualidade do produto, na segurança do paciente e/ou na integridade dos dados 
+(conforme determinado pela execução do ira). o modelo de urs ( sup-006908 ) 
+é obrigatório para todos os equipamentos com classificação iii e iv.
+para equipamentos de classe i e ii; equipamentos padrão de prateleira ou de 
+catálogo simples, uma declaração do urs pode ser usada para verificação durante 
+as atividades de c&q.
+as urs incluem o seguinte, onde o equipamento tem funcionalidades associadas:
+
+requisitos definidos pelo proprietário e operador do sistema/processo
+
+observação de possíveis interfaces com outros sistemas
+
+aplicação planejada da nova unidade, incluindo persistência química e física
+
+definição da documentação necessária
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 10.
+5.1
+Definir requisitos
+Na fase de definição de requisitos, são esperados os seguintes resultados:
+
+A definição dos requisitos do usuário relacionados à qualidade do produto deve 
+ser atendida com equipamentos adequados para a finalidade pretendida.
+
+A categorização do equipamento (ou seja, impacto direto ou indireto) depende 
+de seu impacto potencial na qualidade do produto. Além disso, a classificação 
+está relacionada à complexidade do gerenciamento de dados, que serve de 
+orientação para definir o nível de C&Q dos testes.
+
+Aplicação do Gerenciamento de Risco de Qualidade (QRM) (consulte PROC-
+003530 ) no qual uma avaliação de risco do equipamento de impacto direto é 
+usada para identificar os controles de risco de qualidade do produto e identificar 
+os CAs e CDEs.
+5.1.1
+Especificação de requisitos do usuário (URS)
+A especificação do equipamento deve ser definida em um documento URS e/ou em 
+uma declaração do URS (por exemplo, solicitação de compra, especificação 
+funcional, solicitação de alteração ou folha de dados, etc.). Esse documento reúne os 
+requisitos do equipamento de fontes multidisciplinares para dar suporte ao projeto, à C&Q, 
+às operações e à manutenção do equipamento.
+O URS representa um documento fundamental que identifica os requisitos de produto e 
+processo para o equipamento, com base no conhecimento do produto (CQA), no 
+conhecimento do processo (CPPs), nos requisitos regulatórios e nos requisitos de 
+qualidade da organização/local. 
+Outras fontes para a preparação do URS são:
+
+Avaliação de risco do equipamento (inclui os CAs e os CDEs associados)
+
+Faixa e precisão para quaisquer parâmetros controlados
+
+Requisitos comerciais, de EHS, do proprietário do sistema e do SME
+
+Especificações de engenharia e padrões do setor
+
+Documento de requisitos do projeto 
+O URS deve ser desenvolvido para cada equipamento que tenha um impacto direto 
+na qualidade do produto, na segurança do paciente e/ou na integridade dos dados 
+(conforme determinado pela execução do IRA). O modelo de URS ( SUP-006908 ) 
+é obrigatório para todos os equipamentos com Classificação III e IV.
+Para equipamentos de Classe I e II; equipamentos padrão de prateleira ou de 
+catálogo simples, uma declaração do URS pode ser usada para verificação durante 
+as atividades de C&Q.
+As URS incluem o seguinte, onde o equipamento tem funcionalidades associadas:
+
+Requisitos definidos pelo proprietário e operador do sistema/processo
+
+Observação de possíveis interfaces com outros sistemas
+
+Aplicação planejada da nova unidade, incluindo persistência química e física
+
+Definição da documentação necessária
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 11', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+
+definição de materiais
+
+gmp e verificação de sensibilidade dos sistemas computadorizados
+
+requisitos de integridade de dados
+
+requisitos de armazenamento/exibição de dados
+
+requisitos de alarme, com identificação dos alarmes críticos
+
+requisitos de automação do sistema
+o urs deve ser emitido durante as fases iniciais do projeto e fornece a base para o 
+projeto básico e se torna uma referência usada para estabelecer que o equipamento 
+é adequado para a finalidade pretendida. 
+o urs pode ser atualizado durante o ciclo de vida do equipamento (desde o 
+desenvolvimento até a sustentação das operações) até a desativação do sistema. 
+após a aprovação do urs, as alterações ou adições com potencial de afetar a 
+qualidade do produto são avaliadas em relação à avaliação de riscos do 
+equipamento (era) para confirmar se os riscos são aceitáveis ou para determinar 
+se são necessários controles de riscos adicionais.
+5.1.2
+avaliação inicial de riscos (ira)
+uma avaliação inicial de risco deve ser concluída para cada equipamento a fim de 
+determinar sua capacidade de afetar a qualidade do produto. os equipamentos de 
+impacto direto são comissionados e qualificados, enquanto os equipamentos de 
+impacto indireto são apenas comissionados.
+o proprietário do processo e a qualidade estão envolvidos nesse estágio, além da 
+contribuição de especialistas no assunto.
+os pré-requisitos importantes para essa avaliação são:
+
+uma compreensão clara do processo de negócios
+
+um limite definido em torno do processo de negócios
+
+a função do equipamento no suporte ao processo de negócios
+
+requisitos suficientemente definidos (o desenvolvimento de requisitos pode ser 
+interativo e influenciado pela avaliação de riscos)
+o projeto pode ser dividido em sistemas ou partes de equipamentos/processos para 
+facilitar o gerenciamento da construção, a coleta de documentação, a rotatividade e a 
+c&q. os limites dos equipamentos são definidos e documentados no início do projeto 
+para permitir o desenvolvimento da lista de equipamentos/sistemas e a execução 
+subsequente das avaliações de risco do sistema.
+os limites do sistema são normalmente documentados no diagrama de processo e 
+instrumentação (p&id) ou no diagrama de fluxo de processo (pfd), que pode ser 
+incluído no ira.
+por fim, a condução do ira definirá o seguinte:
+
+categorização das boas práticas de fabricação automatizada (gamp)
+(consulte proc-00 7441 computer software assurance ) para equipamentos 
+com software incorporado
+
+o possível impacto na segurança do paciente, na qualidade do produto e na
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 11.
+
+Definição de materiais
+
+GMP e verificação de sensibilidade dos sistemas computadorizados
+
+Requisitos de integridade de dados
+
+Requisitos de armazenamento/exibição de dados
+
+Requisitos de alarme, com identificação dos alarmes críticos
+
+Requisitos de automação do sistema
+O URS deve ser emitido durante as fases iniciais do projeto e fornece a base para o 
+Projeto Básico e se torna uma referência usada para estabelecer que o equipamento 
+é adequado para a finalidade pretendida. 
+O URS pode ser atualizado durante o ciclo de vida do equipamento (desde o 
+desenvolvimento até a sustentação das operações) até a desativação do sistema. 
+Após a aprovação do URS, as alterações ou adições com potencial de afetar a 
+qualidade do produto são avaliadas em relação à Avaliação de Riscos do 
+Equipamento (ERA) para confirmar se os riscos são aceitáveis ou para determinar 
+se são necessários controles de riscos adicionais.
+5.1.2
+Avaliação inicial de riscos (IRA)
+Uma avaliação inicial de risco deve ser concluída para cada equipamento a fim de 
+determinar sua capacidade de afetar a qualidade do produto. Os equipamentos de 
+impacto direto são comissionados e qualificados, enquanto os equipamentos de 
+impacto indireto são apenas comissionados.
+O proprietário do processo e a qualidade estão envolvidos nesse estágio, além da 
+contribuição de especialistas no assunto.
+Os pré-requisitos importantes para essa avaliação são:
+
+Uma compreensão clara do processo de negócios
+
+Um limite definido em torno do processo de negócios
+
+A função do equipamento no suporte ao processo de negócios
+
+Requisitos suficientemente definidos (o desenvolvimento de requisitos pode ser 
+interativo e influenciado pela avaliação de riscos)
+O projeto pode ser dividido em sistemas ou partes de equipamentos/processos para 
+facilitar o gerenciamento da construção, a coleta de documentação, a rotatividade e a 
+C&Q. Os limites dos equipamentos são definidos e documentados no início do projeto 
+para permitir o desenvolvimento da lista de equipamentos/sistemas e a execução 
+subsequente das avaliações de risco do sistema.
+Os limites do sistema são normalmente documentados no diagrama de processo e 
+instrumentação (P&ID) ou no diagrama de fluxo de processo (PFD), que pode ser 
+incluído no IRA.
+Por fim, a condução do IRA definirá o seguinte:
+
+Categorização das Boas Práticas de Fabricação Automatizada (GAMP)
+(consulte PROC-00 7441 Computer Software Assurance ) para equipamentos 
+com software incorporado
+
+O possível impacto na segurança do paciente, na qualidade do produto e na
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 12', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+integridade dos dados; direto ou indireto
+
+nível potencial de impacto: alto, médio ou baixo.
+
+classificação (classe i a iv) de acordo com o nível de complexidade do 
+gerenciamento de dados, essa classificação pode ser usada para identificar a 
+estratégia de preparação de alguma documentação de qualificação.
+5.1.3
+avaliação de risco do equipamento (era)
+a avaliação de risco do equipamento (era) é a aplicação do gerenciamento de 
+risco de qualidade para examinar os controles de risco de qualidade do produto 
+para equipamentos de impacto direto. essa avaliação identifica os aspectos críticos 
+(cas), os elementos críticos do projeto (cdes) e os controles processuais para 
+reduzir os riscos do equipamento a um nível aceitável. 
+a era deve ser executada por pmes. os cdes são identificados por meio da análise 
+dos cpps que precisam ser controlados. 
+a avaliação de risco do equipamento tem várias finalidades:
+
+identificar, avaliar e registrar os riscos de qualidade para os cqas e os 
+controles associados
+
+identificar e documentar o projeto e os controles processuais necessários para 
+controlar e gerenciar os riscos identificados
+
+a justificativa para esses controles também pode ser documentada na era
+
+o teste dos controles de projeto (cas/cdes) e a verificação dos controles de 
+procedimento fornecem a documentação usada para dar suporte à 
+qualificação do equipamento. 
+
+fornecer orientação para o escopo do dq, ou seja, o escopo abrange o 
+projeto dos cas/cdes
+
+forneça as informações necessárias para a base de aceitação e liberação
+
+fornecer um foco para a supervisão da unidade de qualidade.
+o resultado da era determinará os testes de comissionamento e qualificação a 
+serem executados durante a etapa de construção/verificação.
+a era deve ser realizada para equipamentos de classe iii e iv seguindo a 
+abordagem descrita no respectivo modelo; enquanto que, para os sistemas padrão 
+de prateleira ou de catálogo simples, é suficiente fornecer evidências documentadas 
+do cumprimento dos requisitos do equipamento e do uso pretendido por meio dos 
+protocolos e relatórios de qualificação.
+após a conclusão da era, o urs pode ser atualizado quando forem identificados 
+controles adicionais. uma matriz de rastreabilidade de requisitos será usada como 
+uma ferramenta valiosa para gerenciar o processo de execução de c&q.
+a era pode ser desenvolvida após a conclusão do projeto básico e antes do início 
+da engenharia detalhada, podendo ser atualizada posteriormente, conforme 
+necessário. a era pode ser concluída quando os desenhos e as especificações do 
+projeto issued for construction (ifc) estiverem disponíveis. esses desenhos e 
+especificações representam o que será construído, incluindo quaisquer alterações
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 12.
+integridade dos dados; direto ou indireto
+
+Nível potencial de impacto: alto, médio ou baixo.
+
+Classificação (Classe I a IV) de acordo com o nível de complexidade do 
+gerenciamento de dados, essa classificação pode ser usada para identificar a 
+estratégia de preparação de alguma documentação de qualificação.
+5.1.3
+Avaliação de risco do equipamento (ERA)
+A Avaliação de Risco do Equipamento (ERA) é a aplicação do Gerenciamento de 
+Risco de Qualidade para examinar os controles de risco de qualidade do produto 
+para equipamentos de impacto direto. Essa avaliação identifica os aspectos críticos 
+(CAs), os elementos críticos do projeto (CDEs) e os controles processuais para 
+reduzir os riscos do equipamento a um nível aceitável. 
+A ERA deve ser executada por PMEs. Os CDEs são identificados por meio da análise 
+dos CPPs que precisam ser controlados. 
+A avaliação de risco do equipamento tem várias finalidades:
+
+Identificar, avaliar e registrar os riscos de qualidade para os CQAs e os 
+controles associados
+
+Identificar e documentar o projeto e os controles processuais necessários para 
+controlar e gerenciar os riscos identificados
+
+A justificativa para esses controles também pode ser documentada na ERA
+
+O teste dos controles de projeto (CAs/CDEs) e a verificação dos controles de 
+procedimento fornecem a documentação usada para dar suporte à 
+qualificação do equipamento. 
+
+Fornecer orientação para o escopo do DQ, ou seja, o escopo abrange o 
+projeto dos CAs/CDEs
+
+Forneça as informações necessárias para a base de aceitação e liberação
+
+Fornecer um foco para a supervisão da Unidade de Qualidade.
+O resultado da ERA determinará os testes de comissionamento e qualificação a 
+serem executados durante a etapa de construção/verificação.
+A ERA deve ser realizada para equipamentos de classe III e IV seguindo a 
+abordagem descrita no respectivo modelo; enquanto que, para os sistemas padrão 
+de prateleira ou de catálogo simples, é suficiente fornecer evidências documentadas 
+do cumprimento dos requisitos do equipamento e do uso pretendido por meio dos 
+protocolos e relatórios de qualificação.
+Após a conclusão da ERA, o URS pode ser atualizado quando forem identificados 
+controles adicionais. Uma matriz de rastreabilidade de requisitos será usada como 
+uma ferramenta valiosa para gerenciar o processo de execução de C&Q.
+A ERA pode ser desenvolvida após a conclusão do projeto básico e antes do início 
+da engenharia detalhada, podendo ser atualizada posteriormente, conforme 
+necessário. A ERA pode ser concluída quando os desenhos e as especificações do 
+projeto Issued for Construction (IFC) estiverem disponíveis. Esses desenhos e 
+especificações representam o que será construído, incluindo quaisquer alterações
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 13', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+incorporadas feitas por meio do processo de revisão de projeto (dr)/qualificação 
+de projeto. portanto, a era pode ser confirmada e aprovada nesse estágio. a 
+aplicação do qrm à qualificação de equipamentos está descrita no tmat-002332.
+5.1.3.1 matriz de rastreabilidade (tm)
+a tm pode ser usada como uma ferramenta para identificar cas/cde, critérios de 
+aceitação, controles e documentação de testes. ela fornece rastreabilidade para cada 
+requisito de urs por projeto e por meio de testes.
+a tm é um documento ativo que não requer aprovação e é recomendada para ser 
+usada em equipamentos/projetos complexos (ou seja, equipamentos de classe iv e 
+iii).
+5.2
+projetar/especificar
+a fase de projeto/especificação compreende a execução da revisão de projeto 
+(dr)/qualificação de projeto e as atividades de planejamento de c&q.
+5.2.1
+planejamento c&q
+c&q é uma atividade de engenharia planejada, documentada e gerenciada que 
+começa com o estabelecimento do urs e continua até a partida e a liberação do 
+equipamento. um plano ou estratégia de c&q pode ser iniciado quando houver 
+informações suficientes sobre o projeto e pode ser executado paralelamente à 
+finalização do projeto.
+o plano de c&q deve definir o equipamento que será comissionado e qualificado com 
+base nos limites do equipamento ou da área, e as seguintes informações estão 
+incluídas:
+o
+uma descrição do equipamento, incluindo seus meios de automação.
+o
+visão geral do equipamento com uma narrativa de alto nível, incluindo limites 
+e com base em requisitos operacionais/funcionais. os limites do equipamento 
+podem estar em uma descrição do sistema, marcados em p&ids ou 
+destacados em desenhos de sistemas.
+o
+descrição de alto nível do nível de teste.
+o
+descrever a abordagem de teste considerando as atividades realizadas 
+durante 
+a 
+execução 
+do 
+projeto 
+para 
+reduzir 
+o 
+esforço 
+de 
+qualificação/verificação do equipamento de acordo com a abordagem 
+integrada/alavancada.
+o
+etapas a serem seguidas quando os resultados do teste não atenderem aos 
+resultados esperados ou aos critérios de aceitação.
+os documentos que normalmente são rastreados no plano de c&q são os seguintes:
+
+urs
+
+avaliações de risco de equipamentos
+
+desenhos
+
+a especificação do equipamento inclui todas as especificações de automação 
+(por exemplo, especificações funcionais).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 13.
+incorporadas feitas por meio do processo de Revisão de Projeto (DR)/Qualificação 
+de Projeto. Portanto, a ERA pode ser confirmada e aprovada nesse estágio. A 
+aplicação do QRM à Qualificação de Equipamentos está descrita no TMAT-002332.
+5.1.3.1 Matriz de rastreabilidade (TM)
+A TM pode ser usada como uma ferramenta para identificar CAs/CDE, critérios de 
+aceitação, controles e documentação de testes. Ela fornece rastreabilidade para cada 
+requisito de URS por projeto e por meio de testes.
+A TM é um documento ativo que não requer aprovação e é recomendada para ser 
+usada em equipamentos/projetos complexos (ou seja, equipamentos de Classe IV e 
+III).
+5.2
+Projetar/Especificar
+A fase de Projeto/Especificação compreende a execução da Revisão de Projeto 
+(DR)/Qualificação de Projeto e as atividades de Planejamento de C&Q.
+5.2.1
+Planejamento C&Q
+C&Q é uma atividade de engenharia planejada, documentada e gerenciada que 
+começa com o estabelecimento do URS e continua até a partida e a liberação do 
+equipamento. Um plano ou estratégia de C&Q pode ser iniciado quando houver 
+informações suficientes sobre o projeto e pode ser executado paralelamente à 
+finalização do projeto.
+O plano de C&Q deve definir o equipamento que será comissionado e qualificado com 
+base nos limites do equipamento ou da área, e as seguintes informações estão 
+incluídas:
+o
+Uma descrição do equipamento, incluindo seus meios de automação.
+o
+Visão geral do equipamento com uma narrativa de alto nível, incluindo limites 
+e com base em requisitos operacionais/funcionais. Os limites do equipamento 
+podem estar em uma descrição do sistema, marcados em P&IDs ou 
+destacados em desenhos de sistemas.
+o
+Descrição de alto nível do nível de teste.
+o
+Descrever a abordagem de teste considerando as atividades realizadas 
+durante 
+a 
+execução 
+do 
+projeto 
+para 
+reduzir 
+o 
+esforço 
+de 
+qualificação/verificação do equipamento de acordo com a abordagem 
+integrada/alavancada.
+o
+Etapas a serem seguidas quando os resultados do teste não atenderem aos 
+resultados esperados ou aos critérios de aceitação.
+Os documentos que normalmente são rastreados no plano de C&Q são os seguintes:
+
+URS
+
+Avaliações de risco de equipamentos
+
+Desenhos
+
+A especificação do equipamento inclui todas as especificações de automação 
+(por exemplo, especificações funcionais).
+
+
+================================================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 14', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+
+documentos de execução de comissionamento/qualificação
+
+gerenciamento de discrepâncias
+
+pacotes de rotatividade
+o plano de c&q estabelece a estrutura necessária para garantir a comunicação clara 
+e consistente e a coordenação necessária entre as atividades do ciclo de vida 
+predecessor e sucessor (por exemplo, construção, c&q, validação de processos, 
+operações/manutenção). quaisquer ajustes no processo de qualificação padrão 
+devem ser justificados nesse documento.
+5.2.2
+revisão de projeto (dr) e qualificação de projeto (dq)
+o dr oferece garantia de que os resultados do projeto são consistentes com o urs 
+e com as estratégias de controle de mitigação desenvolvidas durante a era; é a 
+confirmação de que o projeto atende aos requisitos organizacionais e regulatórios e 
+está alinhado com as práticas recomendadas da organização. 
+o dq fornece verificação documentada e analisa os cdes para confirmar que os 
+controles foram projetados adequadamente. o dq deve ser feito em todos os 
+requisitos de qualidade definidos no urs e realizado somente para equipamentos 
+de impacto direto.
+o dr e o dq são atividades conjuntas no mesmo documento e o dq envolve a 
+unidade de qualidade como aprovador. o dr é realizado pelo engenheiro de projeto 
+e o dq pelo especialista/equipe de qualificação.
+a documentação relevante para apoiar as atividades de dr e dq deve ser 
+documentada e entregue seguindo os padrões de engenharia e os requisitos 
+comerciais e de qualidade, usando o procedimento de boas práticas de 
+documentação.
+o pré-requisito para o dq inclui:
+
+urs aprovada
+
+requisitos funcionais (para equipamentos automatizados)
+
+avaliação de risco do sistema
+
+drs concluídos com a verificação de que todos os problemas de projeto em 
+aberto que afetam cas/cdes, cpps e cqas foram encerrados e incluídos 
+no projeto final.
+é responsabilidade do engenheiro do projeto garantir que todos os pré-requisitos 
+tenham sido concluídos e disponibilizados aos participantes antes do dq para 
+análise.
+o dr é realizado durante o desenvolvimento do conceito e da base dos pacotes de 
+projeto e próximo à conclusão do projeto detalhado. se aplicável, o estágio de dq 
+pode ser concluído durante a execução do teste de aceitação de fábrica.
+para equipamentos prontos para uso, o dr deve considerar a complexidade e/ou o 
+risco para a operação e a qualidade do sistema ou da instalação. nesse sentido, o 
+dr para equipamentos de classe i e ii pode ser realizado por meio da revisão dos 
+documentos do fornecedor com foco nos cpps controlados pelo equipamento e nos
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 14.
+
+Documentos de execução de comissionamento/qualificação
+
+Gerenciamento de discrepâncias
+
+Pacotes de rotatividade
+O plano de C&Q estabelece a estrutura necessária para garantir a comunicação clara 
+e consistente e a coordenação necessária entre as atividades do ciclo de vida 
+predecessor e sucessor (por exemplo, construção, C&Q, validação de processos, 
+operações/manutenção). Quaisquer ajustes no processo de qualificação padrão 
+devem ser justificados nesse documento.
+5.2.2
+Revisão de projeto (DR) e qualificação de projeto (DQ)
+O DR oferece garantia de que os resultados do projeto são consistentes com o URS 
+e com as estratégias de controle de mitigação desenvolvidas durante a ERA; é a 
+confirmação de que o projeto atende aos requisitos organizacionais e regulatórios e 
+está alinhado com as práticas recomendadas da organização. 
+O DQ fornece verificação documentada e analisa os CDEs para confirmar que os 
+controles foram projetados adequadamente. O DQ deve ser feito em todos os 
+requisitos de qualidade definidos no URS e realizado somente para equipamentos 
+de impacto direto.
+O DR e o DQ são atividades conjuntas no mesmo documento e o DQ envolve a 
+Unidade de Qualidade como aprovador. O DR é realizado pelo engenheiro de projeto 
+e o DQ pelo especialista/equipe de qualificação.
+A documentação relevante para apoiar as atividades de DR e DQ deve ser 
+documentada e entregue seguindo os padrões de engenharia e os requisitos 
+comerciais e de qualidade, usando o procedimento de Boas Práticas de 
+Documentação.
+O pré-requisito para o DQ inclui:
+
+URS aprovada
+
+Requisitos funcionais (para equipamentos automatizados)
+
+Avaliação de risco do sistema
+
+DRs concluídos com a verificação de que todos os problemas de projeto em 
+aberto que afetam CAs/CDEs, CPPs e CQAs foram encerrados e incluídos 
+no projeto final.
+É responsabilidade do engenheiro do projeto garantir que todos os pré-requisitos 
+tenham sido concluídos e disponibilizados aos participantes antes do DQ para 
+análise.
+O DR é realizado durante o desenvolvimento do conceito e da base dos pacotes de 
+projeto e próximo à conclusão do projeto detalhado. Se aplicável, o estágio de DQ 
+pode ser concluído durante a execução do teste de aceitação de fábrica.
+Para equipamentos prontos para uso, o DR deve considerar a complexidade e/ou o 
+risco para a operação e a qualidade do sistema ou da instalação. Nesse sentido, o 
+DR para equipamentos de classe I e II pode ser realizado por meio da revisão dos 
+documentos do fornecedor com foco nos CPPs controlados pelo equipamento e nos
+
+
+================================================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 15', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+cas/cdes necessários para o produto. essa atividade é integrada à documentação 
+de planejamento e teste.
+5.3
+criar/verificar
+esta secção descreve os testes de c&q, as atividades de inspeção e a documentação 
+associada para registrar os resultados. o objetivo do teste e da inspeção é confirmar 
+que o sistema foi instalado e funciona de acordo com os requisitos.
+no caso de equipamentos em que a automação é parte integrante do sistema, todo o 
+equipamento é testado como um equipamento integrado que inclui a automação 
+mecânica, elétrica e associada. o teste de equipamentos automatizados deve seguir 
+os requisitos do proc-07441 computer software assurance.
+o escopo do teste varia de acordo com o escopo do projeto, mas para novos 
+processos incluirá instalações, utilidades, equipamentos de fabricação e seus 
+sistemas associados de automação ou controle de processos. o teste definido deve 
+ser planejado e executado em scripts de teste pré-aprovados, incluindo os critérios 
+predefinidos.
+a unidade de qualidade deve estar envolvida com a revisão e aprovação dos 
+protocolos de teste antes da execução para garantir que as cas/cdes identificadas 
+na era sejam cobertas na instalação e no teste operacional.
+os testes devem ser planejados e realizados de modo que os resultados permaneçam 
+válidos durante as fases subsequentes do projeto. se isso não for possível, deve haver 
+uma avaliação para identificar os novos testes necessários ou as ações de correção 
+por meio do gerenciamento de discrepâncias. as etapas/testes subsequentes podem 
+ser continuados, desde que demonstrem que a discrepância não afeta os resultados 
+das etapas seguintes.
+as seções a seguir descrevem os testes típicos que podem ser definidos e executados 
+durante o estágio de compilação/verificação:
+5.3.1
+pré-requisitos
+as atividades a seguir devem ser concluídas antes da execução dos testes de c&q:
+o
+planejamento, conforme descrito na seção 5.2.1.
+o
+treinamento: todos os que desempenham um papel no escopo dos testes de 
+c&q precisam de treinamento e experiência adequados para poderem concluir 
+suas tarefas com eficácia. pode ser necessário treinamento adicional para a 
+configuração e a operação de equipamentos específicos, segurança e padrões 
+de documentação necessários para um projeto.
+o
+revisão do projeto/qualificação do projeto, conforme descrito na seção 5.2.2.
+o
+uso de documentação e testes do fornecedor: a documentação do fornecedor, 
+incluindo protocolos e/ou planos de teste, pode ser usada e a estratégia deve 
+ser registrada no plano de c&q. o protocolo e o teste devem ser revisados 
+pela grünenthal antes do início do teste.
+o
+antes do teste, é preciso garantir que os registros de gerenciamento de 
+alterações e era sejam revisados e mantidos atualizados para assegurar que
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 15.
+CAs/CDEs necessários para o produto. Essa atividade é integrada à documentação 
+de planejamento e teste.
+5.3
+Criar/verificar
+Esta secção descreve os testes de C&Q, as atividades de inspeção e a documentação 
+associada para registrar os resultados. O objetivo do teste e da inspeção é confirmar 
+que o sistema foi instalado e funciona de acordo com os requisitos.
+No caso de equipamentos em que a automação é parte integrante do sistema, todo o 
+equipamento é testado como um equipamento integrado que inclui a automação 
+mecânica, elétrica e associada. O teste de equipamentos automatizados deve seguir 
+os requisitos do PROC-07441 Computer Software Assurance.
+O escopo do teste varia de acordo com o escopo do projeto, mas para novos 
+processos incluirá instalações, utilidades, equipamentos de fabricação e seus 
+sistemas associados de automação ou controle de processos. O teste definido deve 
+ser planejado e executado em scripts de teste pré-aprovados, incluindo os critérios 
+predefinidos.
+A unidade de Qualidade deve estar envolvida com a revisão e aprovação dos 
+protocolos de teste antes da execução para garantir que as CAs/CDEs identificadas 
+na ERA sejam cobertas na instalação e no teste operacional.
+Os testes devem ser planejados e realizados de modo que os resultados permaneçam 
+válidos durante as fases subsequentes do projeto. Se isso não for possível, deve haver 
+uma avaliação para identificar os novos testes necessários ou as ações de correção 
+por meio do gerenciamento de discrepâncias. As etapas/testes subsequentes podem 
+ser continuados, desde que demonstrem que a discrepância não afeta os resultados 
+das etapas seguintes.
+As seções a seguir descrevem os testes típicos que podem ser definidos e executados 
+durante o estágio de compilação/verificação:
+5.3.1
+Pré-requisitos
+As atividades a seguir devem ser concluídas antes da execução dos testes de C&Q:
+o
+Planejamento, conforme descrito na seção 5.2.1.
+o
+Treinamento: todos os que desempenham um papel no escopo dos testes de 
+C&Q precisam de treinamento e experiência adequados para poderem concluir 
+suas tarefas com eficácia. Pode ser necessário treinamento adicional para a 
+configuração e a operação de equipamentos específicos, segurança e padrões 
+de documentação necessários para um projeto.
+o
+Revisão do projeto/qualificação do projeto, conforme descrito na seção 5.2.2.
+o
+Uso de documentação e testes do fornecedor: A documentação do fornecedor, 
+incluindo protocolos e/ou planos de teste, pode ser usada e a estratégia deve 
+ser registrada no Plano de C&Q. O protocolo e o teste devem ser revisados 
+pela Grünenthal antes do início do teste.
+o
+Antes do teste, é preciso garantir que os registros de gerenciamento de 
+alterações e ERA sejam revisados e mantidos atualizados para assegurar que
+
+
+================================================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 16', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+os documentos de teste reflitam o equipamento instalado e que nenhuma 
+alteração tenha sido feita que possa afetar o teste.
+5.3.2
+execução
+as atividades de teste e inspeção fazem parte da fase de execução e são descritas a 
+seguir:
+5.3.2.1
+documentos da fase de construção do fornecedor e do sistema
+as seguintes atividades podem ser exigidas do fornecedor durante a construção e 
+antes da execução dos testes de instalação:
+atividade
+descrição
+pacotes de 
+turnover 
+(top)
+fornecer documentação completa sobre os componentes, 
+equipamentos e configuração do sistema. essa documentação 
+também inclui a documentação as-built (dados acordados, 
+desenhos, software, etc.) entregue ao usuário final.
+um top típico pode incluir os seguintes documentos relacionados 
+ao ciclo de vida:
+o
+sops fornecidos pelo fornecedor
+o
+listas de peças de reposição
+o
+requisitos de manutenção
+o
+registros de manutenção do trabalho realizado antes da 
+rotatividade
+o
+desenhos as-built
+o
+certificados de materiais de construção
+o
+registros de testes e inspeções de construção (por exemplo, 
+testes de pressão)
+o
+documentação de calibração
+o
+folhas de dados de segurança de materiais
+o
+informações de inicialização e desligamento do sistema
+o
+garantias
+o
+registros de configurações ajustáveis
+o
+qualquer documentação específica exigida pelas normas 
+locais
+limpeza
+quando apropriado, as especificações podem incluir requisitos de 
+limpeza de construção ou pós-construção para garantir que os 
+sistemas estejam prontos para serem testados e/ou entregues ao 
+local da grünenthal.
+os 
+requisitos 
+de 
+construção 
+limpa 
+podem 
+incluir 
+verificações/inspeção pré-instalação, vedação de todas as 
+aberturas durante a construção, etc. a limpeza pós-construção 
+pode incluir limpeza do sistema, descarga, saneamento e 
+passivação, 
+quando 
+aplicável. 
+as 
+atividades 
+devem
+ser
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 16.
+os documentos de teste reflitam o equipamento instalado e que nenhuma 
+alteração tenha sido feita que possa afetar o teste.
+5.3.2
+Execução
+As atividades de teste e inspeção fazem parte da fase de execução e são descritas a 
+seguir:
+5.3.2.1
+Documentos da fase de construção do fornecedor e do sistema
+As seguintes atividades podem ser exigidas do fornecedor durante a construção e 
+antes da execução dos testes de instalação:
+Atividade
+Descrição
+Pacotes de 
+Turnover 
+(TOP)
+Fornecer documentação completa sobre os componentes, 
+equipamentos e configuração do sistema. Essa documentação 
+também inclui a documentação as-built (dados acordados, 
+desenhos, software, etc.) entregue ao usuário final.
+Um TOP típico pode incluir os seguintes documentos relacionados 
+ao ciclo de vida:
+o
+SOPs fornecidos pelo fornecedor
+o
+Listas de peças de reposição
+o
+Requisitos de manutenção
+o
+Registros de manutenção do trabalho realizado antes da 
+rotatividade
+o
+Desenhos as-built
+o
+Certificados de materiais de construção
+o
+Registros de testes e inspeções de construção (por exemplo, 
+testes de pressão)
+o
+Documentação de calibração
+o
+Folhas de dados de segurança de materiais
+o
+Informações de inicialização e desligamento do sistema
+o
+Garantias
+o
+Registros de configurações ajustáveis
+o
+Qualquer documentação específica exigida pelas normas 
+locais
+Limpeza
+Quando apropriado, as especificações podem incluir requisitos de 
+limpeza de construção ou pós-construção para garantir que os 
+sistemas estejam prontos para serem testados e/ou entregues ao 
+local da Grünenthal.
+Os 
+requisitos 
+de 
+construção 
+limpa 
+podem 
+incluir 
+verificações/inspeção pré-instalação, vedação de todas as 
+aberturas durante a construção, etc. A limpeza pós-construção 
+pode incluir limpeza do sistema, descarga, saneamento e 
+passivação, 
+quando 
+aplicável. 
+As 
+atividades 
+devem
+ser
+
+
+================================================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 17', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+atividade
+descrição
+documentadas.
+5.3.2.2
+teste de instalação (teste de aceitação, comissionamento e 
+qualificação)
+a verificação da instalação fornece a documentação de que o equipamento (ou os 
+componentes do equipamento) foi instalado corretamente, está pronto para entrar em 
+operação e atende aos requisitos do projeto, incluindo aqueles identificados como 
+cdes.
+os testes podem ser realizados em um único registro/plano ou separados em fases 
+de fat, sat, comissionamento e qualificação.
+os testes de instalação devem incluir todos os componentes mecânicos, elétricos e 
+de automação e verificar se estão em um estado que permita a criação de desenhos 
+as-built e listas de pendências.
+o teste de instalação pode ser estruturado nas seguintes etapas, quando aplicável:
+testes 
+definição
+inspeções 
+pré-entrega
+verificações de construção de equipamentos ou componentes 
+principais antes da entrega.
+inclui a inspeção de peças que não podem ser revisadas durante o 
+fat ou onde o fat não pode ser realizado
+teste 
+de 
+aceitação de 
+fábrica (fat) 
+-
+testes de 
+instalação
+inspeção/teste do equipamento no local do fornecedor 
+os equipamentos, especialmente se incorporarem tecnologia nova 
+ou complexa, podem ser avaliados antes da entrega à grünenthal. 
+deve-se confirmar que o equipamento está em conformidade com 
+a urs/especificação funcional no local do fornecedor, se aplicável. 
+normalmente, um fat bem-sucedido resulta na entrega do 
+equipamento.
+quando apropriado e justificado, a revisão da documentação e os 
+testes específicos podem ser realizados no fat ou em outros 
+estágios, sem a necessidade de serem repetidos no local na 
+instalação ou nos testes operacionais, conforme relatado na era.
+inspeção de 
+recebimento
+inspecione 
+se 
+os 
+componentes/materiais 
+ou 
+equipamentos 
+entregues estão em conformidade com os requisitos, por exemplo, 
+fabricante, modelo, número de série, conforme aplicável, com a 
+documentação de suporte necessária durante o recebimento do 
+equipamento. 
+durante essa fase, confirma-se que o equipamento foi recebido em 
+boas condições e etiquetado corretamente, quando aplicável.
+inspeções 
+pré-entrega
+fat: testes 
+de instalação
+inspeção de 
+recebimento
+sat: testes 
+de instalação
+verificação/
+qualificação 
+da instalação
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 17.
+Atividade
+Descrição
+documentadas.
+5.3.2.2
+Teste de instalação (teste de aceitação, comissionamento e 
+qualificação)
+A verificação da instalação fornece a documentação de que o equipamento (ou os 
+componentes do equipamento) foi instalado corretamente, está pronto para entrar em 
+operação e atende aos requisitos do projeto, incluindo aqueles identificados como 
+CDEs.
+Os testes podem ser realizados em um único registro/plano ou separados em fases 
+de FAT, SAT, comissionamento e qualificação.
+Os testes de instalação devem incluir todos os componentes mecânicos, elétricos e 
+de automação e verificar se estão em um estado que permita a criação de desenhos 
+as-built e listas de pendências.
+O teste de instalação pode ser estruturado nas seguintes etapas, quando aplicável:
+Testes 
+Definição
+Inspeções 
+pré-entrega
+Verificações de construção de equipamentos ou componentes 
+principais antes da entrega.
+Inclui a inspeção de peças que não podem ser revisadas durante o 
+FAT ou onde o FAT não pode ser realizado
+Teste 
+de 
+aceitação de 
+fábrica (FAT) 
+-
+Testes de 
+instalação
+Inspeção/teste do equipamento no local do fornecedor 
+Os equipamentos, especialmente se incorporarem tecnologia nova 
+ou complexa, podem ser avaliados antes da entrega à Grünenthal. 
+Deve-se confirmar que o equipamento está em conformidade com 
+a URS/especificação funcional no local do fornecedor, se aplicável. 
+Normalmente, um FAT bem-sucedido resulta na entrega do 
+equipamento.
+Quando apropriado e justificado, a revisão da documentação e os 
+testes específicos podem ser realizados no FAT ou em outros 
+estágios, sem a necessidade de serem repetidos no local na 
+instalação ou nos testes operacionais, conforme relatado na ERA.
+Inspeção de 
+recebimento
+Inspecione 
+se 
+os 
+componentes/materiais 
+ou 
+equipamentos 
+entregues estão em conformidade com os requisitos, por exemplo, 
+fabricante, modelo, número de série, conforme aplicável, com a 
+documentação de suporte necessária durante o recebimento do 
+equipamento. 
+Durante essa fase, confirma-se que o equipamento foi recebido em 
+boas condições e etiquetado corretamente, quando aplicável.
+Inspeções 
+pré-entrega
+FAT: Testes 
+de instalação
+Inspeção de 
+recebimento
+SAT: Testes 
+de instalação
+Verificação/
+Qualificação 
+da instalação
+
+
+================================================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 18', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+testes 
+definição
+deve-se garantir um armazenamento adequado do equipamento até 
+a instalação.
+teste 
+de 
+aceitação do 
+local (sat) -
+testes 
+de 
+instalação
+o objetivo do sat é fornecer testes e documentação dos 
+equipamentos instalados nas instalações da grünenthal, para 
+verificar se o fornecedor cumpriu as responsabilidades contratuais e 
+se os equipamentos atendem aos requisitos 
+o plano de testes sat inclui revisões das atividades abertas do fat, 
+que foram realizadas e não atenderam aos critérios de 
+aceitação/resultados esperados, e o plano para resolvê-las. o sat 
+também inclui a reconfirmação dos resultados do teste fat.
+verificação/ 
+qualificação
+da instalação
+verificação dos requisitos de qualidade relacionados à instalação 
+(cdes, conforme definido na avaliação de risco do equipamento). 
+exemplos de atividades incluem:
+
+verificação de que as partes em contato com o produto, o 
+ingrediente e/ou o material de limpeza atendem às 
+especificações (materiais de construção e acabamentos, 
+conforme aplicável)
+
+instalação de instrumentos críticos
+
+calibração de instrumentos críticos (também pode ser 
+verificada no início do teste funcional)
+5.3.2.3
+início de operação do equipamento
+abordagens de boas práticas de engenharia (gep) para garantir que o equipamento 
+seja energizado e iniciado de forma segura, após sua instalação adequada. a 
+inicialização do equipamento pode ser realizada tanto nas instalações do fornecedor 
+quanto após a instalação no local.
+a inicialização do equipamento é um processo de quatro etapas, que consiste em:
+1. verificação de que o sistema está completo com todas as chaves das 
+válvulas na posição correta.
+2. revisão de segurança antes do início das operações (com o 
+envolvimento da função ehs)
+3. energização supervisionada dos utilitários do sistema
+4. verificação pré-funcional do sistema, com foco nas funções de 
+segurança.
+todos os problemas identificados durante as atividades de inicialização do 
+equipamento devem ser verificados para não afetar os testes futuros e tratados 
+durante as etapas de teste a seguir.
+5.3.2.4
+testes operacionais/funcionais (incluindo qualificação)
+os testes operacionais/funcionais devem ser executados após a conclusão de todos 
+os testes de instalação que possam afetar os testes funcionais e começar após a 
+inicialização do sistema e as calibrações definidas no respectivo plano.
+ele verifica se a funcionalidade do equipamento atende ao aprovado nas 
+especificações, incluindo aqueles identificados como aspectos críticos, e é adequado
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 18.
+Testes 
+Definição
+Deve-se garantir um armazenamento adequado do equipamento até 
+a instalação.
+Teste 
+de 
+aceitação do 
+local (SAT) -
+Testes 
+de 
+instalação
+O objetivo do SAT é fornecer testes e documentação dos 
+equipamentos instalados nas instalações da Grünenthal, para 
+verificar se o fornecedor cumpriu as responsabilidades contratuais e 
+se os equipamentos atendem aos requisitos 
+O plano de testes SAT inclui revisões das atividades abertas do FAT, 
+que foram realizadas e não atenderam aos critérios de 
+aceitação/resultados esperados, e o plano para resolvê-las. O SAT 
+também inclui a reconfirmação dos resultados do teste FAT.
+Verificação/ 
+Qualificação
+da instalação
+Verificação dos requisitos de qualidade relacionados à instalação 
+(CDEs, conforme definido na Avaliação de Risco do Equipamento). 
+Exemplos de atividades incluem:
+
+Verificação de que as partes em contato com o produto, o 
+ingrediente e/ou o material de limpeza atendem às 
+especificações (materiais de construção e acabamentos, 
+conforme aplicável)
+
+Instalação de instrumentos críticos
+
+Calibração de instrumentos críticos (também pode ser 
+verificada no início do teste funcional)
+5.3.2.3
+Início de operação do equipamento
+Abordagens de Boas Práticas de Engenharia (GEP) para garantir que o equipamento 
+seja energizado e iniciado de forma segura, após sua instalação adequada. A 
+inicialização do equipamento pode ser realizada tanto nas instalações do fornecedor 
+quanto após a instalação no local.
+A inicialização do equipamento é um processo de quatro etapas, que consiste em:
+1. Verificação de que o sistema está completo com todas as chaves das 
+válvulas na posição correta.
+2. Revisão de segurança antes do início das operações (com o 
+envolvimento da função EHS)
+3. Energização supervisionada dos utilitários do sistema
+4. Verificação pré-funcional do sistema, com foco nas funções de 
+segurança.
+Todos os problemas identificados durante as atividades de inicialização do 
+equipamento devem ser verificados para não afetar os testes futuros e tratados 
+durante as etapas de teste a seguir.
+5.3.2.4
+Testes operacionais/funcionais (incluindo qualificação)
+Os testes operacionais/funcionais devem ser executados após a conclusão de todos 
+os testes de instalação que possam afetar os testes funcionais e começar após a 
+inicialização do sistema e as calibrações definidas no respectivo plano.
+Ele verifica se a funcionalidade do equipamento atende ao aprovado nas 
+especificações, incluindo aqueles identificados como Aspectos Críticos, e é adequado
+
+
+================================================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 19', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+e documentado em um plano/registro de teste para toda a faixa desejada de operação 
+do equipamento no ambiente de destino.
+os testes podem ser realizados em um único relatório/plano de teste ou separados 
+em fases de fat, sat, comissionamento e qualificação. dependendo da 
+complexidade dos itens a serem testados, ele pode ser realizado como um teste 
+combinado de instalação/operacional em um único documento.
+os testes funcionais/operacionais devem incluir, mas não se limitam ao seguinte:
+•
+testes que foram desenvolvidos a partir do conhecimento das instalações, 
+utilitários de apoio e equipamentos para garantir que o sistema esteja 
+operando conforme projetado.
+•
+testes para confirmar os limites operacionais superior e inferior e/ou as 
+condições do "pior caso".
+•
+teste de controles e equipamentos de automação integrados para todo o 
+sistema desenvolvido a partir do conhecimento dos processos. sistemas e 
+equipamentos para os modos normal e de alarme/falha.
+•
+confirmação de que o equipamento pode lidar com cenários previsíveis de uso 
+simultâneo para sistemas utilitários.
+•
+determinação e registro de configurações manuais de componentes (por 
+exemplo, posições de válvulas, posições de chaves de limite/escadas, 
+configurações de chaves de controle)
+os testes operacionais/funcionais são normalmente incluídos nas seguintes fases, 
+quando aplicável:
+realizado após a instalação testes 
+e inicialização do sistema
+os documentos de teste fat/sat 
+podem incluir a execução de testes 
+operacionais
+demonstrar a capacidade do sistema 
+de atender às funcionalidades 
+cas/cde; isso é considerado parte da 
+qualificação do sistema e requer a 
+supervisão da unidade de qualidade.
+a conclusão de testes operacionais/funcionais bem-sucedidos deve permitir a 
+finalização dos procedimentos padrão de operação e limpeza, treinamento de 
+operadores e requisitos de manutenção preventiva.
+5.3.2.5
+teste de qualificação de desempenho
+normalmente, o pq deve ocorrer após a conclusão bem-sucedida da instalação e dos 
+testes operacionais. se justificado, o pq pode ser realizado em conjunto com o oq 
+ou a validação do processo.
+o pq deve incluir, mas não se limitar ao seguinte:
+•
+testes, usando materiais de produção, substitutos qualificados ou produtos 
+simulados, que comprovadamente tenham comportamento equivalente em 
+condições normais de operação com lotes do pior caso. a frequência da 
+amostragem usada para confirmar o controle do processo deve ser 
+justificada.
+fat/sat: operational tests
+qualification operational tests
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 19.
+e documentado em um plano/registro de teste para toda a faixa desejada de operação 
+do equipamento no ambiente de destino.
+Os testes podem ser realizados em um único relatório/plano de teste ou separados 
+em fases de FAT, SAT, comissionamento e qualificação. Dependendo da 
+complexidade dos itens a serem testados, ele pode ser realizado como um teste 
+combinado de instalação/operacional em um único documento.
+Os testes funcionais/operacionais devem incluir, mas não se limitam ao seguinte:
+•
+Testes que foram desenvolvidos a partir do conhecimento das instalações, 
+utilitários de apoio e equipamentos para garantir que o sistema esteja 
+operando conforme projetado.
+•
+Testes para confirmar os limites operacionais superior e inferior e/ou as 
+condições do "pior caso".
+•
+Teste de controles e equipamentos de automação integrados para todo o 
+sistema desenvolvido a partir do conhecimento dos processos. Sistemas e 
+equipamentos para os modos normal e de alarme/falha.
+•
+Confirmação de que o equipamento pode lidar com cenários previsíveis de uso 
+simultâneo para sistemas utilitários.
+•
+Determinação e registro de configurações manuais de componentes (por 
+exemplo, posições de válvulas, posições de chaves de limite/escadas, 
+configurações de chaves de controle)
+Os testes operacionais/funcionais são normalmente incluídos nas seguintes fases, 
+quando aplicável:
+Realizado após a instalação Testes 
+e inicialização do sistema
+Os documentos de teste FAT/SAT 
+podem incluir a execução de testes 
+operacionais
+Demonstrar a capacidade do sistema 
+de atender às funcionalidades 
+Cas/CDE; isso é considerado parte da 
+qualificação do sistema e requer a 
+supervisão da Unidade de Qualidade.
+A conclusão de testes operacionais/funcionais bem-sucedidos deve permitir a 
+finalização dos procedimentos padrão de operação e limpeza, treinamento de 
+operadores e requisitos de manutenção preventiva.
+5.3.2.5
+Teste de qualificação de desempenho
+Normalmente, o PQ deve ocorrer após a conclusão bem-sucedida da instalação e dos 
+testes operacionais. Se justificado, o PQ pode ser realizado em conjunto com o OQ 
+ou a validação do processo.
+O PQ deve incluir, mas não se limitar ao seguinte:
+•
+Testes, usando materiais de produção, substitutos qualificados ou produtos 
+simulados, que comprovadamente tenham comportamento equivalente em 
+condições normais de operação com lotes do pior caso. A frequência da 
+amostragem usada para confirmar o controle do processo deve ser 
+justificada.
+FAT/SAT: Operational Tests
+Qualification Operational Tests
+
+
+================================================================================
+
+=== CHUNK 19 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 20', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+•
+os testes devem abranger a faixa operacional do processo pretendido, a 
+menos que haja evidências documentadas das fases de desenvolvimento 
+que confirmem as faixas operacionais.
+os procedimentos operacionais devem ser usados durante o pq.
+5.4
+gerenciamento de discrepâncias
+qualquer desvio do intervalo definido/critérios de aceitação no protocolo de teste ou 
+no plano de comissionamento e qualificação é gerenciado como uma discrepância
+(ver tmat-002288), que deve ser relatada e avaliada quanto à criticidade, de acordo 
+com o risco e a complexidade, dentro da execução do teste de c&q. a definição da 
+classificação está descrita na tabela abaixo:
+classificação de 
+discrepâncias
+descrição
+maior
+quando pode afetar o desempenho do produto, atender às 
+especificações, segurança, eficácia terapêutica, integridade dos 
+dados ou requisitos regulatórios ou uma condição que pode ser 
+citada pelas autoridades regulatórias como crítica após uma 
+inspeção. 
+se a discrepância não for completamente resolvida, o uso 
+pretendido do equipamento não será alcançado.
+menor
+quando for isolado e não afetar negativamente o desempenho do 
+produto ou da unidade, atendendo às especificações, à 
+segurança, à eficácia terapêutica, à integridade dos dados ou aos 
+requisitos regulatórios, ou quando for improvável que afete a 
+aprovação do pedido se for corrigido imediatamente.
+se a discrepância não for completamente resolvida, o uso 
+pretendido do equipamento poderá ser alcançado se alguma ação 
+paliativa for estabelecida durante um período específico.
+a discrepância deve ser gerenciada como um evento de qualidade ou desvio no caso 
+de um possível impacto no processo validado atual e/ou no status operacional atual 
+do equipamento (ou seja, o equipamento está na fase operacional), seguindo o
+proc-005388 global process for quality event management .
+5.5
+aceitação e liberação
+a aceitação e a liberação do equipamento representam o início do estado qualificado 
+e são documentadas em um relatório de c&q. esse documento deve fazer referência 
+aos documentos criados, a um resumo de todos os resultados e declarar a liberação 
+do equipamento para a produção de gmp de acordo com as atividades definidas no 
+plano de c&q.
+as atividades de teste de instalação, operacional e de desempenho (conforme 
+necessário) devem ser concluídas antes da fase de aceitação e liberação, o que inclui:
+
+os resultados dos testes devem ser revisados
+
+resultados inesperados investigados
+
+discrepâncias em relação ao plano de testes e aos roteiros abordados,
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 20.
+•
+Os testes devem abranger a faixa operacional do processo pretendido, a 
+menos que haja evidências documentadas das fases de desenvolvimento 
+que confirmem as faixas operacionais.
+Os procedimentos operacionais devem ser usados durante o PQ.
+5.4
+Gerenciamento de discrepâncias
+Qualquer desvio do intervalo definido/critérios de aceitação no protocolo de teste ou 
+no plano de comissionamento e qualificação é gerenciado como uma discrepância
+(ver TMAT-002288), que deve ser relatada e avaliada quanto à criticidade, de acordo 
+com o risco e a complexidade, dentro da execução do teste de C&Q. A definição da 
+classificação está descrita na tabela abaixo:
+Classificação de 
+discrepâncias
+Descrição
+Maior
+Quando pode afetar o desempenho do produto, atender às 
+especificações, segurança, eficácia terapêutica, integridade dos 
+dados ou requisitos regulatórios ou uma condição que pode ser 
+citada pelas autoridades regulatórias como crítica após uma 
+inspeção. 
+Se a discrepância não for completamente resolvida, o uso 
+pretendido do equipamento não será alcançado.
+Menor
+Quando for isolado e não afetar negativamente o desempenho do 
+produto ou da unidade, atendendo às especificações, à 
+segurança, à eficácia terapêutica, à integridade dos dados ou aos 
+requisitos regulatórios, ou quando for improvável que afete a 
+aprovação do pedido se for corrigido imediatamente.
+Se a discrepância não for completamente resolvida, o uso 
+pretendido do equipamento poderá ser alcançado se alguma ação 
+paliativa for estabelecida durante um período específico.
+A discrepância deve ser gerenciada como um Evento de Qualidade ou Desvio no caso 
+de um possível impacto no processo validado atual e/ou no status operacional atual 
+do equipamento (ou seja, o equipamento está na fase operacional), seguindo o
+PROC-005388 Global Process for Quality Event Management .
+5.5
+Aceitação e liberação
+A aceitação e a liberação do equipamento representam o início do estado qualificado 
+e são documentadas em um Relatório de C&Q. Esse documento deve fazer referência 
+aos documentos criados, a um resumo de todos os resultados e declarar a liberação 
+do equipamento para a produção de GMP de acordo com as atividades definidas no 
+Plano de C&Q.
+As atividades de teste de instalação, operacional e de desempenho (conforme 
+necessário) devem ser concluídas antes da fase de aceitação e liberação, o que inclui:
+
+Os resultados dos testes devem ser revisados
+
+Resultados inesperados investigados
+
+Discrepâncias em relação ao plano de testes e aos roteiros abordados,
+
+
+================================================================================
+
+=== CHUNK 20 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 21', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+incluindo a justificativa do ajuste e a evidência de um novo teste. no caso de 
+ações abertas sem impacto no uso pretendido do equipamento (ou seja, como 
+resultado de uma discrepância menor), elas devem ser documentadas no 
+processo capa para garantir o acompanhamento adequado.
+
+alterações de engenharia encerradas
+
+resumo da faixa de qualificação associada aos cpps definidos.
+
+liberação formal documentada do equipamento para operação normal.
+o início do "estado qualificado" do equipamento significa o início do controle de 
+alterações de qualidade gerenciado pelo qa, do monitoramento contínuo do 
+desempenho e da revisão periódica.  
+5.6
+revisão periódica
+os equipamentos devem ser avaliados com uma frequência adequada - com base 
+em uma abordagem de risco (por exemplo, análise de tendências) - para confirmar 
+que permanecem em um estado de controle, em conformidade com o plano mestre 
+de validação global.
+quando a requalificação for necessária e realizada em um momento específico, o 
+período deve ser justificado e os critérios de avaliação definidos. além disso, a 
+possibilidade de pequenas alterações ao longo do tempo deve ser avaliada. o prazo 
+específico para cada equipamento deve ser indicado no vmp local ou no relatório de 
+qualificação específico.
+a gama de atividades de requalificação deve contar com as atividades de 
+qualificação inicial e refletir a criticidade da unidade/processo, mais detalhes são 
+descritos em sup-006900.
+5.7
+gerenciamento de mudanças
+todas as alterações planejadas em instalações, equipamentos, instrumentos 
+analíticos e utilitários qualificados devem ser formalmente documentadas e o 
+impacto sobre o status qualificado ou a estratégia de controle deve ser avaliado. 
+portanto, é necessário definir qual trabalho de qualificação é obrigatório para 
+comprovar o controle desses aspectos críticos.
+o controle de mudanças é feito de acordo com o proc-007059 global process for 
+change management .
+mudanças "iguais por iguais" referem-se a alterações feitas em um produto, processo 
+ou sistema que são equivalentes ou semelhantes em termos de impacto na qualidade, 
+segurança, eficácia e conformidade com os requisitos regulatórios do produto final. um 
+processo de avaliação desse tipo de alteração deve ser implementado para garantir que 
+o produto continue a atender aos padrões exigidos e mantenha seu status de 
+qualificação para aprovação do mercado.
+uma descrição detalhada e uma definição adequada das medidas necessárias no 
+processo de mudança podem substituir o plano de c&q.
+5.8
+implementação de equipamento de legado
+a implementação da abordagem de c&q é obrigatória para todos os novos
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 21.
+incluindo a justificativa do ajuste e a evidência de um novo teste. No caso de 
+ações abertas sem impacto no uso pretendido do equipamento (ou seja, como 
+resultado de uma discrepância menor), elas devem ser documentadas no 
+processo CAPA para garantir o acompanhamento adequado.
+
+Alterações de engenharia encerradas
+
+Resumo da faixa de qualificação associada aos CPPs definidos.
+
+Liberação formal documentada do equipamento para operação normal.
+O início do "estado qualificado" do equipamento significa o início do controle de 
+alterações de qualidade gerenciado pelo QA, do monitoramento contínuo do 
+desempenho e da revisão periódica.  
+5.6
+Revisão periódica
+Os equipamentos devem ser avaliados com uma frequência adequada - com base 
+em uma abordagem de risco (por exemplo, análise de tendências) - para confirmar 
+que permanecem em um estado de controle, em conformidade com o Plano Mestre 
+de Validação Global.
+Quando a requalificação for necessária e realizada em um momento específico, o 
+período deve ser justificado e os critérios de avaliação definidos. Além disso, a 
+possibilidade de pequenas alterações ao longo do tempo deve ser avaliada. O prazo 
+específico para cada equipamento deve ser indicado no VMP local ou no relatório de 
+qualificação específico.
+A gama de atividades de requalificação deve contar com as atividades de 
+qualificação inicial e refletir a criticidade da unidade/processo, mais detalhes são 
+descritos em SUP-006900.
+5.7
+Gerenciamento de mudanças
+Todas as alterações planejadas em instalações, equipamentos, instrumentos 
+analíticos e utilitários qualificados devem ser formalmente documentadas e o 
+impacto sobre o status qualificado ou a estratégia de controle deve ser avaliado. 
+Portanto, é necessário definir qual trabalho de qualificação é obrigatório para 
+comprovar o controle desses aspectos críticos.
+O controle de mudanças é feito de acordo com o PROC-007059 Global Process for 
+Change Management .
+Mudanças "iguais por iguais" referem-se a alterações feitas em um produto, processo 
+ou sistema que são equivalentes ou semelhantes em termos de impacto na qualidade, 
+segurança, eficácia e conformidade com os requisitos regulatórios do produto final. Um 
+processo de avaliação desse tipo de alteração deve ser implementado para garantir que 
+o produto continue a atender aos padrões exigidos e mantenha seu status de 
+qualificação para aprovação do mercado.
+Uma descrição detalhada e uma definição adequada das medidas necessárias no 
+processo de mudança podem substituir o plano de C&Q.
+5.8
+Implementação de equipamento de legado
+A implementação da abordagem de C&Q é obrigatória para todos os novos
+
+
+================================================================================
+
+=== CHUNK 21 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 22', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+equipamentos. a documentação existente não precisa ser adaptada em relação à 
+abordagem de c&q, pelo menos o equipamento existente é afetado por mudanças ao 
+longo do ciclo de vida, as mudanças podem ser classificadas como mudanças maiores 
+ou menores, e a qualificação será gerenciada da seguinte forma:
+modificar 
+classificação
+atividades
+documentos a serem 
+criados/atualizados
+mudanças 
+importantes
+(grande mudança em 
+equipamentos 
+qualificados existentes 
+ou 
+equipamentos 
+existentes 
+com 
+possíveis lacunas de 
+conformidade)
+-
+confirmar se a qualificação é 
+necessária
+-
+concluir a avaliação de risco do 
+equipamento e revisar o projeto 
+disponível para garantir que os 
+riscos sejam controlados
+-
+revisar os testes para confirmar 
+que as acs/cdes foram verificadas
+resultado: remediar os gaps por 
+meio de alteração/teste de projeto 
+ou adição de controles operacionais
+1. urs, era e dr/dq: analisar os 
+requisitos e as lacunas do processo, 
+identificar cas e propor controles 
+técnicos (cdes) e processuais
+2. plano de c&q e plano de teste: 
+desenvolver o plano para descrever a 
+abordagem
+3. testes: 
+a 
+documentação 
+de 
+qualificação atual pode ser usada se 
+os 
+cdes 
+forem 
+tratados 
+adequadamente. 
+complemente 
+a 
+documentação, se necessário, e revise 
+os procedimentos para confirmar os 
+controles processuais. 
+atualize se necessário.
+4. procedimentos 
+(operações 
+e 
+manutenção): revisar para abordar a 
+mudança
+5. relatório 
+de 
+resumo 
+de 
+qualificação: obrigatório
+pequena alteração
+(pequena alteração no 
+equipamento existente 
+com um bom pacote 
+de qualificação)
+-
+preencha a era somente para 
+os 
+aspectos 
+afetados 
+pela 
+mudança, 
+não 
+para 
+todo 
+o 
+equipamento.
+-
+confirme se os controles de 
+projeto, os riscos e os aspectos 
+críticos de qualidade estão de 
+acordo com o procedimento.
+resultado: aprovar o relatório e 
+adicionar ao pacote de qualificação 
+existente.
+1. urs: a definição de requisitos faz 
+parte da descrição do controle de 
+alterações.
+2. era: é necessário para determinar 
+o impacto da mudança.
+3. dr/dq: revise o projeto para 
+garantir que os requisitos de 
+alteração sejam atendidos.
+4. plano de c&q: o conteúdo faz 
+parte do controle de mudanças.
+5. plano 
+de 
+testes 
+e 
+testes: 
+necessário, para lidar com a 
+mudança
+6. procedimentos 
+(operações 
+e 
+manutenção): 
+revisar 
+para 
+abordar a mudança
+7. relatório 
+resumido 
+de 
+qualificação:
+registrado 
+e 
+aprovado até o encerramento do 
+controle de mudanças
+mais orientações sobre a implementação de atividades de qualificação e 
+conformidade em equipamentos legados são fornecidas no tmat-002224.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 22.
+equipamentos. A documentação existente não precisa ser adaptada em relação à 
+abordagem de C&Q, pelo menos o equipamento existente é afetado por mudanças ao 
+longo do ciclo de vida, as mudanças podem ser classificadas como mudanças maiores 
+ou menores, e a qualificação será gerenciada da seguinte forma:
+Modificar 
+classificação
+Atividades
+Documentos a serem 
+criados/atualizados
+Mudanças 
+importantes
+(grande mudança em 
+equipamentos 
+qualificados existentes 
+ou 
+equipamentos 
+existentes 
+com 
+possíveis lacunas de 
+conformidade)
+-
+Confirmar se a qualificação é 
+necessária
+-
+Concluir a avaliação de risco do 
+equipamento e revisar o projeto 
+disponível para garantir que os 
+riscos sejam controlados
+-
+Revisar os testes para confirmar 
+que as ACs/CDEs foram verificadas
+Resultado: remediar os GAPs por 
+meio de alteração/teste de projeto 
+ou adição de controles operacionais
+1. URS, ERA e DR/DQ: analisar os 
+requisitos e as lacunas do processo, 
+identificar CAs e propor controles 
+técnicos (CDEs) e processuais
+2. Plano de C&Q e plano de teste: 
+Desenvolver o plano para descrever a 
+abordagem
+3. Testes: 
+a 
+documentação 
+de 
+qualificação atual pode ser usada se 
+os 
+CDEs 
+forem 
+tratados 
+adequadamente. 
+Complemente 
+a 
+documentação, se necessário, e revise 
+os procedimentos para confirmar os 
+controles processuais. 
+Atualize se necessário.
+4. Procedimentos 
+(operações 
+e 
+manutenção): revisar para abordar a 
+mudança
+5. Relatório 
+de 
+resumo 
+de 
+qualificação: Obrigatório
+Pequena alteração
+(pequena alteração no 
+equipamento existente 
+com um bom pacote 
+de qualificação)
+-
+Preencha a ERA somente para 
+os 
+aspectos 
+afetados 
+pela 
+mudança, 
+não 
+para 
+todo 
+o 
+equipamento.
+-
+Confirme se os controles de 
+projeto, os riscos e os aspectos 
+críticos de qualidade estão de 
+acordo com o procedimento.
+Resultado: Aprovar o relatório e 
+adicionar ao pacote de qualificação 
+existente.
+1. URS: A definição de requisitos faz 
+parte da descrição do controle de 
+alterações.
+2. ERA: é necessário para determinar 
+o impacto da mudança.
+3. DR/DQ: Revise o projeto para 
+garantir que os requisitos de 
+alteração sejam atendidos.
+4. Plano de C&Q: o conteúdo faz 
+parte do controle de mudanças.
+5. Plano 
+de 
+testes 
+e 
+testes: 
+Necessário, para lidar com a 
+mudança
+6. Procedimentos 
+(operações 
+e 
+manutenção): 
+revisar 
+para 
+abordar a mudança
+7. Relatório 
+resumido 
+de 
+qualificação:
+Registrado 
+e 
+aprovado até o encerramento do 
+controle de mudanças
+Mais orientações sobre a implementação de atividades de qualificação e 
+conformidade em equipamentos legados são fornecidas no TMAT-002224.
+
+
+================================================================================
+
+=== CHUNK 22 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 23', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+5.9
+qualificação/avaliação de fornecedores
+o objetivo do processo de qualificação de fornecedores é garantir que qualquer 
+serviço ou produto fornecido seja respectivamente executado e desenvolvido de 
+acordo com um sistema de gerenciamento de qualidade (qms) adequado. a
+qualificação considera a complexidade, a novidade e a categorização dos 
+componentes do produto/serviço, bem como a criticidade do sistema/serviço que 
+está sendo fornecido, e inclui, entre outras coisas, a avaliação do fornecedor para: 
+desenvolver, testar e validar o produto, gerenciar alterações, lidar com informações 
+confidenciais e fornecer documentação precisa, completa e inequívoca. o processo 
+de qualificação do fornecedor pode dar suporte ao aproveitamento da documentação 
+do fornecedor durante a qualificação do equipamento.
+o processo de qualificação de fornecedores está detalhado no sop dedicado proc-
+003393 .
+5.10
+fluxo de processos de c&q e gerenciamento de documentos 
+relacionados
+o fluxo do processo de c&q está refletido na figura 3, incluindo a matriz raci.
+cada etapa do processo de c&q deve ser apoiada por documentos específicos (ver 
+figura 3); no entanto, a documentação pode ser preparada individualmente ou 
+combinada quando apropriado. nesse sentido, os documentos podem ser 
+mesclados — por exemplo, integrando planos de teste e scripts de teste para 
+instalação, operacional e qualificação de desempenho — desde que o conteúdo 
+necessário em cada fase seja completo, rastreável e claramente definido. a 
+combinação de documentos é aceitável quando dá suporte à simplificação sem 
+comprometer a qualidade, a conformidade ou a clareza.
+a preparação da documentação deve ser feita usando os modelos fornecidos 
+listados no sup-011503, incluindo as funções responsáveis pela preparação, 
+revisão e aprovação de cada documento.
+a execução da documentação definida deve seguir o procedimento de boas práticas 
+de documentação.
+quando os protocolos de qualificação e outras documentações são fornecidos por 
+terceiros que prestam serviços de qualificação, o pessoal apropriado no local de 
+fabricação, de acordo com este sop, deve confirmar a adequação e a conformidade 
+com os procedimentos internos antes da execução do protocolo. os protocolos do 
+fornecedor 
+podem 
+ser 
+complementados 
+por 
+documentação 
+interna 
+adicional/protocolos de teste antes do uso.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 23.
+5.9
+Qualificação/Avaliação de fornecedores
+O objetivo do processo de qualificação de fornecedores é garantir que qualquer 
+serviço ou produto fornecido seja respectivamente executado e desenvolvido de 
+acordo com um sistema de gerenciamento de qualidade (QMS) adequado. A
+qualificação considera a complexidade, a novidade e a categorização dos 
+componentes do produto/serviço, bem como a criticidade do sistema/serviço que 
+está sendo fornecido, e inclui, entre outras coisas, a avaliação do fornecedor para: 
+desenvolver, testar e validar o produto, gerenciar alterações, lidar com informações 
+confidenciais e fornecer documentação precisa, completa e inequívoca. O processo 
+de qualificação do fornecedor pode dar suporte ao aproveitamento da documentação 
+do fornecedor durante a qualificação do equipamento.
+O processo de qualificação de fornecedores está detalhado no SOP dedicado PROC-
+003393 .
+5.10
+Fluxo de processos de C&Q e gerenciamento de documentos 
+relacionados
+O fluxo do processo de C&Q está refletido na figura 3, incluindo a matriz RACI.
+Cada etapa do processo de C&Q deve ser apoiada por documentos específicos (ver 
+figura 3); no entanto, a documentação pode ser preparada individualmente ou 
+combinada quando apropriado. Nesse sentido, os documentos podem ser 
+mesclados — por exemplo, integrando planos de teste e scripts de teste para 
+Instalação, Operacional e Qualificação de Desempenho — desde que o conteúdo 
+necessário em cada fase seja completo, rastreável e claramente definido. A 
+combinação de documentos é aceitável quando dá suporte à simplificação sem 
+comprometer a qualidade, a conformidade ou a clareza.
+A preparação da documentação deve ser feita usando os modelos fornecidos 
+listados no SUP-011503, incluindo as funções responsáveis pela preparação, 
+revisão e aprovação de cada documento.
+A execução da documentação definida deve seguir o procedimento de boas práticas 
+de documentação.
+Quando os protocolos de qualificação e outras documentações são fornecidos por 
+terceiros que prestam serviços de qualificação, o pessoal apropriado no local de 
+fabricação, de acordo com este SOP, deve confirmar a adequação e a conformidade 
+com os procedimentos internos antes da execução do protocolo. Os protocolos do 
+fornecedor 
+podem 
+ser 
+complementados 
+por 
+documentação 
+interna 
+adicional/protocolos de teste antes do uso.
+
+
+================================================================================
+
+=== CHUNK 23 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 24', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+figura 3. fluxo do processo de c&q e raci
+processo de c&q - raci
+r
+a
+c
+i
+processo
+entrega
+definir requisitos
+melhoria contínua
+projetar/especificar
+aceitar e liberar
+form
+construir/verificar
+realizar a avaliação 
+inicial de riscos (ira)
+impacto do 
+equipamento?
+impacto direto
+indireto 
+impacto
+identificar o 
+equipamento 
+necessário
+acompanhar o 
+comissionamento
+sistema novo ou existente 
+(mudança)
+preparação do 
+urs
+estratégia de controle/
+cqas/cpps
+avaliação de risco do 
+equipamento (era)
+revisão de projeto 
+(dr)/qualificação 
+de projeto (dq)
+planejamento 
+c&q
+construção do 
+sistema/execução 
+do 
+comissionamento
+instalação e 
+execução de testes 
+operacionais
+execução de testes 
+de desempenho
+relatórios/
+encerramento de 
+c&q
+operação/revisão 
+periódica
+matriz de rastreabilidade
+documento urs
+avaliação inicial de 
+riscos (ira)
+dq/dr 
+combinado com 
+urs
+plano c&q
+avaliação de 
+discrepâncias
+protocols for 
+testing
+relatório c&q
+matriz de 
+rastreabilidade
+revisão periódica
+documento era
+eng. do 
+projetos 
+aquisição
+gerente de 
+projetos.
+vsu
+po
+po
+eng. do 
+projetos 
+qualification 
+team(dq)
+po
+qa
+so
+eng. do projetos 
+eng. do 
+projetos 
+qa*
+so
+equipe qualifi
+smes
+po
+gerente de 
+projetos.
+equipe qualifi
+qa*
+so
+smes
+po
+equipe qualifi
+qa*
+so
+smes
+po
+equipe qualifi
+po
+qa
+so
+eng. do projetos 
+smes
+qa
+so
+smes
+equipe qualifi
+po
+gerente de 
+projetos.
+eng. do 
+projetos  
+(dr)
+eng. do 
+projetos 
+po
+eng. do projetos 
+(commissioning)
+po
+so
+smes
+gerente de 
+projetos.
+gerente de 
+projetos.
+gerente de 
+projetos.
+qa
+so
+ehs
+equipe qualifi
+smes
+equipe qualifi
+so
+qa
+smes
+equipe qualifi
+so
+qa
+esq
+ehs
+smes
+r: responsável, a: responsável, c: consultado, i: informado.
+vsu: vertical start up,  mgr: gerente, *qa está envolvido por meio do gerenciamento de 
+discrepâncias/exceções
+5.11
+desligamento/descomissionamento 
+o desligamento das instalações, utilidades e equipamentos deve ser adequadamente 
+documentado.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 24.
+Figura 3. Fluxo do processo de C&Q e RACI
+Processo de C&Q - RACI
+R
+A
+C
+I
+Processo
+Entrega
+Definir requisitos
+Melhoria contínua
+Projetar/Especificar
+Aceitar e liberar
+Form
+Construir/Verificar
+Realizar a avaliação 
+inicial de riscos (IRA)
+Impacto do 
+equipamento?
+Impacto direto
+Indireto 
+Impacto
+Identificar o 
+equipamento 
+necessário
+Acompanhar o 
+comissionamento
+Sistema novo ou existente 
+(mudança)
+Preparação do 
+URS
+Estratégia de controle/
+CQAs/CPPs
+Avaliação de risco do 
+equipamento (ERA)
+Revisão de projeto 
+(DR)/Qualificação 
+de projeto (DQ)
+Planejamento 
+C&Q
+Construção do 
+sistema/Execução 
+do 
+comissionamento
+Instalação e 
+execução de testes 
+operacionais
+Execução de testes 
+de desempenho
+Relatórios/
+encerramento de 
+C&Q
+Operação/revisão 
+periódica
+MATRIZ DE RASTREABILIDADE
+Documento URS
+Avaliação inicial de 
+riscos (IRA)
+DQ/DR 
+combinado com 
+URS
+Plano C&Q
+Avaliação de 
+discrepâncias
+Protocols for 
+Testing
+Relatório C&Q
+Matriz de 
+rastreabilidade
+Revisão periódica
+Documento ERA
+Eng. Do 
+Projetos 
+Aquisição
+Gerente de 
+Projetos.
+VSU
+PO
+PO
+Eng. Do 
+Projetos 
+Qualification 
+Team(DQ)
+PO
+QA
+SO
+Eng. Do Projetos 
+Eng. Do 
+Projetos 
+QA*
+SO
+Equipe qualifi
+SMEs
+PO
+Gerente de 
+Projetos.
+Equipe qualifi
+QA*
+SO
+SMEs
+PO
+Equipe qualifi
+QA*
+SO
+SMEs
+PO
+Equipe qualifi
+PO
+QA
+SO
+Eng. Do Projetos 
+SMEs
+QA
+SO
+SMEs
+Equipe qualifi
+PO
+Gerente de 
+Projetos.
+Eng. Do 
+Projetos  
+(DR)
+Eng. Do 
+Projetos 
+PO
+Eng. Do Projetos 
+(commissioning)
+PO
+SO
+SMEs
+Gerente de 
+Projetos.
+Gerente de 
+Projetos.
+Gerente de 
+Projetos.
+QA
+SO
+EHS
+Equipe qualifi
+SMEs
+Equipe qualifi
+SO
+QA
+SMEs
+Equipe qualifi
+SO
+QA
+ESQ
+EHS
+SMEs
+R: Responsável, A: Responsável, C: Consultado, I: Informado.
+VSU: Vertical Start Up,  Mgr: gerente, *QA está envolvido por meio do gerenciamento de 
+discrepâncias/exceções
+5.11
+Desligamento/Descomissionamento 
+O desligamento das instalações, utilidades e equipamentos deve ser adequadamente 
+documentado.
+
+
+================================================================================
+
+=== CHUNK 24 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 25', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+ele deve ser avaliado e incluir as seguintes atividades: 
+-
+quais sistemas são influenciados por esse desligamento.
+-
+limpeza final
+-
+declaração de validação que comprove, com evidências documentadas, que o 
+equipamento estava adequado aos propósitos e em um status validado no 
+momento do último uso.
+-
+arquivamento dos registros
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 25.
+Ele deve ser avaliado e incluir as seguintes atividades: 
+-
+quais sistemas são influenciados por esse desligamento.
+-
+Limpeza final
+-
+Declaração de validação que comprove, com evidências documentadas, que o 
+equipamento estava adequado aos propósitos e em um status validado no 
+momento do último uso.
+-
+Arquivamento dos registros
+
+
+================================================================================
+
+=== CHUNK 25 ===
+[METADATA]: {'file_name': 'GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf', 'page_label': 'Page 26', 'sop_title': 'Comissionamento e Qualificação (C&Q) de Equipamentos - TRANS', 'document_number': 'PROC-008646', 'version_number': '01', 'status': 'Active', 'language': 'pt'}
+
+[CONTENT - LOWERCASE]:
+
+proc-007441 computer software assurance
+
+proc-008499 revisão periódica (pr) para qualificação de equipamentos
+
+sup-011503 c&q para equipamentos - lista de documentos associados
+
+sup-011591 classificação de equipamentos e fluxo de trabalho de ira
+
+sup-011755 padrão de engenharia de projeto (pes)
+
+tmat-002332 aplicação de qrm para qualificação e validação de processos
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Portuguese_stamped_Rev05.docmDec112025090327.pdf, Page 26.
+
+PROC-007441 Computer software assurance
+
+PROC-008499 Revisão periódica (PR) para qualificação de equipamentos
+
+SUP-011503 C&Q para equipamentos - Lista de documentos associados
+
+SUP-011591 Classificação de equipamentos e fluxo de trabalho de IRA
+
+SUP-011755 Padrão de engenharia de projeto (PES)
+
+TMAT-002332 Aplicação de QRM para qualificação e validação de processos
+7
+
+
+================================================================================
+

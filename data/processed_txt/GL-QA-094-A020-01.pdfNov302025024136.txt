@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 4', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 4', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 gl-qa-094-a020-01 
@@ -100,7 +100,7 @@ process.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 5', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 5', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 gl-qa-094-a020-01 
@@ -131,7 +131,7 @@ definition/explanation
 api 
 active pharmaceutical ingredient 
 brc 
-batch release certificate 
+batch 
 cmo 
 contract manufacturer organization 
 cmc 
@@ -153,7 +153,7 @@ documents
 the documents that can be examined for their regulatory compliance are: 
 • manufacturing documents (e.g. manufacturing formula, master batch records, pi-
 sheet) 
-• specification documents (e.g. release or shelf life specification, master certificates 
+• specification documents (e.g. 
 e.g. coa, brc) 
 • test instruction documents (e.g. analytical procedure)
 
@@ -187,7 +187,7 @@ Definition/Explanation
 API 
 Active Pharmaceutical Ingredient 
 BRC 
-Batch Release Certificate 
+Batch 
 CMO 
 Contract Manufacturer Organization 
 CMC 
@@ -209,7 +209,7 @@ Documents
 The documents that can be examined for their regulatory compliance are: 
 • Manufacturing documents (e.g. manufacturing formula, master batch records, PI-
 Sheet) 
-• Specification documents (e.g. release or shelf life specification, master certificates 
+• Specification documents (e.g. 
 e.g. CoA, BRC) 
 • Test instruction documents (e.g. analytical procedure)
 
@@ -217,7 +217,7 @@ e.g. CoA, BRC)
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 6', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 6', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 gl-qa-094-a020-01 
@@ -271,7 +271,7 @@ manufacturing steps
 • 
 in-process controls 
 • 
-release testing parameter 
+
 • 
 packaging material 
 • 
@@ -293,7 +293,7 @@ number
 3.2.p.8 
  
 specification 
-release 
+
 specification 
 shelf life 
 specification  
@@ -363,7 +363,7 @@ Manufacturing steps
 • 
 In-process controls 
 • 
-Release testing parameter 
+
 • 
 Packaging material 
 • 
@@ -385,7 +385,7 @@ number
 3.2.P.8 
  
 Specification 
-Release 
+
 specification 
 Shelf life 
 specification  
@@ -406,7 +406,7 @@ Analytical procedure
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 7', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 7', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 gl-qa-094-a020-01 
@@ -484,7 +484,7 @@ holding times
 • 
 storage conditions  
 • 
-release testing parameter 
+
 3.2.p.3.2 
 3.2.p.3.3 
 3.2.p.3.4 
@@ -595,7 +595,7 @@ Holding times
 • 
 Storage conditions  
 • 
-Release testing parameter 
+
 3.2.P.3.2 
 3.2.P.3.3 
 3.2.P.3.4 
@@ -633,7 +633,7 @@ documents. For the regulatory compliance check at GRT it is essential that the s
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 8', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GL-QA-094-A020-01.pdfNov302025024136.pdf', 'page_label': 'Page 8', 'sop_title': 'Check of Regulatory Compliance of GMP Documents', 'document_number': 'PROC-003844', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 gl-qa-094-a020-01 

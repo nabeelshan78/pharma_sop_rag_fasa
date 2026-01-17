@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 2', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 2', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: approval of promotional and non-promotional materials 
 concerning products iberia cluster
 1
 objective
@@ -36,7 +35,7 @@ concerning medical devices used to administer medication.
 
 non-promotional materials of a scientific nature.
 
-branded and unbranded press releases
+branded and unbranded press 
 
 online content created and/or disseminated by grünenthal in the iberia 
 cluster, independently of the channel used to disseminate the material (face-
@@ -51,7 +50,6 @@ documents and for a nonpromotional use.
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf, Page 2.
-Local Title: APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS 
 CONCERNING PRODUCTS IBERIA CLUSTER
 1
 OBJECTIVE
@@ -85,7 +83,7 @@ concerning medical devices used to administer medication.
 
 Non-promotional materials of a scientific nature.
 
-Branded and unbranded press releases
+Branded and unbranded press 
 
 Online content created and/or disseminated by Grünenthal in the Iberia 
 Cluster, independently of the channel used to disseminate the material (face-
@@ -102,7 +100,7 @@ documents and for a nonpromotional use.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 3', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 3', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the employees involved have a duty to be aware of all legislation and regulations 
@@ -227,7 +225,7 @@ applicable regulations.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 4', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 4', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 in materials proposed by the brand 
@@ -342,7 +340,7 @@ ethical perception in the current context
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 5', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 5', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 and environment and ensure
@@ -388,7 +386,7 @@ veevapromomats
 grünenthal´s content management system (cms)
 non-promotional content
 non brand -related educational content e.g.; disease-
-related content, advisory board, press releases on 
+related content, advisory board, press 
 milestones regarding research & development, 
 independent press reports about symposia and
 statements by scientists (even if
@@ -446,7 +444,7 @@ VeevaPromoMats
 Grünenthal´s Content Management System (CMS)
 Non-promotional content
 Non brand -related educational content e.g.; disease-
-related content, advisory board, press releases on 
+related content, advisory board, press 
 milestones regarding research & development, 
 Independent press reports about symposia and
 statements by scientists (even if
@@ -463,7 +461,7 @@ A combination of claims, general text and digital assets
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 7', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 7', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 review/approval for our material related to the new content creation process in addition 
@@ -544,7 +542,7 @@ complies with the applicable regulations.
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 8', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 8', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.2.2
@@ -655,7 +653,7 @@ Material initiated by the Medical Department
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 9', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 9', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 sponsor
@@ -778,7 +776,7 @@ Certification: n/a
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 10', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 10', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 leave behind, detail 
@@ -861,7 +859,7 @@ training
 approval: 3 working 
 days certification: 3 
 working days
-press release related 
+press 
 to opioids
 medical
 compliance
@@ -956,7 +954,7 @@ Training
 Approval: 3 working 
 days Certification: 3 
 working days
-Press release related 
+Press 
 to opioids
 Medical
 Compliance
@@ -973,7 +971,7 @@ working days
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 11', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 11', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 social media (eg 
@@ -998,7 +996,7 @@ affairs
 approval: 3 working 
 days certification: 3 
 working days
-press releases not opioid related are approved by email by medical and compliance,
+press 
 dsmn8 and all the content for rrss are also approved by email by mkt , corporate
 communication, omnichannel medical and compliance.
 all people with functions involved in this procedure should make the comments or
@@ -1011,7 +1009,7 @@ from the beginning (i.e. “draft” status).
 the review period must not exceed three working days per function involved, except 
 in justified cases, in which case the period may be extended by a further two working 
 days.
-for press releases, the review period must not exceed one working day.
+for press 
 once the parallel review is complete, each role will sign the corresponding box in the 
 tool electronically.
 5.2.5
@@ -1057,7 +1055,7 @@ Affairs
 Approval: 3 working 
 days Certification: 3 
 working days
-Press releases not opioid related are approved by email by Medical and compliance,
+Press 
 DSMN8 and all the content for RRSS are also approved by email by MKT , Corporate
 Communication, Omnichannel Medical and Compliance.
 All people with functions involved in this procedure should make the comments or
@@ -1070,7 +1068,7 @@ from the beginning (i.e. “draft” status).
 The review period must not exceed three working days per function involved, except 
 in justified cases, in which case the period may be extended by a further two working 
 days.
-For press releases, the review period must not exceed one working day.
+For press 
 Once the parallel review is complete, each role will sign the corresponding box in the 
 tool electronically.
 5.2.5
@@ -1096,7 +1094,7 @@ production
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 12', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 12', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the sponsor of the material will be automatically notified of the final certification 
@@ -1197,7 +1195,7 @@ distribution
 ================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 13', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 13', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 due to restrictions on cam’s platform, the documents must comply with the technical 
@@ -1304,7 +1302,7 @@ INFARMED for possible future inspections and audits
 ================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 14', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 14', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.2.7
@@ -1411,7 +1409,7 @@ that an update is needed but not more than one cycle as every new cycle the
 ================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 15', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 15', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 material is reviewed and updated. for digital promotional material shall be 
@@ -1514,7 +1512,7 @@ Regulation nº 655/2013 from the Commission
 ================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 16', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07 (1).docxNov302025024526.pdf', 'page_label': 'Page 16', 'sop_title': 'APPROVAL OF PROMOTIONAL AND NON-PROMOTIONAL MATERIALS', 'document_number': 'PROC-007808', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision no.

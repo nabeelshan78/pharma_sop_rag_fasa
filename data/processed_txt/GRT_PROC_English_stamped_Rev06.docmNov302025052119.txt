@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: global process for capa management
 1
 objective
 the objective of this document is to describe the management of corrective actions 
@@ -49,7 +48,6 @@ task assignee=action owner) and establishes/ manages timeline.
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf, Page 2.
-Local Title: Global Process for CAPA Management
 1
 OBJECTIVE
 The objective of this document is to describe the management of corrective actions 
@@ -98,7 +96,7 @@ Task Assignee=action owner) and establishes/ manages timeline.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 3', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 3', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 function/ role
@@ -213,7 +211,7 @@ for implementation and if required effectiveness check.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -334,7 +332,7 @@ the root cause(s).
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5
@@ -453,7 +451,7 @@ For each CAPA a reasonable timeframe must be defined.
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3
@@ -634,7 +632,7 @@ No
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3.2
@@ -765,7 +763,7 @@ individual action items
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3.3
@@ -884,7 +882,7 @@ No
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3.4
@@ -1029,7 +1027,7 @@ misleading information. A justification and indication of changes must be provid
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 effectiveness check and capa closure
@@ -1154,7 +1152,7 @@ measures.
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev06.docmNov302025052119.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for CAPA Management', 'document_number': 'PROC-003370', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.5

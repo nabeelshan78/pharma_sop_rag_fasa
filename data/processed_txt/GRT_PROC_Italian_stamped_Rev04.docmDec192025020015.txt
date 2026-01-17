@@ -1,0 +1,1092 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 3', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+funzione/ruolo*
+responsabilità
+esperto (sme)
+contribuisce al contenuto del documento durante la 
+fase di collaborazione.
+almeno un esperto del gruppo di collaborazione: 
+approva il documento.
+approvatore finale
+fornisce l'ultima firma e stabilisce la data di entrata 
+in vigore del documento (lo stesso giorno della 
+firma o in futuro),
+per le politicy o le procedure relative alla gxp, deve 
+essere un rappresentante dell'organizzazione 
+grünenthal global quality assurance.
+proprietario (owner)
+è indicato sulla/e rispettiva/e infocard.
+è responsabile dell'adeguatezza del contenuto e 
+della correttezza di tutti i metadati, compreso il tipo 
+di documento corretto.
+deve valutare l'impatto sul documento di proprietà, 
+nel caso in cui una infocard collegata venga creata 
+o rivista di recente (se le informazioni sono 
+disponibili).
+approva il documento.
+training coordinator (tc)
+supporta l'autore e il proprietario (owner) nella 
+gestione della formazione e dei codici di lavoro 
+necessari all'interno di mastercontrol.
+conferma con una firma che i corsi di formazione 
+sono impostati come richiesto dall'autore/owner.
+nota: in base alla proc-007488, è necessario 
+avviare la formazione su tutte le politiche e 
+procedure. la formazione su sup e tmat è 
+facoltativa.
+può recuperare i documenti archiviati per 
+audit/ispezioni.
+*per partecipare e firmare i documenti in mastercontrol, è necessario almeno il ruolo “solo 
+approvazione” (richiedibile tramite ivanti).
+4
+termini e definizioni
+termine
+definizione
+infocard
+una scheda digitale di mastercontrol che contiene 
+tutti i metadati di un documento e un link al 
+documento principale.
+collegamenti
+collegamenti che possono essere aggiunti alle 
+infocard:
+alle fonti interne, cioè a qualsiasi infocard di 
+mastercontrol.
+a fonti esterne, ad esempio altri sistemi elettronici 
+di grünenthal o siti web di internet.
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 3.
+Funzione/ruolo*
+Responsabilità
+Esperto (SME)
+Contribuisce al contenuto del documento durante la 
+fase di collaborazione.
+Almeno un esperto del gruppo di collaborazione: 
+Approva il documento.
+Approvatore finale
+Fornisce l'ultima firma e stabilisce la data di entrata 
+in vigore del documento (lo stesso giorno della 
+firma o in futuro),
+Per le politicy o le procedure relative alla GxP, deve 
+essere un rappresentante dell'organizzazione 
+Grünenthal Global Quality Assurance.
+Proprietario (owner)
+È indicato sulla/e rispettiva/e InfoCard.
+È responsabile dell'adeguatezza del contenuto e 
+della correttezza di tutti i metadati, compreso il tipo 
+di documento corretto.
+Deve valutare l'impatto sul documento di proprietà, 
+nel caso in cui una InfoCard collegata venga creata 
+o rivista di recente (se le informazioni sono 
+disponibili).
+Approva il documento.
+Training Coordinator (TC)
+Supporta l'autore e il proprietario (owner) nella 
+gestione della formazione e dei codici di lavoro 
+necessari all'interno di MasterControl.
+Conferma con una firma che i corsi di formazione 
+sono impostati come richiesto dall'autore/owner.
+Nota: in base alla PROC-007488, è necessario 
+avviare la formazione su tutte le politiche e 
+procedure. La formazione su SUP e TMAT è 
+facoltativa.
+Può recuperare i documenti archiviati per 
+audit/ispezioni.
+*Per partecipare e firmare i documenti in MasterControl, è necessario almeno il ruolo “Solo 
+approvazione” (richiedibile tramite ivanti).
+4
+TERMINI E DEFINIZIONI
+Termine
+Definizione
+InfoCard
+Una scheda digitale di MasterControl che contiene 
+tutti i metadati di un documento e un link al 
+documento principale.
+Collegamenti
+Collegamenti che possono essere aggiunti alle 
+InfoCard:
+Alle fonti interne, cioè a qualsiasi InfoCard di 
+MasterControl.
+A fonti esterne, ad esempio altri sistemi elettronici 
+di Grünenthal o siti web di Internet.
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 4', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+termine
+definizione
+meta dati
+informazioni specifiche del documento che ne 
+descrivono gli attributi e le proprietà. esse forniscono 
+il contesto e i dettagli relativi, ad esempio, al tipo, 
+all'autore, all’owner, al titolo, alle relazioni con altri 
+documenti e alle parole chiave (definite nei cosiddetti 
+campi personalizzati).
+pacchetto (packet)
+termine utilizzato in mastercontrol quando un 
+documento viene inviato in un flusso di lavoro (ad 
+esempio, l'avvio di un "new packet task").
+5
+processo
+il processo descrive le fasi di mastercontrol da seguire per la gestione di tutti i tipi di 
+documenti standard descritti in proc-008172. 
+vedere anche tmat-000008 o le traduzioni corrispondenti.
+5.1
+tipi di infocard
+questa sezione descrive i tipi e i sottotipi di infocard da utilizzare per la gestione dei
+diversi tipi di documenti standard. 
+5.1.1
+tipo di infocard “procedura”
+questo tipo di infocard deve essere utilizzato per tutte le policy, le sop e le win 
+(nota: valido per le policy fino a quando mastercontrol non viene configurato per 
+riflettere il tipo di infocard corretto per le policy. l'indicazione che si tratta di una 
+policy è garantita dai campi personalizzati).
+sottotipo
+informazioni 
+sul sottotipo
+flusso di 
+lavoro di 
+approvazione*
+informazioni aggiuntive
+gxp
+se legato alla 
+gxp 
+approvazione 
+autore
+approvazione 
+esperto
+(sme)
+training 
+coordinator
+approvazione 
+owner
+approvazione 
+finale qa
+per ogni fase di approvazione viene 
+selezionata una sola persona, ad 
+eccezione dello sme (in questo 
+caso è possibile aggiungere altri 
+soggetti).
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 4.
+Termine
+Definizione
+Meta dati
+Informazioni specifiche del documento che ne 
+descrivono gli attributi e le proprietà. Esse forniscono 
+il contesto e i dettagli relativi, ad esempio, al tipo, 
+all'autore, all’owner, al titolo, alle relazioni con altri 
+documenti e alle parole chiave (definite nei cosiddetti 
+campi personalizzati).
+Pacchetto (Packet)
+Termine utilizzato in MasterControl quando un 
+documento viene inviato in un flusso di lavoro (ad 
+esempio, l'avvio di un "New Packet Task").
+5
+PROCESSO
+Il processo descrive le fasi di MasterControl da seguire per la gestione di tutti i tipi di 
+documenti standard descritti in PROC-008172. 
+Vedere anche TMAT-000008 o le traduzioni corrispondenti.
+5.1
+Tipi di InfoCard
+Questa sezione descrive i tipi e i sottotipi di InfoCard da utilizzare per la gestione dei
+diversi tipi di documenti standard. 
+5.1.1
+Tipo di InfoCard “Procedura”
+Questo tipo di InfoCard deve essere utilizzato per tutte le policy, le SOP e le WIN 
+(Nota: valido per le policy fino a quando MasterControl non viene configurato per 
+riflettere il tipo di InfoCard corretto per le policy. L'indicazione che si tratta di una 
+policy è garantita dai campi personalizzati).
+Sottotipo
+Informazioni 
+sul sottotipo
+Flusso di 
+lavoro di 
+approvazione*
+Informazioni aggiuntive
+GxP
+Se legato alla 
+GxP 
+Approvazione 
+Autore
+Approvazione 
+Esperto
+(SME)
+Training 
+Coordinator
+Approvazione 
+owner
+Approvazione 
+finale QA
+Per ogni fase di approvazione viene 
+selezionata una sola persona, ad 
+eccezione dello SME (in questo 
+caso è possibile aggiungere altri 
+soggetti).
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 5', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+sottotipo
+informazioni 
+sul sottotipo
+flusso di 
+lavoro di 
+approvazione*
+informazioni aggiuntive
+non gxp
+se non è 
+legato alla 
+gxp
+approvazione
+autore
+approvazione
+esperto
+(sme)
+training 
+coordinator
+approvazione
+owner
+il training coordinator firma dopo lo 
+sme per confermare la 
+creazione/aggiornamento dei relativi 
+corsi di formazione, ma questo non 
+viene conteggiato come 
+approvazione e non viene riportato 
+sul manifesto delle firme.
+trans
+solo per la 
+traduzione 
+1:1
+approvazione 
+in 2 fasi:
+autore
+approvazione 
+finale
+la firma deve essere coordinata con 
+l’owner del documento originale.
+*nomi delle fasi del flusso di lavoro
+5.1.2
+tipo di infocard "supportivo" 
+questo tipo di infocard deve essere utilizzato per tutti i documenti di supporto.
+sottotipo
+informazioni 
+sul sottotipo
+flusso di lavoro 
+di approvazione*
+informazioni aggiuntive
+labelled
+modello in 
+mastercontrol
+approvazione in 1 
+fase: 
+rilascio di 
+documenti
+o
+approvazione in 2 
+fasi:
+autore
+approvazione 
+finale
+per le gxp sup: l'approvazione 
+in 2 fasi è obbligatoria.
+non gxp: approvazione in 1 o 2 
+fasi.
+vuoto
+file caricati 
+secondo 
+necessità
+*nomi delle fasi del flusso di lavoro
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 5.
+Sottotipo
+Informazioni 
+sul sottotipo
+Flusso di 
+lavoro di 
+approvazione*
+Informazioni aggiuntive
+Non GxP
+Se non è 
+legato alla 
+GxP
+Approvazione
+Autore
+Approvazione
+Esperto
+(SME)
+Training 
+Coordinator
+Approvazione
+Owner
+Il Training Coordinator firma dopo lo 
+SME per confermare la 
+creazione/aggiornamento dei relativi 
+corsi di formazione, ma questo non 
+viene conteggiato come 
+approvazione e non viene riportato 
+sul manifesto delle firme.
+TRANS
+Solo per la 
+traduzione 
+1:1
+Approvazione 
+in 2 fasi:
+Autore
+Approvazione 
+finale
+La firma deve essere coordinata con 
+l’owner del documento originale.
+*Nomi delle fasi del flusso di lavoro
+5.1.2
+Tipo di InfoCard "Supportivo" 
+Questo tipo di InfoCard deve essere utilizzato per tutti i documenti di supporto.
+Sottotipo
+Informazioni 
+sul sottotipo
+Flusso di lavoro 
+di approvazione*
+Informazioni aggiuntive
+Labelled
+Modello in 
+MasterControl
+Approvazione in 1 
+fase: 
+Rilascio di 
+documenti
+o
+Approvazione in 2 
+fasi:
+Autore
+Approvazione 
+finale
+Per le GxP SUP: l'approvazione 
+in 2 fasi è obbligatoria.
+Non GxP: approvazione in 1 o 2 
+fasi.
+Vuoto
+File caricati 
+secondo 
+necessità
+*Nomi delle fasi del flusso di lavoro
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 6', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.1.3
+tipo di infocard "materiale didattico (tmat)" 
+questo tipo di infocard deve essere utilizzato per il materiale di formazione.
+sottotipo
+informazioni 
+sul sottotipo
+flusso di lavoro di 
+approvazione*
+informazioni aggiuntive
+generale
+file caricati 
+secondo 
+necessità.
+approvazione in 1 fase:
+rilascio di documenti
+o
+approvazione in 2 fasi:
+autore
+approvazione finale
+n.d.
+*nomi delle fasi del flusso di lavoro
+5.1.4
+tipo infocard "modello" 
+questo tipo di infocard viene utilizzato solo dalla funzione responsabile della 
+configurazione del mastercontrol.
+sottotipo
+informazioni 
+sul sottotipo
+flusso di lavoro di 
+approvazione*
+informazioni aggiuntive
+n.d.
+n.d.
+approvazione in 1 fase:
+rilascio di documenti
+o
+approvazione in 2 fasi:
+autore
+approvazione finale
+n.d.
+*nomi delle fasi del flusso di lavoro
+5.2
+convenzione di denominazione
+si raccomanda vivamente di utilizzare la seguente convenzione di denominazione 
+per i titoli dei documenti:
+tipo di documento
+convenzione di denominazione
+tutti
+nel caso in cui sia necessario aggiungere un paese al 
+titolo: utilizzare il codice iso a 3 lettere.
+nel caso in cui sia necessario aggiungere una lingua al 
+titolo: utilizzare il codice iso di 2 lettere.
+policy
+aggiungere "policy" al titolo, ad esempio "policy della 
+qualità gxp".
+ambito del paese = 
+globale
+aggiungere "globale" al titolo, ad esempio "processo 
+globale per.....".
+traduzioni 
+scrivere il titolo nella rispettiva lingua.
+aggiungere "- trans" alla fine del titolo + il codice iso 
+di 2 lettere della lingua tra parentesi.
+esempio: gestione dei documenti estranei in 
+mastercontrol - trans (es)
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 6.
+5.1.3
+Tipo di InfoCard "Materiale didattico (TMAT)" 
+Questo tipo di InfoCard deve essere utilizzato per il materiale di formazione.
+Sottotipo
+Informazioni 
+sul sottotipo
+Flusso di lavoro di 
+approvazione*
+Informazioni aggiuntive
+Generale
+File caricati 
+secondo 
+necessità.
+Approvazione in 1 fase:
+Rilascio di documenti
+o
+Approvazione in 2 fasi:
+Autore
+Approvazione finale
+n.d.
+*Nomi delle fasi del flusso di lavoro
+5.1.4
+Tipo InfoCard "Modello" 
+Questo tipo di InfoCard viene utilizzato solo dalla funzione responsabile della 
+configurazione del MasterControl.
+Sottotipo
+Informazioni 
+sul sottotipo
+Flusso di lavoro di 
+approvazione*
+Informazioni aggiuntive
+n.d.
+n.d.
+Approvazione in 1 fase:
+Rilascio di documenti
+o
+Approvazione in 2 fasi:
+Autore
+Approvazione finale
+n.d.
+*Nomi delle fasi del flusso di lavoro
+5.2
+Convenzione di denominazione
+Si raccomanda vivamente di utilizzare la seguente convenzione di denominazione 
+per i titoli dei documenti:
+Tipo di documento
+Convenzione di denominazione
+Tutti
+Nel caso in cui sia necessario aggiungere un paese al 
+titolo: Utilizzare il codice ISO a 3 lettere.
+Nel caso in cui sia necessario aggiungere una lingua al 
+titolo: Utilizzare il codice ISO di 2 lettere.
+Policy
+Aggiungere "Policy" al titolo, ad esempio "Policy della 
+qualità GxP".
+Ambito del paese = 
+Globale
+Aggiungere "Globale" al titolo, ad esempio "Processo 
+globale per.....".
+Traduzioni 
+Scrivere il titolo nella rispettiva lingua.
+Aggiungere "- Trans" alla fine del titolo + il codice ISO 
+di 2 lettere della lingua tra parentesi.
+Esempio: Gestione dei documenti estranei in 
+MasterControl - Trans (ES)
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 7', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+tipo di documento
+convenzione di denominazione
+sup
+iniziare il titolo con il tipo di documento, ad es, 
+lista di controllo per...
+modello di....
+guida per...
+5.3
+utilizzo dei link
+5.3.1
+generale
+•
+i collegamenti tra le infocard sono sempre visibili su entrambe, il che significa 
+che un collegamento a un sup aggiunto alla infocard di una proc viene 
+automaticamente aggiunto alla infocard del sup. 
+•
+una infocard può essere collegata a diverse altre.
+•
+un link può essere contrassegnato come "smart link" (vedere 5.3.3).
+5.3.2
+collegamenti normali
+è necessario applicare le seguenti regole:
+•
+collegare le infocard solo quando sono direttamente citate nel contenuto 
+dell'altro documento standard.
+•
+non aggiungere collegamenti a schede informative di altri moduli mastercontrol, 
+ad esempio a deviazioni, capa, ecc.
+5.3.3
+smart link 
+gli smart link tra le infocard vengono impostati quando il contenuto dei documenti 
+dipende l'uno dall'altro, ovvero quando una modifica del contenuto di un documento 
+può avere un impatto diretto sull'altro documento.
+quando si modifica una infocard che ha uno smart link, una finestra a comparsa 
+avvisa l'utente che qualsiasi modifica può influire sulle infocard collegate.
+l’owner di una infocard collegata con smart link riceve una notifica via e-mail.
+è necessario applicare le seguenti regole:
+•
+utilizzare smart link solo per le infocard quando i contenuti dipendono 
+direttamente l'uno dall'altro, ad esempio traduzioni 1:1.
+•
+si raccomanda vivamente di coordinarsi con l’owner del documento o dei 
+documenti corrispondenti. 
+5.4
+modifica dei dati infocard
+a seconda dello stato dell'infocard, le modifiche possono essere effettuate da diversi 
+ruoli (tutte le modifiche sono conservate in un audit trail): 
+•
+bozza di infocard, non in un pacchetto: ogni creatore/revisore può apportare 
+modifiche.
+•
+bozza di infocard, in collaborazione: ogni membro della fase di collaborazione 
+può apportare modifiche (quando si accede all'infocard dalla collaborazione e 
+non tramite la funzione di ricerca).
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 7.
+Tipo di documento
+Convenzione di denominazione
+SUP
+Iniziare il titolo con il tipo di documento, ad es, 
+Lista di controllo per...
+Modello di....
+Guida per...
+5.3
+Utilizzo dei link
+5.3.1
+Generale
+•
+I collegamenti tra le InfoCard sono sempre visibili su entrambe, il che significa 
+che un collegamento a un SUP aggiunto alla InfoCard di una PROC viene 
+automaticamente aggiunto alla InfoCard del SUP. 
+•
+Una InfoCard può essere collegata a diverse altre.
+•
+Un link può essere contrassegnato come "Smart link" (vedere 5.3.3).
+5.3.2
+Collegamenti normali
+È necessario applicare le seguenti regole:
+•
+Collegare le InfoCard solo quando sono direttamente citate nel contenuto 
+dell'altro documento standard.
+•
+Non aggiungere collegamenti a schede informative di altri moduli MasterControl, 
+ad esempio a deviazioni, CAPA, ecc.
+5.3.3
+Smart Link 
+Gli Smart Link tra le InfoCard vengono impostati quando il contenuto dei documenti 
+dipende l'uno dall'altro, ovvero quando una modifica del contenuto di un documento 
+può avere un impatto diretto sull'altro documento.
+Quando si modifica una InfoCard che ha uno Smart Link, una finestra a comparsa 
+avvisa l'utente che qualsiasi modifica può influire sulle InfoCard collegate.
+L’owner di una InfoCard collegata con Smart Link riceve una notifica via e-mail.
+È necessario applicare le seguenti regole:
+•
+Utilizzare Smart Link solo per le InfoCard quando i contenuti dipendono 
+direttamente l'uno dall'altro, ad esempio traduzioni 1:1.
+•
+Si raccomanda vivamente di coordinarsi con l’owner del documento o dei 
+documenti corrispondenti. 
+5.4
+Modifica dei dati InfoCard
+A seconda dello stato dell'InfoCard, le modifiche possono essere effettuate da diversi 
+ruoli (tutte le modifiche sono conservate in un audit trail): 
+•
+Bozza di InfoCard, non in un pacchetto: ogni Creatore/Revisore può apportare 
+modifiche.
+•
+Bozza di InfoCard, in collaborazione: ogni membro della fase di collaborazione 
+può apportare modifiche (quando si accede all'InfoCard dalla collaborazione e 
+non tramite la funzione di ricerca).
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 8', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+•
+infocard rilasciata: solo un docadmin può effettuare le modifiche (non è 
+possibile modificare il contenuto del documento!).
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 8.
+•
+InfoCard rilasciata: Solo un DocAdmin può effettuare le modifiche (non è 
+possibile modificare il contenuto del documento!).
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 9', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5
+processo 
+5.5.1
+ciclo di vita del documento in mastercontrol - stato del documento
+lo stato del ciclo di vita di un documento viene aggiornato automaticamente dal sistema:
+•
+"bozza": ogni nuova infocard (nuovo documento o nuova revisione) è prima in bozza.
+•
+"rilascio": lo stato cambia dopo il salvataggio dell'ultima firma e al raggiungimento della data di entrata in vigore.
+•
+"archivio": lo stato cambia,
+a. se una nuova revisione entra in vigore, o
+b. dopo il salvataggio dell'ultima firma di un flusso di lavoro di prelievo e al raggiungimento della data di scadenza.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 9.
+5.5
+Processo 
+5.5.1
+Ciclo di vita del documento in MasterControl - Stato del documento
+Lo stato del ciclo di vita di un documento viene aggiornato automaticamente dal sistema:
+•
+"Bozza": Ogni nuova InfoCard (nuovo documento o nuova revisione) è prima in bozza.
+•
+"Rilascio": Lo stato cambia dopo il salvataggio dell'ultima firma e al raggiungimento della data di entrata in vigore.
+•
+"Archivio": Lo stato cambia,
+a. Se una nuova revisione entra in vigore, o
+b. Dopo il salvataggio dell'ultima firma di un flusso di lavoro di prelievo e al raggiungimento della data di scadenza.
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 10', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.2
+ciclo di vita del documento in mastercontrol - flusso di lavoro
+il flusso di lavoro riportato di seguito descrive a titolo di esempio le fasi del ciclo di vita di una procedura gxp.
+nota:
+non esiste una fase di richiesta di modifica per le procedure non gxp o per i flussi di lavoro di approvazione in 1 e 2 fasi.
+la revisione periodica è valida solo per le procedure, ma non per i documenti di supporto o il materiale di formazione.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 10.
+5.5.2
+Ciclo di vita del documento in MasterControl - Flusso di lavoro
+Il flusso di lavoro riportato di seguito descrive a titolo di esempio le fasi del ciclo di vita di una procedura GxP.
+Nota:
+Non esiste una fase di richiesta di modifica per le procedure non GxP o per i flussi di lavoro di approvazione in 1 e 2 fasi.
+La revisione periodica è valida solo per le procedure, ma non per i documenti di supporto o il materiale di formazione.
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 11', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.3
+avviare un nuovo documento/revisione 
+*nel caso in cui la richiesta di modifica sia approvata da una persona diversa dall’owner, è necessario aggiungere una giustificazione nel 
+campo dei commenti.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 11.
+5.5.3
+Avviare un nuovo documento/revisione 
+*Nel caso in cui la richiesta di modifica sia approvata da una persona diversa dall’owner, è necessario aggiungere una giustificazione nel 
+campo dei commenti.
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 12', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.4
+collaborazione
+*si consiglia di invitare tutti gli approvatori previsti come collaboratori prima di terminare la collaborazione.
+**raccomandazione: informare il training coordinator competente sulle prossime esigenze di formazione. se applicabile, 
+assicurarsi che il materiale di formazione sia preparato e trasmesso al training coordinator.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 12.
+5.5.4
+Collaborazione
+*Si consiglia di invitare tutti gli approvatori previsti come collaboratori prima di terminare la collaborazione.
+**Raccomandazione: Informare il Training Coordinator competente sulle prossime esigenze di formazione. Se applicabile, 
+assicurarsi che il materiale di formazione sia preparato e trasmesso al Training Coordinator.
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 13', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.5
+approvazioni
+in generale, per tutti i flussi di lavoro di approvazione, vale quanto segue:
+l'approvatore finale deve impostare la data di entrata in vigore. questa può essere una data futura, ad esempio per un periodo di 
+formazione prima che il documento diventi effettivo. 
+da considerare:
+•
+data di entrata in vigore da concordare con l'autore/owner,
+•
+il training coordinator deve essere informato della data di entrata in vigore prevista per allineare le tempistiche di 
+completamento della formazione,
+•
+si consiglia vivamente di impostare la data di entrata in vigore a ≤ 30 giorni.
+•
+non inserire una data di scadenza!!! in caso contrario, il documento verrà archiviato automaticamente a quella data.se più 
+persone sono selezionate per una fase di approvazione, tutti i firmatari devono firmare prima che inizi la fase successiva, ad 
+eccezione della fase di training coordinator e della fase di approvazione finale di qa, per le quali è sufficiente una sola firma 
+per passare alla fase successiva.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 13.
+5.5.5
+Approvazioni
+In generale, per tutti i flussi di lavoro di approvazione, vale quanto segue:
+L'approvatore finale deve impostare la data di entrata in vigore. Questa può essere una data futura, ad esempio per un periodo di 
+formazione prima che il documento diventi effettivo. 
+Da considerare:
+•
+Data di entrata in vigore da concordare con l'autore/owner,
+•
+Il Training Coordinator deve essere informato della data di entrata in vigore prevista per allineare le tempistiche di 
+completamento della formazione,
+•
+Si consiglia vivamente di impostare la data di entrata in vigore a ≤ 30 giorni.
+•
+Non inserire una data di scadenza!!! In caso contrario, il documento verrà archiviato automaticamente a quella data.Se più 
+persone sono selezionate per una fase di approvazione, tutti i firmatari devono firmare prima che inizi la fase successiva, ad 
+eccezione della fase di training coordinator e della fase di approvazione finale di QA, per le quali è sufficiente una sola firma 
+per passare alla fase successiva.
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 14', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.5.1
+approvazione - flusso di lavoro gxp
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 14.
+5.5.5.1
+Approvazione - Flusso di lavoro GxP
+
+
+================================================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 15', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.5.2
+approvazione - flusso di lavoro non gxp
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 15.
+5.5.5.2
+Approvazione - Flusso di lavoro non GxP
+
+
+================================================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 16', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.5.3
+flusso di lavoro - approvazione in 2 fasi
+5.5.5.4
+flusso di lavoro - approvazione in 1 fase
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 16.
+5.5.5.3
+Flusso di lavoro - Approvazione in 2 fasi
+5.5.5.4
+Flusso di lavoro - Approvazione in 1 fase
+
+
+================================================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 17', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.6
+revisione periodica
+5.5.6.1
+informazioni generali
+per il tipo di infocard "procedura", mastercontrol genera un'attività automatica di "revisione" per l'autore e l’owner (i nomi vengono 
+recuperati dalla rispettiva infocard). l'attività viene avviata 120 giorni prima della data di "prossima revisione" sull'infocard. il 
+periodo di revisione dipende dal sottotipo di infocard:
+•
+gxp: ogni 3 anni.
+•
+non gxp: ogni 5 anni. 
+è possibile selezionare le seguenti opzioni:
+•
+"reviewed":
+significato: il documento non richiede alcun aggiornamento. 
+flusso di lavoro: dopo che l'autore o l’owner hanno firmato con " reviewed", l'attività rimane aperta per l'altro finché non 
+viene selezionata la stessa opzione per la firma.
+conseguenze: il numero di revisione rimane invariato, ma la data della "next review" viene prorogata in base al periodo di
+revisione definito, ovvero 3 anni per le procedure gxp e 5 anni per quelle non gxp (il processo termina qui).
+nota: la fase di revisione può essere completata selezionando " reviewed" solo due volte di seguito. successivamente, il 
+documento deve essere aggiornato.
+•
+"necessità di aggiornamento":
+significato: il documento deve essere rivisto. 
+flusso di lavoro: dopo che l'autore o l’owner hanno firmato "necessita di aggiornamento", il flusso di lavoro continua con la 
+fase successiva (vedere il flusso di lavoro qui sotto) e l'attività di revisione viene rimossa dall'elenco dell'altra persona.
+conseguenze: 
+viene avviata la fase intermedia "review collaboration", che deve essere prima firmata come “termina 
+collaborazione”senza ulteriori attività.
+il firmatario della collaborazione di revisione deve confermare la creazione di una nuova infocard, selezionare il flusso di 
+lavoro corretto e lanciare l'attività del nuovo pacchetto.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 17.
+5.5.6
+Revisione periodica
+5.5.6.1
+Informazioni generali
+Per il tipo di InfoCard "Procedura", MasterControl genera un'attività automatica di "Revisione" per l'autore e l’owner (i nomi vengono 
+recuperati dalla rispettiva InfoCard). L'attività viene avviata 120 giorni prima della data di "Prossima revisione" sull'InfoCard. Il 
+periodo di revisione dipende dal sottotipo di InfoCard:
+•
+GxP: ogni 3 anni.
+•
+Non GxP: ogni 5 anni. 
+È possibile selezionare le seguenti opzioni:
+•
+"Reviewed":
+Significato: Il documento non richiede alcun aggiornamento. 
+Flusso di lavoro: Dopo che l'Autore o l’Owner hanno firmato con " Reviewed", l'attività rimane aperta per l'altro finché non 
+viene selezionata la stessa opzione per la firma.
+Conseguenze: Il numero di revisione rimane invariato, ma la data della "Next Review" viene prorogata in base al periodo di
+revisione definito, ovvero 3 anni per le procedure GxP e 5 anni per quelle non GxP (il processo termina qui).
+Nota: la fase di revisione può essere completata selezionando " Reviewed" solo due volte di seguito. Successivamente, il 
+documento deve essere aggiornato.
+•
+"Necessità di aggiornamento":
+Significato: Il documento deve essere rivisto. 
+Flusso di lavoro: Dopo che l'Autore o l’Owner hanno firmato "Necessita di aggiornamento", il flusso di lavoro continua con la 
+fase successiva (vedere il flusso di lavoro qui sotto) e l'attività di revisione viene rimossa dall'elenco dell'altra persona.
+Conseguenze: 
+Viene avviata la fase intermedia "Review Collaboration", che deve essere prima firmata come “Termina 
+collaborazione”senza ulteriori attività.
+Il firmatario della collaborazione di revisione deve confermare la creazione di una nuova InfoCard, selezionare il flusso di 
+lavoro corretto e lanciare l'attività del nuovo pacchetto.
+
+
+================================================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 18', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.6.2
+revisione periodica - flusso di lavoro 
+5.5.7
+ritiro
+5.5.7.1
+informazioni generali
+per ritirare un documento, è necessario inviare una richiesta a un docadmin (ad esempio, via e-mail) con le seguenti informazioni:
+•
+numero di infocard,
+•
+nome della persona incaricata di richiedere ufficialmente il ritiro (si raccomanda che l'autore firmi la richiesta),
+•
+nome della persona incaricata di approvare la richiesta (deve essere diversa dal richiedente). 
+nota: l'approvatore deve essere l’owner, un sostituto appropriato o una funzione di qa. se non è possibile, l'approvatore 
+deve spiegarlo nel campo dei commenti quando firma.
+•
+un training coordinator deve essere informato per garantire l'archiviazione del corso o dei corsi corrispondenti.
+•
+nota: l'approvatore deve impostare una data di scadenza per inviare il documento all'archivio. se questa data non viene 
+inserita, le infocard rimangono nello stato rilasciato.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 18.
+5.5.6.2
+Revisione periodica - Flusso di lavoro 
+5.5.7
+Ritiro
+5.5.7.1
+Informazioni generali
+Per ritirare un documento, è necessario inviare una richiesta a un DocAdmin (ad esempio, via e-mail) con le seguenti informazioni:
+•
+Numero di InfoCard,
+•
+Nome della persona incaricata di richiedere ufficialmente il ritiro (si raccomanda che l'Autore firmi la richiesta),
+•
+Nome della persona incaricata di approvare la richiesta (deve essere diversa dal richiedente). 
+Nota: l'approvatore deve essere l’Owner, un sostituto appropriato o una funzione di QA. Se non è possibile, l'approvatore 
+deve spiegarlo nel campo dei commenti quando firma.
+•
+Un Training Coordinator deve essere informato per garantire l'archiviazione del corso o dei corsi corrispondenti.
+•
+Nota: l'approvatore deve impostare una data di scadenza per inviare il documento all'archivio. Se questa data non viene 
+inserita, le InfoCard rimangono nello stato Rilasciato.
+
+
+================================================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 19', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+5.5.7.2
+ritiro - flusso di lavoro
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 19.
+5.5.7.2
+Ritiro - Flusso di lavoro
+
+
+================================================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf', 'page_label': 'Page 20', 'sop_title': 'Gestione dei documenti standard in MasterControl - Trans (IT)', 'document_number': 'PROC-008173', 'version_number': '02', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+6
+riferimenti
+•
+proc-008172 processo globale per la gestione dei documenti standard -
+trans (it)
+•
+tmat-000008 mc creator-reviser (inglese)
+•
+l'elenco dei training coordinator e dei docadmin è disponibile a questo link: 
+link all'elenco dei contatti nella quality community.
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025020015.pdf, Page 20.
+6
+RIFERIMENTI
+•
+PROC-008172 Processo globale per la gestione dei documenti standard -
+Trans (IT)
+•
+TMAT-000008 MC Creator-Reviser (inglese)
+•
+L'elenco dei Training Coordinator e dei DocAdmin è disponibile a questo link: 
+Link all'elenco dei contatti nella Quality Community.
+7
+
+
+================================================================================
+

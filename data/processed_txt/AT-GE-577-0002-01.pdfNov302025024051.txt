@@ -1,5 +1,5 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 4', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 4', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 at-ge-577-0002-01 
@@ -114,7 +114,7 @@ Data Security measures.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 5', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 5', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 .....{")_. 
@@ -219,7 +219,7 @@ in European guidelines and laws.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 6', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 6', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 ._()._ 
@@ -326,7 +326,7 @@ individual.
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 7', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 7', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 _ 
@@ -403,7 +403,7 @@ o Personal data to be collected (e.g.: name, date of birth, DNA etc.)
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 8', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 8', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 .....()._ 
@@ -482,7 +482,7 @@ collected.
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 9', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 9', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 ....n.... 
@@ -571,7 +571,7 @@ local regulation (in Austria 8 weeks).
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 10', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 10', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 _().... 
@@ -666,7 +666,7 @@ the processing.
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 11', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'AT-GE-577-0002-01.pdfNov302025024051.pdf', 'page_label': 'Page 11', 'sop_title': 'Data protection at Grünenthal Ges. m. b. H Austria', 'document_number': 'PROC-003428', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 ....{)_ 

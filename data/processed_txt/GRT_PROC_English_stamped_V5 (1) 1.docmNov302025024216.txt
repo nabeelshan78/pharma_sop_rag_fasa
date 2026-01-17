@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 2', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 2', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: backup and restore
 1
 objective
 this standard operation procedure defines processes for backup and restore of data
@@ -61,7 +60,6 @@ also refer to the scheduling of backups in backup tools.
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf, Page 2.
-Local Title: Backup and Restore
 1
 OBJECTIVE
 This Standard Operation Procedure defines processes for backup and restore of data
@@ -122,7 +120,7 @@ also refer to the scheduling of backups in backup tools.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 3', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 3', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -285,7 +283,7 @@ General Data Protection Regulation
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 4', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 4', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -310,7 +308,7 @@ Transaction logs.
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 6', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 6', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 default backup service for file share data on primary netapp storage 
@@ -433,7 +431,7 @@ Backup retention
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 7', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 7', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 backup type
@@ -550,7 +548,7 @@ managers), minimizing the risk of misuse or error.
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 8', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 8', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 to further enhance security, backup servers must be kept outside the corporate active 
@@ -643,7 +641,7 @@ needs to open a service request in ITSM. If the system is GxP relevant, the AM o
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 9', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 9', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 is responsible to assess if a moc (following proc-007059) or any other 
@@ -700,7 +698,7 @@ The following workflow chart shows the process in detail.
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 10', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 10', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 requester chooses  
@@ -809,7 +807,7 @@ deviation
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 11', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 11', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 application
@@ -996,7 +994,7 @@ backup through a service request in which AM identifies the file or database tha
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 12', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V5 (1) 1.docmNov302025024216.pdf', 'page_label': 'Page 12', 'sop_title': 'Backup and Restore', 'document_number': 'PROC-005477', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 be restored as part of the test. am must confirm the data integrity of the restored files 

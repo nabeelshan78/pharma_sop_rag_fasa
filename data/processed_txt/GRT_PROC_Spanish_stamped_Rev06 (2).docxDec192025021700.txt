@@ -1,0 +1,3831 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+8
+distribución, quejas / reclamos y retiro de productos
+31
+8.1
+distribución
+31
+8.2
+quejas / reclamos, defectos y retiro de productos
+32
+9
+autoinspecciones
+33
+10
+referencias normativas
+34
+11
+lista de anexos  (se podrá encontrar físicamente en las 
+instalaciones de tecnandina
+34
+12
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 3.
+8
+Distribución, Quejas / Reclamos y Retiro de Productos
+31
+8.1
+Distribución
+31
+8.2
+Quejas / Reclamos, Defectos y Retiro de Productos
+32
+9
+Autoinspecciones
+33
+10
+Referencias Normativas
+34
+11
+Lista de Anexos  (se podrá encontrar físicamente en las 
+instalaciones de Tecnandina
+34
+12
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+1
+información general de la empresa
+1.1
+razón social y domicilio legal
+planta de manufactura
+tecnandina s.a.
+av. manuel córdova galarza km 6 ½ y calle el paraíso.
+pusuquí, quito, ecuador. 
+los edificios situados en la planta se utilizan para la administración, almacenamiento, 
+despachos, aseguramiento de calidad, control de calidad, investigación & desarrollo y 
+producción.
+página web: http://www.tecnandina.com/
+las coordenadas gps de la planta son: 0°03’ 55¨ s 78°28’ 03¨w
+numero duns 93-512-9544
+línea comercial
+grünenthal ecuatoriana cia ltda.
+av. manuel córdova galarza km 6 ½ y calle el paraíso.
+pusuquí, quito, ecuador. 
+el edificio situado dentro de los linderos se utiliza para la administración.
+1.2
+nombre del representante legal de la empresa
+ing. martin cortes
+1.3
+información de contacto de la empresa 
+la persona y número de teléfono de contacto disponible para el caso de productos 
+defectuosos o retiro del mercado es:
+qf. magaly morales
+head commercial quality assurance ec
+cqa – grünenthal ecuatoriana cia. ltda.
+grupo grünenthal del ecuador
+teléfono: +593 (2) 298-9096
+celular:   +593 (9) 87691187
+correo electrónico: magaly.morales@.com
+el certificado de constitución de tecnandina, identificado como el anexo 1 (ubicado en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 1)).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 4.
+1
+Información General de la Empresa
+1.1
+Razón Social y domicilio Legal
+Planta de Manufactura
+TECNANDINA S.A.
+Av. Manuel Córdova Galarza Km 6 ½ y Calle el Paraíso.
+Pusuquí, Quito, Ecuador. 
+Los edificios situados en la planta se utilizan para la administración, almacenamiento, 
+despachos, aseguramiento de calidad, control de calidad, investigación & desarrollo y 
+producción.
+Página web: http://www.tecnandina.com/
+Las coordenadas GPS de la planta son: 0°03’ 55¨ S 78°28’ 03¨W
+Numero DUNS 93-512-9544
+Línea Comercial
+Grünenthal Ecuatoriana Cia Ltda.
+Av. Manuel Córdova Galarza Km 6 ½ y Calle el Paraíso.
+Pusuquí, Quito, Ecuador. 
+El edificio situado dentro de los linderos se utiliza para la administración.
+1.2
+Nombre del Representante Legal de la Empresa
+Ing. Martin Cortes
+1.3
+Información de Contacto de la Empresa 
+La persona y número de teléfono de contacto disponible para el caso de productos 
+defectuosos o retiro del mercado es:
+QF. Magaly Morales
+Head Commercial Quality Assurance EC
+CQA – Grünenthal Ecuatoriana Cia. Ltda.
+Grupo Grünenthal del Ecuador
+Teléfono: +593 (2) 298-9096
+Celular:   +593 (9) 87691187
+Correo electrónico: Magaly.Morales@.com
+El Certificado de Constitución de Tecnandina, identificado como el Anexo 1 (Ubicado en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 1)).
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+1.4
+actividades farmacéuticas autorizadas en la planta
+número de permiso de funcionamiento: 
+arcsa-2025-14.4-0000146. fecha de emisión: 18-02-2025; fecha de vigencia: 18-02-2026
+la copia del permiso de funcionamiento emitido por la entidad regulatoria, incluyendo la 
+descripción de manufactura y otras actividades de la planta, así como las certificaciones bpm 
+(gmp) 
+vigentes, 
+se 
+encuentran 
+en 
+el 
+anexo 
+2 
+(ubicado 
+en
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 2)
+además de las actividades de manufactura enlistadas en el anexo 2 tecnandina s.a. también 
+se encuentra autorizada para llevar a cabo operaciones de servicio logístico y 
+acondicionamiento (impresión de frases regulatorias, precios de venta, código de barras, entre 
+otras) de los mismos.
+adicional a esas operaciones, la empresa realiza operaciones de exportación de 
+medicamentos a los siguientes países: brasil, suiza, chile, méxico, colombia, perú, bolivia, 
+paraguay, venezuela, américa central, alemania y el caribe.
+por otro lado, tecnandina s.a. presta servicios de fabricación: siegfried, pfizer, bayer, 
+hypera- brainfarma, stada y filiales de grünenthal.
+adicional, presta servicios de marcaje, almacenamiento, distribución y/o transporte según lo 
+aprobado en la certificación bpadt-ef-792-2024 a las empresas sanofi, novartis y 
+grünenthal ecuatoriana.
+en los últimos 5 años la planta ha recibido las siguientes inspecciones de verificación de 
+buenas prácticas de manufactura y de buenas prácticas de almacenamiento, distribución y/o 
+transporte (arcsa).
+buenas prácticas de manufactura:
+autoridad competente
+fecha
+bezirksregierung köln, alemania
+06 al 12 de diciembre de 2023
+arcsa/ecuador
+1 al 4 de septiembre de 2020
+03 al 07 de julio de 2023
+09 al 13 de diciembre 2024
+anvisa
+26 al 30 de mayo 2025
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 5.
+1.4
+Actividades Farmacéuticas Autorizadas en la Planta
+Número de Permiso de funcionamiento: 
+ARCSA-2025-14.4-0000146. Fecha de emisión: 18-02-2025; fecha de vigencia: 18-02-2026
+La copia del permiso de funcionamiento emitido por la entidad regulatoria, incluyendo la 
+descripción de manufactura y otras actividades de la planta, así como las certificaciones BPM 
+(GMP) 
+vigentes, 
+se 
+encuentran 
+en 
+el 
+Anexo 
+2 
+(Ubicado 
+en
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 2)
+Además de las actividades de manufactura enlistadas en el Anexo 2 Tecnandina S.A. también 
+se encuentra autorizada para llevar a cabo operaciones de servicio logístico y 
+acondicionamiento (impresión de frases regulatorias, precios de venta, código de barras, entre 
+otras) de los mismos.
+Adicional a esas operaciones, la empresa realiza operaciones de exportación de 
+medicamentos a los siguientes países: Brasil, Suiza, Chile, México, Colombia, Perú, Bolivia, 
+Paraguay, Venezuela, América Central, Alemania y el Caribe.
+Por otro lado, Tecnandina S.A. presta servicios de fabricación: Siegfried, Pfizer, Bayer, 
+Hypera- Brainfarma, STADA y filiales de Grünenthal.
+Adicional, presta servicios de Marcaje, Almacenamiento, Distribución y/o Transporte según lo 
+aprobado en la certificación BPADT-EF-792-2024 a las empresas Sanofi, Novartis y 
+Grünenthal Ecuatoriana.
+En los últimos 5 años la planta ha recibido las siguientes inspecciones de verificación de 
+Buenas Prácticas de Manufactura y de Buenas Prácticas de Almacenamiento, Distribución y/o 
+Transporte (ARCSA).
+Buenas prácticas de manufactura:
+Autoridad Competente
+Fecha
+Bezirksregierung Köln, Alemania
+06 al 12 de diciembre de 2023
+ARCSA/Ecuador
+1 al 4 de septiembre de 2020
+03 al 07 de julio de 2023
+09 al 13 de diciembre 2024
+ANVISA
+26 al 30 de mayo 2025
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+buenas prácticas de almacenamiento, distribución y/o transporte
+autoridad competente
+fecha
+arcsa / ecuador
+08 al 09 julio 2024
+10 al 11 de diciembre 2024
+1.5
+otras actividades desarrolladas por la empresa 
+desarrollo y transferencia de procesos de manufactura y métodos analíticos  
+2
+sistema de gestión de calidad de la empresa 
+2.1
+sistema de gestión de calidad de la empresa
+el sistema de gestión de calidad de tecnandina s.a. descrito en el manual de calidad,
+proc-005355, se basa en las siguientes normativas internacionales:
+-
+who (world health organization), informe 37
+-
+ich conferencia internacional de armonización, especialmente: 
+-
+q7 good manufacturing practices
+-
+q8 pharmaceutical development
+-
+q9 quality risk management
+-
+q10 pharmaceutical quality system
+-
+normas de la unión europea "las normas que rigen los productos médicos en la unión 
+europea" eudralex volumen 4. buenas prácticas de fabricación medicamentos para 
+uso humano y veterinario.
+-
+guía anvisa: resolução-rdc nº658/2022. boas práticas de fabricação de 
+medicamentos
+-
+iso: international standardization organization: 14001:2015 y 45001:2018
+así como guías y políticas internas como:
+-
+código de conducta
+-
+política global gxp proc-005342
+-
+global gmp (good manufacturing practices) quality sop’s (standard operating 
+procedure) 
+elementos como desempeño de procesos, monitoreo de calidad, manejo de acciones 
+correctivas y preventivas, control de cambios y revisiones periódicas de la gestión del 
+rendimiento del proceso y la calidad del producto son parte fundamental del sistema de calidad 
+de la empresa. 
+por otro lado, se realiza una revisión trimestral de la gestión del sistema de calidad con todo 
+el personal buenas prácticas de manufactura (bpm) clave y de dirección, mediante el comité 
+de calidad. se revisan los aspectos principales de la revisión de la gestión como las
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 6.
+Buenas Prácticas de Almacenamiento, Distribución y/o Transporte
+Autoridad Competente
+Fecha
+ARCSA / Ecuador
+08 al 09 julio 2024
+10 al 11 de diciembre 2024
+1.5
+Otras Actividades Desarrolladas por la Empresa 
+Desarrollo y Transferencia de procesos de manufactura y métodos analíticos  
+2
+Sistema de Gestión de Calidad de la Empresa 
+2.1
+Sistema de Gestión de Calidad de la Empresa
+El sistema de gestión de calidad de Tecnandina S.A. descrito en el Manual de Calidad,
+PROC-005355, se basa en las siguientes normativas internacionales:
+-
+WHO (World Health Organization), Informe 37
+-
+ICH Conferencia Internacional de Armonización, especialmente: 
+-
+Q7 Good Manufacturing Practices
+-
+Q8 Pharmaceutical Development
+-
+Q9 Quality Risk Management
+-
+Q10 Pharmaceutical Quality System
+-
+Normas de la Unión Europea "Las normas que rigen los productos médicos en la Unión 
+Europea" Eudralex Volumen 4. Buenas prácticas de fabricación Medicamentos para 
+uso humano y veterinario.
+-
+Guía ANVISA: Resolução-RDC nº658/2022. Boas Práticas de Fabricação de 
+Medicamentos
+-
+ISO: International Standardization Organization: 14001:2015 y 45001:2018
+Así como guías y políticas internas como:
+-
+Código de conducta
+-
+Política Global GxP PROC-005342
+-
+Global GMP (Good Manufacturing Practices) Quality SOP’s (Standard Operating 
+Procedure) 
+Elementos como desempeño de procesos, monitoreo de calidad, manejo de acciones 
+correctivas y preventivas, control de cambios y revisiones periódicas de la gestión del 
+rendimiento del proceso y la calidad del producto son parte fundamental del sistema de calidad 
+de la empresa. 
+Por otro lado, se realiza una revisión trimestral de la Gestión del Sistema de Calidad con todo 
+el personal Buenas Prácticas de Manufactura (BPM) clave y de dirección, mediante el comité 
+de calidad. Se revisan los aspectos principales de la revisión de la gestión como las
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+desviaciones, los resultados fuera de especificación, las quejas, los recalls o retiros del 
+producto del mercado, las auditorías, las inspecciones y los indicadores de desempeño clave 
+de calidad (kpi). 
+a nivel mundial, la reunión mensual de la junta de calidad con personal clave de todas las 
+áreas reguladas por gxp, salud, seguridad y ambiente (ehs, por sus siglas en inglés) se 
+revisan todos los aspectos relacionados con la calidad. los resultados de las revisiones de la 
+gestión de calidad en la junta de calidad se informan a la alta dirección / comité de 
+operaciones del grupo en las reuniones trimestrales.
+adicionalmente, tecnandina sigue la política global de calidad de grünenthal proc-005342, 
+la cual establece principalmente lo siguiente:
+-
+la seguridad del paciente es lo primero: identificamos y controlamos los riesgos. 
+somos conscientes de las oportunidades.
+-
+actuamos con integridad: aplicamos los más altos estándares éticos.
+-
+mejora continua: entendemos cualquier fallo, error o no la conformidad como 
+oportunidad de mejora continua.
+-
+correcto a la primera: nos centramos en acciones apropiadas para evitar que 
+ocurran cuestiones iguales o similares.
+-
+eres el dueño, lo manejas: cada empleado es responsable y está facultado para
+-
+decir, corregir y conducir.
+-
+actuamos como facilitadores: cooperamos de manera transversal, pensamos en 
+soluciones, tomamos decisiones, aceptamos cambios y aseguramos nuevos caminos.
+-
+desarrollo profesional continuo: vivimos profesionalidad continua. el desarrollo 
+busca involucrar a las personas adecuadas con las calificaciones y mentalidad.
+-
+la calidad está integrada en los procesos y productos: seguimos los procesos y 
+procedimientos definidos y alineados.
+la gerencia de aseguramiento de calidad de ecuador reporta en línea sólida al gerente 
+de aseguramiento global de calidad, gmp global en alemania.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 7.
+desviaciones, los resultados fuera de especificación, las quejas, los recalls o retiros del 
+producto del mercado, las auditorías, las inspecciones y los Indicadores de Desempeño Clave 
+de Calidad (KPI). 
+A nivel mundial, la reunión mensual de la Junta de Calidad con personal clave de todas las 
+áreas reguladas por GxP, Salud, Seguridad y Ambiente (EHS, por sus siglas en inglés) se 
+revisan todos los aspectos relacionados con la calidad. Los resultados de las revisiones de la 
+gestión de calidad en la Junta de Calidad se informan a la Alta Dirección / Comité de 
+Operaciones del Grupo en las reuniones trimestrales.
+Adicionalmente, Tecnandina sigue la política global de calidad de Grünenthal PROC-005342, 
+la cual establece principalmente lo siguiente:
+-
+La seguridad del paciente es lo primero: Identificamos y controlamos los riesgos. 
+Somos conscientes de las oportunidades.
+-
+Actuamos con integridad: Aplicamos los más altos estándares éticos.
+-
+Mejora continua: Entendemos cualquier fallo, error o no la conformidad como 
+oportunidad de mejora continua.
+-
+Correcto a la primera: Nos centramos en acciones apropiadas para evitar que 
+ocurran cuestiones iguales o similares.
+-
+Eres el dueño, lo manejas: cada empleado es responsable y está facultado para
+-
+decir, corregir y conducir.
+-
+Actuamos como facilitadores: cooperamos de manera transversal, pensamos en 
+soluciones, tomamos decisiones, aceptamos cambios y aseguramos nuevos caminos.
+-
+Desarrollo profesional continuo: Vivimos profesionalidad continua. El desarrollo 
+busca involucrar a las personas adecuadas con las calificaciones y mentalidad.
+-
+La calidad está integrada en los procesos y productos: Seguimos los procesos y 
+procedimientos definidos y alineados.
+La gerencia de Aseguramiento de Calidad de Ecuador reporta en línea sólida al Gerente 
+de Aseguramiento Global de Calidad, GMP Global en Alemania.
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+2.3
+procedimiento de liberación de productos terminados 
+2.3.1
+requerimientos de calificación del responsable técnico (farmacéutico 
+responsable) para la certificación / liberación de lotes.
+el artículo 49 de la directiva 2001/83 de la normativa europea establece los requerimientos 
+de educación y experiencia laboral para el responsable técnico (farmacéutico responsable) 
+encargado de la liberación de productos y la emisión del certificado de liberación. 
+el responsable técnico debe poseer un diploma, certificado u otra evidencia formal de haber 
+completado estudios universitarios teóricos y prácticos de al menos 5 años en una de las 
+siguientes disciplinas científicas: farmacia, química, medicina, tecnología química 
+farmacéutica, biología. sin embargo, la duración mínima del curso universitario puede ser de 
+tres años y medio, cuando el mismo es seguido de un período de formación teórica y práctica 
+de una duración mínima de un año e incluye un período de formación de al menos seis meses 
+en una farmacia abierta al público y corroborado por un examen a nivel universitario. cuando 
+se concurran dos cursos universitarios o dos cursos reconocidos como equivalentes, cuando 
+uno de ellos tenga una duración de cuatro años y el otro de tres años, el curso de tres años 
+que conduce a un diploma, certificado u otra prueba de los títulos de estudios que hayan 
+superado un título universitario o su equivalente reconocido, se considerará que cumple la 
+condición de duración a que se refiere el párrafo segundo, en la medida en que los diplomas, 
+certificados u otros títulos que se hayan concedido sean reconocido como equivalentes.
+el curso incluirá estudios teóricos y prácticos sobre al menos las siguientes materias básicas:
+- física aplicada
+- química general e inorgánica
+- química orgánica
+- química analítica
+- química farmacéutica
+incluido el análisis de los medicamentos
+- bioquímica general y aplicada (médica)
+- fisiología
+- microbiología
+- farmacología
+- tecnología farmacéutica
+- toxicología
+- farmacognosia (estudio de la composición y efectos de las sustancias activas naturales de 
+origen vegetal y animal).
+en la medida en que determinados diplomas, certificados u otros títulos mencionados en el 
+párrafo primero no cumplan los criterios establecidos en el presente apartado, la autoridad 
+competente velará por que el interesado acredite un conocimiento adecuado.
+el responsable técnico debe haber adquirido experiencia práctica de al menos dos años en 
+una o más empresas autorizadas para la fabricación de medicamentos, para el análisis 
+cuantitativo de sustancias activas y para las pruebas, así como de las verificaciones
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 9.
+2.3
+Procedimiento de Liberación de Productos Terminados 
+2.3.1
+Requerimientos de calificación del responsable técnico (farmacéutico 
+responsable) para la certificación / liberación de lotes.
+El Artículo 49 de la Directiva 2001/83 de la normativa europea establece los requerimientos 
+de educación y experiencia laboral para el responsable técnico (farmacéutico responsable) 
+encargado de la liberación de productos y la emisión del certificado de liberación. 
+El responsable técnico debe poseer un diploma, certificado u otra evidencia formal de haber 
+completado estudios universitarios teóricos y prácticos de al menos 5 años en una de las 
+siguientes disciplinas científicas: farmacia, química, medicina, tecnología química 
+farmacéutica, biología. Sin embargo, la duración mínima del curso universitario puede ser de 
+tres años y medio, cuando el mismo es seguido de un período de formación teórica y práctica 
+de una duración mínima de un año e incluye un período de formación de al menos seis meses 
+en una farmacia abierta al público y corroborado por un examen a nivel universitario. Cuando 
+se concurran dos cursos universitarios o dos cursos reconocidos como equivalentes, cuando 
+uno de ellos tenga una duración de cuatro años y el otro de tres años, el curso de tres años 
+que conduce a un diploma, certificado u otra prueba de los títulos de estudios que hayan 
+superado un título universitario o su equivalente reconocido, se considerará que cumple la 
+condición de duración a que se refiere el párrafo segundo, en la medida en que los diplomas, 
+certificados u otros títulos que se hayan concedido sean reconocido como equivalentes.
+El curso incluirá estudios teóricos y prácticos sobre al menos las siguientes materias básicas:
+- Física aplicada
+- Química general e inorgánica
+- Química orgánica
+- Química analítica
+- Química farmacéutica
+Incluido el análisis de los medicamentos
+- Bioquímica general y aplicada (médica)
+- Fisiología
+- Microbiología
+- Farmacología
+- Tecnología farmacéutica
+- Toxicología
+- Farmacognosia (estudio de la composición y efectos de las sustancias activas naturales de 
+origen vegetal y animal).
+En la medida en que determinados diplomas, certificados u otros títulos mencionados en el 
+párrafo primero no cumplan los criterios establecidos en el presente apartado, la autoridad 
+competente velará por que el interesado acredite un conocimiento adecuado.
+El responsable técnico debe haber adquirido experiencia práctica de al menos dos años en 
+una o más empresas autorizadas para la fabricación de medicamentos, para el análisis 
+cuantitativo de sustancias activas y para las pruebas, así como de las verificaciones
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+necesarias para asegurar la calidad de los medicamentos. la duración de la experiencia 
+práctica puede ser reducida a un año si los estudios universitarios duraron al menos 5 años.
+el responsable técnico (farmacéutico responsable) mercedes herrera, encargado de la 
+liberación de productos y la emisión del certificado de liberación:
+bioquímica farmacéutica, universidad central del ecuador. quito-ecuador, 2001
+farmacéutico con fuerte experiencia gmp y calidad
+persona calificada de tecnandina sa, desde 2012
+persona calificada de grünenthal ecuatoriana, desde 2011.
+experiencia y especialización:
+20 años de experiencia en empresas farmacéuticas
+jefe de gmp quality assurance 2011
+experiencia en control de calidad de 6 años
+líder del proyecto de certificación europea.
+gerente control de calidad 2012
+experiencia en auditoría de plantas farmacéuticas en asia y américa latina
+gerente de aseguramiento de calidad 2013 – actual 
+el responsable técnico tiene la autoridad para la certificación, liberación y para rechazo de 
+lotes. las responsabilidades y el reemplazo en caso de ausencia se describen en las 
+correspondientes descripciones del puesto de trabajo.
+la revisión y liberación de la documentación de lotes es realizada por la oficina de liberación 
+(
+exclusivamente a la revisión de la información de los resultados de inspección y análisis de 
+cada lote, revisión de la información contentiva en el expediente de fabricación, la revisión de 
+los eventos de calidad si aplican así como los eventos de resultados de fuera de 
+especificaciones debidamente investigados y cerrados, conjuntamente con el cumplimiento 
+de las buenas prácticas de documentación para posteriormente realizar la actividad de la 
+liberación del producto/lote al mercado bajo la responsabilidad de la gerencia de 
+aseguramiento de calidad, acuerdo suscrito y notificado a la autoridad local.
+el proceso de certificación / liberación de lotes consiste en la revisión de los documentos que 
+constituyen el batch record (registro de lote). toda la documentación del lote (control en 
+procesos, parámetros de producción, registros, protocolos de pruebas analíticas, entre otros) 
+se realiza con doble chequeo. de igual forma, las buenas prácticas de documentación son 
+revisadas. adicionalmente, se comprueba que las muestras de retención tomadas cumplan 
+con todos los requerimientos del registro sanitario con especial énfasis en: el número de lote, 
+la fecha de fabricación, la fecha de expiración y los aspectos visuales del medicamento.  
+finalmente, el lote es liberado por 
+validado para que no se pueda facturar un lote que no ha sido liberado. diariamente se registra 
+en una matriz de control los lotes liberados, las novedades encontradas y el tiempo de
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 10.
+necesarias para asegurar la calidad de los medicamentos. La duración de la experiencia 
+práctica puede ser reducida a un año si los estudios universitarios duraron al menos 5 años.
+El responsable técnico (farmacéutico responsable) Mercedes Herrera, encargado de la 
+liberación de productos y la emisión del certificado de liberación:
+Bioquímica Farmacéutica, Universidad Central del Ecuador. Quito-Ecuador, 2001
+Farmacéutico con fuerte experiencia GMP y Calidad
+Persona calificada de Tecnandina SA, desde 2012
+Persona calificada de Grünenthal Ecuatoriana, desde 2011.
+Experiencia y Especialización:
+20 años de experiencia en empresas farmacéuticas
+Jefe de GMP Quality Assurance 2011
+Experiencia en Control de Calidad de 6 años
+Líder del Proyecto de Certificación Europea.
+Gerente Control de Calidad 2012
+Experiencia en auditoría de plantas farmacéuticas en Asia y América Latina
+Gerente de Aseguramiento de Calidad 2013 – actual 
+El Responsable Técnico tiene la autoridad para la certificación, liberación y para rechazo de 
+lotes. Las responsabilidades y el reemplazo en caso de ausencia se describen en las 
+correspondientes Descripciones del Puesto de Trabajo.
+La revisión y liberación de la documentación de lotes es realizada por la oficina de liberación 
+(
+exclusivamente a la revisión de la información de los resultados de inspección y análisis de 
+cada lote, revisión de la información contentiva en el expediente de fabricación, la revisión de 
+los eventos de calidad si aplican así como los eventos de resultados de fuera de 
+especificaciones debidamente investigados y cerrados, conjuntamente con el cumplimiento 
+de las Buenas Prácticas de Documentación para posteriormente realizar la actividad de la 
+liberación del producto/lote al mercado bajo la responsabilidad de la Gerencia de 
+Aseguramiento de Calidad, acuerdo suscrito y notificado a la autoridad local.
+El proceso de certificación / liberación de lotes consiste en la revisión de los documentos que 
+constituyen el batch record (registro de lote). Toda la documentación del lote (control en 
+procesos, parámetros de producción, registros, protocolos de pruebas analíticas, entre otros) 
+se realiza con doble chequeo. De igual forma, las Buenas Prácticas de Documentación son 
+revisadas. Adicionalmente, se comprueba que las muestras de retención tomadas cumplan 
+con todos los requerimientos del registro sanitario con especial énfasis en: el número de lote, 
+la fecha de fabricación, la fecha de expiración y los aspectos visuales del medicamento.  
+Finalmente, el lote es liberado por 
+validado para que no se pueda facturar un lote que no ha sido liberado. Diariamente se registra 
+en una matriz de control los lotes liberados, las novedades encontradas y el tiempo de
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+ejecución en cada etapa de la liberación. descrito en procedimiento interno número proc-
+000327 “aprobación/rechazo productos farmacéuticos”
+los roles desempeñados por director técnico, jefe de aseguramiento de calidad, es 
+garantizar que el producto se elabore y se libere de acuerdo con la información contentiva en 
+el registro sanitario, por lo cual, la condición es que el proceso haya cumplido con cada una 
+de las etapas previas de fabricación hasta la obtención del producto terminado. el jefe de 
+control de calidad garantiza mediante análisis físicos - químicos y microbiológicos que los 
+materiales usados, así como los controles en proceso y los ensayos cumplan con las 
+especificaciones vigentes, y finalmente el gerente de producción, no podrá hacer uso de 
+ningún material inicial que no haya sido verificado su calidad estando en estado en cuarentena 
+en la fabricación del producto, además garantiza que la fabricación del producto haya 
+cumplido con todos los parámetros descritos en el registro de lote en cumplimiento de las 
+buenas prácticas de manufactura, procedimientos de operación estándar e instrucciones de 
+trabajo. 
+2.4
+gestión de proveedores y contratados 
+la gestión de los proveedores, fabricantes y contratados es realizada a través del programa 
+de calificación de proveedores y es de responsabilidad del área de aseguramiento de calidad 
+global. las bases de este programa están en torno al conocimiento de la cadena de suministro 
+de los fabricantes, distribuidores y proveedores. además, el manejo de estos es 
+complementado con el programa de auditoría externa.  las auditorías externas son realizadas 
+a los fabricantes, distribuidores y proveedores de forma periódica en función del riesgo.
+el sistema de calificación de fabricantes y proveedores de ingredientes farmacéuticos activos 
+(api) y otros proveedores de materiales críticos se define en el procedimiento global proc-
+003843 supplier qualification por el área esq (external supplier quality). las actividades 
+a realizar y la evaluación de estos materiales se establece en el proc-000520 proceso de 
+calificación (homologación) de api - excipientes y material de envase empaque.
+la elección de los principales o adicionales fabricantes de ingredientes farmacéuticos activos 
+(api) y otros proveedores de materiales críticos se basa en el conocimiento y / o experiencia 
+del material/ingrediente involucrado en la industria y desarrollo analítico, producción, unidad 
+de síntesis, unidad de calidad (control de calidad y aseguramiento de calidad) y / o compras. 
+cada calificación se basa en la recopilación y evaluación de los documentos proporcionados 
+por el contratista / fabricante / proveedor, la producción de lotes de prueba / lotes a gran escala 
+/ lotes de estabilidad y una auditoría exitosa, en la medida en que sea aplicable y se defina 
+como necesario.
+la aprobación final de los contratistas / fabricantes / proveedores es realizada por esq, 
+calidad de los proveedores externos; (esq: external supplier quality; por sus siglas en 
+inglés) que es parte de aseguramiento de calidad global.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 11.
+ejecución en cada etapa de la liberación. Descrito en procedimiento interno número PROC-
+000327 “Aprobación/Rechazo Productos Farmacéuticos”
+Los roles desempeñados por Director Técnico, Jefe de Aseguramiento de calidad, es 
+garantizar que el producto se elabore y se libere de acuerdo con la información contentiva en 
+el registro sanitario, por lo cual, la condición es que el proceso haya cumplido con cada una 
+de las etapas previas de fabricación hasta la obtención del producto terminado. El Jefe de 
+Control de Calidad garantiza mediante análisis físicos - químicos y microbiológicos que los 
+materiales usados, así como los controles en proceso y los ensayos cumplan con las 
+especificaciones vigentes, y finalmente el Gerente de Producción, no podrá hacer uso de 
+ningún material inicial que no haya sido verificado su calidad estando en estado en cuarentena 
+en la fabricación del producto, además garantiza que la fabricación del producto haya 
+cumplido con todos los parámetros descritos en el registro de lote en cumplimiento de las 
+buenas prácticas de manufactura, procedimientos de operación estándar e instrucciones de 
+trabajo. 
+2.4
+Gestión de Proveedores y Contratados 
+La gestión de los proveedores, fabricantes y contratados es realizada a través del Programa 
+de Calificación de Proveedores y es de responsabilidad del área de aseguramiento de calidad 
+Global. Las bases de este programa están en torno al conocimiento de la cadena de suministro 
+de los fabricantes, distribuidores y proveedores. Además, el manejo de estos es 
+complementado con el programa de auditoría externa.  Las auditorías externas son realizadas 
+a los fabricantes, distribuidores y proveedores de forma periódica en función del riesgo.
+El sistema de calificación de fabricantes y proveedores de ingredientes farmacéuticos activos 
+(API) y otros proveedores de materiales críticos se define en el procedimiento global PROC-
+003843 Supplier Qualification por el área ESQ (External Supplier Quality). Las actividades 
+a realizar y la evaluación de estos materiales se establece en el PROC-000520 Proceso de 
+calificación (homologación) de API - Excipientes y Material de Envase Empaque.
+La elección de los principales o adicionales fabricantes de ingredientes farmacéuticos activos 
+(API) y otros proveedores de materiales críticos se basa en el conocimiento y / o experiencia 
+del material/ingrediente involucrado en la industria y desarrollo analítico, producción, unidad 
+de síntesis, unidad de calidad (control de calidad y aseguramiento de calidad) y / o compras. 
+Cada calificación se basa en la recopilación y evaluación de los documentos proporcionados 
+por el contratista / fabricante / proveedor, la producción de lotes de prueba / lotes a gran escala 
+/ lotes de estabilidad y una auditoría exitosa, en la medida en que sea aplicable y se defina 
+como necesario.
+La aprobación final de los contratistas / fabricantes / proveedores es realizada por ESQ, 
+Calidad de los proveedores externos; (ESQ: External Supplier Quality; por sus siglas en 
+inglés) que es parte de Aseguramiento de Calidad Global.
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+para garantizar que los productos fabricados cumplen con las normativas que evitan la ebb 
+(transmisión de la encefalopatía espongiforme bovina), para cada material suministrado se 
+solicitan a los proveedores que las confirmaciones de tse / bse estén disponibles. 
+el reporte de que un producto haya sido posiblemente falsificado puede venir reportado de 
+fuentes como: distribuidoras, farmacias, pacientes directos, entre otros. asimismo, puede ser 
+detectado para el caso de productos importados/ de terceros durante el proceso de recepción 
+en la bodega de tecnandina s.a. se realiza la investigación respectiva y se comunica a la 
+entidad regulatoria del país.
+en caso de utilización de ayuda externa científica, analítica u otra técnica en relación con la 
+producción y/o análisis, los fabricantes/proveedores correspondientes tienen que ser 
+calificados de antemano. las actividades subcontratadas se llevan a cabo exclusivamente 
+sobre la base de acuerdos de calidad en el que las responsabilidades de ambas partes están 
+claramente definidas. 
+todos los materiales usados son comprados de los proveedores que se encuentren 
+calificados, estos materiales una vez que sean receptados en el almacén son inspeccionados, 
+muestreados y analizados para comprobación de calidad de acuerdo con la especificación. 
+por lo cual los mismos, no podrán ser usados hasta tener la decisión de uso. si estos no 
+cumplen sus características, físicas, químicas y microbiológicas se rechaza los materiales y 
+se gestiona la logística inversa hacia el proveedor.
+el listado de los fabricantes por contrato y laboratorios contratados, incluyendo las direcciones 
+y 
+datos 
+de 
+contacto 
+se 
+presenta 
+en 
+el 
+anexo 
+3
+(ubicado
+en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 3)
+2.5
+gestión de riesgos para la calidad 
+las metodologías utilizadas para la gestión de riesgos de calidad siguen los requisitos de la 
+normativa ich q9. como métodos de gestión tecnandina s.a. se encarga de la identificación, 
+evaluación y mitigación de los riesgos de acuerdo con la herramienta análisis modo de fallos 
+y efectos (fmea), de acuerdo con lo descrito al procedimiento número proc-000306 
+análisis de riesgo. 
+a nivel corporativo, se fijan definiciones y requisitos básicos que deben ser adaptados en los 
+sitios de fabricación individuales. asimismo, se organiza a este nivel la gestión de las 
+actividades de gestión del riesgo de calidad. los requisitos se definen en los respectivos 
+procedimientos, que tienen que ser adoptados localmente a nivel local.
+2.6
+revisión de la calidad de productos  
+para cada medicamento fabricando en tecnandina se realiza una revisión de calidad del 
+producto (pqr, por sus siglas en inglés), según proc-000307 revisión de calidad del 
+producto (pqr). la metodología empleada para esta revisión cumple con los requisitos 
+establecidos en el capítulo 1.10 de la parte 1 de la normativa europea para medicamentos.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 12.
+Para garantizar que los productos fabricados cumplen con las normativas que evitan la EBB 
+(Transmisión de la Encefalopatía Espongiforme Bovina), para cada material suministrado se 
+solicitan a los proveedores que las confirmaciones de TSE / BSE estén disponibles. 
+El reporte de que un producto haya sido posiblemente falsificado puede venir reportado de 
+fuentes como: distribuidoras, farmacias, pacientes directos, entre otros. Asimismo, puede ser 
+detectado para el caso de productos importados/ de terceros durante el proceso de Recepción 
+en la Bodega de Tecnandina S.A. Se realiza la investigación respectiva y se comunica a la 
+entidad regulatoria del país.
+En caso de utilización de ayuda externa científica, analítica u otra técnica en relación con la 
+producción y/o análisis, los fabricantes/proveedores correspondientes tienen que ser 
+calificados de antemano. Las actividades subcontratadas se llevan a cabo exclusivamente 
+sobre la base de acuerdos de calidad en el que las responsabilidades de ambas partes están 
+claramente definidas. 
+Todos los materiales usados son comprados de los proveedores que se encuentren 
+calificados, estos materiales una vez que sean receptados en el almacén son inspeccionados, 
+muestreados y analizados para comprobación de calidad de acuerdo con la especificación. 
+Por lo cual los mismos, no podrán ser usados hasta tener la decisión de uso. Si estos no 
+cumplen sus características, físicas, químicas y microbiológicas se rechaza los materiales y 
+se gestiona la logística inversa hacia el proveedor.
+El listado de los fabricantes por contrato y laboratorios contratados, incluyendo las direcciones 
+y 
+datos 
+de 
+contacto 
+se 
+presenta 
+en 
+el 
+Anexo 
+3
+(Ubicado
+en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 3)
+2.5
+Gestión de Riesgos para la Calidad 
+Las metodologías utilizadas para la gestión de riesgos de calidad siguen los requisitos de la 
+normativa ICH Q9. Como métodos de gestión Tecnandina S.A. se encarga de la identificación, 
+evaluación y mitigación de los riesgos de acuerdo con la herramienta Análisis Modo de Fallos 
+y Efectos (FMEA), de acuerdo con lo descrito al procedimiento número PROC-000306 
+Análisis de Riesgo. 
+A nivel corporativo, se fijan definiciones y requisitos básicos que deben ser adaptados en los 
+sitios de fabricación individuales. Asimismo, se organiza a este nivel la gestión de las 
+actividades de Gestión del Riesgo de Calidad. Los requisitos se definen en los respectivos 
+procedimientos, que tienen que ser adoptados localmente a nivel local.
+2.6
+Revisión de la Calidad de Productos  
+Para cada medicamento fabricando en Tecnandina se realiza una Revisión de Calidad del 
+Producto (PQR, por sus siglas en inglés), según PROC-000307 Revisión de Calidad del 
+Producto (PQR). La metodología empleada para esta revisión cumple con los requisitos 
+establecidos en el capítulo 1.10 de la parte 1 de la normativa Europea para medicamentos.
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+de acuerdo con esta normativa, los siguientes puntos son evaluados: 
+no.
+puntos de revisión
+1
+revisión de las materias primas, incluyendo materiales de empaque1 usados en el 
+producto, especialmente los de nuevos proveedores.
+2
+revisión de los resultados de los parámetros críticos de control en procesos y 
+producto terminado.2
+3
+revisión de todos los lotes que fallaron en el cumplimiento de las especificaciones 
+establecidas y su investigación.
+4
+revisión de todos los desvíos significativos o no conformidades, sus investigaciones 
+y la efectividad resultante de las acciones correctivas y preventivas tomadas en caso 
+de desvíos recurrentes.
+5
+revisión de todos los cambios realizados a los procesos y métodos analíticos.
+6
+revisión de las variaciones al registro sanitario propuestas/concedidas/rechazadas, 
+incluyendo los dossiers fabricados para otros países (exportaciones). 
+7
+revisión de los resultados del programa de monitoreo de estabilidad y cualquier 
+tendencia adversa.
+8
+revisión de todas las devoluciones, quejas y retiros relacionados con la calidad y las 
+investigaciones realizadas en ese momento.
+9
+revisión de la conformidad de cualquier acción correctiva previa al producto, 
+procesos o equipos.
+10
+revisión de los compromisos post-registro para nuevos registros sanitarios y 
+variaciones en los registros sanitarios.
+11
+revisión del estado de calificación de los equipos y sistemas de apoyo crítico más 
+relevantes, ej. sistema de ventilación, agua purificada, aire comprimido, etc.
+12
+revisión de cualquier acuerdo de calidad definido en el capítulo 7 (de la directriz de 
+la ue sobre las bpm, parte i) para asegurar que están actualizados.
+1material de empaque primario
+2se limita a los parámetros de ensayo críticos
+3
+personal 
+3.1
+organigrama
+el organigrama de la empresa que incluye: aseguramiento de calidad, producción, control de 
+calidad, servicios logísticos, ingeniería, mantenimiento y demás relacionadas incluyendo la 
+alta 
+dirección, 
+se 
+encuentra 
+en 
+el 
+anexo 
+4 
+(ubicado
+en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 4)
+el número de empleados que trabajan en tecnandina se describe a continuación:
+área
+empleados 
+dirección de planta 
+2
+aseguramiento de calidad 
+23
+control de calidad
+40
+producción 
+113
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 13.
+De acuerdo con esta normativa, los siguientes puntos son evaluados: 
+No.
+Puntos de Revisión
+1
+Revisión de las materias primas, incluyendo materiales de empaque1 usados en el 
+producto, especialmente los de nuevos proveedores.
+2
+Revisión de los resultados de los parámetros críticos de control en procesos y 
+producto terminado.2
+3
+Revisión de todos los lotes que fallaron en el cumplimiento de las especificaciones 
+establecidas y su investigación.
+4
+Revisión de todos los desvíos significativos o no conformidades, sus investigaciones 
+y la efectividad resultante de las acciones correctivas y preventivas tomadas en caso 
+de desvíos recurrentes.
+5
+Revisión de todos los cambios realizados a los procesos y métodos analíticos.
+6
+Revisión de las variaciones al Registro Sanitario propuestas/concedidas/rechazadas, 
+incluyendo los dossiers fabricados para otros países (exportaciones). 
+7
+Revisión de los resultados del programa de monitoreo de estabilidad y cualquier 
+tendencia adversa.
+8
+Revisión de todas las devoluciones, quejas y retiros relacionados con la calidad y las 
+investigaciones realizadas en ese momento.
+9
+Revisión de la conformidad de cualquier acción correctiva previa al producto, 
+procesos o equipos.
+10
+Revisión de los compromisos post-registro para nuevos registros sanitarios y 
+variaciones en los registros sanitarios.
+11
+Revisión del estado de calificación de los equipos y sistemas de apoyo crítico más 
+relevantes, ej. sistema de ventilación, agua purificada, aire comprimido, etc.
+12
+Revisión de cualquier acuerdo de calidad definido en el Capítulo 7 (de la Directriz de 
+la UE sobre las BPM, Parte I) para asegurar que están actualizados.
+1Material de empaque primario
+2Se limita a los parámetros de ensayo críticos
+3
+Personal 
+3.1
+Organigrama
+El organigrama de la empresa que incluye: aseguramiento de calidad, producción, control de 
+calidad, servicios logísticos, ingeniería, mantenimiento y demás relacionadas incluyendo la 
+alta 
+dirección, 
+se 
+encuentra 
+en 
+el 
+Anexo 
+4 
+(Ubicado
+en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 4)
+El número de empleados que trabajan en Tecnandina se describe a continuación:
+Área
+Empleados 
+Dirección de Planta 
+2
+Aseguramiento de Calidad 
+23
+Control de Calidad
+40
+Producción 
+113
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+área
+empleados 
+mantenimiento/ ingeniería
+23
+logística
+34
+ams 
+11
+ehs
+4
+finanzas/ controlling
+4
+rrhh
+3
+supply chain
+7
+compras
+2
+gobs
+3
+total
+279
+*el número de empleados está sujeto a cambio.
+3.2
+describe al personal clave en experiencia y responsabilidades
+las personas claves son los líderes de cada gerencia. sus responsabilidades y experiencias 
+se describen en su descripción del puesto y perfil del empleado respectivamente.
+3.3
+descripción de horarios y turnos
+el horario en la actualidad dentro de tecnandina s.a. es de 3 (tres) turnos; uno diurno y los 
+otros dos nocturnos.
+-
+diurno:     07h30 a 16h10 
+-
+nocturno: 16h10 a 00h40
+      00h10 a 08h40 
+4
+instalaciones y equipamiento
+4.1
+instalaciones 
+tecnandina está construida sobre un área de 50.000 m2. las coordenadas geográficas del 
+sitio son: 0º 03´ 55¨ s 78º 28´ 03¨ w. las instalaciones se encuentran en un área mixta, 
+(industrial de mediano impacto) y datan del año 1986. existe una planta dedicada a la 
+manufactura, envase, empaque, almacenamiento junto con análisis químico, físico y 
+microbiológico. por otro lado, en el año 2024 se inauguró una nueva planta (bloque 205) 
+exclusiva para la fabricación, envase y empaque a granel de un nuevo producto.
+en las dos plantas, todas las instalaciones han equipadas conforme a los requisitos de buenas 
+prácticas de manufactura vigentes. la distribución y espacio de las instalaciones y edificios 
+se describe a continuación:
+área
+m2
+bodega central
+3402
+bodega distribución 
+2150
+producción 
+                  envase 
+                  empaque
+                  manufactura 
+                  acondicionamiento
+3454
+600
+900
+2305
+264
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 14.
+Área
+Empleados 
+Mantenimiento/ Ingeniería
+23
+Logística
+34
+AMS 
+11
+EHS
+4
+Finanzas/ Controlling
+4
+RRHH
+3
+Supply chain
+7
+Compras
+2
+GOBs
+3
+Total
+279
+*El número de empleados está sujeto a cambio.
+3.2
+Describe al personal clave en experiencia y responsabilidades
+Las personas claves son los líderes de cada gerencia. Sus responsabilidades y experiencias 
+se describen en su descripción del puesto y perfil del empleado respectivamente.
+3.3
+Descripción de horarios y turnos
+El horario en la actualidad dentro de Tecnandina S.A. es de 3 (tres) turnos; uno diurno y los 
+otros dos nocturnos.
+-
+Diurno:     07h30 a 16h10 
+-
+Nocturno: 16h10 a 00h40
+      00h10 a 08h40 
+4
+Instalaciones y Equipamiento
+4.1
+Instalaciones 
+Tecnandina está construida sobre un área de 50.000 m2. Las coordenadas geográficas del 
+sitio son: 0º 03´ 55¨ S 78º 28´ 03¨ W. Las instalaciones se encuentran en un área mixta, 
+(industrial de mediano impacto) y datan del año 1986. Existe una planta dedicada a la 
+manufactura, envase, empaque, almacenamiento junto con análisis químico, físico y 
+microbiológico. Por otro lado, en el año 2024 se inauguró una nueva planta (bloque 205) 
+exclusiva para la fabricación, envase y empaque a granel de un nuevo producto.
+En las dos plantas, todas las instalaciones han equipadas conforme a los requisitos de buenas 
+prácticas de manufactura vigentes. La distribución y espacio de las instalaciones y edificios 
+se describe a continuación:
+Área
+m2
+Bodega Central
+3402
+Bodega Distribución 
+2150
+Producción 
+                  Envase 
+                  Empaque
+                  Manufactura 
+                  Acondicionamiento
+3454
+600
+900
+2305
+264
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+área
+m2
+control de calidad 
+880
+mantenimiento
+1000
+administrativos, aseguramiento de calidad, 
+total terreno 
+3060
+50.000 m2
+la numeración de los edificios se describe a continuación: 
+edificio 
+no de bloque
+bodega 
+201-202
+producción, empaque, control de calidad, 
+204-205
+aseguramiento de calidad, administración, 
+dirección, despacho, bodega
+206
+tratamiento de aguas servidas   
+cisterna
+215
+207
+4.2
+descripción de las áreas de manufactura:
+el área de pesaje se encuentra en la fabricación. esta área se encarga del fraccionamiento 
+de materias primas según las cantidades solicitadas para las distintas fórmulas y ordenes de 
+producción. el proceso de pesaje es controlado mediante el sistema mes dispensing system 
+validado. 
+la manufactura tiene una superficie de 2305 m2 y se ocupa de las operaciones unitarias para 
+el proceso de fabricación de productos farmacéuticos en diferentes líneas como líquidos, 
+sólidos y semisólidos. en estas instalaciones se llevan a cabo los siguientes procesos de 
+fabricación: mezclado, tamizado, homogeneización, granulación, secado, compresión, 
+encapsulado, recubrimiento y envase. todas las áreas generadoras de polvo tienen esclusas 
+adicionales para materiales y personal con el fin de evitar la contaminación cruzada y asegurar 
+el concepto de corredor limpio.  
+el centro de empaque tiene una superficie de 900m2 con diferentes líneas de empaque para 
+el embalaje primario y / o secundario de formas farmacéuticas. 
+adicionalmente, hay una planta piloto para lotes de prueba equipada con máquinas de tamaño 
+piloto incluyendo un granulador de lecho fluido hüttlin de una capacidad de 3 kg. la planta es 
+manejada por el departamento de ams con el apoyo de producción.
+el área de almacenamiento tiene una superficie cubierta de 5552 m2, en estas áreas se 
+desarrollan actividades descritas en las buenas prácticas de manufactura y buenas prácticas 
+de almacenamiento, distribución y transporte. adicionalmente, existe un área identificada 
+para la inspección y muestreo de material. se cuenta con un área para la impresión de 
+leyendas y/o acondicionamiento de productos. adicionalmente el área de bodega cuenta con 
+un espacio separado y bajo llave para las sustancias sujetas a fiscalización.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 15.
+Área
+m2
+Control de Calidad 
+880
+Mantenimiento
+1000
+Administrativos, Aseguramiento de Calidad, 
+TOTAL TERRENO 
+3060
+50.000 m2
+La numeración de los edificios se describe a continuación: 
+Edificio 
+No de bloque
+Bodega 
+201-202
+Producción, Empaque, Control de Calidad, 
+204-205
+Aseguramiento de Calidad, Administración, 
+Dirección, Despacho, Bodega
+206
+Tratamiento de Aguas Servidas   
+Cisterna
+215
+207
+4.2
+Descripción de las áreas de manufactura:
+El área de pesaje se encuentra en la fabricación. Esta área se encarga del fraccionamiento 
+de materias primas según las cantidades solicitadas para las distintas fórmulas y ordenes de 
+producción. El proceso de pesaje es controlado mediante el sistema MES Dispensing System 
+validado. 
+La manufactura tiene una superficie de 2305 m2 y se ocupa de las operaciones unitarias para 
+el proceso de fabricación de productos farmacéuticos en diferentes líneas como líquidos, 
+sólidos y semisólidos. En estas instalaciones se llevan a cabo los siguientes procesos de 
+fabricación: mezclado, tamizado, homogeneización, granulación, secado, compresión, 
+encapsulado, recubrimiento y envase. Todas las áreas generadoras de polvo tienen esclusas 
+adicionales para materiales y personal con el fin de evitar la contaminación cruzada y asegurar 
+el concepto de corredor limpio.  
+El centro de empaque tiene una superficie de 900m2 con diferentes líneas de empaque para 
+el embalaje primario y / o secundario de formas farmacéuticas. 
+Adicionalmente, hay una planta piloto para lotes de prueba equipada con máquinas de tamaño 
+piloto incluyendo un granulador de lecho fluido Hüttlin de una capacidad de 3 kg. La planta es 
+manejada por el departamento de AMS con el apoyo de Producción.
+El área de almacenamiento tiene una superficie cubierta de 5552 m2, en estas áreas se 
+desarrollan actividades descritas en las Buenas Prácticas de Manufactura y Buenas Prácticas 
+de Almacenamiento, Distribución y Transporte. Adicionalmente, existe un área identificada 
+para la inspección y muestreo de material. Se cuenta con un área para la impresión de 
+leyendas y/o acondicionamiento de productos. Adicionalmente el área de bodega cuenta con 
+un espacio separado y bajo llave para las sustancias sujetas a fiscalización.
+
+
+================================================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+los planos de áreas, laboratorios y los flujos de materiales, productos y personal se 
+encuentran 
+descritos 
+en 
+los 
+planos 
+adjuntos 
+en 
+el 
+anexo 
+5
+(ubicado
+en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 5)
+4.2.1
+breve descripción de los sistemas de apoyo crítico relevantes. 
+4.2.1.1
+sistema de ventilación
+en términos de sistemas críticos, tecnandina en las áreas de fabricación cuenta con un 
+sistema de ventilación diferenciado y un hvac.
+el sistema de ventilación está diseñado para operar continuamente todo el tiempo. en el 
+proceso, el aire del ambiente se filtra y se distribuye a las instalaciones. con esto, el sistema 
+garantiza la ausencia de contaminación en las áreas de producción, debido a la entrada de 
+aire filtrado. el aire que ingresa a las áreas de producción no es recirculado, este es eliminado. 
+los sistemas de ventilación instalados tienen la posibilidad de funcionar en un modo 
+automático o manual. por otro lado, un operador de producción está a cargo de la verificación 
+del cumplimiento de la especificación de la presión diferencial en los manómetros, instalados 
+en las salas de producción. en caso de cualquier defecto, falla o falta de aire que altere la 
+presión diferencial, hay un proceso estándar para manejar esta contingencia. descrito en el 
+procedimiento número proc-000055, “plan de contingencia en caso de fallas del 
+sistema de ventilación”.
+el sistema hvac está instalado en el edificio 205 para áreas no clasificadas y clase e:
+las áreas clasificadas están siendo operadas por cuatro (4) unidades manejadoras de aire 
+(uma), dos de las cuales sirven para suministrar aire acondicionado y tratado, mientras que 
+las otras dos, sirven para extraer aire de ellas. 
+para la cabina de lavado ubicada en la zona de lavado 3, se dispondrá de un ventilador de 
+extracción exclusivo para evitar el uso de conductos de otras zonas y así eliminar la 
+contaminación cruzada.
+las áreas no clasificadas están siendo operadas por una (1) unidad de manejo preparada 
+para la filtración de aire y una caja de mezcla para la recirculación y renovación de aire fresco 
+y por dos ventiladores, uno para el suministro y el otro para la extracción de aire.
+a continuación, se describen los sistemas instalados en el edificio 205:
+• la uma-1 se encargará de suministrar aire fresco cien por cien tratado y filtrado para cada 
+una de las áreas de producción clasificadas que se detallan a continuación:
+• ec-b205-p1-fp-1.40 corredor 6
+• ec-b205-p1-bd-1.17 esclusa la disponibilidad de materiales
+• esclusa de salida de emergencia ec-b205-p1-fp-1.57
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 16.
+Los planos de áreas, laboratorios y los flujos de materiales, productos y personal se 
+encuentran 
+descritos 
+en 
+los 
+planos 
+adjuntos 
+en 
+el 
+Anexo 
+5
+(Ubicado
+en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 5)
+4.2.1
+Breve descripción de los sistemas de apoyo crítico relevantes. 
+4.2.1.1
+Sistema de ventilación
+En términos de sistemas críticos, Tecnandina en las áreas de fabricación cuenta con un 
+sistema de ventilación diferenciado y un HVAC.
+El sistema de Ventilación está diseñado para operar continuamente todo el tiempo. En el 
+proceso, el aire del ambiente se filtra y se distribuye a las instalaciones. Con esto, el sistema 
+garantiza la ausencia de contaminación en las áreas de producción, debido a la entrada de 
+aire filtrado. El aire que ingresa a las áreas de producción no es recirculado, este es eliminado. 
+Los sistemas de ventilación instalados tienen la posibilidad de funcionar en un modo 
+automático o manual. Por otro lado, un operador de producción está a cargo de la verificación 
+del cumplimiento de la especificación de la presión diferencial en los manómetros, instalados 
+en las salas de producción. En caso de cualquier defecto, falla o falta de aire que altere la 
+presión diferencial, hay un proceso estándar para manejar esta contingencia. Descrito en el 
+procedimiento número PROC-000055, “Plan de Contingencia en caso de fallas del 
+Sistema de Ventilación”.
+El sistema HVAC está instalado en el edificio 205 para áreas no clasificadas y clase E:
+Las áreas clasificadas están siendo operadas por cuatro (4) unidades manejadoras de aire 
+(UMA), dos de las cuales sirven para suministrar aire acondicionado y tratado, mientras que 
+las otras dos, sirven para extraer aire de ellas. 
+Para la cabina de lavado ubicada en la zona de lavado 3, se dispondrá de un ventilador de 
+extracción exclusivo para evitar el uso de conductos de otras zonas y así eliminar la 
+contaminación cruzada.
+Las áreas no clasificadas están siendo operadas por una (1) unidad de manejo preparada 
+para la filtración de aire y una caja de mezcla para la recirculación y renovación de aire fresco 
+y por dos ventiladores, uno para el suministro y el otro para la extracción de aire.
+A continuación, se describen los sistemas instalados en el edificio 205:
+• La UMA-1 se encargará de suministrar aire fresco cien por cien tratado y filtrado para cada 
+una de las áreas de producción clasificadas que se detallan a continuación:
+• EC-B205-P1-FP-1.40 CORREDOR 6
+• EC-B205-P1-BD-1.17 ESCLUSA LA DISPONIBILIDAD DE MATERIALES
+• ESCLUSA DE SALIDA DE EMERGENCIA EC-B205-P1-FP-1.57
+
+
+================================================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+a través de este equipo se suministrará aire a cada una de las estancias de tal forma que se 
+controle la temperatura, la humedad y la presurización de cada una de estas zonas según sus
+requerimientos.
+• la uma-1 se encargará de suministrar aire fresco cien por cien tratado al pasillo principal 
+del edificio. esta unidad se encargará de controlar la temperatura y humedad del pasillo central 
+de la zona de producción y suministrar una cantidad de aire suficiente para presurizar el pasillo 
+por encima de cada una de las zonas de producción.
+las principales características de la unidad uma-1 son las siguientes:
+
+tipo: 100% aire fresco
+
+recirculación: no aplicable
+
+refrigeración: expansión directa
+
+calefacción: resistencias eléctricas
+
+humidificación: no permitida
+
+caudal de alimentación: constante, controlado por el sistema bms, que actúa sobre 
+el motor conmutado electrónicamente para aumentar o disminuir las revoluciones y 
+mantener así un caudal de alimentación constante.
+
+caudal de extracción: no aplicable
+
+filtración final: filtro f9 en la unidad de manipulación. no se requieren filtros de 
+terminales.
+la uma-2 se encargará de extraer el aire del pasillo y de las estancias contiguas para generar 
+renovación de aire en esta zona y controlar su presurización
+
+ec-b205-p1-fp-1.40 corredor 6
+
+ec-b205-p1-bd-1.17 bloquear la disponibilidad de materiales
+las principales características de la unidad uma-2 son las siguientes:
+
+tipo: 100% de extracción
+
+recirculación: no aplicable
+
+refrigeración: no aplicable
+
+calefacción: no aplicable
+
+humidificación: no aplicable
+
+flujo de suministro: no aplicable
+
+caudal de extracción: constante, controlado por el sistema bms, que actúa sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de extracción constante.
+
+filtración final: filtro f9 en la unidad de manipulación.
+la uma-1 y la uma-2 están configuradas para trabajar al mismo tiempo de tal manera que el 
+suministro y la extracción de aire se controlan y coordinan a través del sistema bms para 
+garantizar la presurización del pasillo con el flujo de aire requerido para mantener una 
+renovación de aire de acuerdo con los requisitos para salas de clase d.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 17.
+A través de este equipo se suministrará aire a cada una de las estancias de tal forma que se 
+controle la temperatura, la humedad y la presurización de cada una de estas zonas según sus
+requerimientos.
+• La UMA-1 se encargará de suministrar aire fresco cien por cien tratado al pasillo principal 
+del edificio. Esta unidad se encargará de controlar la temperatura y humedad del pasillo central 
+de la zona de producción y suministrar una cantidad de aire suficiente para presurizar el pasillo 
+por encima de cada una de las zonas de producción.
+Las principales características de la unidad UMA-1 son las siguientes:
+
+Tipo: 100% aire fresco
+
+Recirculación: no aplicable
+
+Refrigeración: expansión directa
+
+Calefacción: resistencias eléctricas
+
+Humidificación: no permitida
+
+Caudal de alimentación: Constante, controlado por el sistema BMS, que actúa sobre 
+el motor conmutado electrónicamente para aumentar o disminuir las revoluciones y 
+mantener así un caudal de alimentación constante.
+
+Caudal de extracción: no aplicable
+
+Filtración final: Filtro F9 en la unidad de manipulación. No se requieren filtros de 
+terminales.
+La UMA-2 se encargará de extraer el aire del pasillo y de las estancias contiguas para generar 
+renovación de aire en esta zona y controlar su presurización
+
+EC-B205-P1-FP-1.40 CORREDOR 6
+
+EC-B205-P1-BD-1.17 BLOQUEAR LA DISPONIBILIDAD DE MATERIALES
+Las principales características de la unidad UMA-2 son las siguientes:
+
+Tipo: 100% de extracción
+
+Recirculación: no aplicable
+
+Refrigeración: no aplicable
+
+Calefacción: no aplicable
+
+Humidificación: no aplicable
+
+Flujo de suministro: no aplicable
+
+Caudal de extracción: constante, controlado por el sistema BMS, que actúa sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de extracción constante.
+
+Filtración final: Filtro F9 en la unidad de manipulación.
+La UMA-1 y la UMA-2 están configuradas para trabajar al mismo tiempo de tal manera que el 
+suministro y la extracción de aire se controlan y coordinan a través del sistema BMS para 
+garantizar la presurización del pasillo con el flujo de aire requerido para mantener una 
+renovación de aire de acuerdo con los requisitos para salas de clase D.
+
+
+================================================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 18', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+la uma-3 se encargará de suministrar aire fresco cien por cien tratado y filtrado para cada 
+una de las áreas de producción clasificadas que se detallan a continuación:
+
+ec-b205-p1-fp-1.36 esclusa de aire personal de proceso masculino
+exclusivo
+
+ec-b205-p1-fp-1.50 esclusa de aire personal de proceso femenino
+exclusiva
+
+ec-b205-p1-fp-1.37 granulación - lecho fluido 2
+
+ec-b205-p1-fp-1.53 mezclador
+
+ec-b205-p1-fp-1.38 esclusa de aire de proceso de material 
+exclusivo
+
+ec-b205-p1-fp-1.39 compresión 4
+
+ec-b205-p1-fp-1.41 recubrimiento 3
+
+ec-b205-p1-fp-1.42 recubrimiento 4
+
+ec-b205-p1-fp-1.43 recubrimiento 5
+
+ec-b205-p1-fp-1.44 recubrimiento 6
+
+ec-b205-p1-fp-1.45 recubrimiento 7
+
+ec-b205-p1-fp-1.46 recubrimiento 8
+
+ec-b205-p1-fp-1.47 oficina de supervisión y control
+
+ec-b205-p1-fp 1.48 preparación de la laca
+
+ec-b205-p1-fp 1.54 área de pesaje de agua
+
+ec-b205-p1-fp-1.49 inspección e impresión de comprimidos
+
+ec-b205-p1-fp-1.51 almacén de equipos limpios
+
+ec-b205-p1-fp-1.52 área de lavado 3
+
+ec-b205-p1-fp-1.55 almacén de fabricación
+a través de este equipo se suministrará aire a cada una de las estancias de tal forma que se 
+controle la temperatura, la humedad y la presurización de cada una de estas zonas según sus 
+requerimientos.
+las principales características de la unidad ahu-3 son las siguientes:
+
+tipo: 100% aire fresco
+
+recirculación: no aplicable
+
+refrigeración: expansión directa
+
+calefacción: resistencias eléctricas
+
+humidificación: no permitida
+
+caudal de alimentación: constante, controlado por el sistema bms, que actúa sobre 
+el motor conmutado electrónicamente para aumentar o disminuir las revoluciones y 
+mantener así un caudal de alimentación constante.
+
+caudal de extracción: no aplicable
+
+filtración final: filtro f9 en la unidad de manipulación. no se requieren filtros de 
+terminales.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 18.
+La UMA-3 se encargará de suministrar aire fresco cien por cien tratado y filtrado para cada 
+una de las áreas de producción clasificadas que se detallan a continuación:
+
+EC-B205-P1-FP-1.36 ESCLUSA DE AIRE PERSONAL DE PROCESO MASCULINO
+EXCLUSIVO
+
+EC-B205-P1-FP-1.50 ESCLUSA DE AIRE PERSONAL DE PROCESO FEMENINO
+EXCLUSIVA
+
+EC-B205-P1-FP-1.37 GRANULACIÓN - LECHO FLUIDO 2
+
+EC-B205-P1-FP-1.53 MEZCLADOR
+
+EC-B205-P1-FP-1.38 ESCLUSA DE AIRE DE PROCESO DE MATERIAL 
+EXCLUSIVO
+
+EC-B205-P1-FP-1.39 COMPRESIÓN 4
+
+EC-B205-P1-FP-1.41 RECUBRIMIENTO 3
+
+EC-B205-P1-FP-1.42 RECUBRIMIENTO 4
+
+EC-B205-P1-FP-1.43 RECUBRIMIENTO 5
+
+EC-B205-P1-FP-1.44 RECUBRIMIENTO 6
+
+EC-B205-P1-FP-1.45 RECUBRIMIENTO 7
+
+EC-B205-P1-FP-1.46 RECUBRIMIENTO 8
+
+EC-B205-P1-FP-1.47 OFICINA DE SUPERVISIÓN Y CONTROL
+
+EC-B205-P1-FP 1.48 PREPARACIÓN DE LA LACA
+
+EC-B205-P1-FP 1.54 ÁREA DE PESAJE DE AGUA
+
+EC-B205-P1-FP-1.49 INSPECCIÓN E IMPRESIÓN DE COMPRIMIDOS
+
+EC-B205-P1-FP-1.51 ALMACÉN DE EQUIPOS LIMPIOS
+
+EC-B205-P1-FP-1.52 ÁREA DE LAVADO 3
+
+EC-B205-P1-FP-1.55 ALMACÉN DE FABRICACIÓN
+A través de este equipo se suministrará aire a cada una de las estancias de tal forma que se 
+controle la temperatura, la humedad y la presurización de cada una de estas zonas según sus 
+requerimientos.
+Las principales características de la unidad AHU-3 son las siguientes:
+
+Tipo: 100% aire fresco
+
+Recirculación: no aplicable
+
+Refrigeración: expansión directa
+
+Calefacción: resistencias eléctricas
+
+Humidificación: no permitida
+
+Caudal de alimentación: Constante, controlado por el sistema BMS, que actúa sobre 
+el motor conmutado electrónicamente para aumentar o disminuir las revoluciones y 
+mantener así un caudal de alimentación constante.
+
+Caudal de extracción: no aplicable
+
+Filtración final: Filtro F9 en la unidad de manipulación. No se requieren filtros de 
+terminales.
+
+
+================================================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 19', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+la uma-4 se encargará de extraer de cada una de las zonas clasificadas detalladas en el 
+punto anterior, a excepción de la zona de lavado 3, para generar renovación de aire en 
+esta zona y controlar su presurización.
+las principales características de la unidad ahu-4 son las siguientes:
+tipo: 100% de extracción
+
+recirculación: no aplicable
+
+refrigeración: no aplicable
+
+calefacción: no aplicable
+
+humidificación: no aplicable
+
+flujo de suministro: no aplicable
+
+caudal de extracción: constante, controlado por el sistema bms, que actúa sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de extracción constante.
+
+filtración final: filtro f9 en la unidad de manipulación.
+las unidades de manipulación ahu-3 y ahu-4 están configuradas para trabajar al mismo 
+tiempo de tal forma que el suministro y la extracción de aire se controlan y coordinan a través 
+del sistema bms para garantizar la presurización del pasillo con el flujo de aire necesario para 
+mantener una renovación de aire según los requisitos de las salas de clase d.
+• la uma-5 da servicio al corredor técnico de tal manera que se realiza una recirculación 
+parcial del aire mezclándolo con aire fresco de acuerdo con el requerimiento mínimo para el 
+área del corredor técnico (ec-b205-p1-at-1.16 área técnica de recubrimiento y lecho 
+fluidizado).
+las principales características de la unidad ahu-5 son las siguientes:
+
+tipo: recirculación parcial con renovación de aire a través de la cámara de mezcla.
+
+renovación de aire: existente para la entrada de aire fresco a través de la succión del 
+ventilador manipulador.
+
+refrigeración: no aplicable
+
+calefacción: no aplicable
+
+humidificación: no aplicable
+
+caudal de alimentación: constante, controlado por el sistema bms, actuando sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de alimentación constante.
+
+caudal de extracción: no aplicable.
+
+filtración final: fogn / iso epmgrueso 50% / .7 m²
+todas las uma estarán ubicadas en la terraza del edificio 205 en el nivel +6.95.
+la caja de paso que ayuda a pasar desde la zona de envasado edificio 205 hasta el almacén 
+central de la planta será tratada con aire de la uta-, de tal forma que siempre estará 
+presurizada positivamente y evitará que el aire de las zonas clasificadas se contamine con el 
+aire de las naves.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 19.
+La UMA-4 se encargará de extraer de cada una de las zonas clasificadas detalladas en el 
+punto anterior, a excepción de la ZONA DE LAVADO 3, para generar renovación de aire en 
+esta zona y controlar su presurización.
+Las principales características de la unidad AHU-4 son las siguientes:
+Tipo: 100% de extracción
+
+Recirculación: no aplicable
+
+Refrigeración: no aplicable
+
+Calefacción: no aplicable
+
+Humidificación: no aplicable
+
+Flujo de suministro: no aplicable
+
+Caudal de extracción: constante, controlado por el sistema BMS, que actúa sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de extracción constante.
+
+Filtración final: Filtro F9 en la unidad de manipulación.
+Las unidades de manipulación AHU-3 y AHU-4 están configuradas para trabajar al mismo 
+tiempo de tal forma que el suministro y la extracción de aire se controlan y coordinan a través 
+del sistema BMS para garantizar la presurización del pasillo con el flujo de aire necesario para 
+mantener una renovación de aire según los requisitos de las salas de clase D.
+• La UMA-5 da servicio al corredor técnico de tal manera que se realiza una recirculación 
+parcial del aire mezclándolo con aire fresco de acuerdo con el requerimiento mínimo para el 
+área del corredor técnico (EC-B205-P1-AT-1.16 Área Técnica de Recubrimiento y Lecho 
+Fluidizado).
+Las principales características de la unidad AHU-5 son las siguientes:
+
+Tipo: Recirculación parcial con renovación de aire a través de la cámara de mezcla.
+
+Renovación de aire: existente para la entrada de aire fresco a través de la succión del 
+ventilador manipulador.
+
+Refrigeración: no aplicable
+
+Calefacción: no aplicable
+
+Humidificación: no aplicable
+
+Caudal de alimentación: constante, controlado por el sistema BMS, actuando sobre el 
+motor conmutado electrónicamente para aumentar o disminuir sus revoluciones y 
+mantener así un caudal de alimentación constante.
+
+Caudal de extracción: no aplicable.
+
+Filtración final: FOGN / ISO ePMgrueso 50% / .7 m²
+Todas las UMA estarán ubicadas en la terraza del edificio 205 en el nivel +6.95.
+La caja de paso que ayuda a pasar desde la zona de envasado edificio 205 hasta el almacén 
+central de la planta será tratada con aire de la UTA-, de tal forma que siempre estará 
+presurizada positivamente y evitará que el aire de las zonas clasificadas se contamine con el 
+aire de las naves.
+
+
+================================================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 20', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+existe un ventilador de extracción exclusivo (fe-03) para el uso de la cabina de lavado en la 
+zona de lavado 3, que se encargará de extraer el aire y los vapores generados en la 
+cabina de lavado y evitar así la contaminación cruzada por la interconexión de las tuberías 
+con las zonas de producción circundantes.
+por último, se cuenta con un ventilador de alimentación y un ventilador de extracción, situados 
+a la cota -6,80m del edificio 205, que se destinarán a la renovación de aire en tres zonas no 
+clasificadas, que son:
+ec-b205-sb-at-0.08 sala eléctrica
+ec-b205-sb-at-0.11 cuarta it
+ec-b205-sb-at-0.12 planta de agua
+la división de cada una de las zonas de la planta de producción, cota 0,00 m, con respecto a 
+las unidades de manipulación de las que se utilizan.
+todas las uma estarán ubicadas en la terraza del edificio 205 en el nivel +6.95.
+la caja de paso que ayuda a pasar desde la zona de envasado edificio 205 hasta el almacén 
+central de la planta será tratada con aire de la uma-, de tal forma que siempre estará 
+presurizada positivamente y evitará que el aire de las zonas clasificadas se contamine con el 
+aire de las naves.
+todas las áreas clasificadas como, por ejemplo: fabricación, envase, muestreo, folios, planta 
+piloto y laboratorio de microbiología se clasifican según la política grünenthal como clase e. 
+a excepción de la zona de siembra microbiológica la cual se encuentra clasificada como clase 
+c de acuerdo con la guía eu gmp. 
+para normalizar el proceso interno de las pruebas de partículas por m3 de acuerdo con las 
+guías: iso 14644 y eu gmp, se consideraron las especificaciones máximas permitidos para 
+la clase d, esto aplicada a las áreas de fabricación y llenado en tecnandina que han sido 
+categorizadas como clase e. descrito en el procedimiento número proc-000066 
+calificación de sistemas de apoyo crítico, áreas y equipos.
+clasificación de las áreas acorde al procedimiento global proc-003609 requirements for 
+the premises, production environment and equipment
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 20.
+Existe un ventilador de extracción exclusivo (FE-03) para el uso de la cabina de lavado en la 
+ZONA DE LAVADO 3, que se encargará de extraer el aire y los vapores generados en la 
+cabina de lavado y evitar así la contaminación cruzada por la interconexión de las tuberías 
+con las zonas de producción circundantes.
+Por último, se cuenta con un ventilador de alimentación y un ventilador de extracción, situados 
+a la cota -6,80m del edificio 205, que se destinarán a la renovación de aire en tres zonas no 
+clasificadas, que son:
+EC-B205-SB-AT-0.08 SALA ELÉCTRICA
+EC-B205-SB-AT-0.11 CUARTA IT
+EC-B205-SB-AT-0.12 PLANTA DE AGUA
+La división de cada una de las zonas de la planta de producción, cota 0,00 m, con respecto a 
+las unidades de manipulación de las que se utilizan.
+Todas las UMA estarán ubicadas en la terraza del edificio 205 en el nivel +6.95.
+La caja de paso que ayuda a pasar desde la zona de envasado edificio 205 hasta el almacén 
+central de la planta será tratada con aire de la UMA-, de tal forma que siempre estará 
+presurizada positivamente y evitará que el aire de las zonas clasificadas se contamine con el 
+aire de las naves.
+Todas las áreas clasificadas como, por ejemplo: fabricación, envase, muestreo, folios, planta 
+piloto y laboratorio de microbiología se clasifican según la política Grünenthal como Clase E. 
+A excepción de la zona de siembra microbiológica la cual se encuentra clasificada como Clase 
+C de acuerdo con la guía EU GMP. 
+Para normalizar el proceso interno de las pruebas de partículas por m3 de acuerdo con las 
+guías: ISO 14644 y EU GMP, se consideraron las especificaciones máximas permitidos para 
+la clase D, esto aplicada a las áreas de fabricación y llenado en Tecnandina que han sido 
+categorizadas como Clase E. Descrito en el procedimiento número PROC-000066 
+Calificación de sistemas de apoyo crítico, áreas y Equipos.
+Clasificación de las áreas acorde al Procedimiento Global PROC-003609 Requirements for 
+the Premises, Production Environment and Equipment
+
+
+================================================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 21', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+para tecnandina la clase e tiene los siguientes parámetros:
+clasificación número máximo permitido de partículas por 
+m3
+límites 
+de 
+contaminación 
+microbiana
+guía  
+eu gmp *
+guía eu gmp
+guía  
+eu gmp
+guía
+us
+guía  
+eu gmp
+at rest
+in operation at rest
+in         
+operation
+cfu/m³
+cfu/m³
+contact 
+plates 
+cfu/plate
+0,5 µm
+0,5 µm
+5,0 µm
+5,0 µm
+e
+3 520 000
+no defined
+29 000 not defined
+400
+100
+c
+352 000
+3 520 000
+2 900
+29 000
+100
+100
+25
+en las áreas de fabricación y envase existe el concepto de corredor limpio con esclusas de 
+personal y de material en las áreas generadoras de polvo; eso significa que el aire fluye desde 
+el pasillo hacías las esclusas y desde las áreas de producción hacia las esclusas mediante un 
+efecto de sumidero.  
+semáforos (verde / rojo) se instalan en cada área de fabricación y llenado, con el fin de 
+proporcionar ayuda visual para la detección temprana de problemas en presiones 
+diferenciales y el sistema de ventilación.
+las instalaciones tienen por lo menos 8 cambios de aire por hora, descrito en el procedimiento 
+número proc-000077, “operación y mantenimiento del sistema de ventilación”.
+según el procedimiento, las condiciones de las instalaciones de las áreas clasificadas 
+descritas anteriormente se mantienen dentro del siguiente rango:
+-
+mínimo: 0,020 in h2o /    5 pa.
+-
+máximo: 0,160 in h2o /   40 pa.
+a excepción de la cabina de soplando del área de muestreo y diseño, en donde el rango de 
+presión diferencial es:
+-
+mínimo: - 0,250 in h2o /   - 62,5 pa.
+-
+máximo: + 0,250 in h2o /   + 62,5 pa
+eu gmp 
+guide *
+us guide 
+ guía  
+eu gmp  
+guía
+us           
+ guía  
+eu gmp  
+at rest
+in operation
+at rest
+in          
+operation
+0.5µm
+0,5µm
+5.0µm
+5.0µm
+4,8
+5
+100
+3520
+3520
+20
+20
+<1
+1
+<1
+6
+1000
+7
+b
+5
+7
+10000
+3520
+352000
+29
+2900
+10
+10
+5
+c
+7
+8
+100000
+352000
+3520000
+2900
+29000
+100
+100
+25
+d
+8
+3 520 000
+no definido
+29 000
+no definido
+200
+50
+e
+no definido
+no definido
+no definido
+no definido
+400
+100
+f
+no definido
+no definido
+no definido
+no definido no definido
+no definido
+* la clase e y f están clasificadas internamente por 
+contact 
+plates 
+cfu/plate
+cfu/m3
+a
+clasificación de las salas
+número máximo permitido de partículas por m3
+límites de contaminación microbiana
+en iso  14644-1
+eu gmp guide 
+at rest
+in 
+operation
+in 
+operation
+cfu/m3
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 21.
+Para Tecnandina la clase E tiene los siguientes parámetros:
+Clasificación Número máximo permitido de partículas por 
+m3
+Límites 
+de 
+contaminación 
+microbiana
+Guía  
+EU GMP *
+Guía EU GMP
+Guía  
+EU GMP
+Guía
+US
+Guía  
+EU GMP
+at rest
+in operation at rest
+in         
+operation
+CFU/m³
+CFU/m³
+contact 
+plates 
+CFU/plate
+0,5 µm
+0,5 µm
+5,0 µm
+5,0 µm
+E
+3 520 000
+no defined
+29 000 not defined
+400
+100
+C
+352 000
+3 520 000
+2 900
+29 000
+100
+100
+25
+En las áreas de fabricación y envase existe el concepto de corredor limpio con esclusas de 
+personal y de material en las áreas generadoras de polvo; eso significa que el aire fluye desde 
+el pasillo hacías las esclusas y desde las áreas de producción hacia las esclusas mediante un 
+efecto de sumidero.  
+Semáforos (verde / rojo) se instalan en cada área de fabricación y llenado, con el fin de 
+proporcionar ayuda visual para la detección temprana de problemas en presiones 
+diferenciales y el sistema de ventilación.
+Las instalaciones tienen por lo menos 8 cambios de aire por hora, descrito en el procedimiento 
+número PROC-000077, “Operación y Mantenimiento del Sistema de Ventilación”.
+Según el procedimiento, las condiciones de las instalaciones de las áreas clasificadas 
+descritas anteriormente se mantienen dentro del siguiente rango:
+-
+Mínimo: 0,020 in H2O /    5 Pa.
+-
+Máximo: 0,160 in H2O /   40 Pa.
+A excepción de la cabina de soplando del área de muestreo y diseño, en donde el rango de 
+presión diferencial es:
+-
+Mínimo: - 0,250 in H2O /   - 62,5 Pa.
+-
+Máximo: + 0,250 in H2O /   + 62,5 Pa
+EU GMP 
+Guide *
+US Guide 
+ Guía  
+EU GMP  
+Guía
+US           
+ Guía  
+EU GMP  
+at rest
+in operation
+at rest
+in          
+operation
+0.5µm
+0,5µm
+5.0µm
+5.0µm
+4,8
+5
+100
+3520
+3520
+20
+20
+<1
+1
+<1
+6
+1000
+7
+B
+5
+7
+10000
+3520
+352000
+29
+2900
+10
+10
+5
+C
+7
+8
+100000
+352000
+3520000
+2900
+29000
+100
+100
+25
+D
+8
+3 520 000
+No definido
+29 000
+No definido
+200
+50
+E
+No definido
+No definido
+No definido
+No definido
+400
+100
+F
+No definido
+No definido
+No definido
+No definido No definido
+No definido
+* La clase E y F están clasificadas internamente por 
+contact 
+plates 
+CFU/plate
+CFU/m3
+A
+Clasificación de las salas
+Número máximo permitido de partículas por m3
+Límites de contaminación microbiana
+EN ISO  14644-1
+EU GMP Guide 
+at rest
+in 
+operation
+in 
+operation
+CFU/m3
+
+
+================================================================================
+
+=== CHUNK 19 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 22', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+la filtración del aire se la realiza con prefiltros de 30-35% de eficiencia y filtros terminales de 
+95% de eficiencia. en las unidades nuevas existen filtros intermedios con 85% de eficiencia. 
+los manómetros de presión diferencial calibrados regularmente y ubicados en las 
+instalaciones de fabricación, sirven también como indicadores de fallas de los sistemas de 
+ventilación. de acuerdo con el procedimiento proc-000055 plan de contingencia en caso 
+de fallas del sistema de ventilación, un cambio en la presión diferencial determina un fallo 
+de uno de los sistemas de ventilación.
+4.2.1.2
+sistema de purificación de agua
+el sistema purificación de agua garantiza la producción de agua purificada usando el equipo 
+letzner. el agua purificada se utiliza en fabricación y control de calidad. el material usado en 
+la red de distribución y almacenamiento de agua purificada es de acero inoxidable 316 l, así 
+como las todas las partes que están en contacto con el producto. 
+el equipo tiene una capacidad de producción promedio de 2200 l / h. el proceso consiste en 
+que el agua sale del depósito (cisterna), pasa por un banco de filtración de 5 micras, luego 
+pasa a través de 2 lámparas uv (254 nanómetros) y luego entra a un tanque de reducción de 
+sólidos (desferretización). luego, la concentración de cloro se elimina en un tanque que 
+contiene carbón activado; el agua continua hacia un proceso de microfiltración para evitar el 
+paso de partículas mayores a 10 µm. con la ayuda de una bomba multietapas, existe un 
+aumento de la presión para que continue al proceso de ósmosis inversa y electro deionización, 
+para obtener el agua purificada con una conductividad menor 2,5 µs / cm (aproximadamente 
+1,5 µs/cm). finalmente, el agua se calienta a 70 ° c aproximadamente y se almacena en dos 
+tanques de capacidad de 4000 l y 3500 l (total 7500 l). finalmente, el agua purificada se 
+distribuye hacia los diferentes puntos de uso. cada etapa del proceso de generación de agua 
+purificada tiene un punto de muestreo.
+el descenso de la temperatura se compensa con otro proceso de calentamiento durante la 
+recirculación del agua purificada, para garantizar siempre la temperatura entre 65 ° c - 75 ° c 
+en el loop de distribución, de esta manera se controla el riesgo de contaminación microbiana. 
+se cuenta además con un nuevo sistema de distribución de agua purificada, para el edificio 
+205 que se alimenta desde actual purificador letzner la válvula (vda-11) hasta el tanque de 
+almacenamiento (t-01), un sistema de bombeo compuesto por dos bombas (b-01 y b-02) y 
+su instrumentación de control, un sistema de calentamiento (c-01) con su tablero de fuerza y 
+un loop de distribución de agua purificada que suministra a 11 puntos de uso.
+el sistema de distribución de agua purificada cuenta con un tanque de almacenamiento de 
+5500 l, un intercambiador de calor con tres etapas que funcionan independientemente y 
+mantienen la temperatura del agua por encima de los 65°c y dos bombas de recirculación con 
+variadores de frecuencia que funcionan al mismo tiempo y toman agua del tanque para 
+distribuirla a los puntos de uso del edificio 205 y mantiene la recirculación constante.
+el monitoreo del agua purificada se realiza de la siguiente manera:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 22.
+La filtración del aire se la realiza con prefiltros de 30-35% de eficiencia y filtros terminales de 
+95% de eficiencia. En las unidades nuevas existen filtros intermedios con 85% de eficiencia. 
+Los manómetros de presión diferencial calibrados regularmente y ubicados en las 
+instalaciones de fabricación, sirven también como indicadores de fallas de los sistemas de 
+ventilación. De acuerdo con el procedimiento PROC-000055 Plan de Contingencia en caso 
+de fallas del Sistema de Ventilación, un cambio en la presión diferencial determina un fallo 
+de uno de los sistemas de ventilación.
+4.2.1.2
+Sistema de Purificación de Agua
+El Sistema purificación de Agua garantiza la producción de agua purificada usando el equipo 
+Letzner. El agua purificada se utiliza en fabricación y control de calidad. El material usado en 
+la red de distribución y almacenamiento de agua purificada es de acero inoxidable 316 L, así 
+como las todas las partes que están en contacto con el producto. 
+El equipo tiene una capacidad de producción promedio de 2200 L / h. El proceso consiste en 
+que el agua sale del depósito (cisterna), pasa por un banco de filtración de 5 micras, luego 
+pasa a través de 2 lámparas UV (254 nanómetros) y luego entra a un tanque de reducción de 
+sólidos (desferretización). Luego, la concentración de cloro se elimina en un tanque que 
+contiene carbón activado; el agua continua hacia un proceso de microfiltración para evitar el 
+paso de partículas mayores a 10 µm. Con la ayuda de una bomba multietapas, existe un 
+aumento de la presión para que continue al proceso de ósmosis inversa y electro deionización, 
+para obtener el agua purificada con una conductividad menor 2,5 µS / cm (aproximadamente 
+1,5 µS/cm). Finalmente, el agua se calienta a 70 ° C aproximadamente y se almacena en dos 
+tanques de capacidad de 4000 L y 3500 L (Total 7500 L). Finalmente, el agua purificada se 
+distribuye hacia los diferentes puntos de uso. Cada etapa del proceso de generación de agua 
+purificada tiene un punto de muestreo.
+El descenso de la temperatura se compensa con otro proceso de calentamiento durante la 
+recirculación del agua purificada, para garantizar siempre la temperatura entre 65 ° C - 75 ° C 
+en el loop de distribución, de esta manera se controla el riesgo de contaminación microbiana. 
+Se cuenta además con un nuevo sistema de distribución de agua Purificada, para el edificio 
+205 que se alimenta desde actual purificador Letzner la válvula (VDA-11) hasta el tanque de 
+almacenamiento (T-01), un sistema de bombeo compuesto por dos bombas (B-01 y B-02) y 
+su instrumentación de control, un sistema de calentamiento (C-01) con su tablero de fuerza y 
+un loop de distribución de agua purificada que suministra a 11 puntos de uso.
+El Sistema de distribución de Agua Purificada cuenta con un tanque de almacenamiento de 
+5500 L, un intercambiador de calor con tres etapas que funcionan independientemente y 
+mantienen la temperatura del agua por encima de los 65°C y dos bombas de recirculación con 
+variadores de frecuencia que funcionan al mismo tiempo y toman agua del tanque para 
+distribuirla a los puntos de uso del edificio 205 y mantiene la recirculación constante.
+El monitoreo del agua purificada se realiza de la siguiente manera:
+
+
+================================================================================
+
+=== CHUNK 20 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 23', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+-
+frecuencia mensual: loop de agua purificada y sistema letzner. el control 
+microbiológico, se llevará a cabo el segundo martes de cada mes, ± 2 días.
+-
+frecuencia semanal: loop de agua de pozo + cloro. el control microbiológico del agua 
+potable será una vez por semana. estos procesos se describen en el proc-000357 
+procedimiento para muestreo y análisis microbiológico de agua purificada, 
+agua de pozo más cloro y agua en proceso sistema letzner
+el esquema del sistema de agua purificada incluyendo los puntos de muestreo, se encuentra 
+en 
+el 
+anexo 
+5 
+(ubicado 
+en 
+w:\aseguramientocalidad.s1\smf\smf 
+vigente\español\anexos\anexo 5)
+4.2.1.3
+sistemas relevantes
+breve descripción de otras utilidades pertinentes a otros sistemas de apoyo relevantes son el 
+aire comprimido, el nitrógeno y la generación de vapor para autoclave.
+aire comprimido
+el aire comprimido, se genera utilizando dos compresores atlas copco,oil free que aseguran 
+un funcionamiento alternativo. el primero es el compresor de rigor y el otro es una alternativa 
+de seguridad. el aire se toma del ambiente externo y es pre filtrado, luego se presuriza y se 
+almacena en dos tanques. a partir de ahí se distribuye a las instalaciones. 
+el aire comprimido se utiliza en los sistemas neumáticos y tomas de aire dentro de la planta. 
+los puntos de suministro de aire comprimido se encuentran en las instalaciones de 
+producción. en estos puntos están instalados equipos de filtro de aire de alta eficiencia, lo 
+que permite el manejo de aire 99,97% libre de impurezas. estos puntos son calificados 
+anualmente, así como el aire almacenado en los tanques.
+vapor
+vapor se genera únicamente para el equipo de autoclave del área de microbiología. el vapor 
+se genera en el equipo en condiciones controladas usando un procesador electrónico. el 
+vapor se produce utilizando resistencia eléctrica.
+nitrógeno
+el nitrógeno es proporcionado por un proveedor con el respectivo certificado de análisis. el 
+gas es transportado por un tubo de cobre desde los tanques recargables. el gas va a las áreas 
+de fabricación y de laboratorio donde es utilizado. los lugares donde el gas está en contacto 
+directo con los productos son calificados anualmente.
+para el edificio 205:
+el nitrógeno se obtiene a través de procesos de separación física del aire comprimido; hasta 
+obtener una pureza del 98%. el suministro de nitrógeno es el único punto de uso. la red de 
+nitrógeno es de acero inoxidable. 
+el sistema de generación de nitrógeno cuenta con un tanque de almacenamiento de 500l 
+que cuenta con una válvula de purga y previo a su uso tiene un filtro de cartucho final.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 23.
+-
+Frecuencia mensual: Loop de agua purificada y sistema Letzner. El control 
+microbiológico, se llevará a cabo el segundo martes de cada mes, ± 2 días.
+-
+Frecuencia semanal: Loop de agua de pozo + cloro. El control microbiológico del agua 
+potable será una vez por semana. Estos procesos se describen en el PROC-000357 
+Procedimiento para Muestreo y Análisis Microbiológico de Agua Purificada, 
+Agua de Pozo más Cloro y Agua en Proceso Sistema Letzner
+El esquema del sistema de agua purificada incluyendo los puntos de muestreo, se encuentra 
+en 
+el 
+Anexo 
+5 
+(Ubicado 
+en 
+W:\AseguramientoCalidad.s1\SMF\SMF 
+Vigente\Español\Anexos\Anexo 5)
+4.2.1.3
+Sistemas Relevantes
+Breve descripción de otras utilidades pertinentes a otros sistemas de apoyo relevantes son el 
+aire comprimido, el nitrógeno y la generación de vapor para autoclave.
+Aire comprimido
+El Aire Comprimido, se genera utilizando dos compresores Atlas Copco,oil free que aseguran 
+un funcionamiento alternativo. El primero es el compresor de rigor y el otro es una alternativa 
+de seguridad. El aire se toma del ambiente externo y es pre filtrado, luego se presuriza y se 
+almacena en dos tanques. A partir de ahí se distribuye a las instalaciones. 
+El aire comprimido se utiliza en los sistemas neumáticos y tomas de aire dentro de la planta. 
+Los puntos de suministro de aire comprimido se encuentran en las instalaciones de 
+producción. En estos puntos están instalados equipos de Filtro de Aire de Alta Eficiencia, lo 
+que permite el manejo de aire 99,97% libre de impurezas. Estos puntos son calificados 
+anualmente, así como el aire almacenado en los tanques.
+Vapor
+Vapor se genera únicamente para el equipo de autoclave del área de microbiología. El vapor 
+se genera en el equipo en condiciones controladas usando un procesador electrónico. El 
+vapor se produce utilizando resistencia eléctrica.
+Nitrógeno
+El Nitrógeno es proporcionado por un proveedor con el respectivo certificado de análisis. El 
+gas es transportado por un tubo de cobre desde los tanques recargables. El gas va a las áreas 
+de fabricación y de laboratorio donde es utilizado. Los lugares donde el gas está en contacto 
+directo con los productos son calificados anualmente.
+Para el Edificio 205:
+El nitrógeno se obtiene a través de procesos de separación física del aire comprimido; hasta 
+obtener una pureza del 98%. El suministro de nitrógeno es el único punto de uso. La red de 
+nitrógeno es de acero inoxidable. 
+El sistema de generación de Nitrógeno cuenta con un tanque de almacenamiento de 500L 
+que cuenta con una válvula de purga y previo a su uso tiene un filtro de cartucho final.
+
+
+================================================================================
+
+=== CHUNK 21 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 24', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+el equipo cuenta con un sistema de control que permite la visualización en tiempo real de las 
+variables del proceso y alarmas.
+variables de proceso: presión, flujo de nitrógeno y pureza del nitrógeno
+alarmas: baja presión de aire y baja pureza
+el sistema de generación de nitrógeno no está conectado al bms.
+4.3
+equipamiento
+4.3.1
+equipos
+el listado con los equipos más relevantes para producción y control de calidad se encuentra 
+el 
+anexo 
+6 
+(ubicado
+en
+w:\aseguramientocalidad.s1\smf\smf 
+vigente\español\anexos\anexo 6).
+4.3.2
+mantenimiento preventivo
+las actividades de mantenimiento de máquinas y equipos sigue lo descrito en el 
+procedimiento proc-002036 procedimiento de mantenimiento preventivo y correctivo 
+de máquinas y equipos, las actividades son planificadas y manejadas dentro del módulo de 
+mantenimiento preventivo (preventive maintenance, por sus siglas en inglés: pm) en sap, 
+para ello es necesario seguir lo descrito en el procedimiento proc-003375 procedimiento 
+para administrar los procesos de mantenimiento e ingeniería en el módulo sap pm.
+las frecuencias de ejecución de órdenes de mantenimiento preventivo deben estar contenidas 
+dentro del programa de mantenimiento, teniendo las siguientes consideraciones para estos 
+equipos en particular:
+-
+mantenimiento trimestral de los sistemas de refrigeración y aire acondicionado que 
+debe ser ejecutado por proveedor externo.
+-
+mantenimiento semestral de los equipos de bodegas y acondicionamiento, excepto 
+las apiladoras manuales que se ejecuta bianualmente.
+-
+mantenimiento anual de generadores, tableros eléctricos, puestas a tierra y 
+pararrayos.
+-
+mantenimiento regular de los compresores atlas copco realizado por proveedor 
+externo.
+-
+mantenimiento bianual de la bomba de pozo. 
+-
+mantenimiento trimestral de los equipos de ventilación mecánica, excepto las 
+manejadoras rlt, que se ejecuta anualmente.
+la planificación de mantenimiento preventivo en el módulo sap pm es usada para evitar 
+posibles fallas en equipos y reducir el desgaste de la infraestructura. en el módulo sap pm 
+se utilizará dos estrategias como base del mantenimiento preventivo:
+-
+time based strategy (estrategia basada en el tiempo)
+-
+perfomance based strategy (estrategia basada en el rendimiento)
+por otro lado, la planta cuenta con un plan de mantenimiento de la infraestructura, descritas 
+en el procedimiento proc-000033 mantenimiento de las instalaciones. de la misma forma
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 24.
+El equipo cuenta con un sistema de control que permite la visualización en tiempo real de las 
+variables del proceso y alarmas.
+Variables de proceso: Presión, Flujo de nitrógeno y Pureza del nitrógeno
+Alarmas: Baja presión de aire y baja pureza
+El sistema de generación de nitrógeno no está conectado al BMS.
+4.3
+Equipamiento
+4.3.1
+Equipos
+El listado con los equipos más relevantes para producción y control de calidad se encuentra 
+el 
+Anexo 
+6 
+(Ubicado
+en
+W:\AseguramientoCalidad.s1\SMF\SMF 
+Vigente\Español\Anexos\Anexo 6).
+4.3.2
+Mantenimiento preventivo
+Las actividades de mantenimiento de máquinas y equipos sigue lo descrito en el 
+procedimiento PROC-002036 Procedimiento de Mantenimiento Preventivo y Correctivo 
+de Máquinas y Equipos, las actividades son planificadas y manejadas dentro del módulo de 
+Mantenimiento Preventivo (Preventive Maintenance, por sus siglas en inglés: PM) en SAP, 
+para ello es necesario seguir lo descrito en el procedimiento PROC-003375 Procedimiento 
+para Administrar los Procesos de Mantenimiento e Ingeniería en el módulo SAP PM.
+Las frecuencias de ejecución de órdenes de mantenimiento preventivo deben estar contenidas 
+dentro del programa de mantenimiento, teniendo las siguientes consideraciones para estos 
+equipos en particular:
+-
+Mantenimiento trimestral de los sistemas de refrigeración y aire acondicionado que 
+debe ser ejecutado por proveedor externo.
+-
+Mantenimiento semestral de los equipos de Bodegas y Acondicionamiento, excepto 
+las apiladoras manuales que se ejecuta bianualmente.
+-
+Mantenimiento anual de generadores, tableros eléctricos, puestas a tierra y 
+pararrayos.
+-
+Mantenimiento regular de los compresores Atlas Copco realizado por proveedor 
+externo.
+-
+Mantenimiento bianual de la bomba de pozo. 
+-
+Mantenimiento trimestral de los equipos de ventilación mecánica, excepto las 
+manejadoras RLT, que se ejecuta anualmente.
+La planificación de mantenimiento preventivo en el módulo SAP PM es usada para evitar 
+posibles fallas en equipos y reducir el desgaste de la infraestructura. En el módulo SAP PM 
+se utilizará dos estrategias como base del mantenimiento preventivo:
+-
+Time Based Strategy (Estrategia basada en el tiempo)
+-
+Perfomance Based Strategy (Estrategia basada en el rendimiento)
+Por otro lado, la planta cuenta con un plan de mantenimiento de la infraestructura, descritas 
+en el procedimiento PROC-000033 Mantenimiento de las instalaciones. De la misma forma
+
+
+================================================================================
+
+=== CHUNK 22 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 25', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+para planificar los mantenimientos de las instalaciones es usado el módulo sap pm módulo 
+sap pm.
+para priorizar el mantenimiento, y debido al número de áreas, se ha dividido la planta 
+tecnandina infraestructura en:
+-
+áreas calificadas gmp: fabricación, envase, muestreo, microbiología, planta piloto, 
+esclusas y corredores gmp.
+-
+áreas generales: no poseen clasificación gmp.
+la frecuencia de mantenimiento es flexible, por lo general varía entre 1 a 12 meses para las 
+áreas clasificadas gmp, las áreas generales aproximadamente la frecuencia es cada 2 años.
+cada equipo también cuenta con un plan de mantenimiento preventivo definido, este 
+mantenimiento es registrado y planificado bajo le modulo pm en sap. el mantenimiento de 
+los equipos va a depender de las características y frecuencias dadas para cada equipo, 
+descritos en los procedimientos individuales.
+4.3.3
+calibraciones, calificaciones y validaciones
+el sistema de calibraciones asegura que todos los equipos de inspección, medición y análisis, 
+incluyendo los equipos mecánicos, automáticos o electrónicos usados en los departamentos 
+relacionados con buenas prácticas de manufactura (gmp) (ej. producción, bodega, 
+seguridad industrial salud ocupacional y medio ambiente (ehs), laboratorios), de la planta 
+farmacéutica tecnandina (quito site) sean adecuados para su propósito determinado y que 
+sean capaces de reproducir resultados válidos.
+las calibraciones siguen directrices de procedimientos globales descrito en el proc-005165 
+calibration.
+el proceso de calificación seguirá el modelo internacional v según el sop global: proc-
+004031 “premise, utility and equipment qualification”, proc-003609 “requirements 
+for the premises, production environment and equipment” y proc-004099 “validation 
+master plan: procedure for analytical instrument qualification (aiq)” las actividades de 
+calificación tienen enfoque al riesgo, por lo cual se debe identificar los aspectos críticos para 
+establecer el alcance de las pruebas y la evaluación durante la calificación propiamente dicha. 
+finalmente, las validaciones son monitoreadas bajo el plan maestro de validaciones lo cual 
+describe detalladamente todas las actividades, estado, cronograma de validaciones y 
+calificaciones que se llevan a cabo en tecnandina durante el año, contando con una revisión 
+de ajuste en el transcurso de este período; utilizando como fundamento las guías: 
+-
+pic/s pi 006 validation master plan
+-
+pic pe 009 guide to good manufacturing practice for medicinal products
+-
+eudralex volume 4 annex 15: qualification and validation 
+-
+resolución – rdc n°17, of 16.04.10 anvisa
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 25.
+para planificar los mantenimientos de las instalaciones es usado el módulo SAP PM módulo 
+SAP PM.
+Para priorizar el mantenimiento, y debido al número de áreas, se ha dividido la PLANTA 
+TECNANDINA INFRAESTRUCTURA en:
+-
+Áreas calificadas GMP: Fabricación, envase, muestreo, microbiología, planta piloto, 
+esclusas y corredores GMP.
+-
+Áreas Generales: no poseen clasificación GMP.
+La frecuencia de mantenimiento es flexible, por lo general varía entre 1 a 12 meses para las 
+áreas clasificadas GMP, las áreas generales aproximadamente la frecuencia es cada 2 años.
+Cada equipo también cuenta con un plan de mantenimiento preventivo definido, este 
+mantenimiento es registrado y planificado bajo le modulo PM en SAP. El mantenimiento de 
+los equipos va a depender de las características y frecuencias dadas para cada equipo, 
+descritos en los procedimientos individuales.
+4.3.3
+Calibraciones, calificaciones y validaciones
+El Sistema de Calibraciones asegura que todos los equipos de inspección, medición y análisis, 
+incluyendo los equipos mecánicos, automáticos o electrónicos usados en los departamentos 
+relacionados con Buenas Prácticas de Manufactura (GMP) (Ej. Producción, Bodega, 
+Seguridad Industrial Salud Ocupacional y Medio Ambiente (EHS), Laboratorios), de la Planta 
+Farmacéutica Tecnandina (Quito Site) sean adecuados para su propósito determinado y que 
+sean capaces de reproducir resultados válidos.
+Las calibraciones siguen directrices de procedimientos globales descrito en el PROC-005165 
+Calibration.
+El proceso de calificación seguirá el modelo internacional V según el SOP global: PROC-
+004031 “Premise, Utility and Equipment Qualification”, PROC-003609 “Requirements 
+for the Premises, Production Environment and Equipment” y PROC-004099 “Validation 
+Master Plan: Procedure for Analytical Instrument Qualification (AIQ)” las actividades de 
+calificación tienen enfoque al riesgo, por lo cual se debe identificar los aspectos críticos para 
+establecer el alcance de las pruebas y la evaluación durante la calificación propiamente dicha. 
+Finalmente, las validaciones son monitoreadas bajo el Plan Maestro de Validaciones lo cual 
+describe detalladamente todas las actividades, estado, cronograma de validaciones y 
+calificaciones que se llevan a cabo en Tecnandina durante el año, contando con una revisión 
+de ajuste en el transcurso de este período; utilizando como fundamento las guías: 
+-
+PIC/S PI 006 Validation Master Plan
+-
+PIC PE 009 Guide to good manufacturing practice for medicinal products
+-
+EudraLex Volume 4 Annex 15: Qualification and Validation 
+-
+Resolución – RDC N°17, OF 16.04.10 ANVISA
+
+
+================================================================================
+
+=== CHUNK 23 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 26', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+-
+resolução re nº 899/2003 
+-
+guías relacionados à garantía de qualidade, 31 octubre 2006 anvisa 
+-
+sops globales de grünenthal 
+-
+21 cfr §211.68, §211.113, §211.165
+-
+gamp
+-
+who technical report series 937
+la política de validación está descrita en el procedimiento proc-000473 “validación”: la 
+política general de la empresa, sus intenciones, y enfoque a validación, incluyendo la 
+validación de procesos, procedimientos de limpieza, métodos analíticos, métodos 
+microbiológicos, procedimientos de control en procesos, sistemas computarizados, y 
+personas responsables por el diseño, revisión, aprobación y reportes de cada fase de la 
+validación deben ser documentados. 
+la validación deberá extenderse a aquellas operaciones, procesos y sistemas que han sido 
+determinados como críticos para la calidad y pureza del api o del medicamento.
+las instalaciones, sistemas y equipos a ser usados deberán ser calificados y los métodos
+analíticos deberán ser validados. el personal que forme parte del trabajo de validación deberá 
+ser entrenado apropiadamente.
+4.3.4
+limpieza y sanitización de equipos
+la limpieza de equipos, superficies y herramientas es realizada manualmente con detergentes 
+y sanitizantes definidos. para las superficies en contacto con los productos, se realiza un 
+enjuague final con agua purificada y desinfectantes según la calidad requerida. 
+los procesos y la frecuencia de limpieza y saneamiento de las áreas y equipos se describen 
+en los procedimientos operativos correspondientes. la frecuencia de limpieza es registrada 
+más una doble verificación.  
+los productos de limpieza son validados en el área microbiológica para demostrar su eficacia. 
+estos agentes rotan / cambian bajo una frecuencia establecida (mensual). 
+4.3.5
+validación de limpieza
+durante la validación de limpieza, la eficacia de los procedimientos de limpieza de equipos y 
+áreas es evaluada, teniendo en cuenta los siguientes criterios: 
+
+inspección visual: resultados satisfactorios 
+
+ausencia de residuos de ingrediente activo farmacéutico (api): el api se selecciona 
+con criterio del "peor caso" a través de análisis de riesgos (fmea). los criterios para 
+la determinación de los límites de aceptación son: 
+-
+método de dosis farmacológica: acorde con determinación de maco en función del 
+pde (exposición diaria permitida) del api peor caso.
+-
+criterios de evaluación de residuos de api:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 26.
+-
+Resolução RE nº 899/2003 
+-
+Guías Relacionados à Garantía de Qualidade, 31 Octubre 2006 ANVISA 
+-
+SOPs Globales de Grünenthal 
+-
+21 CFR §211.68, §211.113, §211.165
+-
+GAMP
+-
+WHO Technical Report Series 937
+La política de validación está descrita en el procedimiento PROC-000473 “Validación”: La 
+política general de la empresa, sus intenciones, y enfoque a validación, incluyendo la 
+validación de procesos, procedimientos de limpieza, métodos analíticos, métodos 
+microbiológicos, procedimientos de control en procesos, sistemas computarizados, y 
+personas responsables por el diseño, revisión, aprobación y reportes de cada fase de la 
+validación deben ser documentados. 
+La validación deberá extenderse a aquellas operaciones, procesos y sistemas que han sido 
+determinados como críticos para la calidad y pureza del API o del medicamento.
+Las instalaciones, sistemas y equipos a ser usados deberán ser calificados y los métodos
+analíticos deberán ser validados. El personal que forme parte del trabajo de validación deberá 
+ser entrenado apropiadamente.
+4.3.4
+Limpieza y Sanitización de Equipos
+La limpieza de equipos, superficies y herramientas es realizada manualmente con detergentes 
+y sanitizantes definidos. Para las superficies en contacto con los productos, se realiza un 
+enjuague final con agua purificada y desinfectantes según la calidad requerida. 
+Los procesos y la frecuencia de limpieza y saneamiento de las áreas y equipos se describen 
+en los procedimientos operativos correspondientes. La frecuencia de limpieza es registrada 
+más una doble verificación.  
+Los productos de limpieza son validados en el área microbiológica para demostrar su eficacia. 
+Estos agentes rotan / cambian bajo una frecuencia establecida (Mensual). 
+4.3.5
+Validación de limpieza
+Durante la validación de limpieza, la eficacia de los procedimientos de limpieza de equipos y 
+áreas es evaluada, teniendo en cuenta los siguientes criterios: 
+
+Inspección visual: Resultados satisfactorios 
+
+Ausencia de residuos de Ingrediente Activo Farmacéutico (API): El API se selecciona 
+con criterio del "peor caso" a través de Análisis de Riesgos (FMEA). Los criterios para 
+la determinación de los límites de aceptación son: 
+-
+Método de Dosis Farmacológica: acorde con determinación de MACO en función del 
+PDE (Exposición diaria permitida) del API peor caso.
+-
+Criterios de evaluación de residuos de API:
+
+
+================================================================================
+
+=== CHUNK 24 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 27', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+o
+criterio máximo arrastre permitido (maco)
+-
+descontaminación microbiológica: 25 cm2 se ponen a prueba para confirmar la 
+eliminación de bacterias y hongos. los criterios de aceptación se establecen en no 
+más de 50 ufc/25 cm2 en equipos y máximo 100 ufc/25 cm2 en áreas y superficies.
+para áreas (criterios aire) máximo 10ufc/m3.
+se evalúa la ausencia de residuos de detergente, mediante la evaluación de riesgo de limpieza 
+a través del noel (nivel sin efecto observable).
+los equipos de granulación intensiva (high shear granulation) y el lecho fluido (fluid bed 
+granulator and drying proces), contemplan varias etapas de limpieza, realizadas con una 
+fórmula que mezcla en proporción definida el agua de pozo + cloro y el detergente (sodio lauril 
+éter sulfato), esta se realiza en los diferentes ciclos en distintos períodos de tiempo. 
+finalmente, el proceso de secado equipo se ejecuta con aire a una temperatura alrededor de 
+70 °c.
+4.3.6
+sistemas informáticos críticos
+los sistemas informáticos críticos para buenas prácticas de manufactura se describen a 
+continuación:
+sap 
+sistema utilizado para la gestión de procesos de negocio, gestión de datos maestros y 
+presentación de informes en las áreas de ventas y distribución, control, gestión de materiales, 
+planificación de la producción, liberación de producto terminado, mantenimiento preventivo y 
+correctivo de máquinas, equipos e instalaciones. (sap, por sus siglas se define como: 
+sistemas, aplicaciones y productos)
+mes (manufacturing execution system) / system (pharmasuite)
+por sus siglas en inglés manufacturing execution system, se trata de una aplicación de 
+gestión integradora de cada una de las áreas y secciones de los servicios de manufactura. el 
+sistema está conectado directamente a las balanzas de la central de pesaje, para el envío de 
+información de peso de materias primas, api y pesaje de agua. emite etiquetas de 
+identificación de las materias primas y se integra con sap. asimismo, indica los flujos de 
+trabajo con las limpiezas de las salas incluidas. 
+titan 
+el software titan en la actualidad ya no es usado dentro de la planta, sin embargo, se 
+mantiene como respaldo de los datos obtenidos antes de la implementación de los módulos 
+en master control (control de cambios y seguimiento de auditorías externas).
+empower & chromeleon 
+software utilizado para recibir la información de los equipos hplc. la información se 
+transforma en curvas cromatográficas y se cuantifica por comparación de una muestra de 
+concentración desconocida con una muestra con una concentración conocida. otras opciones
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 27.
+o
+Criterio Máximo arrastre permitido (MACO)
+-
+Descontaminación microbiológica: 25 cm2 se ponen a prueba para confirmar la 
+eliminación de bacterias y hongos. Los criterios de aceptación se establecen en no 
+más de 50 ufc/25 cm2 en equipos y máximo 100 ufc/25 cm2 en áreas y superficies.
+Para áreas (criterios aire) máximo 10UFC/m3.
+Se evalúa la ausencia de residuos de detergente, mediante la evaluación de riesgo de limpieza 
+a través del NOEL (Nivel sin Efecto Observable).
+Los equipos de granulación intensiva (high shear granulation) y el lecho fluido (Fluid bed 
+granulator and drying proces), contemplan varias etapas de limpieza, realizadas con una 
+fórmula que mezcla en proporción definida el agua de pozo + cloro y el detergente (sodio lauril 
+éter sulfato), esta se realiza en los diferentes ciclos en distintos períodos de tiempo. 
+Finalmente, el proceso de secado equipo se ejecuta con aire a una temperatura alrededor de 
+70 °C.
+4.3.6
+Sistemas Informáticos Críticos
+Los sistemas informáticos críticos para Buenas Prácticas de Manufactura se describen a 
+continuación:
+SAP 
+Sistema utilizado para la gestión de procesos de negocio, gestión de datos maestros y 
+presentación de informes en las áreas de ventas y distribución, control, gestión de materiales, 
+planificación de la producción, liberación de producto terminado, Mantenimiento preventivo y 
+correctivo de máquinas, equipos e instalaciones. (SAP, por sus siglas se define como: 
+Sistemas, Aplicaciones y Productos)
+MES (Manufacturing Execution System) / SYSTEM (PharmaSuite)
+Por sus siglas en inglés Manufacturing Execution System, se trata de una aplicación de 
+gestión integradora de cada una de las áreas y secciones de los servicios de manufactura. El 
+sistema está conectado directamente a las balanzas de la central de pesaje, para el envío de 
+información de peso de Materias Primas, API y Pesaje de Agua. Emite etiquetas de 
+identificación de las materias primas y se integra con SAP. Asimismo, indica los flujos de 
+trabajo con las limpiezas de las salas incluidas. 
+TITAN 
+El software TITAN en la actualidad ya no es usado dentro de la planta, sin embargo, se 
+mantiene como respaldo de los datos obtenidos antes de la implementación de los módulos 
+en Master Control (Control de Cambios y Seguimiento de Auditorías Externas).
+EMPOWER & CHROMELEON 
+Software utilizado para recibir la información de los equipos HPLC. La información se 
+transforma en curvas cromatográficas y se cuantifica por comparación de una muestra de 
+concentración desconocida con una muestra con una concentración conocida. Otras opciones
+
+
+================================================================================
+
+=== CHUNK 25 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 29', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+es evidente en su arquitectura; tales como bacnet (según ashrae 135, 2004), n2, m-bus, 
+eib/knx, simple network management protocol (snmp), lonworks, modbus y carrier 
+ccn.
+5
+documentación
+el área de documentación es la encargada de recibir, verificar y almacenar la “documentación 
+técnica maestra" de todos los productos que tecnandina fabrica. 
+existe un sistema para el manejo, control de copias y distribución de copias de procedimientos 
+operativos.
+también hay procedimientos estandarizados para generar documentación como: 
+-
+especificaciones del producto / proceso
+-
+especificaciones de las materias primas
+-
+especificaciones del material de envase empaque
+-
+registros de lotes maestros para la fabricación, el llenado y el envasado
+-
+métodos analíticos
+en cuanto a los registros de lote (batch records), la documentación se revisa y se libera por 
+el departamento de aseguramiento de calidad. después se archivan por el área de 
+documentación durante un período de al menos un año después de terminada la vida útil del 
+producto. 
+por otro lado, para el manejo de procedimientos, políticas, formularios de registro, 
+instrucciones de trabajo y entrenamientos, tecnandina cuenta con el sistema de gestión 
+documental denominado: master control. este sistema nos permite tener una gestión y un 
+control de la documentación generada, con respecto a la elaboración, revisión, aprobación y 
+posterior distribución como copias controladas. 
+el listado de procedimientos de trabajo y específicos se enlistan en el anexo 7 (ubicado en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 7). 
+6
+producción
+6.1
+tipo de productos
+para productos comerciales fabricados en la planta, referirse al anexo 8. (ubicado en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo 8).
+por 
+otro 
+lado, 
+tecnandina 
+únicamente 
+imprime 
+frases 
+regulatorias 
+o 
+precios 
+(acondicionamiento) en los empaques secundarios de productos citotóxicos y de alta potencia 
+farmacológica. en la planta no se fabrican y/o manipulan productos veterinarios.
+las operaciones unitarias llevadas a cabo en la producción se describen a continuación:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 29.
+es evidente en su arquitectura; tales como BACnet (según ASHRAE 135, 2004), N2, M-Bus, 
+EIB/KNX, Simple Network Management Protocol (SNMP), LonWorks, MODBUS y Carrier 
+CCN.
+5
+Documentación
+El área de documentación es la encargada de recibir, verificar y almacenar la “Documentación 
+Técnica Maestra" de todos los productos que Tecnandina fabrica. 
+Existe un sistema para el manejo, control de copias y distribución de copias de procedimientos 
+operativos.
+También hay procedimientos estandarizados para generar documentación como: 
+-
+Especificaciones del producto / proceso
+-
+Especificaciones de las materias primas
+-
+Especificaciones del material de envase empaque
+-
+Registros de lotes maestros para la fabricación, el llenado y el envasado
+-
+Métodos analíticos
+En cuanto a los registros de lote (Batch Records), la documentación se revisa y se libera por 
+el Departamento de Aseguramiento de Calidad. Después se archivan por el área de 
+documentación durante un período de al menos un año después de terminada la vida útil del 
+producto. 
+Por otro lado, para el manejo de procedimientos, políticas, formularios de registro, 
+instrucciones de trabajo y entrenamientos, Tecnandina cuenta con el sistema de gestión 
+documental denominado: Master Control. Este sistema nos permite tener una gestión y un 
+control de la documentación generada, con respecto a la elaboración, revisión, aprobación y 
+posterior distribución como copias controladas. 
+El listado de procedimientos de trabajo y específicos se enlistan en el Anexo 7 (Ubicado en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 7). 
+6
+Producción
+6.1
+Tipo de Productos
+Para productos comerciales fabricados en la planta, referirse al Anexo 8. (Ubicado en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo 8).
+Por 
+otro 
+lado, 
+Tecnandina 
+únicamente 
+imprime 
+frases 
+regulatorias 
+o 
+precios 
+(acondicionamiento) en los empaques secundarios de productos citotóxicos y de alta potencia 
+farmacológica. En la planta no se fabrican y/o manipulan productos veterinarios.
+Las operaciones unitarias llevadas a cabo en la producción se describen a continuación:
+
+
+================================================================================
+
+=== CHUNK 26 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 30', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+se adjunta la lista de productos en el anexo 8.
+6.2
+validación de procesos 
+los procesos de manufactura de medicamentos deben ser validados. los nuevos productos 
+no se deben liberar antes de que la validación se haya completado con éxito, se maneja el 
+concepto de validación prospectiva.
+antes de iniciar el proceso de validación, la calificación y validación de los métodos analíticos 
+de ensayo apropiados debe ser completada. 
+la validación de los procesos de manufactura sigue los requisitos descritos en el plan maestro 
+de validaciones (pmv), el cual está basado en las exigencias que se describen en los anexos 
+de:
+-
+normas de la unión europea que rigen a los medicamentos. volumen 4, buenas 
+prácticas de manufactura de medicamentos para uso humano y veterinario. 
+-
+brasil. agência nacional de vigilância sanitária. resolução rdc nº301/2019.
+operaciones 
+unitarias  
+producción
+sólidos
+pesaje 
+granulación 
+humeda
+secado 
+compresión  
+encapsulado
+emblistado-
+envasado
+etiquetado
+empaque
+acondicionado
+líquidos
+pesaje
+mezclado
+envasado
+etiquetado
+empaque
+semi-
+sólidos
+pesaje
+mezclado 
+envasado
+etiquetado
+empaque
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 30.
+Se adjunta la lista de productos en el Anexo 8.
+6.2
+Validación de Procesos 
+Los procesos de manufactura de medicamentos deben ser validados. Los nuevos productos 
+no se deben liberar antes de que la validación se haya completado con éxito, se maneja el 
+concepto de validación prospectiva.
+Antes de iniciar el proceso de validación, la calificación y validación de los métodos analíticos 
+de ensayo apropiados debe ser completada. 
+La validación de los procesos de manufactura sigue los requisitos descritos en el Plan Maestro 
+de Validaciones (PMV), el cual está basado en las exigencias que se describen en los anexos 
+de:
+-
+Normas de la Unión Europea que rigen a los medicamentos. Volumen 4, Buenas 
+prácticas de manufactura de medicamentos para uso humano y veterinario. 
+-
+Brasil. Agência Nacional de Vigilância Sanitária. Resolução RDC nº301/2019.
+Operaciones 
+Unitarias  
+Producción
+Sólidos
+Pesaje 
+Granulación 
+Humeda
+Secado 
+Compresión  
+Encapsulado
+Emblistado-
+Envasado
+Etiquetado
+Empaque
+Acondicionado
+Líquidos
+Pesaje
+Mezclado
+Envasado
+Etiquetado
+Empaque
+Semi-
+Sólidos
+Pesaje
+Mezclado 
+Envasado
+Etiquetado
+Empaque
+
+
+================================================================================
+
+=== CHUNK 27 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 31', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+tecnandina tiene 2 enfoques diferentes para la validación de procesos:
+-
+validación prospectiva: realizada para productos que aún no se han lanzado al 
+mercado.
+-
+validación concurrente: realizada para productos que ya están presentes en el 
+mercado.
+cuando existe la posibilidad de elegir entre enfoques, la validación prospectiva siempre será 
+preferible.
+los productos que ya están en el mercado y que no han sido validados adecuadamente son 
+identificados y un plan de acción es creado indicando las medidas necesarias, horario y 
+personal responsable para lograr el cumplimiento. 
+para considerar un proceso de manufactura completamente validado, se evalúan al menos 3 
+lotes consecutivos y se emite el reporte oficial de validación. 
+6.2.1
+gestión de materiales y almacenamiento 
+el sistema de calidad de tecnandina asegura la trazabilidad completa del número de lote, la 
+cantidad y el producto por cada cliente a través del sistema sap, de todos los materiales que 
+se reciben en la entrada de la mercancía y durante el almacenamiento 
+la seguridad de los materiales y productos está garantizada con una vigilancia completa de 
+la planta 24/7. 
+los termohigrómetros, para el registro de la humedad relativa y la temperatura, se encuentran 
+en varios puntos de las bodegas. 
+los materiales son almacenados utilizando pallets de madera, tratados con calor sólo en 
+posiciones numeradas en sap. la bodega cuenta con alrededor de 6.000 posiciones de 
+pallets. 
+en el área de despacho, los pedidos se preparan antes de su envío, siguiendo el sistema 
+fefo. 
+de igual forma, para la preparación de materias primas y materiales para el área de 
+producción se sigue el sistema fefo (first expire first out).
+los materiales son rechazados (si aplica) a través del sistema sap previa autorización del 
+jefe de 
+contables acorde a su procedimiento operativo correspondiente. 
+7
+control de calidad 
+la unidad de control de calidad de tecnandina está a cargo del muestreo, análisis 
+fisicoquímico, control microbiológico de apis, materias primas, materiales de empaque 
+primario y secundario, granel y productos terminados.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 31.
+Tecnandina tiene 2 enfoques diferentes para la validación de procesos:
+-
+Validación Prospectiva: realizada para productos que aún no se han lanzado al 
+mercado.
+-
+Validación Concurrente: realizada para productos que ya están presentes en el 
+mercado.
+Cuando existe la posibilidad de elegir entre enfoques, la validación prospectiva siempre será 
+preferible.
+Los productos que ya están en el mercado y que no han sido validados adecuadamente son 
+identificados y un plan de acción es creado indicando las medidas necesarias, horario y 
+personal responsable para lograr el cumplimiento. 
+Para considerar un proceso de manufactura completamente validado, se evalúan al menos 3 
+lotes consecutivos y se emite el reporte oficial de validación. 
+6.2.1
+Gestión de Materiales y Almacenamiento 
+El Sistema de Calidad de Tecnandina asegura la trazabilidad completa del número de lote, la 
+cantidad y el producto por cada cliente a través del sistema SAP, de todos los materiales que 
+se reciben en la entrada de la mercancía y durante el almacenamiento 
+La seguridad de los materiales y productos está garantizada con una vigilancia completa de 
+la planta 24/7. 
+Los termohigrómetros, para el registro de la humedad relativa y la temperatura, se encuentran 
+en varios puntos de las bodegas. 
+Los materiales son almacenados utilizando pallets de madera, tratados con calor sólo en 
+posiciones numeradas en SAP. La bodega cuenta con alrededor de 6.000 posiciones de 
+pallets. 
+En el área de despacho, los pedidos se preparan antes de su envío, siguiendo el sistema 
+FEFO. 
+De igual forma, para la preparación de materias primas y materiales para el área de 
+producción se sigue el sistema FEFO (first expire first out).
+Los materiales son rechazados (si aplica) a través del sistema SAP previa autorización del 
+jefe de 
+contables acorde a su procedimiento operativo correspondiente. 
+7
+Control de Calidad 
+La unidad de control de calidad de Tecnandina está a cargo del muestreo, análisis 
+fisicoquímico, control microbiológico de APIs, materias primas, materiales de empaque 
+primario y secundario, granel y productos terminados.
+
+
+================================================================================
+
+=== CHUNK 28 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 32', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+el sistema de control de calidad maneja la siguiente documentación técnica: 
+- especificaciones de materia prima 
+- especificaciones de producto terminado 
+- procedimientos operativos
+- especificaciones del material de embalaje 
+en los laboratorios, el almacenamiento y la manipulación de reactivos y estándares de 
+referencia, tienen alta prioridad y se lo hace según las normas gmp y principios de ehs.
+se considera también el control microbiológico de ambientes, personal y sistemas críticos.
+8
+distribución, quejas / reclamos y retiro de productos
+8.1
+distribución
+tecnandina utiliza el sistema sap para registrar todas las operaciones de distribución. 
+
+los registros permiten la trazabilidad del lote completo de la planta al cliente en términos de 
+fecha de venta, los datos del cliente, la cantidad y número de lote. 
+cuando el producto se almacena en la bodega central (en la posición correspondiente) los 
+datos se introducen en el sistema sap. 
+mensualmente, el personal del despacho tiene que realizar un inventario de todos los 
+productos terminados, verificando las cantidades en bodega, ubicación, lote y fecha de 
+caducidad de los productos.
+para la entrega del producto al cliente, el documento "lista de despachos" se imprime desde 
+el sistema sap, (es generado automáticamente). este documento tiene los siguientes datos: 
+- nombre del producto 
+- código 
+- lote 
+- estado de lotes (siempre aprobado) 
+- descripción 
+- cantidad 
+- ubicación 
+- información correspondiente al cliente. 
+la lista tiene dos firmas, la primera de ellas es la persona que preparó la entrega, y la segunda 
+firma corresponde a la persona que hizo la doble verificación.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 32.
+El sistema de control de calidad maneja la siguiente documentación técnica: 
+- Especificaciones de Materia Prima 
+- Especificaciones de producto terminado 
+- Procedimientos Operativos
+- Especificaciones del material de embalaje 
+En los laboratorios, el almacenamiento y la manipulación de reactivos y estándares de 
+referencia, tienen alta prioridad y se lo hace según las normas GMP y principios de EHS.
+Se considera también el control microbiológico de ambientes, personal y sistemas críticos.
+8
+Distribución, Quejas / Reclamos y Retiro de Productos
+8.1
+Distribución
+Tecnandina utiliza el sistema SAP para registrar todas las operaciones de distribución. 
+
+Los registros permiten la trazabilidad del lote completo de la planta al cliente en términos de 
+fecha de venta, los datos del cliente, la cantidad y número de lote. 
+Cuando el producto se almacena en la bodega central (en la posición correspondiente) los 
+datos se introducen en el sistema SAP. 
+Mensualmente, el personal del Despacho tiene que realizar un inventario de todos los 
+productos terminados, verificando las cantidades en bodega, ubicación, lote y fecha de 
+caducidad de los productos.
+Para la entrega del producto al cliente, el documento "Lista de Despachos" se imprime desde 
+el sistema SAP, (es generado automáticamente). Este documento tiene los siguientes datos: 
+- Nombre del producto 
+- Código 
+- Lote 
+- Estado de lotes (siempre aprobado) 
+- Descripción 
+- Cantidad 
+- Ubicación 
+- Información correspondiente al cliente. 
+La lista tiene dos firmas, la primera de ellas es la persona que preparó la entrega, y la segunda 
+firma corresponde a la persona que hizo la doble verificación.
+
+
+================================================================================
+
+=== CHUNK 29 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 33', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+8.2
+quejas / reclamos, defectos y retiro de productos 
+el proc-004270 product quality complaints management respectivo describe cómo 
+administrar y procesar la investigación, la conclusión de la causa raíz y las acciones 
+correctivas y preventivas que se generan en torno a las quejas/reclamos que tecnandina 
+recibe de sus clientes. aseguramiento de la calidad es el encargado de la gestión y 
+procesamiento de todos los reclamos. 
+para proceder con la investigación completa del reclamo se realiza una indagación minuciosa 
+sobre los registros de lotes, muestras de retención, fotografías, mails, muestras defectuosas 
+o cualquier otra evidencia. 
+la investigación concluye siempre con un informe, que se entrega al cliente. la siguiente 
+clasificación de la queja es la siguiente:
+- justificado
+- no justificado
+- no verificable
+las acciones generadas, fechas de ejecución y responsables que se generan luego de la 
+investigación de reclamos justificados ingresan al sistema de acciones preventivas y acciones 
+preventivas (capa) de tecnandina para un monitoreo y cumplimiento efectivo de las mismas.
+las quejas/reclamos justificados son evaluados en la revisión de calidad del producto (pqr). 
+un kpi de calidad se prepara mensualmente para revisar el sistema de calidad con respecto 
+a las quejas. el objetivo no es superior a 10 ppm de unidades reclamadas justificadamente, 
+con respecto a las unidades vendidas mensualmente.
+en cuanto al retiro de productos del mercado, existe el procedimiento que describe, paso a 
+paso, la decisión y las acciones a tomar en caso de esta eventualidad.  
+el responsable de aseguramiento de calidad de la filial comercial tiene el compromiso de 
+preparar y llevar a cabo una reunión interdisciplinaria con la participación de los responsables 
+de: farmacovigilancia, director técnico / farmacéutico responsable, asuntos regulatorios 
+dirección médica, cadena de suministro (supply chain) incluyendo a las jefaturas y gerencias 
+de grünenthal ecuatoriana y tecnandina.
+tras la evaluación de las causas, los riesgos asociados, los resultados de pruebas, los datos 
+de estabilidad y cualquier otra documentación relacionada, se toma la decisión de retirar o no 
+el producto del mercado. 
+solo para el caso de muestras médicas, la fuerza de ventas del titular del registro sanitario 
+correspondiente se encargará de recoger rápida y eficazmente el producto.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 33.
+8.2
+Quejas / Reclamos, Defectos y Retiro de Productos 
+El PROC-004270 Product Quality Complaints Management respectivo describe cómo 
+administrar y procesar la investigación, la conclusión de la causa raíz y las acciones 
+correctivas y preventivas que se generan en torno a las quejas/reclamos que Tecnandina 
+recibe de sus clientes. Aseguramiento de la Calidad es el encargado de la gestión y 
+procesamiento de todos los reclamos. 
+Para proceder con la investigación completa del reclamo se realiza una indagación minuciosa 
+sobre los registros de lotes, muestras de retención, fotografías, mails, muestras defectuosas 
+o cualquier otra evidencia. 
+La investigación concluye siempre con un informe, que se entrega al cliente. La siguiente 
+clasificación de la queja es la siguiente:
+- Justificado
+- No Justificado
+- No Verificable
+Las acciones generadas, fechas de ejecución y responsables que se generan luego de la 
+investigación de reclamos justificados ingresan al sistema de Acciones Preventivas y Acciones 
+Preventivas (CAPA) de Tecnandina para un monitoreo y cumplimiento efectivo de las mismas.
+Las quejas/reclamos justificados son evaluados en la Revisión de Calidad del Producto (PQR). 
+Un KPI de calidad se prepara mensualmente para revisar el sistema de calidad con respecto 
+a las quejas. El objetivo no es superior a 10 ppm de unidades reclamadas justificadamente, 
+con respecto a las unidades vendidas mensualmente.
+En cuanto al retiro de productos del mercado, existe el procedimiento que describe, paso a 
+paso, la decisión y las acciones a tomar en caso de esta eventualidad.  
+El responsable de Aseguramiento de calidad de la filial comercial tiene el compromiso de 
+preparar y llevar a cabo una reunión interdisciplinaria con la participación de los responsables 
+de: Farmacovigilancia, Director Técnico / Farmacéutico responsable, Asuntos Regulatorios 
+Dirección médica, Cadena de suministro (Supply chain) incluyendo a las jefaturas y gerencias 
+de Grünenthal Ecuatoriana y Tecnandina.
+Tras la evaluación de las causas, los riesgos asociados, los resultados de pruebas, los datos 
+de estabilidad y cualquier otra documentación relacionada, se toma la decisión de retirar o no 
+el producto del mercado. 
+Solo para el caso de Muestras Médicas, la fuerza de ventas del titular del registro sanitario 
+correspondiente se encargará de recoger rápida y eficazmente el producto.
+
+
+================================================================================
+
+=== CHUNK 30 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 34', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+por último, aseguramiento de calidad emite un informe en el cual, se resume el problema que 
+condujo a la decisión de retirada del mercado; las capas (si aplica) y la información acerca 
+de las unidades recogidas (cantidad, origen en el mercado y la disposición final).
+9
+autoinspecciones 
+el proc-000308 auto inspecciones y el proc-004247 autoinpecciones global. que 
+describe las actividades de autoinspección. se consideran auditorías internas y tienen los 
+siguientes propósitos:   
+
+verificar el cumplimiento de los principios de buenas prácticas de manufactura, las 
+buenas prácticas de distribución y las buenas prácticas de documentación más las 
+normas legales nacionales vigentes. 
+
+seguimiento del cumplimiento de las acciones preventivas y correctivas identificadas 
+en auditorías internas anteriores. 
+
+verificación de la eficacia del sistema farmacéutico de calidad de tecnandina. 
+la frecuencia en que se realiza la auditoría interna/auto inspección es anual y va precedida 
+por un plan de auditoría elaborado por aseguramiento de calidad revisado anualmente. 
+la auditoría interna debe revisar al menos pero no está limitada a los siguientes elementos 
+de la planta:   
+-
+documentación 
+-
+procesos 
+-
+instalaciones
+-
+personal 
+los hallazgos son categorizados de la siguiente manera: 
+críticos
+mayores 
+otros/menores
+cada auditoría interna es reportada a través de un reporte formal de auditoría interna, 
+mediante el sistema master control. aseguramiento de calidad es el responsable por la 
+preparación y seguimiento del plan anual, la coordinación de las auditorias, seguimiento y 
+almacenamiento de todos los documentos relacionados a las auditorías internas/auto 
+inspecciones llevadas a cabo en tecnandina.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 34.
+Por último, Aseguramiento de Calidad emite un informe en el cual, se resume el problema que 
+condujo a la decisión de retirada del mercado; las CAPAs (si aplica) y la información acerca 
+de las unidades recogidas (cantidad, origen en el mercado y la disposición final).
+9
+Autoinspecciones 
+El PROC-000308 Auto inspecciones y el PROC-004247 Autoinpecciones Global. que 
+describe las actividades de autoinspección. Se consideran auditorías internas y tienen los 
+siguientes propósitos:   
+
+Verificar el cumplimiento de los principios de Buenas Prácticas de Manufactura, las 
+Buenas Prácticas de Distribución y las Buenas Prácticas de Documentación más las 
+normas legales nacionales vigentes. 
+
+Seguimiento del cumplimiento de las acciones preventivas y correctivas identificadas 
+en auditorías internas anteriores. 
+
+Verificación de la eficacia del Sistema Farmacéutico de Calidad de Tecnandina. 
+La frecuencia en que se realiza la auditoría interna/auto inspección es anual y va precedida 
+por un plan de auditoría elaborado por aseguramiento de calidad revisado anualmente. 
+La auditoría interna debe revisar al menos pero no está limitada a los siguientes elementos 
+de la planta:   
+-
+Documentación 
+-
+Procesos 
+-
+Instalaciones
+-
+Personal 
+Los hallazgos son categorizados de la siguiente manera: 
+Críticos
+Mayores 
+Otros/menores
+Cada auditoría interna es reportada a través de un reporte formal de auditoría interna, 
+mediante el sistema Master Control. Aseguramiento de calidad es el responsable por la 
+preparación y seguimiento del plan anual, la coordinación de las auditorias, seguimiento y 
+almacenamiento de todos los documentos relacionados a las auditorías internas/auto 
+inspecciones llevadas a cabo en Tecnandina.
+
+
+================================================================================
+
+=== CHUNK 31 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 35', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+10
+referencias normativas 
+-
+comisión europea, dirección general de salud y consumidores. eudralex: 
+normativas de la unión europea que gobiernan los productos medicinales.  volumen 
+4, buenas prácticas de manufactura para productos medicinales de uso humano y 
+veterinario. notas explicativas para la preparación del archivo maestro de sitio. v. 
+2010 
+-
+agencia nacional de regulación, control y vigilancia sanitaria, arcsa. guía para la 
+elaboración del archivo maestro del sitio de fabricación. anexo 3 versión 1.0. 
+diciembre, 2018.
+11
+lista de anexos  (ubicado en w:\aseguramientocalidad.s1\smf\smf 
+vigente\español\anexos)
+anexo no.
+título
+1
+copia del certificado de constitución de la empresa
+2
+copia de certificados vigentes bpm
+3
+lista de fabricantes y laboratorios contratados
+4
+organigrama
+5
+planos del sistema de agua incluyendo los puntos de muestreo, planos del 
+laboratorio de control de calidad, producción, bodega, flujo de materiales y 
+personas.
+6
+lista de los principales equipos de producción y laboratorio, incluida la 
+última fecha de calificación.
+7
+listado de procedimientos generales y específicos
+8
+lista de productos comerciales: formas farmacéuticas fabricadas, incluidos 
+los nombres inn-nombre o nombre común (según esté disponible) de los 
+ingredientes farmacéuticos activos (api) utilizados
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 35.
+10
+Referencias Normativas 
+-
+Comisión Europea, Dirección General de Salud y Consumidores. EudraLex: 
+Normativas de la Unión Europea que Gobiernan los Productos Medicinales.  Volumen 
+4, Buenas Prácticas de Manufactura para Productos Medicinales de Uso Humano y 
+Veterinario. Notas Explicativas para la Preparación del Archivo Maestro de Sitio. V. 
+2010 
+-
+Agencia Nacional de Regulación, Control y Vigilancia Sanitaria, ARCSA. Guía Para La 
+Elaboración Del Archivo Maestro Del Sitio De Fabricación. Anexo 3 Versión 1.0. 
+Diciembre, 2018.
+11
+Lista de Anexos  (Ubicado en W:\AseguramientoCalidad.s1\SMF\SMF 
+Vigente\Español\Anexos)
+Anexo no.
+Título
+1
+Copia del certificado de Constitución de la empresa
+2
+Copia de certificados vigentes BPM
+3
+Lista de fabricantes y laboratorios contratados
+4
+Organigrama
+5
+Planos del sistema de agua incluyendo los puntos de muestreo, planos del 
+laboratorio de control de calidad, producción, bodega, flujo de materiales y 
+personas.
+6
+Lista de los principales equipos de producción y laboratorio, incluida la 
+última fecha de calificación.
+7
+Listado de procedimientos generales y específicos
+8
+Lista de productos comerciales: formas farmacéuticas fabricadas, incluidos 
+los nombres INN-nombre o nombre común (según esté disponible) de los 
+ingredientes farmacéuticos activos (API) utilizados
+
+
+================================================================================
+
+=== CHUNK 32 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 36', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+12
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 36.
+12
+
+
+================================================================================
+
+=== CHUNK 33 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 37', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+mantenimiento preventivo
+calibraciones, calificación y validación
+se incluye la política de validación
+versión/ 
+documento 
+no.
+descripción de los cambios
+01
+se incluye los criterios de evaluación de residuos de api, en la validación 
+de limpieza.
+se cambia la superficie en la sección de descontaminación microbiológica 
+de: 28.27cm2 a 25 cm2
+se cambia el criterio de aceptación de 20 ppm en residuos de detergentes a 
+evaluación de riesgo de limpieza a través de noel (nivel sin efecto 
+observable).
+se incluye el significado de sap en español.
+se incluye el significado mes: (manufacturing execution 
+system).phamasuite
+se elimina la descripción del sistema consuman, este es reemplazado
+por el módulo de sap para mantenimiento (pm sap)
+se incluye el significado de lims (laboratory information management 
+system)
+se amplía la descripción de master control para el módulo de recall, quejas 
+y reclamos.
+sección 8:
+se elimina el área de producción, se incluye dirección médica y supply 
+chain como miembros de la reunión interdisciplinaria.
+se modifica el texto de la responsabilidad de la fuerza de ventas sólo para 
+el caso de muestras médicas.
+se modifica la frase “no comprobable “ por “ no verificable”
+sección 9: 
+se hace referencia al procedimiento de operación estándar de auto 
+inspecciones
+se actualizan todos los anexos a:
+anexo 1.- copia del certificado de constitución de la empresa. 
+anexo 2.- copia del certificado de bpm (gmp) vigente. anexo 3.- el listado 
+de los fabricantes por contrato y laboratorios contratados 
+anexo 4.- organigrama de la empresa. 
+anexo 5.- lay out del/los sistema/s de tratamiento y distribución de agua 
+indicando puntos de muestreo). anexo 6.- listado de equipos más 
+relevantes de producción y del laboratorio de control de calidad indicando 
+los instrumentos / componentes críticos, y fecha de la última calificación 
+anexo 7.- listado de procedimientos de trabajos generales y específicos 
+anexo 8.- listado de productos
+02
+en la sección 2.1 se cambia la resolución de anvisa de rdc nº17/2010 a 
+rdc nª301/2019
+en la sección 6.2 se cambia la resolución de anvisa de rdc 210/2003 a 
+rdc nª301/2019
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 37.
+Mantenimiento preventivo
+Calibraciones, calificación y validación
+Se incluye la política de validación
+Versión/ 
+documento 
+no.
+Descripción de los cambios
+01
+Se incluye los criterios de evaluación de residuos de API, en la validación 
+de limpieza.
+Se cambia la superficie en la sección de descontaminación microbiológica 
+de: 28.27cm2 a 25 cm2
+Se cambia el criterio de aceptación de 20 ppm en residuos de detergentes a 
+evaluación de riesgo de limpieza a través de NOEL (Nivel sin Efecto 
+Observable).
+Se incluye el significado de SAP en español.
+Se incluye el significado MES: (Manufacturing Execution 
+System).PhamaSuite
+Se elimina la descripción del sistema CONSUMAN, este es reemplazado
+por el módulo de SAP para mantenimiento (PM SAP)
+Se incluye el significado de LIMS (Laboratory Information Management 
+System)
+Se amplía la descripción de Master Control para el módulo de recall, quejas 
+y reclamos.
+Sección 8:
+Se elimina el área de producción, se incluye dirección médica y supply 
+chain como miembros de la reunión interdisciplinaria.
+Se modifica el texto de la responsabilidad de la fuerza de ventas sólo para 
+el caso de Muestras Médicas.
+Se modifica la frase “no comprobable “ por “ No verificable”
+Sección 9: 
+Se hace referencia al procedimiento de operación estándar de Auto 
+inspecciones
+Se actualizan todos los anexos a:
+Anexo 1.- Copia del Certificado de Constitución de la empresa. 
+Anexo 2.- Copia del certificado de BPM (GMP) vigente. Anexo 3.- El listado 
+de los fabricantes por contrato y laboratorios contratados 
+Anexo 4.- Organigrama de la empresa. 
+Anexo 5.- Lay out del/los sistema/s de tratamiento y distribución de agua 
+indicando puntos de muestreo). Anexo 6.- Listado de equipos más 
+relevantes de producción y del laboratorio de control de calidad indicando 
+los instrumentos / componentes críticos, y fecha de la última calificación 
+Anexo 7.- Listado de procedimientos de trabajos generales y específicos 
+Anexo 8.- Listado de Productos
+02
+En la sección 2.1 se cambia la resolución de ANVISA de RDC nº17/2010 a 
+RDC nª301/2019
+En la sección 6.2 se cambia la resolución de ANVISA de RDC 210/2003 a 
+RDC nª301/2019
+
+
+================================================================================
+
+=== CHUNK 34 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 38', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+versión/ 
+documento 
+no.
+descripción de los cambios
+03
+sección 1.4
+se sustituye el número de permiso de funcionamiento: arcsa-2021-2.1.1-
+0000026. fecha de emisión: 20-04-2021; fecha de vigencia: 20-04-2022 por
+número de permiso de funcionamiento: arcsa-2022-2.1.1-0000029. 
+fecha de emisión: 28-03-2022; fecha de vigencia: 28-03-2023
+sección 2.1. sistema de gestión de calidad de la empresa
+se elimina “guía anvisa: resolução-rdc nº301/2019. boas prácticas de 
+fabricação de medicamentos”
+se agrega “guía anvisa: resolução-rdc nº658/2022. boas práticas de 
+fabricação de medicamentos
+se elimina la norma ohsas (18001:2007) y se agrega la norma iso 
+45001:2018
+sección 3.1 
+se actualiza la tabla de números de empleados de acuerdo al organigrama 
+actual
+sección 4.1 
+se sustituye la frase “periférica-residencial” por “de mediano impacto”
+se elimina el edificio de grünenthal ecuatoriana 973 m2
+se actualiza la información de la numeración de los edificios 
+sección 4.2
+se sustituye la superficie del almacén de 2150 a 5552
+sección 4.2.1.1
+se actualiza la información del sistema de ventilación
+sección 4.2.1.2 
+se actualiza la información del sistema purificación de agua
+sección 4.3.2 mantenimiento preventivo
+se actualiza la información incluyendo un resumen del proceso del 
+mantenimiento preventivo de máquinas y equipos.
+sección 4.3.6 sistemas informáticos críticos
+se registra una nota con respecto al software chromeleon y se corrige 
+el nombre
+se hace referencia a los sistemas provicon y apt-com 4
+se corrigen error gramaticales y ortográficos
+04
+las siguientes modificaciones fueron realizadas:
+actualización del número de permiso de funcionamiento.
+actualización del histórico de auditorías en los últimos 7 años y tabla de 
+certificaciones.
+actualización de la tabla del número del personal
+se incluye el nombre del representante técnico.
+se corrigen los horarios de los turnos.
+en la descripción del sistema de ventilación, se elimina el párrafo “además, 
+todos los días antes de que las operaciones de producción comiencen, el 
+personal de ingeniería comprueba las condiciones del sistema de 
+ventilación de manera visual y a lo largo de las operaciones el personal de 
+producción monitorea y registro los datos de presión diferencial”
+en el aire comprimido se incluye “oil free” y se retira “hepa”
+se aclara el párrafo del software titan.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 38.
+Versión/ 
+documento 
+no.
+Descripción de los cambios
+03
+Sección 1.4
+Se sustituye el Número de Permiso de funcionamiento: ARCSA-2021-2.1.1-
+0000026. Fecha de emisión: 20-04-2021; fecha de vigencia: 20-04-2022 por
+Número de Permiso de funcionamiento: ARCSA-2022-2.1.1-0000029. 
+Fecha de emisión: 28-03-2022; fecha de vigencia: 28-03-2023
+Sección 2.1. Sistema de gestión de calidad de la empresa
+Se elimina “Guía ANVISA: Resolução-RDC nº301/2019. Boas Prácticas de 
+Fabricação de Medicamentos”
+Se agrega “Guía ANVISA: Resolução-RDC nº658/2022. Boas Práticas de 
+Fabricação de Medicamentos
+Se elimina la norma OHSAS (18001:2007) y se agrega la norma ISO 
+45001:2018
+Sección 3.1 
+Se actualiza la tabla de números de empleados de acuerdo al organigrama 
+actual
+Sección 4.1 
+Se sustituye la frase “periférica-residencial” por “de mediano impacto”
+Se elimina el edificio de Grünenthal Ecuatoriana 973 m2
+Se actualiza la información de la numeración de los edificios 
+Sección 4.2
+Se sustituye la superficie del almacén de 2150 a 5552
+Sección 4.2.1.1
+Se actualiza la información del sistema de ventilación
+Sección 4.2.1.2 
+Se actualiza la información del sistema purificación de agua
+Sección 4.3.2 Mantenimiento preventivo
+Se actualiza la información incluyendo un resumen del proceso del 
+mantenimiento preventivo de máquinas y equipos.
+Sección 4.3.6 Sistemas informáticos críticos
+Se registra una nota con respecto al software CHROMELEON y se corrige 
+el nombre
+Se hace referencia a los sistemas PROVICON y APT-COM 4
+Se corrigen error gramaticales y ortográficos
+04
+Las siguientes modificaciones fueron realizadas:
+Actualización del número de permiso de funcionamiento.
+Actualización del histórico de auditorías en los últimos 7 años y tabla de 
+certificaciones.
+Actualización de la tabla del número del personal
+Se incluye el nombre del representante Técnico.
+Se corrigen los horarios de los turnos.
+En la descripción del sistema de Ventilación, se elimina el Párrafo “Además, 
+todos los días antes de que las operaciones de producción comiencen, el 
+personal de ingeniería comprueba las condiciones del sistema de 
+ventilación de manera visual y a lo largo de las operaciones el personal de 
+producción monitorea y registro los datos de presión diferencial”
+En el aire comprimido se incluye “oil free” y se retira “HEPA”
+Se aclara el párrafo del software TITAN.
+
+
+================================================================================
+
+=== CHUNK 35 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 39', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+05
+las siguientes modificaciones fueron realizadas de acuerdo a las acciones: 
+ai-2024-0869
+numeral 1.1 inclusión del número duns 93-512-9544
+numeral 1.4 actualización de tabla con fecha de ultimas inspecciones de 
+verificación gmp recibidas, incluyendo recertificación europea.
+numeral 3.1 actualización en la cantidad de empleados.
+numeral 4.2.1.1 sistema de ventilación: cambio de presiones en área de 
+muestreo de min. 65 pa a 62,5 pa.
+numeral 4.3.2. se actualiza el número de procedimiento de proc-000033 
+a proc-003375.
+numeral 4.3.3 se actualiza la descripción de los sop globales utilizados 
+para la gestión de calificaciones:
+proc-004031 “premise, utility and equipment qualification” , proc-
+003609 “requirements for the premises, production environment and 
+equipment” y proc-004099 “validation master plan: procedure for 
+analytical instrument qualification (aiq)”. se retira del listado de guías  
+la sigla gmp, se incluye los nombres de las pic/s referencias.
+4.3.6 se incluye el sistema informático transwin32.
+mejora de redacción en todo el documento. se cambia la ubicación de cada 
+anexo de “disponible físicamente en tecnandina” a “ubicado en 
+w:\aseguramientocalidad.s1\smf\smf vigente\español\anexos\anexo x)” 
+donde x es el número de cada anexo. 
+06
+en el punto 1.4 actividades farmacéuticas autorizadas en la planta, se 
+corrigen las fechas de inspecciones
+en el punto 2.1 sistemas de gestión de calidad de la empresa en la tabla de 
+las certificaciones , se incluye las ultimas certificaciones recibidas.
+en el punto 3.1 organigrama, se actualiza el número de personas y áreas.
+en el punto 4.1 instalaciones se actualiza el tamaño de área de manufactura 
+y el edifico 205.
+se actualiza el punto 4.2.1.1 sistema de ventilación, donde se incluye la 
+información acorde al edificio 205.
+en el punto 4.2.1.2 sistema de purificación de agua, se incluye el nuevo 
+sistema de distribución de agua purificada para el edifico 205.
+en el punto 4.3.6 sistemas informáticos críticos, se incluye el sistema bms
+en el punto 9 autoinspecciones, se incluye el proc-004247 global de
+autoinspecciones.
+en el punto 11 se actualiza los anexos.
+07
+en el punto 1.4 
+actividades farmacéuticas autorizadas en la planta, 
+se modifica e incluye “por otro lado, tecnandina s.a. presta servicios de 
+fabricación: siegfried, pfizer, bayer, hypera- brainfarma y filiales de 
+grünenthal. 
+adicional, presta servicios de marcaje, almacenamiento, distribución y/o 
+transporte según lo aprobado en la certificación bpadt-ef-2024 a las 
+empresas sanofi, novartis, sandoz y grünenthal ecuatoriana”
+tabla de certificación bpadt.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 39.
+05
+Las siguientes modificaciones fueron realizadas de acuerdo a las acciones: 
+AI-2024-0869
+Numeral 1.1 Inclusión del número DUNS 93-512-9544
+Numeral 1.4 Actualización de tabla con fecha de ultimas inspecciones de 
+verificación GMP recibidas, incluyendo recertificación europea.
+Numeral 3.1 Actualización en la cantidad de empleados.
+Numeral 4.2.1.1 Sistema de ventilación: cambio de presiones en área de 
+muestreo de min. 65 Pa a 62,5 Pa.
+Numeral 4.3.2. se actualiza el número de procedimiento de PROC-000033 
+a PROC-003375.
+Numeral 4.3.3 se actualiza la descripción de los SOP globales utilizados 
+para la gestión de calificaciones:
+PROC-004031 “Premise, Utility and Equipment Qualification” , PROC-
+003609 “Requirements for the Premises, Production Environment and 
+Equipment” y PROC-004099 “Validation Master Plan: Procedure for 
+Analytical Instrument Qualification (AIQ)”. Se retira del listado de guías  
+la sigla GMP, se incluye los nombres de las PIC/S referencias.
+4.3.6 Se incluye el sistema informático Transwin32.
+Mejora de redacción en todo el documento. Se cambia la ubicación de cada 
+anexo de “disponible físicamente en Tecnandina” a “Ubicado en 
+W:\AseguramientoCalidad.s1\SMF\SMF Vigente\Español\Anexos\Anexo X)” 
+donde X es el número de cada anexo. 
+06
+En el punto 1.4 Actividades Farmacéuticas Autorizadas en la planta, se 
+corrigen las fechas de inspecciones
+En el punto 2.1 Sistemas de gestión de Calidad de la Empresa en la tabla de 
+las certificaciones , se incluye las ultimas certificaciones recibidas.
+En el punto 3.1 organigrama, se actualiza el número de personas y áreas.
+En el punto 4.1 Instalaciones se actualiza el tamaño de área de manufactura 
+y el edifico 205.
+Se actualiza el punto 4.2.1.1 Sistema de ventilación, donde se incluye la 
+información acorde al edificio 205.
+En el punto 4.2.1.2 Sistema de Purificación de Agua, se incluye el nuevo 
+sistema de distribución de agua purificada para el edifico 205.
+En el punto 4.3.6 Sistemas Informáticos Críticos, se incluye el Sistema BMS
+En el punto 9 Autoinspecciones, se incluye el PROC-004247 Global de
+Autoinspecciones.
+En el punto 11 se actualiza los Anexos.
+07
+En el punto 1.4 
+Actividades Farmacéuticas Autorizadas en la Planta, 
+se modifica e incluye “Por otro lado, Tecnandina S.A. presta servicios de 
+fabricación: Siegfried, Pfizer, Bayer, Hypera- Brainfarma y filiales de 
+Grünenthal. 
+Adicional, presta servicios de Marcaje, Almacenamiento, Distribución y/o 
+Transporte según lo aprobado en la certificación BPADT-EF-2024 a las 
+empresas Sanofi, Novartis, Sandoz y Grünenthal Ecuatoriana”
+Tabla de Certificación BPADT.
+
+
+================================================================================
+
+=== CHUNK 36 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 40', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+08
+en el punto 1.4 actividades farmacéuticas autorizadas en la planta se 
+actualiza lo siguiente:
+actualización de permiso de funcionamiento 2025.
+se incluye a alemania como parte de los países a los que tecnandina 
+exporta.
+se incluye a stada como parte de los clientes de tecnandina.
+se elimina a sandoz como parte de los clientes de tecnandina en servicios 
+de bpadt.
+se actualiza las inspecciones de los últimos 5 años y se reemplazan las 
+certificaciones de: bezirksregierung köln, alemania 21 al 25 de octubre de 
+2019 y anvisa/brasil 25 de marzo de 2019.
+en el punto 2.1 sistema de gestión de calidad de la empresa, en la tabla 
+de información de entidades ante las cuales tecnandina se encuentra 
+acreditada, se incluye arcsa, ecuador con certificado de bpadt.
+el anexo 2 es actualizado conforme a las nuevas certificaciones obtenidas.
+el anexo 3 es actualizado con información del 2025.
+en el punto 3.1 organigrama se actualiza el número de personal por área 
+acorde con la nueva estructura según la versión vigente del organigrama 
+general. las áreas de ipc y laboratorio químico/microbiológico se incluyen 
+dentro del personal de control de calidad.
+el anexo 4 es actualizado conforme a la nueva restructuración de áreas, el 
+principal cambio es la separación de la gerencia de qa y qc.
+en el punto 4.1 instalaciones se incluye la planta exclusiva para la 
+fabricación, envase y empaque a granel del producto vimovo.
+el anexo 5 es actualizado conforme a las modificaciones en el área de 
+compresión 2 y esclusa de materiales del área de central de pesaje, plano 
+ly0-003-018.
+el anexo 6 es actualizado conforme a las inclusiones de nuevos equipos.
+en el punto 4.3.5 validación de limpieza se modifica lo siguiente:
+se elimina: ’máximo residuo aceptable (mar) y criterio de los 10 ppm’ como 
+parte de los criterios de evaluación de residuos de api.
+en el ‘método de dosis farmacológica’ se reemplaza ‘no mayor que 1/1000 
+de la dosis terapéutica normal que estará presente por dosis típica del 
+siguiente producto que se ejecute en el equipo.’ por ‘acorde con 
+determinación de maco en función del pde (exposición diaria permitida) del 
+api peor caso’.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 40.
+08
+En el punto 1.4 Actividades Farmacéuticas Autorizadas en la Planta se 
+actualiza lo siguiente:
+Actualización de permiso de funcionamiento 2025.
+Se incluye a Alemania como parte de los países a los que Tecnandina 
+exporta.
+Se incluye a STADA como parte de los clientes de Tecnandina.
+Se elimina a Sandoz como parte de los clientes de Tecnandina en servicios 
+de BPADT.
+Se actualiza las inspecciones de los últimos 5 años y se reemplazan las 
+certificaciones de: Bezirksregierung Köln, Alemania 21 al 25 de octubre de 
+2019 y ANVISA/Brasil 25 de marzo de 2019.
+En el punto 2.1 Sistema de Gestión de Calidad de la Empresa, en la tabla 
+de información de entidades ante las cuales Tecnandina se encuentra 
+acreditada, se incluye ARCSA, Ecuador con Certificado de BPADT.
+El anexo 2 es actualizado conforme a las nuevas certificaciones obtenidas.
+El anexo 3 es actualizado con información del 2025.
+En el punto 3.1 Organigrama se actualiza el número de personal por área 
+acorde con la nueva estructura según la versión vigente del organigrama 
+general. Las áreas de IPC y Laboratorio químico/microbiológico se incluyen 
+dentro del personal de Control de Calidad.
+El anexo 4 es actualizado conforme a la nueva restructuración de áreas, el 
+principal cambio es la separación de la gerencia de QA y QC.
+En el punto 4.1 Instalaciones se incluye la planta exclusiva para la 
+fabricación, envase y empaque a granel del producto VIMOVO.
+El anexo 5 es actualizado conforme a las modificaciones en el área de 
+compresión 2 y esclusa de materiales del área de central de pesaje, plano 
+LY0-003-018.
+El anexo 6 es actualizado conforme a las inclusiones de nuevos equipos.
+En el punto 4.3.5 Validación de limpieza se modifica lo siguiente:
+Se elimina: ’Máximo residuo aceptable (MAR) y Criterio de los 10 ppm’ como 
+parte de los criterios de evaluación de residuos de API.
+En el ‘Método de Dosis Farmacológica’ se reemplaza ‘no mayor que 1/1000 
+de la dosis terapéutica normal que estará presente por dosis típica del 
+siguiente producto que se ejecute en el equipo.’ por ‘acorde con 
+determinación de MACO en función del PDE (Exposición diaria permitida) del 
+API peor caso’.
+
+
+================================================================================
+
+=== CHUNK 37 ===
+[METADATA]: {'file_name': 'GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf', 'page_label': 'Page 41', 'sop_title': 'PROC-006543 Archivo Maestro de Sitio', 'document_number': 'PROC-006543', 'version_number': '09', 'status': 'Active', 'language': 'es'}
+
+[CONTENT - LOWERCASE]:
+se elimina: 
+control del nivel de producto que podría aparecer en los próximos productos: 
+límites de 10 ppm hasta 0,1% (basado en la guía de impurezas de la ich 
+que indica hasta un 0,1% de un desconocido individual).
+en la parte de ‘descontaminación microbiológica’ se incluye: para áreas 
+(criterios aire) máximo 10ufc/m3.
+el anexo 7 es actualizado conforme a
+las inclusiones de nuevos 
+procedimientos y actualizaciones.
+en el punto 6.1 tipo de productos se elimina:
+‘tecnandina realiza operaciones de empaque secundario de productos beta-
+lactámicos en un área separada y empaque secundario de ampollas 
+estériles. el proceso se lleva a cabo en un área exclusiva y segregada.’, dado 
+que, tecnandina desde 2025 dejó de realizar esta actividad.
+el anexo 8 es actualizado conforme a las inclusiones de exclusión de 
+productos betalactámicos e inclusión de vimovo.
+en el punto 9 autoinspecciones se incluye que los reportes de auditoría 
+interna son realizados mediante master control.
+09
+en el punto 1.4 actividades farmacéuticas autorizadas en la planta, se
+añade la inspección por parte de anvisa.
+también se corrigió el número del certificado del prestador de servicios de 
+marcaje, almacenamiento, distribución y/o transporte.
+en el punto 2.1 sistema de gestión de calidad de la empresa, se actualiza 
+la fecha de acreditación de anvisa brasil en la tabla sobre la información de 
+entidades antes las cuales la empresa se halla acreditada y/o certificada.
+en el punto 3.1 organigrama, se actualiza la tabla del número de 
+empleados que trabajan en tecnandina. 
+se actualiza el anexo 4. organigrama de la empresa. 
+en el punto 4.2.1.3 sistemas relevantes, en el literal del nitrógeno, se 
+aclara que el edificio 205 ya no está en construcción y cuenta con lo 
+descrito. 
+se actualiza el anexo 6. listado con los equipos más relevantes para 
+producción y control de calidad. 
+se actualiza el anexo 7. listado de procedimientos de trabajo y 
+específicos conforme a las inclusiones de nuevos procedimientos y 
+actualizaciones.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Spanish_stamped_Rev06 (2).docxDec192025021700.pdf, Page 41.
+Se elimina: 
+Control del nivel de producto que podría aparecer en los próximos productos: 
+Límites de 10 ppm hasta 0,1% (basado en la guía de impurezas de la ICH 
+que indica hasta un 0,1% de un desconocido individual).
+En la parte de ‘Descontaminación microbiológica’ se incluye: Para áreas 
+(criterios aire) máximo 10UFC/m3.
+El anexo 7 es actualizado conforme a
+las inclusiones de nuevos 
+procedimientos y actualizaciones.
+En el punto 6.1 Tipo de Productos se elimina:
+‘Tecnandina realiza operaciones de empaque secundario de productos Beta-
+Lactámicos en un área separada y empaque secundario de ampollas 
+estériles. El proceso se lleva a cabo en un área exclusiva y segregada.’, dado 
+que, Tecnandina desde 2025 dejó de realizar esta actividad.
+El anexo 8 es actualizado conforme a las inclusiones de exclusión de 
+productos betalactámicos e inclusión de Vimovo.
+En el punto 9 Autoinspecciones se incluye que los reportes de auditoría 
+interna son realizados mediante Master control.
+09
+En el punto 1.4 Actividades Farmacéuticas Autorizadas en la planta, se
+añade la inspección por parte de ANVISA.
+También se corrigió el número del certificado del prestador de servicios de 
+Marcaje, Almacenamiento, Distribución y/o Transporte.
+En el punto 2.1 Sistema de Gestión de Calidad de la Empresa, se actualiza 
+la fecha de acreditación de ANVISA Brasil en la tabla sobre la Información de 
+entidades antes las cuales la empresa se halla acreditada y/o certificada.
+En el punto 3.1 Organigrama, se actualiza la Tabla del número de 
+empleados que trabajan en Tecnandina. 
+Se actualiza el Anexo 4. Organigrama de la empresa. 
+En el punto 4.2.1.3 Sistemas Relevantes, en el literal del Nitrógeno, se 
+aclara que el Edificio 205 ya no está en construcción y cuenta con lo 
+descrito. 
+Se actualiza el Anexo 6. Listado con los equipos más relevantes para 
+producción y control de calidad. 
+Se actualiza el Anexo 7. Listado de procedimientos de trabajo y 
+específicos conforme a las inclusiones de nuevos procedimientos y 
+actualizaciones.
+
+
+================================================================================
+

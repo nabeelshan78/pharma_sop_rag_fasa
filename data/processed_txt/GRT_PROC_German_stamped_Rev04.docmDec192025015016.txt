@@ -1,0 +1,955 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 3', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+funktion/rolle
+zuständigkeiten
+expert
+(experte)
+für seine abteilung, seinen bereich oder seinen 
+zuständigkeitsbereich:
+• unterstützt den owner bei der 
+entwicklung/überarbeitung des standarddokuments mit 
+fachwissen/kenntnissen über den prozess, um 
+sicherzustellen, dass es gut gestaltet ist und dem 
+beabsichtigten zweck entspricht.
+• stellt die angemessenheit der inhalte sicher, indem er 
+sich mit allen beteiligten in seinem zuständigkeitsbereich 
+abstimmt.
+• er vertritt seine interessengruppen und sorgt bei bedarf 
+für eine angemessene und rechtzeitige kommunikation.
+• informiert den owner über prozesse, die sich auf den 
+betreffenden standardprozess auswirken oder von ihm 
+betroffen sein könnten.
+quality assurance 
+(qualitätssicherung)
+für gxp-relevante prozesse:
+• fungiert als final approver quality assurance (finaler
+genehmiger für die qualitätssicherung) in 
+mastercontrol.
+• muss ein vertreter der grünenthal global quality 
+assurance organisation sein.
+• gewährleistet die einhaltung von vorschriften und 
+internen grünenthal-prozessen.
+• er stellt sicher, dass die implementierten prozesse zu 
+einer sicheren, effizienten und zuverlässigen 
+produktversorgung unserer patienten beitragen.
+4
+definitionen
+4.1
+allgemein
+begriff
+definition
+gxp
+für die definition von gxp siehe proc-005342.
+mastercontrol
+eine integrierte softwarelösung zur unterstützung des 
+qualitätsmanagementsystems.
+prozess
+• ist eine reihe von aktivitäten oder aufgaben, die in 
+einer bestimmten reihenfolge ausgeführt werden, um 
+ein bestimmtes ziel oder ergebnis zu erreichen.
+• sie wandelt eingaben in ausgaben um.
+• sie kann in verschiedenen bereichen eingesetzt 
+werden, z. b. in der wirtschaft, in der fertigung, in der 
+informatik, in der wissenschaftlichen forschung und in 
+der persönlichen entwicklung.
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 3.
+Funktion/Rolle
+Zuständigkeiten
+Expert
+(Experte)
+Für seine Abteilung, seinen Bereich oder seinen 
+Zuständigkeitsbereich:
+• Unterstützt den Owner bei der 
+Entwicklung/Überarbeitung des Standarddokuments mit 
+Fachwissen/Kenntnissen über den Prozess, um 
+sicherzustellen, dass es gut gestaltet ist und dem 
+beabsichtigten Zweck entspricht.
+• Stellt die Angemessenheit der Inhalte sicher, indem er 
+sich mit allen Beteiligten in seinem Zuständigkeitsbereich 
+abstimmt.
+• Er vertritt seine Interessengruppen und sorgt bei Bedarf 
+für eine angemessene und rechtzeitige Kommunikation.
+• Informiert den Owner über Prozesse, die sich auf den 
+betreffenden Standardprozess auswirken oder von ihm 
+betroffen sein könnten.
+Quality Assurance 
+(Qualitätssicherung)
+Für GxP-relevante Prozesse:
+• Fungiert als Final Approver Quality Assurance (finaler
+Genehmiger für die Qualitätssicherung) in 
+MasterControl.
+• Muss ein Vertreter der Grünenthal Global Quality 
+Assurance Organisation sein.
+• Gewährleistet die Einhaltung von Vorschriften und 
+internen Grünenthal-Prozessen.
+• Er stellt sicher, dass die implementierten Prozesse zu 
+einer sicheren, effizienten und zuverlässigen 
+Produktversorgung unserer Patienten beitragen.
+4
+DEFINITIONEN
+4.1
+Allgemein
+Begriff
+Definition
+GxP
+Für die Definition von GxP siehe PROC-005342.
+MasterControl
+Eine integrierte Softwarelösung zur Unterstützung des 
+Qualitätsmanagementsystems.
+Prozess
+• Ist eine Reihe von Aktivitäten oder Aufgaben, die in 
+einer bestimmten Reihenfolge ausgeführt werden, um 
+ein bestimmtes Ziel oder Ergebnis zu erreichen.
+• Sie wandelt Eingaben in Ausgaben um.
+• Sie kann in verschiedenen Bereichen eingesetzt 
+werden, z. B. in der Wirtschaft, in der Fertigung, in der 
+Informatik, in der wissenschaftlichen Forschung und in 
+der persönlichen Entwicklung.
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 4', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+begriff
+definition
+raci
+beschreibt die beteiligung der verschiedenen rollen an 
+der erledigung von aufgaben oder ergebnissen eines 
+prozesses.
+raci steht für:
+• r = responsible (verantwortlich): die einheit oder der 
+teilnehmer, der die aufgabe oder den prozessschritt 
+durchführen und abschließen muss.
+• a = accountable (verantwortlich): die einheit oder der 
+teilnehmer, der für die aufgabe oder den prozessschritt 
+verantwortlich ist und die endgültige 
+entscheidungsbefugnis hat.
+• c = consulted (konsultiert): die stellen oder beteiligten, 
+die dem "verantwortlichen" ratschläge und 
+informationen geben müssen, bevor die aufgabe oder 
+der prozessschritt abgeschlossen werden kann.
+• i = informed (informiert): die von der entscheidung oder 
+dem ergebnis der ausgeführten aufgabe oder des 
+ausgeführten prozessschritts betroffenen stellen oder 
+beteiligten. sie müssen informiert werden, weil sie 
+entweder den output der aufgabe oder des 
+prozessschritts kennen müssen oder danach handeln 
+müssen.
+standard
+• eine norm ist eine reihe von regeln, spezifikationen, 
+anleitungen oder kriterien, die die sicherste, 
+hochwertigste und effizienteste art und weise 
+beschreiben, wie das personal einen prozess, eine 
+bestimmte handlung oder eine abfolge von aufgaben 
+ausführt.
+• ein standard beinhaltet die organisation aller aufgaben 
+in der bestmöglichen methode und reihenfolge unter 
+verwendung der besten kombination von mitarbeitern, 
+materialien und ressourcen, um konsistente, 
+zeitgerechte und wiederholbare ergebnisse zu erzielen.
+standarddokument 
+• schriftliches medium zur erfassung, kommunikation 
+und übermittlung des inhalts einer norm. dieses 
+medium kann auf papier, in digitaler form oder in jeder 
+anderen form, die eine norm erfasst (tafel, plakat, 
+schild, karte usw.) sein.
+• umreißt die regeln, spezifikationen, leitlinien und/oder 
+kriterien, die in einer norm festgelegt sind.
+• dient als referenz für einzelpersonen oder 
+organisationen zum verständnis und zur umsetzung 
+der bestimmungen der norm. 
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 4.
+Begriff
+Definition
+RACI
+Beschreibt die Beteiligung der verschiedenen Rollen an 
+der Erledigung von Aufgaben oder Ergebnissen eines 
+Prozesses.
+RACI steht für:
+• R = Responsible (Verantwortlich): Die Einheit oder der 
+Teilnehmer, der die Aufgabe oder den Prozessschritt 
+durchführen und abschließen muss.
+• A = Accountable (Verantwortlich): Die Einheit oder der 
+Teilnehmer, der für die Aufgabe oder den Prozessschritt 
+verantwortlich ist und die endgültige 
+Entscheidungsbefugnis hat.
+• C = Consulted (Konsultiert): Die Stellen oder Beteiligten, 
+die dem "Verantwortlichen" Ratschläge und 
+Informationen geben müssen, bevor die Aufgabe oder 
+der Prozessschritt abgeschlossen werden kann.
+• I = Informed (Informiert): Die von der Entscheidung oder 
+dem Ergebnis der ausgeführten Aufgabe oder des 
+ausgeführten Prozessschritts betroffenen Stellen oder 
+Beteiligten. Sie müssen informiert werden, weil sie 
+entweder den Output der Aufgabe oder des 
+Prozessschritts kennen müssen oder danach handeln 
+müssen.
+Standard
+• Eine Norm ist eine Reihe von Regeln, Spezifikationen, 
+Anleitungen oder Kriterien, die die sicherste, 
+hochwertigste und effizienteste Art und Weise 
+beschreiben, wie das Personal einen Prozess, eine 
+bestimmte Handlung oder eine Abfolge von Aufgaben 
+ausführt.
+• Ein Standard beinhaltet die Organisation aller Aufgaben 
+in der bestmöglichen Methode und Reihenfolge unter 
+Verwendung der besten Kombination von Mitarbeitern, 
+Materialien und Ressourcen, um konsistente, 
+zeitgerechte und wiederholbare Ergebnisse zu erzielen.
+Standarddokument 
+• Schriftliches Medium zur Erfassung, Kommunikation 
+und Übermittlung des Inhalts einer Norm. Dieses 
+Medium kann auf Papier, in digitaler Form oder in jeder 
+anderen Form, die eine Norm erfasst (Tafel, Plakat, 
+Schild, Karte usw.) sein.
+• Umreißt die Regeln, Spezifikationen, Leitlinien und/oder 
+Kriterien, die in einer Norm festgelegt sind.
+• Dient als Referenz für Einzelpersonen oder 
+Organisationen zum Verständnis und zur Umsetzung 
+der Bestimmungen der Norm. 
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 5', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+4.2
+standard-dokumenttypen 
+typ
+definition
+policy*
+(richtlinie)
+• umreißt die übergreifenden prinzipien, regeln oder ziele 
+der organisation in übereinstimmung mit den gesetzlichen 
+anforderungen, die das gesamte verhalten, die
+entscheidungsfindung und die handlungen innerhalb einer 
+organisation betreffen.
+• sie legt die grenzen für das verhalten der mitarbeiter fest 
+und regelt verschiedene aspekte der organisatorischen 
+abläufe.
+• die policies werden in der regel von der oberen 
+führungsebene festgelegt.
+procedure*
+(verfahren)
+bezeichnung für alle dokumente, die standardprozessschritte 
+beschreiben, d.h. sops und wins.
+standard 
+operating 
+procedure
+(sop)*
+• unterteilt alle kernaktivitäten in aufgaben und weist die 
+verantwortung für diese bestimmten rollen oder personen 
+innerhalb der organisation zu. es beschreibt alle dinge, die 
+getan werden müssen und wer sie tun muss, einschließlich 
+tools, vorlagen oder verwendung anderer 
+standarddokumente. 
+• im falle einer übergeordneten policy wird eine logische 
+und strukturierte methodik für die mitarbeiter mit genauen 
+schritten und aktivitäten beschrieben, die zur einhaltung 
+der policy erforderlich sind.
+• sie kann auch zur festlegung spezifischer regeln,
+spezifikationen und/oder kriterien verwendet werden.
+work instruction 
+(win)*
+• sie unterstützt sops mit zusätzlichen detaillierten schritt-
+für-schritt-anweisungen für personen, die direkt an der 
+ausführung bestimmter kritischer aufgaben beteiligt sind, 
+wie z. b. analysemethoden oder die bedienung komplexer 
+maschinen, um eine konsistente und genaue ausführung 
+der aufgaben zu gewährleisten.
+• dient als verbindliche spezifische, technische und 
+detaillierte anweisung für die mitarbeiter, die bei der 
+ausführung ihrer aufgaben zu befolgen ist.
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 5.
+4.2
+Standard-Dokumenttypen 
+Typ
+Definition
+Policy*
+(Richtlinie)
+• Umreißt die übergreifenden Prinzipien, Regeln oder Ziele 
+der Organisation in Übereinstimmung mit den gesetzlichen 
+Anforderungen, die das gesamte Verhalten, die
+Entscheidungsfindung und die Handlungen innerhalb einer 
+Organisation betreffen.
+• Sie legt die Grenzen für das Verhalten der Mitarbeiter fest 
+und regelt verschiedene Aspekte der organisatorischen 
+Abläufe.
+• Die Policies werden in der Regel von der oberen 
+Führungsebene festgelegt.
+Procedure*
+(Verfahren)
+Bezeichnung für alle Dokumente, die Standardprozessschritte 
+beschreiben, d.h. SOPs und WINs.
+Standard 
+Operating 
+Procedure
+(SOP)*
+• Unterteilt alle Kernaktivitäten in Aufgaben und weist die 
+Verantwortung für diese bestimmten Rollen oder Personen 
+innerhalb der Organisation zu. Es beschreibt alle Dinge, die 
+getan werden müssen und wer sie tun muss, einschließlich 
+Tools, Vorlagen oder Verwendung anderer 
+Standarddokumente. 
+• Im Falle einer übergeordneten Policy wird eine logische 
+und strukturierte Methodik für die Mitarbeiter mit genauen 
+Schritten und Aktivitäten beschrieben, die zur Einhaltung 
+der Policy erforderlich sind.
+• Sie kann auch zur Festlegung spezifischer Regeln,
+Spezifikationen und/oder Kriterien verwendet werden.
+Work Instruction 
+(WIN)*
+• Sie unterstützt SOPs mit zusätzlichen detaillierten Schritt-
+für-Schritt-Anweisungen für Personen, die direkt an der 
+Ausführung bestimmter kritischer Aufgaben beteiligt sind, 
+wie z. B. Analysemethoden oder die Bedienung komplexer 
+Maschinen, um eine konsistente und genaue Ausführung 
+der Aufgaben zu gewährleisten.
+• Dient als verbindliche spezifische, technische und 
+detaillierte Anweisung für die Mitarbeiter, die bei der 
+Ausführung ihrer Aufgaben zu befolgen ist.
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 6', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+typ
+definition
+supportive 
+document
+(sup)**
+wird zur unterstützung der ausführung von procedures
+verwendet, z. b.:
+• vorlage für dokumentation mit vordefinierten:
+format und/oder struktur,
+liste der zu beantwortenden fragen,
+die datenfelder müssen ausgefüllt werden,
+kontrollkästchen zur dokumentation der 
+aufgabenerledigung usw.
+• handbuch für die nutzung der systeme.
+• anleitung zu bewährten praktiken usw.
+hinweis: gxp-bezogene sups müssen immer in einer 
+übergeordneten sop oder win referenziert werden.
+training material 
+(tmat) 
+wird nur für schulungszwecke verwendet, z. b.:
+• schulung zu den verfahren,
+• jedes andere thema unabhängig von einem verfahren, 
+z.b.:
+training zum „yellow belt“,
+gcp-auffrischungsschulung.
+translation 
+(trans)
+(übersetzung)
+wird verwendet, wenn ein englisches original eines globalen 
+standarddokuments in eine lokale sprache übersetzt werden 
+muss. 
+*diese standarddokumente sind verbindlich und die nichteinhaltung muss als abweichung dokumentiert werden.
+** ob die nichteinhaltung einer sup als abweichung dokumentiert werden muss, hängt von der definition in
+übergeordneten sop oder win ab.
+4.3
+standarddokumente - hauptmerkmale
+policy
+sop/win
+sups
+tmats
+relativ statisch
+regelmäßig 
+aktualisiert
+regelmäßig 
+aktualisiert
+nach bedarf 
+angepasst
+entscheidungsorientiert
+prozessorientiert
+ausführungsorientiert
+ausbildungsorientiert
+strategisch
+praktisch
+praktisch
+informativ
+5
+durchführung
+5.1
+verwaltung von standarddokumenten 
+1. alle standarddokumente müssen in mastercontrol nach proc-002037
+verwaltet werden.
+2. standarddokumente, die als vorlagen in einem anderen 
+computergestützten system verwendet werden, können in diesem system 
+verwaltet werden, solange die in dieser proc definierten anforderungen
+an den lebenszyklus erfüllt sind.
+3. der lebenszyklus von standarddokumenten hat die folgenden drei 
+hauptstufen:
+a. draft (entwurf)
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 6.
+Typ
+Definition
+Supportive 
+Document
+(SUP)**
+Wird zur Unterstützung der Ausführung von Procedures
+verwendet, z. B.:
+• Vorlage für Dokumentation mit vordefinierten:
+Format und/oder Struktur,
+Liste der zu beantwortenden Fragen,
+Die Datenfelder müssen ausgefüllt werden,
+Kontrollkästchen zur Dokumentation der 
+Aufgabenerledigung usw.
+• Handbuch für die Nutzung der Systeme.
+• Anleitung zu bewährten Praktiken usw.
+Hinweis: GxP-bezogene SUPs müssen immer in einer 
+übergeordneten SOP oder WIN referenziert werden.
+Training Material 
+(TMAT) 
+Wird nur für Schulungszwecke verwendet, z. B.:
+• Schulung zu den Verfahren,
+• Jedes andere Thema unabhängig von einem Verfahren, 
+z.B.:
+Training zum „Yellow Belt“,
+GCP-Auffrischungsschulung.
+Translation 
+(TRANS)
+(Übersetzung)
+Wird verwendet, wenn ein englisches Original eines globalen 
+Standarddokuments in eine lokale Sprache übersetzt werden 
+muss. 
+*Diese Standarddokumente sind verbindlich und die Nichteinhaltung muss als Abweichung dokumentiert werden.
+** Ob die Nichteinhaltung einer SUP als Abweichung dokumentiert werden muss, hängt von der Definition in
+übergeordneten SOP oder WIN ab.
+4.3
+Standarddokumente - Hauptmerkmale
+Policy
+SOP/WIN
+SUPs
+TMATs
+Relativ statisch
+Regelmäßig 
+aktualisiert
+Regelmäßig 
+aktualisiert
+Nach Bedarf 
+angepasst
+Entscheidungsorientiert
+Prozessorientiert
+Ausführungsorientiert
+Ausbildungsorientiert
+Strategisch
+Praktisch
+Praktisch
+Informativ
+5
+DURCHFÜHRUNG
+5.1
+Verwaltung von Standarddokumenten 
+1. Alle Standarddokumente müssen in MasterControl nach PROC-002037
+verwaltet werden.
+2. Standarddokumente, die als Vorlagen in einem anderen 
+computergestützten System verwendet werden, können in diesem System 
+verwaltet werden, solange die in dieser PROC definierten Anforderungen
+an den Lebenszyklus erfüllt sind.
+3. Der Lebenszyklus von Standarddokumenten hat die folgenden drei 
+Hauptstufen:
+a. Draft (Entwurf)
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 7', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+b. 
+c. archive (archiv).
+4. der owner ist dafür verantwortlich, zu entscheiden, ob das jeweilige 
+standarddokument gxp-bezogen ist oder nicht (siehe sup-011341 für 
+einen entscheidungsbaum).
+5. im falle notwendiger untergeordneter dokumente ist der owner des 
+übergeordneten dokuments für alle untergeordneten dokumente 
+verantwortlich:
+a. angemessener owner,
+b. kohärenz des inhalts,
+c. rechtzeitige erstellung oder überarbeitung,
+d. rücknahme parallel zum übergeordneten dokument, falls zutreffend.
+6. der owner muss sicherstellen, dass alle owner von verwandten, 
+betroffenen oder referenzierten dokumenten über die geplante erstellung, 
+überarbeitung oder zurückziehung informiert werden. hinweis: ob der 
+inhalt von verwandten, betroffenen oder referenzierten dokumenten 
+überarbeitet oder zurückgezogen werden muss, liegt in der verantwortung 
+des jeweiligen owners für das dokument.
+5.2
+inhalt eines standarddokuments 
+5.2.1 allgemeine regeln
+• der owner ist dafür verantwortlich, dass das standarddokument 
+angemessene inhalte enthält, indem er die sup-013027 “guidance for writing 
+effective documents" befolgt.
+• alle standarddokumente müssen aktuell, benutzerfreundlich, praxisnah und 
+zweckmäßig sein.
+für alle policies und procedures wird folgendes dringend empfohlen:
+• die in mastercontrol bereitgestellten vorlagen werden verwendet und die 
+abschnittsüberschriften werden nicht geändert.
+• der stil und die sprache entsprechen dem verwendungszweck.
+• verfahren, die prozessschritte beschreiben (sops und wins), sind in einem 
+imperativen, verbindlichen stil geschrieben.
+• der wortlaut ist klar, verständlich und unmissverständlich.
+• die verantwortung für die prozessschritte ist klar festgelegt und zugewiesen, 
+z. b. durch eine raci-matrix.
+5.2.2 inhalt pro dokumenttyp
+in der nachstehenden tabelle sind die spezifischen regeln für die einzelnen 
+dokumenttypen aufgeführt. 
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 7.
+b. 
+c. Archive (Archiv).
+4. Der Owner ist dafür verantwortlich, zu entscheiden, ob das jeweilige 
+Standarddokument GxP-bezogen ist oder nicht (siehe SUP-011341 für 
+einen Entscheidungsbaum).
+5. Im Falle notwendiger untergeordneter Dokumente ist der Owner des 
+übergeordneten Dokuments für alle untergeordneten Dokumente 
+verantwortlich:
+a. Angemessener Owner,
+b. Kohärenz des Inhalts,
+c. Rechtzeitige Erstellung oder Überarbeitung,
+d. Rücknahme parallel zum übergeordneten Dokument, falls zutreffend.
+6. Der Owner muss sicherstellen, dass alle Owner von verwandten, 
+betroffenen oder referenzierten Dokumenten über die geplante Erstellung, 
+Überarbeitung oder Zurückziehung informiert werden. Hinweis: Ob der 
+Inhalt von verwandten, betroffenen oder referenzierten Dokumenten 
+überarbeitet oder zurückgezogen werden muss, liegt in der Verantwortung 
+des jeweiligen Owners für das Dokument.
+5.2
+Inhalt eines Standarddokuments 
+5.2.1 Allgemeine Regeln
+• Der Owner ist dafür verantwortlich, dass das Standarddokument 
+angemessene Inhalte enthält, indem er die SUP-013027 “Guidance for writing 
+effective documents" befolgt.
+• Alle Standarddokumente müssen aktuell, benutzerfreundlich, praxisnah und 
+zweckmäßig sein.
+Für alle Policies und Procedures wird Folgendes dringend empfohlen:
+• Die in MasterControl bereitgestellten Vorlagen werden verwendet und die 
+Abschnittsüberschriften werden nicht geändert.
+• Der Stil und die Sprache entsprechen dem Verwendungszweck.
+• Verfahren, die Prozessschritte beschreiben (SOPs und WINs), sind in einem 
+imperativen, verbindlichen Stil geschrieben.
+• Der Wortlaut ist klar, verständlich und unmissverständlich.
+• Die Verantwortung für die Prozessschritte ist klar festgelegt und zugewiesen, 
+z. B. durch eine RACI-Matrix.
+5.2.2 Inhalt pro Dokumenttyp
+In der nachstehenden Tabelle sind die spezifischen Regeln für die einzelnen 
+Dokumenttypen aufgeführt. 
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 9', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+dokumenttyp
+regeln
+sup
+wenn es einen übergeordneten prozess gibt: 
+• beschreiben sie keine zusätzlichen prozessschritte oder 
+verantwortlichkeiten.
+• vergewissern sie sich, dass der inhalt mit dem in der
+übergeordneten sop oder win beschriebenen zweck 
+übereinstimmt.
+trans
+• es muss sich um eine 1:1-übersetzung des originals handeln, und 
+es dürfen keine inhaltlichen änderungen vorgenommen werden.
+• im falle von unstimmigkeiten oder auslegungszweifeln ist die 
+originalsprache des standarddokuments maßgebend.
+tmat
+• achten sie darauf, dass der inhalt zum beabsichtigten zweck passt.
+• wenn es einen übergeordneten prozess gibt, sollten sie keine 
+zusätzlichen verfahrensschritte oder zuständigkeiten beschreiben.
+5.3
+genehmigung von standarddokumenten 
+in der folgenden tabelle werden die genehmigungsschritte für jeden dokumententyp
+beschrieben (weitere einzelheiten siehe proc-002037). 
+der owner muss für jeden genehmigungsschritt die entsprechenden personen 
+auswählen. eine person kann mehrere schritte abzeichnen, solange das 4-augen-
+prinzip gewährleistet ist (letzteres gilt für gxp-bezogene dokumente).
+hinweis: für alle richtlinien und verfahren muss eine schulung durchgeführt werden 
+(siehe proc-000650). schulungen zu sups und tmat sind optional.
+dokumenttyp
+schritte zur genehmigung
+policy und 
+verfahren
+die folgenden approval-schritte (genehmigungsschritte) sind 
+obligatorisch.
+1. approval author,
+2. approval expert,
+3. training coordinator*
+4. approval owner, 
+5. final approval quality assurance** (nur wenn gxp-bezogen).
+sups und 
+übersetzungen
+• gxp-bezogen: die 2-step approval ist obligatorisch.
+1. author, 
+2. final approval.
+• nicht-gxp: 1-step oder 2-step approval (1- oder 2-schritte-
+genehmigung).
+tmat
+1-step oder 2-step approval.
+* zur bestätigung der einrichtung einer angemessenen schulungsaufgabe nach der endgültigen genehmigung. 
+wird nicht auf der unterschriftenseite angezeigt.
+**muss ein vertreter der grünenthal global quality assurance organisation sein (siehe abschnitt 3).
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 9.
+Dokumenttyp
+Regeln
+SUP
+Wenn es einen übergeordneten Prozess gibt: 
+• Beschreiben Sie keine zusätzlichen Prozessschritte oder 
+Verantwortlichkeiten.
+• Vergewissern Sie sich, dass der Inhalt mit dem in der
+übergeordneten SOP oder WIN beschriebenen Zweck 
+übereinstimmt.
+TRANS
+• Es muss sich um eine 1:1-Übersetzung des Originals handeln, und 
+es dürfen keine inhaltlichen Änderungen vorgenommen werden.
+• Im Falle von Unstimmigkeiten oder Auslegungszweifeln ist die 
+Originalsprache des Standarddokuments maßgebend.
+TMAT
+• Achten Sie darauf, dass der Inhalt zum beabsichtigten Zweck passt.
+• Wenn es einen übergeordneten Prozess gibt, sollten Sie keine 
+zusätzlichen Verfahrensschritte oder Zuständigkeiten beschreiben.
+5.3
+Genehmigung von Standarddokumenten 
+In der folgenden Tabelle werden die Genehmigungsschritte für jeden Dokumententyp
+beschrieben (weitere Einzelheiten siehe PROC-002037). 
+Der Owner muss für jeden Genehmigungsschritt die entsprechenden Personen 
+auswählen. Eine Person kann mehrere Schritte abzeichnen, solange das 4-Augen-
+Prinzip gewährleistet ist (letzteres gilt für GxP-bezogene Dokumente).
+Hinweis: Für alle Richtlinien und Verfahren muss eine Schulung durchgeführt werden 
+(siehe PROC-000650). Schulungen zu SUPs und TMAT sind optional.
+Dokumenttyp
+Schritte zur Genehmigung
+Policy und 
+Verfahren
+Die folgenden Approval-Schritte (Genehmigungsschritte) sind 
+obligatorisch.
+1. Approval Author,
+2. Approval Expert,
+3. Training Coordinator*
+4. Approval Owner, 
+5. Final Approval Quality Assurance** (nur wenn GxP-bezogen).
+SUPs und 
+Übersetzungen
+• GxP-bezogen: Die 2-Step Approval ist obligatorisch.
+1. Author, 
+2. Final Approval.
+• Nicht-GxP: 1-Step oder 2-Step Approval (1- oder 2-Schritte-
+Genehmigung).
+TMAT
+1-Step oder 2-Step Approval.
+* Zur Bestätigung der Einrichtung einer angemessenen Schulungsaufgabe nach der endgültigen Genehmigung. 
+Wird nicht auf der Unterschriftenseite angezeigt.
+**Muss ein Vertreter der Grünenthal Global Quality Assurance Organisation sein (siehe Abschnitt 3).
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 10', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.4
+übersetzungen von globalen standarddokumenten 
+ergänzend zu abschnitt 5.2.2:
+• bei 1:1-übersetzungen muss das 4-augen-prinzip durch muttersprachler 
+oder personen mit gleichwertigen sprachkenntnissen angewendet werden, 
+um eine korrekte übersetzung zu gewährleisten und fehlinterpretationen zu 
+vermeiden. die verantwortung für die erstellung einer übersetzung liegt bei 
+der stelle, die für die umsetzung in einem standort, land oder einer region 
+verantwortlich ist, z. b. dem qms-manager.
+• 1:1-übersetzungen dürfen nicht vor dem original in kraft treten.
+• 1:1-übersetzungen sollten nicht lange nach dem original in kraft treten, um 
+eine verzögerte lokale umsetzung eines globalen prozesses zu vermeiden.
+• der owner des originalen verfahrens muss:
+einen angemessenen zeitrahmen einplanen, damit die übersetzungen 
+zusammen mit dem original fertiggestellt werden können,
+das datum des inkrafttretens des originals und aller übersetzungen 
+festlegen,
+eine rechtzeitige kommunikation der planung gewährleisten: 
+für neue standarddokumente: an die für die übersetzungen 
+zuständigen personen (z. b. über bestehende netzwerke),
+für revisionen: an alle owner von übersetzungen.
+einen training coordinator in abstimmung mit dem owner der 
+übersetzungen einbeziehen, um einen reibungslosen beginn der 
+schulung zu gewährleisten. 
+• wird nachträglich eine übersetzung verlangt:
+der eigentümer des originals muss unverzüglich informiert werden, wenn 
+er nicht der initiator ist.
+ein training coordinator muss hinzugezogen werden, um eine 
+angemessene einleitung der schulung sicherzustellen (vermeidung 
+unnötiger neuer schulungsaufgaben)..
+5.5
+globale verfahren und lokale anforderungen
+• globale verfahren müssen alle definitionen, prozessschritte oder regeln 
+abdecken, die für alle grünenthal-unternehmen gelten. spezifische lokale 
+anforderungen müssen in einem lokalen verfahren mit den folgenden regeln 
+beschrieben werden:
+• das lokale verfahren ist untergeordnet und muss auf das globale verfahren 
+verweisen.
+• das lokale verfahren darf nicht im widerspruch zum globalen verfahren 
+stehen. hinweis: um das risiko von diskrepanzen zu vermeiden, wird 
+dringend empfohlen, in lokalen verfahren nur zusätzliche oder lokal 
+spezifische prozessschritte zu beschreiben.
+•
+im falle einer neuen überarbeitung eines globalen verfahrens muss das 
+lokale verfahren überprüft und gegebenenfalls entsprechend und rechtzeitig 
+aktualisiert werden.
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 10.
+5.4
+Übersetzungen von globalen Standarddokumenten 
+Ergänzend zu Abschnitt 5.2.2:
+• Bei 1:1-Übersetzungen muss das 4-Augen-Prinzip durch Muttersprachler 
+oder Personen mit gleichwertigen Sprachkenntnissen angewendet werden, 
+um eine korrekte Übersetzung zu gewährleisten und Fehlinterpretationen zu 
+vermeiden. Die Verantwortung für die Erstellung einer Übersetzung liegt bei 
+der Stelle, die für die Umsetzung in einem Standort, Land oder einer Region 
+verantwortlich ist, z. B. dem QMS-Manager.
+• 1:1-Übersetzungen dürfen nicht vor dem Original in Kraft treten.
+• 1:1-Übersetzungen sollten nicht lange nach dem Original in Kraft treten, um 
+eine verzögerte lokale Umsetzung eines globalen Prozesses zu vermeiden.
+• Der Owner des originalen Verfahrens muss:
+Einen angemessenen Zeitrahmen einplanen, damit die Übersetzungen 
+zusammen mit dem Original fertiggestellt werden können,
+Das Datum des Inkrafttretens des Originals und aller Übersetzungen 
+festlegen,
+Eine rechtzeitige Kommunikation der Planung gewährleisten: 
+Für neue Standarddokumente: An die für die Übersetzungen 
+zuständigen Personen (z. B. über bestehende Netzwerke),
+Für Revisionen: An alle Owner von Übersetzungen.
+Einen Training Coordinator in Abstimmung mit dem Owner der 
+Übersetzungen einbeziehen, um einen reibungslosen Beginn der 
+Schulung zu gewährleisten. 
+• Wird nachträglich eine Übersetzung verlangt:
+Der Eigentümer des Originals muss unverzüglich informiert werden, wenn 
+er nicht der Initiator ist.
+Ein Training Coordinator muss hinzugezogen werden, um eine 
+angemessene Einleitung der Schulung sicherzustellen (Vermeidung 
+unnötiger neuer Schulungsaufgaben)..
+5.5
+Globale Verfahren und lokale Anforderungen
+• Globale Verfahren müssen alle Definitionen, Prozessschritte oder Regeln 
+abdecken, die für alle Grünenthal-Unternehmen gelten. Spezifische lokale 
+Anforderungen müssen in einem lokalen Verfahren mit den folgenden Regeln 
+beschrieben werden:
+• Das lokale Verfahren ist untergeordnet und muss auf das globale Verfahren 
+verweisen.
+• Das lokale Verfahren darf nicht im Widerspruch zum globalen Verfahren 
+stehen. Hinweis: Um das Risiko von Diskrepanzen zu vermeiden, wird 
+dringend empfohlen, in lokalen Verfahren nur zusätzliche oder lokal 
+spezifische Prozessschritte zu beschreiben.
+•
+Im Falle einer neuen Überarbeitung eines globalen Verfahrens muss das 
+lokale Verfahren überprüft und gegebenenfalls entsprechend und rechtzeitig 
+aktualisiert werden.
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 11', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.6
+periodic review (regelmäßige überprüfung)
+der owner ist dafür verantwortlich, die standarddokumente auf dem neuesten stand 
+zu halten. für policies und procedures ist eine periodische überprüfung spätestens 
+nach:
+• gxp-bezogen: 3 jahre
+• nicht-gxp: 5 jahre.
+die entscheidung, ob ein dokument aktualisiert werden muss oder nicht, muss 
+dokumentiert werden. der periodic review von policies und procedures wird in 
+mastercontrol automatisch eingeleitet.
+5.7
+withdrawal (rücknahme) von dokumenten
+wenn ein dokument nicht mehr benötigt wird, muss es nach den folgenden regeln 
+zurückgezogen werden (siehe proc-002037):
+• der antragsteller muss eine klare begründung für die rücknahme liefern.
+• ein genehmigender prüft die begründung und bestätigt, das
+standarddokument zurückzuziehen.
+• alle untergeordneten dokumente müssen ebenfalls zurückgezogen werden, 
+es sei denn, sie werden noch für andere procedures benötigt.
+5.8
+archivierung
+alle standarddokumente müssen in übereinstimmung mit den geltenden vorschriften 
+und grünenthal-prozessen archiviert werden. alle in mastercontrol verwalteten 
+dokumente, ob im status draft, 
+gespeichert.
+falls ein archiviertes dokument erneut freigegeben werden muss, sind eine neue 
+überarbeitung und ein neuer genehmigungsprozess erforderlich. ein docadmin 
+kann auf die archivierte infocard zugreifen, um eine neue paketaufgabe zu starten.
+hinweis: es ist nicht zulässig, die archivierte überarbeitung, ohne eine neue 
+genehmigung erneut freizugeben.
+6
+querverweise
+• proc-002037 verwaltung von standarddokumenten in mastercontrol -
+trans (de)
+• proc-005342 gxp-quality policy
+• sup-011341 leitfaden für die verwaltung von standarddokumenten - trans 
+(de)
+• sup-013027 guidance for writing effective documents
+
+published mastercontrol documents frequently use javascript. if you are seeing this message, your viewer 
+either does not support javascript or it is disabled. if you are using adobe acrobat, please enable javascript.
+if you are using another viewer, you will need to configure your browser to view pdf files externally in adobe 
+acrobat.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 11.
+5.6
+Periodic Review (Regelmäßige Überprüfung)
+Der Owner ist dafür verantwortlich, die Standarddokumente auf dem neuesten Stand 
+zu halten. Für Policies und Procedures ist eine periodische Überprüfung spätestens 
+nach:
+• GxP-bezogen: 3 Jahre
+• Nicht-GxP: 5 Jahre.
+Die Entscheidung, ob ein Dokument aktualisiert werden muss oder nicht, muss 
+dokumentiert werden. Der Periodic Review von Policies und Procedures wird in 
+MasterControl automatisch eingeleitet.
+5.7
+Withdrawal (Rücknahme) von Dokumenten
+Wenn ein Dokument nicht mehr benötigt wird, muss es nach den folgenden Regeln 
+zurückgezogen werden (siehe PROC-002037):
+• Der Antragsteller muss eine klare Begründung für die Rücknahme liefern.
+• Ein Genehmigender prüft die Begründung und bestätigt, das
+Standarddokument zurückzuziehen.
+• Alle untergeordneten Dokumente müssen ebenfalls zurückgezogen werden, 
+es sei denn, sie werden noch für andere Procedures benötigt.
+5.8
+Archivierung
+Alle Standarddokumente müssen in Übereinstimmung mit den geltenden Vorschriften 
+und Grünenthal-Prozessen archiviert werden. Alle in MasterControl verwalteten 
+Dokumente, ob im Status Draft, 
+gespeichert.
+Falls ein archiviertes Dokument erneut freigegeben werden muss, sind eine neue 
+Überarbeitung und ein neuer Genehmigungsprozess erforderlich. Ein DocAdmin 
+kann auf die archivierte InfoCard zugreifen, um eine neue Paketaufgabe zu starten.
+Hinweis: Es ist nicht zulässig, die archivierte Überarbeitung, ohne eine neue 
+Genehmigung erneut freizugeben.
+6
+QUERVERWEISE
+• PROC-002037 Verwaltung von Standarddokumenten in MasterControl -
+Trans (DE)
+• PROC-005342 GxP-Quality Policy
+• SUP-011341 Leitfaden für die Verwaltung von Standarddokumenten - Trans 
+(DE)
+• SUP-013027 Guidance for writing effective documents
+
+Published MasterControl documents frequently use JavaScript. If you are seeing this message, your viewer 
+either does not support JavaScript or it is disabled. If you are using Adobe Acrobat, please enable JavaScript.
+If you are using another viewer, you will need to configure your browser to view PDF files externally in Adobe 
+Acrobat.
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf', 'page_label': 'Page 12', 'sop_title': 'Globaler Prozess zur Verwaltung von Standarddokumenten - Trans (DE)', 'document_number': 'PROC-007834', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmDec192025015016.pdf, Page 12.
+7
+
+
+================================================================================
+

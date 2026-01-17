@@ -1,10 +1,9 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 1
 objective
 the objective of this document is to describe the product quality review process within 
@@ -38,7 +37,6 @@ the main responsibilities of function/roles listed in this document are as follo
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 2.
 Revision 03
 
-Local Title: Product Quality Review
 1
 Objective
 The objective of this document is to describe the Product Quality Review Process within 
@@ -72,12 +70,11 @@ The main responsibilities of function/roles listed in this document are as follo
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 function/role 
 responsibility
 global 
@@ -153,7 +150,6 @@ departments
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 3.
 Revision 03
 
-Local Title: Product Quality Review
 Function/Role 
 Responsibility
 Global 
@@ -229,12 +225,11 @@ Departments
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 function/role 
 responsibility
 qualified person
@@ -301,7 +296,6 @@ marketing authorization holder
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 4.
 Revision 03
 
-Local Title: Product Quality Review
 Function/Role 
 Responsibility
 Qualified Person
@@ -368,12 +362,11 @@ Marketing Authorization Holder
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 term/abbreviation
 definition
 mah review 
@@ -419,7 +412,6 @@ the general process flow from the planning to the final mah review is described 
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 5.
 Revision 03
 
-Local Title: Product Quality Review
 Term/Abbreviation
 Definition
 MAH Review 
@@ -465,21 +457,20 @@ The general process flow from the planning to the final MAH Review is described 
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 the responsibilities and the detailed steps needed for conducting the product quality 
 review and the subsequent mah review are described in the following sections 
 depending on:
 
-all the manufacturing steps (including release) are performed by cmo
+all the manufacturing steps (including 
 
 the manufacturing steps are separated between cmo and grünenthal
 
-all the manufacturing steps (including release) are performed by grünenthal
+all the manufacturing steps (including 
 the pqr review and the subsequent mah review shall be planned according to the sup 
 004779: the pqr plan shall be created and approved within q1 of each year andany 
 delays to the pqr plan must be properly documented by a deviation according to the 
@@ -495,16 +486,15 @@ mah review
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 6.
 Revision 03
 
-Local Title: Product Quality Review
 The responsibilities and the detailed steps needed for conducting the Product Quality 
 Review and the subsequent MAH Review are described in the following sections 
 depending on:
 
-All the manufacturing steps (including release) are performed by CMO
+All the manufacturing steps (including 
 
 The manufacturing steps are separated between CMO and Grünenthal
 
-All the manufacturing steps (including release) are performed by Grünenthal
+All the manufacturing steps (including 
 The PQR review and the subsequent MAH review shall be planned according to the SUP 
 004779: the PQR plan shall be created and approved within Q1 of each year andany 
 delays to the PQR plan must be properly documented by a deviation according to the 
@@ -520,17 +510,16 @@ MAH Review
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 5.2
 process flows
 ultimate accountability: senior management 
 process responsability: qa
-all manufacturing steps (included release) are 
+all manufacturing steps (included 
 performed by a cmo
 all manufacturing steps are separated between a cmo and grt
 all manufacturing steps are performed by grt
@@ -679,12 +668,11 @@ no
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 7.
 Revision 03
 
-Local Title: Product Quality Review
 5.2
 Process Flows
 Ultimate Accountability: Senior Management 
 Process Responsability: QA
-All manufacturing steps (included release) are 
+All manufacturing steps (included 
 performed by a CMO
 All manufacturing steps are separated between a CMO and GRT
 All manufacturing steps are performed by GRT
@@ -833,12 +821,11 @@ No
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 8', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 8', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 5.3
 filing of pqr plan, pqr review and mah review
 pqr plans, pqr and mah reviews shall be filed according to sup-005587.
@@ -896,7 +883,6 @@ sup 004779 for approximate timelines reference
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 8.
 Revision 03
 
-Local Title: Product Quality Review
 5.3
 Filing of PQR plan, PQR review and MAH Review
 PQR Plans, PQR and MAH reviews shall be filed according to SUP-005587.
@@ -954,12 +940,11 @@ SUP 004779 for approximate timelines reference
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 9', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 9', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 the naming convention to be used for the product description in the header of the sup -
 004662 is:
 main bulk/api name + galenic form + strength + unique identifier (if different types 
@@ -975,7 +960,6 @@ summary and conclusion is finalized.
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 9.
 Revision 03
 
-Local Title: Product Quality Review
 The naming convention to be used for the product description in the header of the SUP -
 004662 is:
 Main Bulk/API name + galenic form + strength + unique identifier (if different types 
@@ -991,12 +975,11 @@ summary and conclusion is finalized.
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 5.5
 pqr annexes 
 5.5.1.1
@@ -1040,7 +1023,6 @@ imq
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 10.
 Revision 03
 
-Local Title: Product Quality Review
 5.5
 PQR Annexes 
 5.5.1.1
@@ -1084,12 +1066,11 @@ IMQ
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 annex
 activity
 responsability
@@ -1137,7 +1118,6 @@ qc/imq
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 11.
 Revision 03
 
-Local Title: Product Quality Review
 Annex
 Activity
 Responsability
@@ -1185,12 +1165,11 @@ QC/IMQ
 ================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 annex
 activity
 responsability
@@ -1224,7 +1203,6 @@ esq/imq
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 12.
 Revision 03
 
-Local Title: Product Quality Review
 Annex
 Activity
 Responsability
@@ -1258,15 +1236,14 @@ ESQ/IMQ
 ================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 13', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 13', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 5.6
-manufacturing, testing and release on behalf
-if a product is manufactured, tested and/or released externally on behalf, the 
+manufacturing, testing and 
+if a product is manufactured, tested and/or 
 responsibilities for creating the pqr shall be regulated in accordance to the 
 corresponding quality agreement.
 5.7
@@ -1312,10 +1289,9 @@ relevant cluster.
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 13.
 Revision 03
 
-Local Title: Product Quality Review
 5.6
-Manufacturing, Testing and Release on behalf
-If a product is manufactured, tested and/or released externally on behalf, the 
+Manufacturing, Testing and 
+If a product is manufactured, tested and/or 
 responsibilities for creating the PQR shall be regulated in accordance to the 
 corresponding Quality Agreement.
 5.7
@@ -1361,12 +1337,11 @@ relevant cluster.
 ================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 14', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 14', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 at least the changed annexes and a new summary and conclusion chapter need to be 
 added. 
 5.8
@@ -1404,7 +1379,6 @@ regulation (eu) 2017/745 (mdd)
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 14.
 Revision 03
 
-Local Title: Product Quality Review
 At least the changed annexes and a new summary and conclusion chapter need to be 
 added. 
 5.8
@@ -1442,12 +1416,11 @@ Regulation (EU) 2017/745 (MDD)
 ================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 15', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052415.pdf', 'page_label': 'Page 15', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 03
 
-local title: product quality review
 revision/ 
 document no.
 description of changes
@@ -1456,7 +1429,7 @@ o
 and §5.5.2)
 o
 §5.6 changed numbering of the section (in the previous 
-version “the manufacturing, testing and release on 
+version “the manufacturing, testing and 
 behalf” was reported in the section §5.8)
 o
 §5.7 reviewed the description of the mah review and 
@@ -1484,7 +1457,6 @@ updated template version
 Source: GRT_PROC_English_stamped_V7.docmNov302025052415.pdf, Page 15.
 Revision 03
 
-Local Title: Product Quality Review
 Revision/ 
 document no.
 Description of changes
@@ -1493,7 +1465,7 @@ o
 and §5.5.2)
 o
 §5.6 changed numbering of the section (in the previous 
-version “The manufacturing, Testing and Release on 
+version “The manufacturing, Testing and 
 behalf” was reported in the section §5.8)
 o
 §5.7 reviewed the description of the MAH review and 

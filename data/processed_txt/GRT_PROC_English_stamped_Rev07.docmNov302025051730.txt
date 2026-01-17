@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 2', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: global process for change management
 1
 objective
 the objective of this document is to describe the global process of change control
@@ -60,7 +59,6 @@ having also the approver role.
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf, Page 2.
-Local Title: Global Process for Change Management
 1
 OBJECTIVE
 The objective of this document is to describe the global process of Change Control
@@ -120,7 +118,7 @@ having also the Approver role.
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 4', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -241,7 +239,7 @@ guidelines, e.g., EMA regulations, ICH guidelines, ISO standards.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 5', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -380,7 +378,7 @@ implemented, verified and closed through a defined change control process. This 
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 6', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 be documented in mastercontrol. an unique identification change number is assigned 
@@ -479,7 +477,7 @@ Close-out
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 7', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -630,7 +628,7 @@ selected) .
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 8', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 table 2. “nrp and approver(s) assignment”
@@ -751,7 +749,7 @@ Technical Changes
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 9', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -902,7 +900,7 @@ implemented (if applicable).
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 10', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -919,7 +917,7 @@ be implemented, a rationale must be provided)
 enter the relevant information needed
 
 the implementation strategy (e.g., for a cs change, nrp 
-must define the release of the system)
+must define the 
 
 depending on the definition in the quality agreement, 
 confirmation
@@ -988,7 +986,7 @@ be implemented, a rationale must be provided)
 Enter the relevant information needed
 
 The implementation strategy (e.g., for a CS change, NRP 
-must define the release of the system)
+must define the 
 
 Depending on the definition in the Quality Agreement, 
 confirmation
@@ -1045,7 +1043,7 @@ responsible Approvers, the implementation activities of the change can start acc
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 11', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 to the change plan proposed by the group of smes and the defined implementation 
@@ -1089,7 +1087,7 @@ health authorities.
 actions that must be 
 implemented before  the 
 equipment/ utility/ 
-facility/process is released for 
+facility/process is 
 use.
 
 actions that must be 
@@ -1101,7 +1099,7 @@ authorization to implement in
 production.
 
 actions that can be 
-implemented after the release 
+implemented after the 
 for use of a system/ equipment/ 
 utility/ facility/process.
 2
@@ -1160,7 +1158,7 @@ Health authorities.
 Actions that must be 
 implemented before  the 
 equipment/ utility/ 
-facility/process is released for 
+facility/process is 
 use.
 
 Actions that must be 
@@ -1172,7 +1170,7 @@ authorization to implement in
 Production.
 
 Actions that can be 
-implemented after the release 
+implemented after the 
 for use of a system/ equipment/ 
 utility/ facility/process.
 2
@@ -1192,7 +1190,7 @@ implemented (if applicable)
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 12', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 12', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -1228,10 +1226,10 @@ manufacturing of finished
 products displaying the 
 respective change
 
-the first release in the 
+the first 
 last country
 
-the release of system/ 
+the 
 equipment/ utility/ 
 facility/process for the use 
 in a productive 
@@ -1296,10 +1294,10 @@ manufacturing of finished
 products displaying the 
 respective change
 
-The first release in the 
+The first 
 last country
 
-The release of system/ 
+The 
 Equipment/ Utility/ 
 facility/Process for the use 
 in a productive 
@@ -1333,7 +1331,7 @@ steps.
 ================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 13', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 13', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 step
@@ -1484,7 +1482,7 @@ The NRP in case of a product change
 ================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 14', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 14', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 -
@@ -1561,7 +1559,7 @@ modifications are implemented (if applicable).
 ================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 15', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 15', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3
@@ -1936,7 +1934,7 @@ C o m m u n ic a tio n  L o g /  M e e t in g  m in u t e  O p t io n
 ================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 16', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051730.pdf', 'page_label': 'Page 16', 'sop_title': 'Global Process for Change Management', 'document_number': 'PROC-007059', 'version_number': '02', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.4

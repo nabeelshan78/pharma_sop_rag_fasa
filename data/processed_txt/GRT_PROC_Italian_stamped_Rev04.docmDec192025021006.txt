@@ -1,0 +1,3346 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 2', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+1
+1
+scopo della procedura
+la presente procedura ha lo scopo di definire le responsabilità e le modalità operative 
+per la gestione dei master data di livello 3 e 4 all’interno dei sistemi computerizzati
+
+antares (livello 3)
+
+arvato (livello 4)
+e per la gestione del processo di serializzazione e aggregazione dei prodotti finiti 
+all’interno del reparto confezionamento del sito di origgio.
+ha inoltre lo scopo di definire la corretta impostazione dei master data all’interno del 
+sistema sap necessario per la corretta trasmissione dei dati necessari da sap stesso 
+a arvato.
+2
+campo di applicazione
+la presente procedura si applica ai sistemi computerizzati arvato e antares per la 
+gestione dei master data di livello 3 e 4 di tutti i prodotti finiti del sito di origgio.
+si applica inoltre al sistema sap limitatamente ai master data coinvolti in tale 
+processo.
+per la gestione dei restanti master data sap (anagrafiche prodotti) fare riferimento 
+alla proc-002592. per la gestione dei formati macchina (livello 2) fare riferimento alla 
+proc-002626.
+3
+responsabilità
+questo capitolo fornisce informazioni riguardanti i ruoli e le responsabilità relative al 
+processo descritto.
+funzione
+responsabilità
+mdo
+
+inserimento e mantenimento dei master data di livello 4
+all’interno del sistema arvato in accordo alla presente 
+procedura.
+
+esecuzione del doppio controllo dei master data inseriti 
+all’interno del sistema arvato.
+
+inserimento in arvato degli indirizzi per consentire all’ufficio 
+scheduling 
+& 
+sourcing/warehouse 
+di 
+effettuare 
+le 
+disposition.
+
+inserimento e mantenimento dei master data necessari al 
+processo di serializzazione all’interno del sistema sap 
+(quando grünenthal non è mah).
+
+trasferimento manuale di codici (se applicabile) dal sistema 
+sap al sistema arvato.
+packaging 
+
+inserimento e mantenimento dei master data di livello 3 
+all’interno del sistema antares in accordo alla presente 
+procedura.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 2.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+1
+1
+SCOPO DELLA PROCEDURA
+La presente procedura ha lo scopo di definire le responsabilità e le modalità operative 
+per la gestione dei Master Data di livello 3 e 4 all’interno dei sistemi computerizzati
+
+Antares (livello 3)
+
+Arvato (livello 4)
+e per la gestione del processo di serializzazione e aggregazione dei prodotti finiti 
+all’interno del Reparto Confezionamento del sito di Origgio.
+Ha inoltre lo scopo di definire la corretta impostazione dei Master Data all’interno del 
+sistema SAP necessario per la corretta trasmissione dei dati necessari da SAP stesso 
+a Arvato.
+2
+CAMPO DI APPLICAZIONE
+La presente procedura si applica ai sistemi computerizzati Arvato e Antares per la 
+gestione dei Master Data di livello 3 e 4 di tutti i prodotti finiti del sito di Origgio.
+Si applica inoltre al sistema SAP limitatamente ai Master Data coinvolti in tale 
+processo.
+Per la gestione dei restanti Master Data SAP (anagrafiche prodotti) fare riferimento 
+alla PROC-002592. Per la gestione dei formati macchina (livello 2) fare riferimento alla 
+PROC-002626.
+3
+RESPONSABILITÀ
+Questo capitolo fornisce informazioni riguardanti i ruoli e le responsabilità relative al 
+processo descritto.
+Funzione
+Responsabilità
+MDO
+
+Inserimento e mantenimento dei Master Data di livello 4
+all’interno del sistema Arvato in accordo alla presente 
+procedura.
+
+Esecuzione del doppio controllo dei Master Data inseriti 
+all’interno del sistema Arvato.
+
+Inserimento in Arvato degli indirizzi per consentire all’ufficio 
+Scheduling 
+& 
+Sourcing/Warehouse 
+di 
+effettuare 
+le 
+disposition.
+
+Inserimento e mantenimento dei Master Data necessari al 
+processo di serializzazione all’interno del sistema SAP 
+(quando Grünenthal non è MAH).
+
+Trasferimento manuale di codici (se applicabile) dal sistema 
+SAP al sistema Arvato.
+Packaging 
+
+Inserimento e mantenimento dei Master Data di livello 3 
+all’interno del sistema Antares in accordo alla presente 
+procedura.
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 3', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+2
+
+esecuzione del doppio controllo dei master data inseriti 
+all’interno del sistema antares.
+
+richiesta dei numeri seriali nei sistemi arvato e antares.
+compilazione del file “master data srz” per inserimento e 
+verifica dei dati; stampa e archiviazione del file.
+
+archiviazione in cartella di rete dedicata dei documenti di 
+serializzazione (saf, item specification, ecc.), quando 
+presenti. 
+scheduling & sourcing 
+
+inserimento e mantenimento dei master data necessari al 
+processo di serializzazione all’interno del sistema sap 
+(quando grünenthal non è mah).
+
+trasferimento manuale di ordini (se applicabile) dal sistema 
+sap al sistema arvato.
+rep. engineering
+
+creazione e mantenimento master data di livello 2: linee 
+logiche, formati stampanti e camere (rif proc-002626).
+
+comunicazione dei formati dedicati creati a packaging per 
+la corretta creazione/modifica delle ricette in antares.
+4
+termini e definizioni
+termine
+definizione/spiegazione
+package
+unità di vendita (ad esempio astuccio)
+case
+scatola imballo
+cmo – contract 
+manufacturing
+organization
+azienda terzista che si occupa di lavorare un prodotto per 
+conto di un'altra azienda.
+livello 4 (arvato)
+livello di gestione globale depositario e responsabile della 
+gestione dei numeri seriali. composto da csdb (corporate 
+serialization database) e gateway. è anche responsabile 
+dell’interconnessione tra cmo e clienti e assicura la 
+connessione con gli enti regolatori internazionali per fornire loro 
+i dati serializzati in conformità a ciascun requisito specifico.
+livello 3 (antares)
+livello di gestione di tutte le linee di confezionamento di 
+stabilimento.
+livello 2 (antares)
+livello di gestione della singola linea di confezionamento e dei 
+dispositivi di serializzazione su di essa installati.
+gtin – global trade 
+item number
+codice univoco del prodotto a 14 caratteri, così composto:
+-
+t1: indicator digit
+-
+t2-t10: prefisso aziendale titolare aic
+-
+t11-t13: codice del prodotto definito dall’azienda
+-
+t14: cifra di controllo
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 3.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+2
+
+Esecuzione del doppio controllo dei Master Data inseriti 
+all’interno del sistema Antares.
+
+Richiesta dei numeri seriali nei sistemi Arvato e Antares.
+Compilazione del file “Master Data SRZ” per inserimento e 
+verifica dei dati; stampa e archiviazione del file.
+
+Archiviazione in cartella di rete dedicata dei documenti di 
+serializzazione (SAF, Item Specification, ecc.), quando 
+presenti. 
+Scheduling & Sourcing 
+
+Inserimento e mantenimento dei Master Data necessari al 
+processo di serializzazione all’interno del sistema SAP 
+(quando Grünenthal non è MAH).
+
+Trasferimento manuale di ordini (se applicabile) dal sistema 
+SAP al sistema Arvato.
+Rep. Engineering
+
+Creazione e mantenimento Master Data di livello 2: linee 
+logiche, formati stampanti e camere (rif PROC-002626).
+
+Comunicazione dei formati dedicati creati a Packaging per 
+la corretta creazione/modifica delle ricette in Antares.
+4
+TERMINI E DEFINIZIONI
+Termine
+Definizione/Spiegazione
+Package
+Unità di vendita (ad esempio astuccio)
+Case
+Scatola imballo
+CMO – Contract 
+manufacturing
+organization
+Azienda terzista che si occupa di lavorare un prodotto per 
+conto di un'altra azienda.
+Livello 4 (Arvato)
+Livello di gestione globale depositario e responsabile della 
+gestione dei numeri seriali. Composto da CSDB (Corporate 
+Serialization DataBase) e gateway. È anche responsabile 
+dell’interconnessione tra CMO e Clienti e assicura la 
+connessione con gli enti regolatori internazionali per fornire loro 
+i dati serializzati in conformità a ciascun requisito specifico.
+Livello 3 (Antares)
+Livello di gestione di tutte le linee di confezionamento di 
+stabilimento.
+Livello 2 (Antares)
+Livello di gestione della singola linea di confezionamento e dei 
+dispositivi di serializzazione su di essa installati.
+GTIN – Global Trade 
+Item Number
+Codice univoco del prodotto a 14 caratteri, così composto:
+-
+T1: indicator digit
+-
+T2-T10: prefisso aziendale titolare AIC
+-
+T11-T13: codice del prodotto definito dall’azienda
+-
+T14: cifra di controllo
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 4', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+3
+termine
+definizione/spiegazione
+mah
+marketing authorization holder
+md
+master data
+ntin – national trade 
+identification number
+codice nazionale univoco per prodotto convertibile a gtin.
+a livello 3 (antares) tutti i codici inseriti per serializzazione /
+aggregazione sono definiti come ntin. un ntin è univoco per 
+un determinato prodotto per ogni paese, non ce ne possono 
+essere multipli come per i gtin.
+numero seriale
+stringa numerica o alfanumerica (max 20 caratteri) generata in 
+modo casuale, identificativa della singola unità di vendita.
+l’unione gtin+numero seriale identifica in modo univoco la 
+singola unità di vendita.
+saf - serialization 
+attachment form / 
+item spec
+documento fornito dal cliente in caso di prodotti biotecnologici 
+contenente i requisiti di serializzazione/aggregazione per 
+ciascuna referenza.
+sscc
+serial shipping container code
+tracelink
+sistema di serializzazione utilizzato da diversi clienti a cui 
+arvato richiede i seriali delle referenze di pertinenza.
+5
+processo
+5.1
+flusso e responsabilità del processo di serializzazione/aggregazione
+si elencano di seguito le attività e le relative responsabilità per la corretta 
+configurazione dei sistemi, secondo quanto previsto dai successivi capitoli, ai fini di 
+permettere l’esecuzione di una lavorazione gestita attraverso i sistemi arvato e 
+antares, indipendentemente dal fatto che il prodotto sia da serializzarsi/aggregarsi.
+prima del rilascio del process order
+attività 
+responsabilità 
+
+ricevimento 
+dei 
+documenti 
+di 
+serializzazione dal cliente o da gam e 
+archiviazione in cartelle di rete condivise 
+(se 
+applicabile 
+e 
+se 
+prevista 
+serializzazione)
+packaging / gam
+
+configurazione sap
+master data office 
+scheduling & sourcing
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 4.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+3
+Termine
+Definizione/Spiegazione
+MAH
+Marketing Authorization Holder
+MD
+Master Data
+NTIN – National Trade 
+Identification Number
+Codice nazionale univoco per prodotto convertibile a GTIN.
+A livello 3 (Antares) tutti i codici inseriti per serializzazione /
+aggregazione sono definiti come NTIN. Un NTIN è univoco per 
+un determinato prodotto per ogni paese, non ce ne possono 
+essere multipli come per i GTIN.
+Numero seriale
+Stringa numerica o alfanumerica (max 20 caratteri) generata in 
+modo casuale, identificativa della singola unità di vendita.
+L’unione GTIN+numero seriale identifica in modo univoco la 
+singola unità di vendita.
+SAF - Serialization 
+Attachment Form / 
+Item Spec
+Documento fornito dal cliente in caso di prodotti biotecnologici 
+contenente i requisiti di serializzazione/aggregazione per 
+ciascuna referenza.
+SSCC
+Serial Shipping Container Code
+Tracelink
+Sistema di serializzazione utilizzato da diversi clienti a cui 
+Arvato richiede i seriali delle referenze di pertinenza.
+5
+PROCESSO
+5.1
+Flusso e responsabilità del processo di serializzazione/aggregazione
+Si elencano di seguito le attività e le relative responsabilità per la corretta 
+configurazione dei sistemi, secondo quanto previsto dai successivi capitoli, ai fini di 
+permettere l’esecuzione di una lavorazione gestita attraverso i sistemi Arvato e 
+Antares, indipendentemente dal fatto che il prodotto sia da serializzarsi/aggregarsi.
+Prima del rilascio del process order
+Attività 
+Responsabilità 
+
+Ricevimento 
+dei 
+documenti 
+di 
+serializzazione dal cliente o da GAM e 
+archiviazione in cartelle di rete condivise 
+(se 
+applicabile 
+e 
+se 
+prevista 
+serializzazione)
+Packaging / GAM
+
+Configurazione SAP
+Master Data Office 
+Scheduling & Sourcing
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 5', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+4
+
+trasferimento 
+manuale 
+del 
+codice 
+materiale da sap a arvato (quando 
+applicabile)
+master data office
+
+inserimento in arvato (nella sezione 
+“location”) degli indirizzi di spedizione per 
+consentire all’ufficio export order
+di 
+effettuare le spedizioni
+master data office
+
+configurazione master data arvato 
+master data office 
+
+configurazione master data antares
+packaging
+
+doppio controllo e attivazione master data 
+in arvato 
+master data office / cqa
+
+richiesta dei numeri seriali in arvato (se 
+prevista serializzazione e se grünenthal 
+non è mah). se i seriali non vengono 
+richiamati 
+in 
+arvato e 
+si 
+verificano 
+messaggi di errore, è necessario verificare 
+corretta impostazione tracelink mediante 
+comunicazione con i clienti (es. via mail)
+packaging
+
+doppio controllo e attivazione master data 
+in antares e verifica presenza seriali (se 
+codice da attivare è serializzato). 
+packaging
+a questo punto è possibile procedere con il rilascio del process order in accordo alla 
+proc-002680.
+dopo il rilascio del process order
+
+trasferimento manuale del process order 
+da sap a arvato (se necessario)
+scheduling & sourcing
+al fine di poter procedere con l’impostazione dei master data in sap, arvato e antares, 
+è necessaria la disponibilità delle seguenti informazioni/documenti, da richiedere al 
+cliente oppure a gam in caso di prodotti grt. in caso di modifica degli artwork, delle 
+informazioni di serializzazione o dei requisisti per la stampa di dati variabili ( ad 
+esempio prezzo, formato data di scadenza, ordine dei dati variabili), i responsabili della 
+creazione dei documenti devono inviare versioni aggiornate di tali documenti per 
+informare i reparti addetti alla configurazione dei sistemi.
+se prevista serializzazione: 
+
+documentazione riportante le informazioni di serializzazione (ad esempio 
+documento saf, specifiche item spec o mif):
+-
+codice di serializzazione (ad esempio gtin/ntin)
+-
+formato data di scadenza e, se necessario, formato data di produzione
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 5.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+4
+
+Trasferimento 
+manuale 
+del 
+codice 
+materiale da SAP a Arvato (quando 
+applicabile)
+Master Data Office
+
+Inserimento in Arvato (nella sezione 
+“Location”) degli indirizzi di spedizione per 
+consentire all’ufficio Export Order
+di 
+effettuare le spedizioni
+Master Data Office
+
+Configurazione Master Data Arvato 
+Master Data Office 
+
+Configurazione Master Data Antares
+Packaging
+
+Doppio controllo e attivazione Master Data 
+in Arvato 
+Master Data Office / CQA
+
+Richiesta dei numeri seriali in Arvato (se 
+prevista serializzazione e se Grünenthal 
+non è MAH). Se i seriali non vengono 
+richiamati 
+in 
+Arvato e 
+si 
+verificano 
+messaggi di errore, è necessario verificare 
+corretta impostazione Tracelink mediante 
+comunicazione con i clienti (es. via mail)
+Packaging
+
+Doppio controllo e attivazione Master Data 
+in Antares e verifica presenza seriali (se 
+codice da attivare è serializzato). 
+Packaging
+A questo punto è possibile procedere con il rilascio del process order in accordo alla 
+PROC-002680.
+Dopo il rilascio del process order
+
+Trasferimento manuale del process order 
+da SAP a Arvato (se necessario)
+Scheduling & Sourcing
+Al fine di poter procedere con l’impostazione dei Master Data in SAP, Arvato e Antares, 
+è necessaria la disponibilità delle seguenti informazioni/documenti, da richiedere al 
+cliente oppure a GAM in caso di prodotti GRT. In caso di modifica degli artwork, delle 
+informazioni di serializzazione o dei requisisti per la stampa di dati variabili ( ad 
+esempio prezzo, formato data di scadenza, ordine dei dati variabili), i responsabili della 
+creazione dei documenti devono inviare versioni aggiornate di tali documenti per 
+informare i reparti addetti alla configurazione dei sistemi.
+Se prevista serializzazione: 
+
+Documentazione riportante le informazioni di serializzazione (ad esempio 
+documento SAF, Specifiche Item Spec o MIF):
+-
+codice di serializzazione (ad esempio GTIN/NTIN)
+-
+formato data di scadenza e, se necessario, formato data di produzione
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 6', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+5
+-
+codice cliente e company prefix quando applicabile
+-
+elemento della configurazione da serializzare e dettagli sulle
+informazioni di serializzazione
+-
+eventuali altre informazioni codificate all’interno del codice 2d (es. codici
+di rimborso nazionale)
+-
+eventuali requisiti per l’aggregazione della scatola imballo finale e del
+pallet.
+se non prevista serializzazione: 
+
+documentazione riportante le seguenti informazioni (ad esempio documento
+saf, atm, specifiche item spec o mif):
+-
+formato data di scadenza e, se necessario, formato data di produzione
+-
+codice cliente quando applicabile
+-
+eventuali altre informazioni da stampare sull’unità di vendita (es. codici
+di rimborso nazionali)
+per tutte le lavorazioni:
+
+artwork approvati relativi alla referenza da configurare
+
+b.o.m. relativa alla referenza da configurare
+
+informazioni relative alle geometrie di formazione delle scatole imballo e dei
+pallet
+
+linee logiche in antares, formati antares e formati macchina (rif. capitolo 5.5 e
+proc-002626 gestione dei formati di stampa e dei formati dei sistemi di
+visione del packaging secondario).
+in caso sia necessario aggiornare una referenza a seguiti di modifiche dello stato di 
+serializzazione, aggregazione o richiesta di dati variabili, la modifica dovrà essere fatta 
+non appena disponibili i documenti con le informazioni aggiornate, dopo aver verificato 
+con supply chain che non siano più previste lavorazioni con le impostazioni precedenti.
+5.2
+master data sap e trasmissione di process ordini da sap a arvato
+le operazioni di seguito descritte devono essere eseguite per tutti i codici relativi a 
+prodotti che sono gestiti attraverso i sistemi arvato e antares e che possono o meno 
+prevedere il processo di serializzazione/aggregazione.
+5.2.1
+operazioni preliminari
+preliminarmente alla modifica dei codici nel sistema sap per la loro gestione 
+attraverso i sistemi arvato e antares (siano essi sottoposti al processo di 
+serializzazione/aggregazione o meno) è necessario eseguire le seguenti operazioni.
+
+eseguire il collegamento di ogni risorsa (work ctr) alla linea selezionare
+“ats1”
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 6.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+5
+-
+codice cliente e company prefix quando applicabile
+-
+elemento della configurazione da serializzare e dettagli sulle
+informazioni di serializzazione
+-
+eventuali altre informazioni codificate all’interno del codice 2D (es. codici
+di rimborso nazionale)
+-
+eventuali requisiti per l’aggregazione della scatola imballo finale e del
+pallet.
+Se non prevista serializzazione: 
+
+documentazione riportante le seguenti informazioni (ad esempio documento
+SAF, ATM, Specifiche Item Spec o MIF):
+-
+formato data di scadenza e, se necessario, formato data di produzione
+-
+codice cliente quando applicabile
+-
+eventuali altre informazioni da stampare sull’unità di vendita (es. codici
+di rimborso nazionali)
+Per tutte le lavorazioni:
+
+Artwork approvati relativi alla referenza da configurare
+
+B.O.M. relativa alla referenza da configurare
+
+Informazioni relative alle geometrie di formazione delle scatole imballo e dei
+pallet
+
+Linee logiche in Antares, formati Antares e formati macchina (rif. capitolo 5.5 e
+PROC-002626 Gestione dei formati di stampa e dei formati dei sistemi di
+visione del Packaging Secondario).
+In caso sia necessario aggiornare una referenza a seguiti di modifiche dello stato di 
+serializzazione, aggregazione o richiesta di dati variabili, la modifica dovrà essere fatta 
+non appena disponibili i documenti con le informazioni aggiornate, dopo aver verificato 
+con supply chain che non siano più previste lavorazioni con le impostazioni precedenti.
+5.2
+Master Data SAP e trasmissione di process ordini da SAP a Arvato
+Le operazioni di seguito descritte devono essere eseguite per tutti i codici relativi a 
+prodotti che sono gestiti attraverso i sistemi Arvato e Antares e che possono o meno 
+prevedere il processo di serializzazione/aggregazione.
+5.2.1
+Operazioni preliminari
+Preliminarmente alla modifica dei codici nel sistema SAP per la loro gestione 
+attraverso i sistemi Arvato e Antares (siano essi sottoposti al processo di 
+serializzazione/aggregazione o meno) è necessario eseguire le seguenti operazioni.
+
+Eseguire il collegamento di ogni risorsa (work ctr) alla linea selezionare
+“ATS1”
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 7', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+6
+
+modificare il seguente campo nelle recipe di tutte le referenze
+“destinatn” selezionare “09 arvato”
+5.2.2
+gestione codici
+
+transazione: /n/grt/pp_arvato_pf
+in questa transazione viene mantenuto il dato relativo all’ian (international article 
+number) per tutti i codici prodotto finito serializzati/aggregati. con il pulsante “new 
+entries” è possibile aggiungere nuovi codici materiali. e’ necessario inserire le seguenti 
+informazioni:
+
+codice materiale,
+
+paese di vendita,
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 7.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+6
+
+Modificare il seguente campo nelle recipe di tutte le referenze
+“Destinatn” selezionare “09 Arvato”
+5.2.2
+Gestione codici
+
+Transazione: /n/GRT/PP_ARVATO_PF
+In questa transazione viene mantenuto il dato relativo all’IAN (International Article 
+Number) per tutti i codici prodotto finito serializzati/aggregati. Con il pulsante “New 
+Entries” è possibile aggiungere nuovi codici materiali. E’ necessario inserire le seguenti 
+informazioni:
+
+codice materiale,
+
+paese di vendita,
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 8', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+7
+
+tipologia e valore (sempre “gtin”).
+
+transazione mm02
+all’interno della vista mrp5 dell’anagrafica prodotto deve essere mantenuto il campo 
+“serialization” necessario alla corretta trasmissione delle informazioni del lotto al 
+sistema arvato. 
+  
+        
+
+a0: serializzazione non richiesta e interfaccia con arvato non attiva.
+
+a1: serializzazione non richiesta ma interfaccia con arvato attiva.
+
+a2: serializzazione richiesta e interfaccia con arvato attiva.
+
+a3: serializzazione non richiesta e interfaccia con arvato di tipo manuale.
+
+a4 serializzazione richiesta e interfaccia con arvato di tipo manuale.
+
+transazione: /grt/pp_arvtra_cre
+questa transazione permette la creazione della richiesta di trasferimento dal sistema 
+sap a arvato.
+
+selezionare il campo “send material master data”
+
+inserire il plant e il codice materiale.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 8.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+7
+
+tipologia e valore (sempre “GTIN”).
+
+Transazione MM02
+All’interno della vista MRP5 dell’anagrafica prodotto deve essere mantenuto il campo 
+“Serialization” necessario alla corretta trasmissione delle informazioni del lotto al 
+sistema Arvato. 
+  
+        
+
+A0: serializzazione non richiesta e interfaccia con Arvato non attiva.
+
+A1: serializzazione non richiesta ma interfaccia con Arvato attiva.
+
+A2: serializzazione richiesta e interfaccia con Arvato attiva.
+
+A3: serializzazione non richiesta e interfaccia con Arvato di tipo manuale.
+
+A4 serializzazione richiesta e interfaccia con Arvato di tipo manuale.
+
+Transazione: /GRT/PP_ARVTRA_CRE
+Questa transazione permette la creazione della richiesta di trasferimento dal sistema 
+SAP a Arvato.
+
+Selezionare il campo “Send material master data”
+
+Inserire il Plant e il codice materiale.
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 9', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+8
+eseguire l’operazione e prendere nota del numero della transazione generato 
+automaticamente come nell’esempio riportato nella figura sottostante.
+
+transazione: /grt/pp_arvtra_snd
+questa transazione è da eseguirsi per confermare la richiesta e consentire l’invio del 
+codice al sistema arvato.
+
+selezionare il campo “send material master data”
+
+inserire il plant
+
+inserire il arvato transfer number, corrispondente al numero generato dalla 
+transazione precedente.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 9.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+8
+Eseguire l’operazione e prendere nota del numero della transazione generato 
+automaticamente come nell’esempio riportato nella figura sottostante.
+
+Transazione: /GRT/PP_ARVTRA_SND
+Questa transazione è da eseguirsi per confermare la richiesta e consentire l’invio del 
+codice al sistema Arvato.
+
+Selezionare il campo “Send material master data”
+
+Inserire il Plant
+
+Inserire il Arvato transfer number, corrispondente al numero generato dalla 
+transazione precedente.
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 10', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+9
+
+verificare lo stato e l’esito della transazione attraverso le seguenti 
+comunicazioni
+
+transazione: /grt/pp_arvtra_mon
+l’utilizzo di questa transazione permette la visualizzazione dello stato del 
+trasferimento. per eseguire la transazione selezionare il campo “send material master 
+data”; filtrare i dati inserendo le informazioni d’interesse (ad esempio il arvato transfer 
+number), controllare quindi il risultato della transazione. se il campo arv.status 
+corrisponde a 3 il trasferimento del codice è stato effettuato con successo.
+attenzione: l’esecuzione delle transazioni sap elencate comporta l’aggiornamento di 
+alcuni valori dell’articolo corrispondente nel sistema arvato anche se quest’ultimo è già 
+configurato e attivo. è pertanto necessario eseguire tali transazioni solo in caso di
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 10.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+9
+
+Verificare lo stato e l’esito della transazione attraverso le seguenti 
+comunicazioni
+
+Transazione: /GRT/PP_ARVTRA_MON
+L’utilizzo di questa transazione permette la visualizzazione dello stato del 
+trasferimento. Per eseguire la transazione selezionare il campo “Send material master 
+data”; filtrare i dati inserendo le informazioni d’interesse (ad esempio il Arvato transfer 
+number), controllare quindi il risultato della transazione. Se il campo Arv.Status 
+corrisponde a 3 il trasferimento del codice è stato effettuato con successo.
+Attenzione: l’esecuzione delle transazioni SAP elencate comporta l’aggiornamento di 
+alcuni valori dell’articolo corrispondente nel sistema Arvato anche se quest’ultimo è già 
+configurato e attivo. È pertanto necessario eseguire tali transazioni solo in caso di
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 11', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+10
+necessità di comunicazione dati al sistema arvato e comunicando tale attività alle 
+funzioni addette alla configurazione dei master data nel sistema antares.
+5.2.3
+trasferimento di process order da sap a arvato
+successivamente alla creazione di un process order all’interno del sistema sap è 
+possibile, quando necessario, trasmettere le informazioni al sistema arvato; per 
+effettuare tali operazioni è necessario utilizzare le stesse transazioni sap descritte per 
+il trasferimento tra i due sistemi delle informazioni relative al codice, utilizzando il 
+numero di process order (o il numero di lotto) e compilando la sezione “send order 
+data” invece della sezione “send material master data”.
+n.b: è molto importante rimuovere le spunte sul campo “send material master data” 
+selezionando il campo dedicato al process order “send order data”.
+5.2.4
+inserimento manuale ordini in arvato
+in caso di necessità, è possibile creare un nuovo ordine senza il passaggio delle 
+informazioni dal sistema sap. per eseguire tale operazione:
+
+production order new compilare tutti i campi inserendo i dati variabili della 
+lavorazione come di seguito mostrato:
+
+tabella “details”:
+o
+order no: corrispondente al numero del process order
+o
+batch
+o
+production date
+o
+expiration date
+o
+order size: corrispondente al batch size
+o
+erp-article 
+intende creare un ordine (nel sistema deve essere presente e approvato 
+l’articolo corrispondente)
+o
+manufacturing site: selezionare formenti_ats (ats1)
+o
+customer purchase order: sempre pari a 10000
+o
+salvare e inviare alla linea (tasto send, l’invio comporta il salvataggio in 
+automatico).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 11.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+10
+necessità di comunicazione dati al sistema Arvato e comunicando tale attività alle 
+funzioni addette alla configurazione dei Master Data nel sistema Antares.
+5.2.3
+Trasferimento di process order da SAP a Arvato
+Successivamente alla creazione di un process order all’interno del sistema SAP è 
+possibile, quando necessario, trasmettere le informazioni al sistema Arvato; per 
+effettuare tali operazioni è necessario utilizzare le stesse transazioni SAP descritte per 
+il trasferimento tra i due sistemi delle informazioni relative al codice, utilizzando il 
+numero di process order (o il numero di lotto) e compilando la sezione “send order 
+data” invece della sezione “send material master data”.
+N.B: È molto importante rimuovere le spunte sul campo “Send material master data” 
+selezionando il campo dedicato al Process order “Send order data”.
+5.2.4
+Inserimento manuale ordini in Arvato
+In caso di necessità, è possibile creare un nuovo ordine senza il passaggio delle 
+informazioni dal sistema SAP. Per eseguire tale operazione:
+
+Production Order New compilare tutti i campi inserendo i dati variabili della 
+lavorazione come di seguito mostrato:
+
+Tabella “Details”:
+o
+Order No: corrispondente al numero del Process Order
+o
+Batch
+o
+Production date
+o
+Expiration date
+o
+Order size: corrispondente al batch size
+o
+ERP-Article 
+intende creare un ordine (nel sistema deve essere presente e approvato 
+l’articolo corrispondente)
+o
+Manufacturing site: selezionare FORMENTI_ATS (ATS1)
+o
+Customer purchase order: sempre pari a 10000
+o
+Salvare e inviare alla linea (tasto send, l’invio comporta il salvataggio in 
+automatico).
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 12', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+11
+5.3
+master data arvato (livello 4) 
+le referenze da impostare usano pool condivisi di sscc o sgtin.
+5.3.1
+impostazione pool condivisi in arvato
+nella sezione serial number pool selezionare new. in alternativa, in fase di creazione 
+di un article, nella sezione serialnumbers -> livello selezionato -> serialnumber pool, 
+di fianco alla casella serialnumber pool 1, cliccare sul tasto “+” per creare un nuovo 
+pool.
+apprarirà un pop-up in cui è possibile selezionare un template già esistente con alcune 
+informazioni pre-compliate.
+nella pagina details, impostare il pool:
+
+description: nome del pool
+
+pool type: attenzione a selezionare nel pool type il corretto codice 
+gtin/ntin/sscc a seconda di quanto riportato nelle specifiche di prodotto.
+o
+gtin/ntin: usato per la serializzazione di tutti i prodotti a livello del 
+folding box. usato anche per il livello dei case in alcuni casi specifici, 
+come i mercati usa e canada.
+o
+sscc: usato per i livelli di case e pallet per i prodotti serializzati.
+
+company prefix (solo per gtin/sscc):
+o
+gtin: inserire il company prefix facendo riferimento al documento di 
+serializzazione.
+o
+sscc: inserire l’sscc, senza extension digit. l’extension digit va 
+inserita nel relativo campo.
+
+product 
+stesso.
+
+sscc extension digit: compilabile solo per sscc, inserire l’extension digit. 
+fare riferimento alla tabella sottostante per vedere i pool di sscc con i relativi 
+extension digit. l’extension digit può discriminare tra case e pallet che hanno 
+company prefix uguale.
+
+source:
+o
+generator: seriali creati in arvato.
+o
+import: seriali richiesti esternamente (es al sistema l4 del cliente, 
+tracelink, rfxcel ecc).
+o
+line: i seriali sono creati da antares. usato per case a pallet di prodotti 
+grt, di cui grt è mah.
+
+limit sn per request: imposta il limite di seriali che possono essere 
+richiesti/generati per ogni richiesta seriali.
+
+limit requests per day: imposto il numero massimo di richieste giornaliere che 
+possono essere fatte. attenzione: il campo è visibile solo quando la source 
+è impostata su generator, ma è valido anche per altre impostazioni di source, 
+quindi fare attenzione a impostarlo correttamente.
+
+selezionando gtin/ntin e come source generator, compilare il generation 
+pattern, che indica come sono creati i seriali. in  si usa la
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 12.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+11
+5.3
+Master Data Arvato (livello 4) 
+Le referenze da impostare usano pool condivisi di SSCC o SGTIN.
+5.3.1
+Impostazione pool condivisi in Arvato
+Nella sezione Serial Number Pool selezionare New. In alternativa, in fase di creazione 
+di un article, nella sezione Serialnumbers -> livello selezionato -> Serialnumber pool, 
+di fianco alla casella Serialnumber Pool 1, cliccare sul tasto “+” per creare un nuovo 
+pool.
+Apprarirà un pop-up in cui è possibile selezionare un template già esistente con alcune 
+informazioni pre-compliate.
+Nella pagina Details, impostare il pool:
+
+Description: nome del pool
+
+Pool Type: attenzione a selezionare nel pool type il corretto codice 
+GTIN/NTIN/SSCC a seconda di quanto riportato nelle specifiche di prodotto.
+o
+GTIN/NTIN: usato per la serializzazione di tutti i prodotti a livello del 
+folding box. Usato anche per il livello dei case in alcuni casi specifici, 
+come i mercati USA e Canada.
+o
+SSCC: usato per i livelli di Case e Pallet per i prodotti serializzati.
+
+Company prefix (solo per GTIN/SSCC):
+o
+GTIN: inserire il company prefix facendo riferimento al documento di 
+serializzazione.
+o
+SSCC: inserire l’SSCC, senza extension digit. L’extension digit va 
+inserita nel relativo campo.
+
+Product 
+stesso.
+
+SSCC extension digit: compilabile solo per SSCC, inserire l’extension digit. 
+Fare riferimento alla tabella sottostante per vedere i pool di SSCC con i relativi 
+extension digit. L’extension digit può discriminare tra case e pallet che hanno 
+company prefix uguale.
+
+Source:
+o
+Generator: seriali creati in Arvato.
+o
+Import: seriali richiesti esternamente (es al sistema L4 del cliente, 
+Tracelink, Rfxcel ecc).
+o
+Line: i seriali sono creati da Antares. Usato per case a pallet di prodotti 
+GRT, di cui GRT è MAH.
+
+Limit SN per request: imposta il limite di seriali che possono essere 
+richiesti/generati per ogni richiesta seriali.
+
+Limit requests per day: imposto il numero massimo di richieste giornaliere che 
+possono essere fatte. ATTENZIONE: il campo è visibile solo quando la source 
+è impostata su generator, ma è valido anche per altre impostazioni di Source, 
+quindi fare attenzione a impostarlo correttamente.
+
+Selezionando GTIN/NTIN e come source generator, compilare il Generation 
+pattern, che indica come sono creati i seriali. In  si usa la
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 13', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+12
+generazione random(14), quindi i seriali sono di 14 caratteri generati 
+casualmente, eccetto per crestor che usa numeric (14). la lunghezza dei 
+seriali è indicata nei documenti di serializzazione.
+
+selezionando import come source, comparirà la tabella automation, che 
+permette di richiedere automaticamente i seriali:
+o
+sia per gli sscc sia per i gtin è possibili selezionare la richiesta 
+automatica di seriali.
+o
+alert threshold: quantità di seriali al di sotto del quale viene inviata la 
+richiesta di seriali.
+o
+request size: quantità di seriali che vengono richiesti ogni volta.
+o
+location: cliente a cui richiedere i seriali
+figura 1: gtin con generazione dei seriali
+figura 2: gtin con import dei seriali
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 13.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+12
+generazione Random(14), quindi i seriali sono di 14 caratteri generati 
+casualmente, eccetto per Crestor che usa Numeric (14). La lunghezza dei 
+seriali è indicata nei documenti di serializzazione.
+
+Selezionando Import come source, comparirà la tabella Automation, che 
+permette di richiedere automaticamente i seriali:
+o
+Sia per gli SSCC sia per i GTIN è possibili selezionare la richiesta 
+automatica di seriali.
+o
+Alert threshold: quantità di seriali al di sotto del quale viene inviata la 
+richiesta di seriali.
+o
+Request size: quantità di seriali che vengono richiesti ogni volta.
+o
+Location: cliente a cui richiedere i seriali
+Figura 1: GTIN con generazione dei seriali
+Figura 2: GTIN con import dei seriali
+
+
+================================================================================
+
+=== CHUNK 13 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 14', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+13
+figura 3: sscc con generazione sulla linea dei seriali
+figura 4: sscc con import dei seriali
+nel caso in cui case e pallet utilizzino lo stesso sscc, dovrà essere creato un 
+solo pool.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 14.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+13
+Figura 3: SSCC con generazione sulla linea dei seriali
+Figura 4: SSCC con import dei seriali
+Nel caso in cui CASE e PALLET utilizzino lo stesso SSCC, dovrà essere creato un 
+solo pool.
+
+
+================================================================================
+
+=== CHUNK 14 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 15', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+14
+nella tabella sottostante sono riportate alcune informazioni riguardo gli sscc attualmente in uso nel sito di origgio.
+partner
+sistema l4 lunghezza 
+seriali
+caratteri ammessi
+sscc
+extension digit
+sscc 
+autogenerati 
+da gts (s/n)
+
+arvato
+14
+0123456789acdefghjklmnprtuvwx
+(0123456789 per crestor)
+805157704
+case=4
+pallet=3
+s
+samsung bioepis
+tracelink
+12
+0123456789
+880959317
+case=4
+pallet=3
+n
+samsung bioepis (us, cad) tracelink
+12
+0123456789
+8800515
+partial case=0
+pallet=7
+n
+samsung bioepis (kr)
+tracelink
+12
+0123456789
+8800515
+case=0
+pallet=7
+n
+samsung bioepis -sandoz 
+(us)
+tracelink
+14
+0123456789
+8800515
+partial case=0
+pallet=7
+n
+samsung bioepis -teva 
+(us)
+tracelink
+12
+0123456789
+8800515
+partial case=0
+pallet=7
+n
+samsung bioepis -
+quallent (us)
+tracelink
+12
+0123456789
+0382009
+partial case=1
+pallet=0
+n
+samsung bioepis -
+cordavis (us)
+tracelink
+14
+0123456789
+8800515
+partial case=0
+pallet=7
+n
+astrazeneca
+sap ich
+14
+0123456789
+805157704
+case=4
+pallet=3
+s
+biogen mah
+tracelink
+12
+0123456789
+0646520
+case=0
+pallet=0
+n
+mylan
+tracelink
+10
+123456789acfghkmnprtvwx
+805157704
+case=4
+pallet=3
+s
+papaloizu
+arvato cloud
+14
+0123456789acdefghjklmnprtuvwx
+805157704
+case=4 
+pallet=3
+s
+amneal
+rfxcel
+10
+0123456789
+0369238
+partial case=5 
+pallet=8
+n
+averitas
+tracelink
+12
+0123456789
+0372512
+partial case=7 
+pallet=5
+s
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 15.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+14
+Nella tabella sottostante sono riportate alcune informazioni riguardo gli SSCC attualmente in uso nel sito di Origgio.
+PARTNER
+SISTEMA L4 LUNGHEZZA 
+SERIALI
+CARATTERI AMMESSI
+SSCC
+EXTENSION DIGIT
+SSCC 
+Autogenerati 
+da GTS (S/N)
+
+ARVATO
+14
+0123456789ACDEFGHJKLMNPRTUVWX
+(0123456789 per Crestor)
+805157704
+CASE=4
+PALLET=3
+S
+SAMSUNG BIOEPIS
+TRACELINK
+12
+0123456789
+880959317
+CASE=4
+PALLET=3
+N
+SAMSUNG BIOEPIS (US, CAD) TRACELINK
+12
+0123456789
+8800515
+PARTIAL CASE=0
+PALLET=7
+N
+SAMSUNG BIOEPIS (KR)
+TRACELINK
+12
+0123456789
+8800515
+CASE=0
+PALLET=7
+N
+SAMSUNG BIOEPIS -SANDOZ 
+(US)
+TRACELINK
+14
+0123456789
+8800515
+PARTIAL CASE=0
+PALLET=7
+N
+SAMSUNG BIOEPIS -TEVA 
+(US)
+TRACELINK
+12
+0123456789
+8800515
+PARTIAL CASE=0
+PALLET=7
+N
+SAMSUNG BIOEPIS -
+QUALLENT (US)
+TRACELINK
+12
+0123456789
+0382009
+PARTIAL CASE=1
+PALLET=0
+N
+SAMSUNG BIOEPIS -
+CORDAVIS (US)
+TRACELINK
+14
+0123456789
+8800515
+PARTIAL CASE=0
+PALLET=7
+N
+ASTRAZENECA
+SAP ICH
+14
+0123456789
+805157704
+CASE=4
+PALLET=3
+S
+BIOGEN MAH
+TRACELINK
+12
+0123456789
+0646520
+CASE=0
+PALLET=0
+N
+MYLAN
+TRACELINK
+10
+123456789ACFGHKMNPRTVWX
+805157704
+CASE=4
+PALLET=3
+S
+Papaloizu
+Arvato Cloud
+14
+0123456789ACDEFGHJKLMNPRTUVWX
+805157704
+CASE=4 
+PALLET=3
+S
+Amneal
+RFXCel
+10
+0123456789
+0369238
+PARTIAL CASE=5 
+PALLET=8
+N
+Averitas
+TRACELINK
+12
+0123456789
+0372512
+PARTIAL CASE=7 
+PALLET=5
+S
+
+
+================================================================================
+
+=== CHUNK 15 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 16', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+15
+passaggio da pool alfanumerico a numerico (o viceversa)
+come azione preliminare controllare lo stato dei po in csdb (in caso di pool condivisi 
+con altri siti di produzione, controllare lo stato anche dei po degli altri siti): i po devono 
+essere completati, oppure devono essere cancellati. i work order cancellati devono 
+essere cancellati in csdb da gep.
+successivamente fare clear pool:
+cambiare lo shared pool da alfanumerico a numerico (o viceversa) prestando 
+attenzione alla lunghezza dei seriali da generare, nella sezione generation pattern.
+chiedere a gep di fare clear pool anche in antares. in seguito, gep dovrà cambiare 
+l’alfabeto in antares selezionando solo i caratteri necessari. infine, rimettere la reorder 
+e richiedere i seriali.
+5.3.2
+impostazione dei master data
+article selezionare il codice materiale da mantenere.
+i codici materiali sono trasmessi da sap a arvato.
+lo stato di un article si può vedere in alto a destra. 
+modificare un article cambia automaticamente lo stato del codice a created. il codice
+andrà poi riapprovato.
+details
+all’interno del materiale selezionato, nella pagina details, sono mostrate le seguenti 
+informazioni:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 16.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+15
+Passaggio da pool alfanumerico a numerico (o viceversa)
+Come azione preliminare controllare lo stato dei PO in CSDB (in caso di pool condivisi 
+con altri siti di produzione, controllare lo stato anche dei PO degli altri siti): i PO devono 
+essere completati, oppure devono essere cancellati. I work order cancellati devono 
+essere cancellati in CSDB da GEP.
+Successivamente fare clear pool:
+Cambiare lo shared pool da alfanumerico a numerico (o viceversa) prestando 
+attenzione alla lunghezza dei seriali da generare, nella sezione Generation pattern.
+Chiedere a GEP di fare clear pool anche in Antares. In seguito, GEP dovrà cambiare 
+l’alfabeto in Antares selezionando solo i caratteri necessari. Infine, rimettere la reorder 
+e richiedere i seriali.
+5.3.2
+Impostazione dei Master Data
+Article selezionare il codice materiale da mantenere.
+I codici materiali sono trasmessi da SAP a Arvato.
+Lo stato di un article si può vedere in alto a destra. 
+Modificare un article cambia automaticamente lo stato del codice a created. Il codice
+andrà poi riapprovato.
+Details
+All’interno del materiale selezionato, nella pagina Details, sono mostrate le seguenti 
+informazioni:
+
+
+================================================================================
+
+=== CHUNK 16 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 17', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+16
+
+erp article 
+
+article description: descrizione derivante da sap.
+
+forecast lowest level: dato indicato dal reparto scheduling e riportato nel file 
+“master data srz” per ogni referenza.
+
+customer name: informazione automaticamente trasmessa da sap.
+o
+ gmbh: per tutti i prodotti .
+o
+sb – sb: per i prodotti di cui samsung è mah.
+o
+bn -biogen inc: per i prodotti di biogen (plegridy e vumerity).
+o
+am - amneal: per i prodotti amneal (zomig nasal spray usa).
+o
+ak - sk chemicals: per i prodotti sk chemicals (zomig korea).
+o
+av – averitas pharma inc. per qutenza usa.
+
+customer erp article 
+documentazione apposita quando applicabile, senza riportare la versione del 
+codice cliente se prevista. il campo non è invece obbligatorio se grünenthal è 
+mah. per qutenza inserire il codice materiale di grt.
+
+reporting: indica se la trasmissione dei seriali sarà fatta verso un ente 
+regolatorio definito dal target market o verso il cliente. in caso di prodotti non 
+serializzati non selezionare nessuno dei due campi. in caso di prodotti 
+serializzati va obbligatoriamente uno solo dei due campi sottostanti, 
+scegliendo come descritto:
+o
+report external: i numeri seriali sono forniti da e saranno trasmessi a 
+un partner esterno (es. da/a mah).
+o
+report national system: la trasmissione dei numeri seriali sarà
+esportata in un nvs o nell’hub europeo. in tal caso, l’autorità coinvolta 
+è specificata nella pagina configuration/target market/verification 
+system.
+
+tabella “product specification”: sono contenute informazioni di tipo 
+regolatorio relative al prodotto. in caso di cmo l’inserimento di tali informazioni 
+non è mandatorio. nel caso in cui  sia mah tali informazioni sono 
+necessarie quando il codice deve essere distribuito all’ente regolatorio di 
+riferimento.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 17.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+16
+
+ERP Article 
+
+Article description: descrizione derivante da SAP.
+
+Forecast lowest level: dato indicato dal Reparto Scheduling e riportato nel file 
+“Master Data SRZ” per ogni referenza.
+
+Customer Name: informazione automaticamente trasmessa da SAP.
+o
+ GMBH: per tutti i prodotti .
+o
+SB – SB: per i prodotti di cui Samsung è MAH.
+o
+BN -Biogen Inc: per i prodotti di Biogen (Plegridy e Vumerity).
+o
+AM - Amneal: per i prodotti Amneal (Zomig nasal spray USA).
+o
+AK - SK Chemicals: per i prodotti SK Chemicals (Zomig Korea).
+o
+AV – Averitas Pharma Inc. per Qutenza USA.
+
+Customer ERP Article 
+documentazione apposita quando applicabile, senza riportare la versione del 
+codice cliente se prevista. Il campo non è invece obbligatorio se Grünenthal è 
+MAH. Per Qutenza inserire il codice materiale di GRT.
+
+Reporting: Indica se la trasmissione dei seriali sarà fatta verso un ente 
+regolatorio definito dal target market o verso il cliente. In caso di prodotti non 
+serializzati non selezionare nessuno dei due campi. In caso di prodotti 
+serializzati va obbligatoriamente uno solo dei due campi sottostanti, 
+scegliendo come descritto:
+o
+Report external: i numeri seriali sono forniti da e saranno trasmessi a 
+un partner esterno (es. da/a MAH).
+o
+Report national system: la trasmissione dei numeri seriali sarà
+esportata in un NVS o nell’hub europeo. In tal caso, l’Autorità coinvolta 
+è specificata nella pagina Configuration/Target market/verification 
+system.
+
+Tabella “Product Specification”: sono contenute informazioni di tipo 
+regolatorio relative al prodotto. In caso di CMO l’inserimento di tali informazioni 
+non è mandatorio. Nel caso in cui  sia MAH tali informazioni sono 
+necessarie quando il codice deve essere distribuito all’ente regolatorio di 
+riferimento.
+
+
+================================================================================
+
+=== CHUNK 17 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 18', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+17
+figura 5: article in cui grt è mah
+figura 6: article in cui sb è mah
+figura 7: article non serializzato
+configuration
+nella pagina configuration è possibile compilare i seguenti campi:
+
+target market: inserimento delle informazioni relative al paese di vendita del 
+prodotto. tali informazioni non sono mandatorie in caso di cmo. nel caso in
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 18.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+17
+Figura 5: Article in cui GRT è MAH
+Figura 6: Article in cui SB è MAH
+Figura 7: Article non serializzato
+Configuration
+Nella pagina Configuration è possibile compilare i seguenti campi:
+
+Target Market: inserimento delle informazioni relative al Paese di vendita del 
+prodotto. Tali informazioni non sono mandatorie in caso di CMO. Nel caso in
+
+
+================================================================================
+
+=== CHUNK 18 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 19', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+18
+cui  sia mah il mantenimento è a carico di master data office che ha 
+accesso alle informazioni regolatorie necessarie.
+  
+
+external registration: mostra lo stato della registrazione dell’article e l’external 
+system presso cui è registrato. il tasto registration viene usato per registrare 
+l’article approvato all’external system selezionato.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 19.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+18
+cui  sia MAH il mantenimento è a carico di master data office che ha 
+accesso alle informazioni regolatorie necessarie.
+  
+
+External registration: mostra lo stato della registrazione dell’article e l’external 
+system presso cui è registrato. Il tasto registration viene usato per registrare 
+l’article approvato all’external system selezionato.
+
+
+================================================================================
+
+=== CHUNK 19 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 20', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+19
+
+manufacturing site: indica il sito di produzione dell’articolo. per il sito di origgio 
+la scelta è sempre formenti_ats. non è necessario compilare default 
+production step e line configuration.
+
+interface config: indica con quale modalità e verso quale sistema, specifici per 
+l’article, sarà effettuata la disposition dei seriali. viene popolata se occorre 
+differenziare il comportamento dell’article rispetto a quanto configurato a livello 
+di cliente/mah.
+o
+tracelink: viene usato se il cliente del prodotto utilizza questo sistema
+o
+eu-hub: viene usato se grt è mah del prodotto destinato al mercato 
+europeo
+o
+csv-converter: consente di generare un file con i seriali del prodotto, 
+che viene mandato in automatico al distributore nel paese. potrebbe 
+essere utilizzato per zomig fct corea visto che si differenzia da altri 
+prodotti dello stesso cliente, confezionati in siti diversi, con livelli di 
+aggregazione diversi e quindi caratterizzati da strutture differenti dei 
+report csv.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 20.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+19
+
+Manufacturing Site: indica il sito di produzione dell’articolo. Per il sito di Origgio 
+la scelta è sempre FORMENTI_ATS. Non è necessario compilare default 
+production step e Line configuration.
+
+Interface config: indica con quale modalità e verso quale sistema, specifici per 
+l’article, sarà effettuata la disposition dei seriali. Viene popolata se occorre 
+differenziare il comportamento dell’article rispetto a quanto configurato a livello 
+di cliente/MAH.
+o
+Tracelink: viene usato se il cliente del prodotto utilizza questo sistema
+o
+EU-Hub: viene usato se GRT è MAH del prodotto destinato al mercato 
+europeo
+o
+CSV-Converter: consente di generare un file con i seriali del prodotto, 
+che viene mandato in automatico al distributore nel paese. Potrebbe 
+essere utilizzato per Zomig FCT Corea visto che si differenzia da altri 
+prodotti dello stesso cliente, confezionati in siti diversi, con livelli di 
+aggregazione diversi e quindi caratterizzati da strutture differenti dei 
+report csv.
+
+
+================================================================================
+
+=== CHUNK 20 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 21', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+20
+
+process automation: può essere impostata come manuale, automatica, o 
+default (in questo caso vale l’impostazione automatica scelta per grt) per 
+batch e production order. nessun valore sarà impostato per gli articoli migrati 
+da versioni precendenti di csdb.
+
+mandatory fields: queste impostazioni nelle precedenti versioni csdb 
+controllavano i dati trasmessi da sap a livello di production order, ora 
+rimangono solo come eredità dalle versioni precedenti.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 21.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+20
+
+Process automation: può essere impostata come manuale, automatica, o 
+default (in questo caso vale l’impostazione automatica scelta per GRT) per 
+Batch e Production order. Nessun valore sarà impostato per gli articoli migrati 
+da versioni precendenti di CSDB.
+
+Mandatory fields: Queste impostazioni nelle precedenti versioni CSDB 
+controllavano i dati trasmessi da SAP a livello di Production Order, ora 
+rimangono solo come eredità dalle versioni precedenti.
+
+
+================================================================================
+
+=== CHUNK 21 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 22', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+21
+serial numbers
+nella pagina serial numbers è possibile impostare i livelli di serializzazione e 
+aggregazione. spuntare i livelli che si desidera mantenere.
+tutti i gtin, ntin e sscc di prodotti serializzati devono essere configurati come 
+shared pool, quindi possono essere condivisi con altri article anche prodotti in altri siti. 
+per impostare uno shared pool fare riferimento al capitolo 5.3.1.
+folding box:
+
+serialnumber pool 1: selezionare il gtin/ntin precedentemente creato come 
+shared pool. con il tasto “i” è possibile visualizzare il pool scelto. in caso di 
+prodotto non serializzato non spuntare la casella folding box oppure spuntarla, 
+scegliere no serialization, selezionare ntin o gtin e compilare il relativo 
+valore senza creare shared pool corrispondenti (solitamente si imposta ntin
+come product number type e si compila il codice materiale nel campo product 
+number).
+
+spuntare sempre sn. post assignment:
+o
+se selezionato i seriali vengono assegnati all’ordine da antares (l3).
+o
+se non selezionato i seriali vengono assegnati all’ordine direttamente da 
+arvato.
+
+aggregation non è da compilare.
+
+overdelivery non è da compilare.
+o
+percentage: percentuale in più di seriali assegnati alla produzione. se la 
+percentuale è superiore del minimum si considera quella, se invece il 
+minimum è superiore si usa quest’ultimo; questo è utile per ordini piccoli 
+in cui la percentuale sarebbe troppo bassa per essere sufficiente. è 
+uguale all’impostazione overload di antares, ma se i seriali sono 
+assegnati da antares va messo a 0.
+o
+minimum value: numero fisso di seriali che viene dato in più rispetto alla 
+quantità dell’ordine. va messo a 0 se i seriali sono assegnati da antares.
+figura 8: pool folding box article serializzato
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 22.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+21
+Serial numbers
+Nella pagina Serial numbers è possibile impostare i livelli di serializzazione e 
+aggregazione. Spuntare i livelli che si desidera mantenere.
+Tutti i GTIN, NTIN e SSCC di prodotti serializzati devono essere configurati come 
+shared pool, quindi possono essere condivisi con altri article anche prodotti in altri siti. 
+Per impostare uno shared pool fare riferimento al capitolo 5.3.1.
+Folding box:
+
+Serialnumber pool 1: selezionare il GTIN/NTIN precedentemente creato come 
+shared pool. Con il tasto “i” è possibile visualizzare il pool scelto. In caso di 
+prodotto non serializzato non spuntare la casella folding box oppure spuntarla, 
+scegliere No serialization, selezionare NTIN o GTIN e compilare il relativo 
+valore senza creare shared pool corrispondenti (solitamente si imposta NTIN
+come Product number type e si compila il codice materiale nel campo Product 
+number).
+
+Spuntare sempre SN. Post assignment:
+o
+Se selezionato i seriali vengono assegnati all’ordine da Antares (L3).
+o
+Se non selezionato i seriali vengono assegnati all’ordine direttamente da 
+Arvato.
+
+Aggregation non è da compilare.
+
+Overdelivery non è da compilare.
+o
+Percentage: percentuale in più di seriali assegnati alla produzione. Se la 
+percentuale è superiore del minimum si considera quella, se invece il 
+minimum è superiore si usa quest’ultimo; questo è utile per ordini piccoli 
+in cui la percentuale sarebbe troppo bassa per essere sufficiente. È 
+uguale all’impostazione overload di Antares, ma se i seriali sono 
+assegnati da Antares va messo a 0.
+o
+Minimum value: Numero fisso di seriali che viene dato in più rispetto alla 
+quantità dell’ordine. Va messo a 0 se i seriali sono assegnati da Antares.
+Figura 8: Pool folding box article serializzato
+
+
+================================================================================
+
+=== CHUNK 22 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 23', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+22
+figura 9: impostazione pool article non serializzato
+case:
+
+serialnumber pool 1: selezionare sscc precedentemente creato come shared
+pool. con il tasto “i” è possibile visualizzare il pool scelto. in caso di prodotto 
+non serializzato non spuntare la casella case oppure spuntarla, scegliere no 
+serialization, selezionare ntin o gtin e compilare il relativo valore senza 
+creare shared pool corrispondenti.
+o
+alcuni mercati (es. usa, canada) prevedono l’utilizzo di gtin per i case 
+completi e di sscc per i case incompleti: selezionare secondary pool.
+come pool 1 impostare il gtin dei case completi, come pool 2 impostare 
+l’sscc dei case incompleti.
+
+spuntare sempre sn. post assignment.
+
+aggregation:
+o
+child elements: la quantità di pezzi formante l’unità di livello superiore;
+in questo caso, il numero di astucci contenuti in ogni case. (rif. documenti 
+supportivi di configurazioni scatole e pallet divisi per linea di 
+confezionamento)
+o
+open containers: selezionare allowed. indica se è possibile avere case 
+incompleti.
+o
+percentage secondary pool: compilabile solo se vengono impostati 2 
+pool. impostare 5.
+
+overdelivery non è da compilare.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 23.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+22
+Figura 9: Impostazione pool article non serializzato
+Case:
+
+Serialnumber pool 1: selezionare SSCC precedentemente creato come shared
+pool. Con il tasto “i” è possibile visualizzare il pool scelto. In caso di prodotto 
+non serializzato non spuntare la casella case oppure spuntarla, scegliere No 
+serialization, selezionare NTIN o GTIN e compilare il relativo valore senza 
+creare shared pool corrispondenti.
+o
+Alcuni mercati (es. USA, Canada) prevedono l’utilizzo di GTIN per i case 
+completi e di SSCC per i case incompleti: selezionare Secondary pool.
+Come pool 1 impostare il GTIN dei case completi, come pool 2 impostare 
+l’SSCC dei case incompleti.
+
+Spuntare sempre SN. Post assignment.
+
+Aggregation:
+o
+Child Elements: la quantità di pezzi formante l’unità di livello superiore;
+in questo caso, il numero di astucci contenuti in ogni case. (rif. documenti 
+supportivi di configurazioni scatole e pallet divisi per linea di 
+confezionamento)
+o
+Open containers: selezionare allowed. Indica se è possibile avere case 
+incompleti.
+o
+Percentage secondary pool: compilabile solo se vengono impostati 2 
+pool. Impostare 5.
+
+Overdelivery non è da compilare.
+
+
+================================================================================
+
+=== CHUNK 23 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 24', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+23
+pallet:
+
+serialnumber pool 1: selezionare sscc precedentemente creato come shared 
+pool. con il tasto “i” è possibile visualizzare il pool scelto. in caso di prodotto 
+non serializzato non spuntare la casella pallet.
+
+spuntare sempre sn. post assignment.
+
+aggregation:
+o
+child elements: la quantità di pezzi formante l’unità di livello superiore;
+in questo caso, il numero di case contenuti in ogni pallet. (rif. documenti 
+supportivi di configurazioni scatole e pallet divisi per linea di 
+confezionamento)
+o
+open containers: selezionare allowed. indica se è possibile avere pallet 
+incompleti.
+
+overdelivery non è da compilare.
+premere save per rendere effettive le modifiche apportate all’articolo.
+al termine della revisione dei master data inseriti è possibile procedere con 
+l’attivazione del codice selezionando il tasto “
+l’approvazione.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 24.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+23
+Pallet:
+
+Serialnumber pool 1: selezionare SSCC precedentemente creato come shared 
+pool. Con il tasto “i” è possibile visualizzare il pool scelto. In caso di prodotto 
+non serializzato non spuntare la casella pallet.
+
+Spuntare sempre SN. Post assignment.
+
+Aggregation:
+o
+Child Elements: la quantità di pezzi formante l’unità di livello superiore;
+in questo caso, il numero di case contenuti in ogni pallet. (rif. documenti 
+supportivi di configurazioni scatole e pallet divisi per linea di 
+confezionamento)
+o
+Open containers: selezionare allowed. Indica se è possibile avere pallet 
+incompleti.
+
+Overdelivery non è da compilare.
+Premere Save per rendere effettive le modifiche apportate all’articolo.
+Al termine della revisione dei Master Data inseriti è possibile procedere con 
+l’attivazione del codice selezionando il tasto “
+l’approvazione.
+
+
+================================================================================
+
+=== CHUNK 24 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 25', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+24
+per i prodotti di cui gruennthal è mah, dopo l’approvazione bisogna andare nella 
+sezione configuration -> external registration,
+selezionare “+” e cliccare su 
+registration, per registrare il prodotto all’hub europeo. bisogna poi controllare che lo 
+stato del prodotto sia “registered”.
+5.3.3
+inserimento manuale nuovi articoli in arvato
+in caso di necessità, è possibile creare un nuovo articolo senza il passaggio delle 
+informazioni dal sistema sap. per eseguire tale operazione è necessario andare in
+“article”, cliccare sulla voce “new” e compilare tutti i campi previsti come appena 
+descritto aggiungendo inoltre le informazioni che nel caso precedente erano inserite 
+automaticamente nell’articolo attraverso la comunicazione tra i sistemi sap e arvato.
+5.3.4
+cambio delle informazioni presenti in arvato
+prima di cambiare informazioni in arvato è fondamentale avvertire supply chain di 
+bloccare l’emissione di nuovi po e bisogna assicurarsi che tutti i po già emessi siano 
+conclusi, per evitare di avere errori nella trasmissione dei seriali, dato che ogni po è 
+legato alle impostazioni di arvato nel momento in cui è stato emesso. se non vi è 
+corrispondenza tra le impostazioni di arvato quando il po è stato emesso e quelle 
+relative ai seriali trasmessi dalla linea si avranno messaggi di errore.
+la modifica di un codice lo toglie in automatico dallo stato approved. il ciclo di 
+approvazione deve essere ripetuto.
+in caso di modifiche a product specification e target market di referenze che richiedono 
+l’external registration, questa va ripetuta.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 25.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+24
+Per i prodotti di cui Gruennthal è MAH, dopo l’approvazione bisogna andare nella 
+sezione Configuration -> External registration,
+selezionare “+” e cliccare su 
+registration, per registrare il prodotto all’hub europeo. Bisogna poi controllare che lo 
+stato del prodotto sia “Registered”.
+5.3.3
+Inserimento manuale nuovi articoli in Arvato
+In caso di necessità, è possibile creare un nuovo articolo senza il passaggio delle 
+informazioni dal sistema SAP. Per eseguire tale operazione è necessario andare in
+“Article”, cliccare sulla voce “New” e compilare tutti i campi previsti come appena 
+descritto aggiungendo inoltre le informazioni che nel caso precedente erano inserite 
+automaticamente nell’Articolo attraverso la comunicazione tra i sistemi SAP e Arvato.
+5.3.4
+Cambio delle informazioni presenti in Arvato
+Prima di cambiare informazioni in Arvato è fondamentale avvertire supply chain di 
+bloccare l’emissione di nuovi PO e bisogna assicurarsi che tutti i PO già emessi siano 
+conclusi, per evitare di avere errori nella trasmissione dei seriali, dato che ogni PO è 
+legato alle impostazioni di Arvato nel momento in cui è stato emesso. Se non vi è 
+corrispondenza tra le impostazioni di Arvato quando il PO è stato emesso e quelle 
+relative ai seriali trasmessi dalla linea si avranno messaggi di errore.
+La modifica di un codice lo toglie in automatico dallo stato Approved. Il ciclo di 
+approvazione deve essere ripetuto.
+In caso di modifiche a product specification e target market di referenze che richiedono 
+l’external registration, questa va ripetuta.
+
+
+================================================================================
+
+=== CHUNK 25 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 26', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+25
+se una referenza passa da non serializzata a serializzata, le modifiche dovranno 
+essere inserite in sap e trasmesse ad arvato. per i prodotti  diventa 
+necessario compilare le sezioni product specification e target market.
+5.4
+master data antares (livello 3)
+5.4.1
+operazioni preliminari
+al fine di impostare correttamente i codici in antares, è necessario verificare la
+corrispondenza dei prefissi e dei dati variabili degli artwork con il documento di
+serializzazione.
+5.4.2
+definizione degli ntin
+la definizione degli ntin è necessaria solo per i codici sottoposti al processo di 
+serializzazione/aggregazione o che pur non sottoposti a serializzazione richiedono la 
+stampa di codici 2d o barcode sull’unità di vendita o sulla scatola imballo/pallet.
+menù plant configurationntin definition è qui mantenuta la lista dei possibili 
+ntin.
+per inserire un nuovo ntin: dal menu principale premere 
+e configurare i campi 
+come di seguito descritto:
+main data
+
+ntin: riportare la sequenza corrispondente al codice gtin/ntin da inserire
+
+active: da selezionare una volta completate le impostazioni della sezione 
+ntin definition.
+
+itemtype: selezionare il livello di riferimento del codice (package, case, 
+incomplete case, pallet).
+
+specific for material/recipe: per i gtin l’opzione è bloccata. in caso di 
+impostazione di sscc non devono essere specifici per materiale.
+
+preprinted: non richiesto per i codici non prestampati.
+
+alarm action: lasciare vuoto.
+
+alarm threshold: quando i seriali disponibili scendono sotto la percentuale 
+qua indicata della reorder quantity, arriva un avviso che richiede di chiamare 
+nuovi seriali. solitamente impostata al 20% (indicativo, modificabile quando 
+si richiedono i seriali).
+
+serial generation source: 
+o
+external: in caso di codice per serializzazione/aggregazione 
+(gtin/sscc); 
+o
+no generation: in caso di gtin richiesto come dato su astuccio o 
+scatola imballo dal paese di vendita ma non correlato al processo di 
+serializzazione/aggregazione (ossia come dato statico sull’etichetta);
+o
+by range: i seriali sono generati da antares, senza coinvolgere 
+arvato. bisogna poi impostare il range e la lunghezza dei seriali in 
+modo che possano essere creati.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 26.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+25
+Se una referenza passa da non serializzata a serializzata, le modifiche dovranno 
+essere inserite in SAP e trasmesse ad Arvato. Per i prodotti  diventa 
+necessario compilare le sezioni product Specification e target market.
+5.4
+Master Data Antares (livello 3)
+5.4.1
+Operazioni preliminari
+Al fine di impostare correttamente i codici in Antares, è necessario verificare la
+corrispondenza dei prefissi e dei dati variabili degli artwork con il documento di
+serializzazione.
+5.4.2
+Definizione degli NTIN
+La definizione degli NTIN è necessaria solo per i codici sottoposti al processo di 
+serializzazione/aggregazione o che pur non sottoposti a serializzazione richiedono la 
+stampa di codici 2D o barcode sull’unità di vendita o sulla scatola imballo/pallet.
+Menù Plant ConfigurationNTIN Definition è qui mantenuta la lista dei possibili 
+NTIN.
+Per inserire un nuovo NTIN: dal menu principale premere 
+e configurare i campi 
+come di seguito descritto:
+Main data
+
+NTIN: riportare la sequenza corrispondente al codice GTIN/NTIN da inserire
+
+Active: da selezionare una volta completate le impostazioni della sezione 
+NTIN Definition.
+
+ItemType: selezionare il livello di riferimento del codice (package, case, 
+incomplete case, pallet).
+
+Specific for material/recipe: per i GTIN l’opzione è bloccata. In caso di 
+impostazione di SSCC non devono essere specifici per materiale.
+
+Preprinted: non richiesto per i codici non prestampati.
+
+Alarm action: lasciare vuoto.
+
+Alarm threshold: quando i seriali disponibili scendono sotto la percentuale 
+qua indicata della reorder quantity, arriva un avviso che richiede di chiamare 
+nuovi seriali. Solitamente impostata al 20% (indicativo, modificabile quando 
+si richiedono i seriali).
+
+Serial generation source: 
+o
+External: in caso di codice per serializzazione/aggregazione 
+(GTIN/SSCC); 
+o
+No generation: in caso di GTIN richiesto come dato su astuccio o 
+scatola imballo dal Paese di vendita ma non correlato al processo di 
+serializzazione/aggregazione (ossia come dato statico sull’etichetta);
+o
+By range: i seriali sono generati da Antares, senza coinvolgere 
+Arvato. Bisogna poi impostare il range e la lunghezza dei seriali in 
+modo che possano essere creati.
+
+
+================================================================================
+
+=== CHUNK 26 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 27', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+26
+coding rule
+
+coding rule: selezionare “gs1_sgtin” per codici gtin o codici ntin 
+richiesti in modo specifico dal paese di vendita, “gs1_sscc” per i codici 
+sscc.
+in base alla tipologia di codice selezionato inserire le informazioni richieste nella tabella 
+“coding rule”. per case, case parziali o pallet, il pool di sscc da utilizzarsi è il 
+medesimo per tutte le referenze di quel cliente; dunque la configurazione degli sscc 
+è eseguita una sola volta attraverso i passaggi descritti di seguito.
+per gs1_gtin:
+
+alphanumericsymbols: caratteri che possono essere usati per i seriali. 
+questo campo indica alla camera che caratteri leggere, quindi se ce ne sono 
+alcuni deselezionati non verranno letti dalla camera e saranno scartati tutti i 
+seriali con i caratteri non selezionati. deselezionare tutti i caratteri fa leggere 
+alle camere solo i caratteri standard di antares.
+o
+per i seriali numerici selezionare solo i numeri.
+o
+per i codici di cui  è mah: grt usa seriali alfanumerici 
+con i seguenti caratteri: 0123456789acdefghjklmnprtuvwx. 
+nella schermata di antares selezionare questi caratteri e togliere la 
+spunta dai caratteri presenti di default, ma che non sono presenti nei 
+seriali.
+
+codice anvisa: codice per referenze brasile.
+
+external material type: non compilare in caso di gtin, selezionare ntin in 
+caso di ntin. l’impostazione deve combaciare con le impostazioni di 
+arvato, altrimenti vengono generati messaggi di errore.
+
+notification system: da popolare per prodotti il cui cliente è connesso 
+direttamente ad antares (es. tl_averitas), vuoto quando il cliente è 
+connesso ad arvato
+
+reorder quantity: lo compila la seconda persona prima di approvare. 
+definire il numero di seriali che viene richiesto al livello superiore (l4) in 
+modo tale da assicurare la disponibilità di seriali per un determinato numero 
+di lavorazioni per quella referenza. impostare un numero pari al 90% del 
+forecast inserito nel sistema arvato.
+
+serial lenght: 12 o 14 a seconda del titolare mah.
+
+serial request max retry 
+massimo di messaggi da inviare per richiedere seriali mancanti.
+per gs1_sscc:
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 27.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+26
+Coding rule
+
+Coding rule: selezionare “GS1_SGTIN” per codici GTIN o codici NTIN 
+richiesti in modo specifico dal Paese di vendita, “GS1_SSCC” per i codici 
+SSCC.
+In base alla tipologia di codice selezionato inserire le informazioni richieste nella tabella 
+“Coding Rule”. Per case, case parziali o pallet, il pool di SSCC da utilizzarsi è il 
+medesimo per tutte le referenze di quel cliente; dunque la configurazione degli SSCC 
+è eseguita una sola volta attraverso i passaggi descritti di seguito.
+Per GS1_GTIN:
+
+AlphaNumericSymbols: caratteri che possono essere usati per i seriali. 
+Questo campo indica alla camera che caratteri leggere, quindi se ce ne sono 
+alcuni deselezionati non verranno letti dalla camera e saranno scartati tutti i 
+seriali con i caratteri non selezionati. Deselezionare tutti i caratteri fa leggere 
+alle camere solo i caratteri standard di Antares.
+o
+Per i seriali numerici selezionare solo i numeri.
+o
+Per i codici di cui  è MAH: GRT usa seriali alfanumerici 
+con i seguenti caratteri: 0123456789ACDEFGHJKLMNPRTUVWX. 
+Nella schermata di Antares selezionare questi caratteri e togliere la 
+spunta dai caratteri presenti di default, ma che non sono presenti nei 
+seriali.
+
+Codice Anvisa: codice per referenze Brasile.
+
+External material type: non compilare in caso di GTIN, selezionare NTIN in 
+caso di NTIN. L’impostazione deve combaciare con le impostazioni di 
+Arvato, altrimenti vengono generati messaggi di errore.
+
+Notification system: da popolare per prodotti il cui cliente è connesso 
+direttamente ad Antares (es. TL_AVERITAS), vuoto quando il cliente è 
+connesso ad Arvato
+
+Reorder quantity: lo compila la seconda persona prima di approvare. 
+Definire il numero di seriali che viene richiesto al livello superiore (L4) in 
+modo tale da assicurare la disponibilità di seriali per un determinato numero 
+di lavorazioni per quella referenza. Impostare un numero pari al 90% del 
+forecast inserito nel sistema Arvato.
+
+Serial lenght: 12 o 14 a seconda del titolare MAH.
+
+Serial request Max retry 
+massimo di messaggi da inviare per richiedere seriali mancanti.
+Per GS1_SSCC:
+
+
+================================================================================
+
+=== CHUNK 27 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 28', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+27
+
+reorder quantity: impostare la reorder quantity (es 30.000 per case e 2.000 
+per pallet) se il corrispondente shared pool è stato impostato in arvato, 
+altrimenti lasciare a 0.
+
+serial generation source: selezionare “by range” in caso siano generati da 
+antares.
+
+notification system: da popolare per prodotti il cui cliente è connesso 
+direttamente ad antares (es. tl_averitas), vuoto quando il cliente è 
+connesso ad arvato
+“used by following recipes” e “used by following materials” mostrano in che ricette e 
+materiali è usato il gtin.
+attraverso il simbolo 
+in fondo alla pagina è possibile verificare la quantità dei 
+seriali disponibili in antares.
+creazione di range di seriali
+
+cliccando su 
+si possono generare i range entro cui vengono creati i 
+seriali:
+o
+prefix: non impostare 
+o
+start: 1
+o
+stop: tanti 9 quante sono le cifre del seriale
+o
+width: è impostato come lo stop in automatico.
+5.4.3
+gestione dei materiali
+menù product management materials.
+in questo menù è possibile aggiungere nuovi codici materiali (tasto 
+) oppure 
+modificare/aggiornare codici già esistenti. in tal caso selezionare il codice di interesse 
+e poi tasto 
+.
+main data
+i campi in rosso sono obbligatori; compilare i seguenti campi:
+
+gmid: codice materiale
+
+description: descrizione presa da sap
+
+active: l’assegnazione dello stato attivo è a carico della seconda persona 
+autorizzata del reparto packaging che effettua tale operazione al termine 
+della revisione dei md inseriti.
+
+lmid: codice erp cliente quando antares è connesso direttamente a 
+tracelink del cliente (es. prodotti averitas: qutenza us) altrimenti vuoto
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 28.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+27
+
+Reorder quantity: impostare la reorder quantity (es 30.000 per case e 2.000 
+per pallet) se il corrispondente shared pool è stato impostato in Arvato, 
+altrimenti lasciare a 0.
+
+Serial generation source: selezionare “By range” in caso siano generati da 
+Antares.
+
+Notification system: da popolare per prodotti il cui cliente è connesso 
+direttamente ad Antares (es. TL_AVERITAS), vuoto quando il cliente è 
+connesso ad Arvato
+“Used by following Recipes” e “Used by following Materials” mostrano in che ricette e 
+materiali è usato il GTIN.
+Attraverso il simbolo 
+in fondo alla pagina è possibile verificare la quantità dei 
+seriali disponibili in Antares.
+Creazione di range di seriali
+
+Cliccando su 
+si possono generare i range entro cui vengono creati i 
+seriali:
+o
+Prefix: non impostare 
+o
+Start: 1
+o
+Stop: tanti 9 quante sono le cifre del seriale
+o
+Width: è impostato come lo stop in automatico.
+5.4.3
+Gestione dei materiali
+Menù Product Management Materials.
+In questo menù è possibile aggiungere nuovi codici materiali (tasto 
+) oppure 
+modificare/aggiornare codici già esistenti. In tal caso selezionare il codice di interesse 
+e poi tasto 
+.
+Main data
+I campi in rosso sono obbligatori; compilare i seguenti campi:
+
+GMID: codice materiale
+
+Description: descrizione presa da SAP
+
+Active: L’assegnazione dello stato attivo è a carico della seconda persona 
+autorizzata del reparto Packaging che effettua tale operazione al termine 
+della revisione dei MD inseriti.
+
+LMID: codice ERP cliente quando Antares è connesso direttamente a 
+Tracelink del cliente (es. prodotti Averitas: Qutenza US) altrimenti vuoto
+
+
+================================================================================
+
+=== CHUNK 28 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 29', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+28
+
+product type: standard
+
+measure unit: pieces
+
+material variable data
+
+additional product id: quando richiesto per la referenza (es. usa) inserire 
+il numero ndc comunicato dal cliente (dal codice ndc si origina il codice 
+gtin).
+
+codice prodotto vial ima3: per le vial che vanno su ima3 che richiedono 
+il gtin sull’etichetta della vial va compilato questo campo col gtin presente 
+sul documento di serializzazione, che potrebbe essere differente dal gtin 
+del codice materiale.
+
+commercial name: quando richiesto (es. usa, canada) inserire il nome 
+come scritto nel documento di serializzazione (fg item description). 
+
+customer item code: codice presente sui documenti del cliente. includere 
+versione se presente. necessario per la stampa di tale dato sull’etichetta 
+della scatola imballo quando richiesto per la referenza. corrisponde all’ erp 
+code del mah che potrebbe essere il cliente o un partner del cliente (es. 
+sandoz)
+
+impostazione del formato della data di scadenza e di produzione quando 
+applicabile. il formato data che deve essere presente sull’unità di vendita 
+(astuccio) è riportato nei documenti di serializzazione. per consentire la 
+stampa corretta del formato è necessario inserire nei relativi campi antares 
+una stringa contenente le informazioni sul formato specifico richiesto; 
+l’elenco delle possibili stringhe utilizzabili è contenuto nel sup-011288. tali 
+campi sono così strutturati:
+o
+fcare: formato data di scadenza stampata su astucci e etichetta in 
+caso di prodotti su ima3 in un solo processo (es. le vial).
+
+in caso di bwfi si imposta solo fcare per le vial di 
+acqua.
+o
+fcase: formato data di scadenza stampata sui case (scatole).
+o
+fpale: formato data di scadenza sui pallet (per gli usa e canada).
+o
+fcarm: formato data di manufacturing stampata sugli astucci.
+o
+fcasm: formato data di manufaturing stampata sui case (scatole).
+
+nhrn: codice di rimborso nazionale, quando previsto dalla referenza in 
+oggetto, es. per spagna/portogallo. prestare attenzione a compilare 
+ripetutamente tutti i campi previsti per la referenza richiesta.
+
+prezzo: inserire il prezzo se richiesto dai requisiti di stampa della referenza 
+in oggetto (es. flaminase). attenzione: non inserire mai il simbolo della 
+valuta (es. $ , € ), infatti questo è già insito nel formato di stampa dedicato e 
+la sua aggiunta causerebbe problemi di lettura dati variabili in linea. il prezzo 
+si trova nel listino prezzi di  e va compilato col prezzo al pubblico.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 29.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+28
+
+Product type: standard
+
+Measure unit: pieces
+
+Material Variable data
+
+Additional Product ID: quando richiesto per la referenza (es. USA) inserire 
+il numero NDC comunicato dal cliente (dal codice NDC si origina il codice 
+GTIN).
+
+Codice Prodotto Vial IMA3: per le vial che vanno su IMA3 che richiedono 
+il GTIN sull’etichetta della vial va compilato questo campo col GTIN presente 
+sul documento di serializzazione, che potrebbe essere differente dal GTIN 
+del codice materiale.
+
+Commercial name: quando richiesto (es. USA, Canada) inserire il nome 
+come scritto nel documento di serializzazione (FG item description). 
+
+Customer item code: codice presente sui documenti del cliente. Includere 
+versione se presente. Necessario per la stampa di tale dato sull’etichetta 
+della scatola imballo quando richiesto per la referenza. Corrisponde all’ ERP 
+code del MAH che potrebbe essere il cliente o un partner del cliente (es. 
+Sandoz)
+
+Impostazione del formato della data di scadenza e di produzione quando 
+applicabile. Il formato data che deve essere presente sull’unità di vendita 
+(astuccio) è riportato nei documenti di serializzazione. Per consentire la 
+stampa corretta del formato è necessario inserire nei relativi campi Antares 
+una stringa contenente le informazioni sul formato specifico richiesto; 
+l’elenco delle possibili stringhe utilizzabili è contenuto nel SUP-011288. Tali 
+campi sono così strutturati:
+o
+FCarE: formato data di scadenza stampata su astucci e etichetta in 
+caso di prodotti su IMA3 in un solo processo (es. le vial).
+
+In caso di BWFI si imposta solo FCarE per le vial di 
+acqua.
+o
+FCasE: formato data di scadenza stampata sui case (scatole).
+o
+FPalE: formato data di scadenza sui pallet (per gli USA e Canada).
+o
+FCarM: formato data di manufacturing stampata sugli astucci.
+o
+FCasM: formato data di manufaturing stampata sui case (scatole).
+
+NHRN: codice di rimborso nazionale, quando previsto dalla referenza in 
+oggetto, es. per Spagna/Portogallo. Prestare attenzione a compilare 
+ripetutamente tutti i campi previsti per la referenza richiesta.
+
+Prezzo: inserire il prezzo se richiesto dai requisiti di stampa della referenza 
+in oggetto (es. Flaminase). ATTENZIONE: non inserire mai il simbolo della 
+valuta (es. $ , € ), infatti questo è già insito nel formato di stampa dedicato e 
+la sua aggiunta causerebbe problemi di lettura dati variabili in linea. Il prezzo 
+si trova nel listino prezzi di  e va compilato col prezzo al pubblico.
+
+
+================================================================================
+
+=== CHUNK 29 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 30', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+29
+ntin bindings
+in questa sezione, se richiesto per il tipo di lavorazione da eseguire, si esegue il 
+collegamento tra il codice materiale e gli ntin/gtin/sscc per ciascun componente 
+serializzato/aggregato (package, case e pallet, oltre all’incomplete case se differente 
+dal case) scegliendolo dalla lista presente attraverso il pulsante 
+:
+5.4.4
+gestione delle ricette
+menù product management draft recipes.
+e’ necessario impostare una ricetta per ogni codice prodotto, utilizzando il codice 
+materiale sap come identificativo della ricetta stessa.
+quando si crea/modifica una ricetta, quest’ultima viene identificata come "draft recipe”
+e deve essere prima approvata per essere poi effettivamente “rilasciata”.
+main data
+
+recipe: codice materiale
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 30.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+29
+NTIN Bindings
+In questa sezione, se richiesto per il tipo di lavorazione da eseguire, si esegue il 
+collegamento tra il codice materiale e gli NTIN/GTIN/SSCC per ciascun componente 
+serializzato/aggregato (package, case e pallet, oltre all’incomplete case se differente 
+dal case) scegliendolo dalla lista presente attraverso il pulsante 
+:
+5.4.4
+Gestione delle ricette
+Menù Product Management Draft Recipes.
+E’ necessario impostare una ricetta per ogni codice prodotto, utilizzando il codice 
+materiale SAP come identificativo della ricetta stessa.
+Quando si crea/modifica una ricetta, quest’ultima viene identificata come "Draft recipe”
+e deve essere prima approvata per essere poi effettivamente “rilasciata”.
+Main Data
+
+Recipe: codice materiale
+
+
+================================================================================
+
+=== CHUNK 30 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 31', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+30
+
+description: descrizione di sap.
+
+domain: antares standard domain.
+
+coding set: gs1
+
+market: not selected
+material binding
+
+inserire il materiale associato
+
+variable data
+o
+non è necessario impostare qui le informazioni relative al formato 
+delle date di expiry/manufacturing o altre informazioni aggiuntive in 
+quanto già riportati all’interno della configurazione del materiale
+
+serialization 
+and 
+aggregation 
+parameters:
+impostazioni 
+relative 
+all’attivazione della serializzazione e della aggregazione da attivare in base 
+alla tipologia di processo da eseguire.
+o
+active: da selezionare una volta completate le impostazioni della 
+sezione recipe.
+o
+cliccare su serialized e aggregated se il codice è serializzato.
+o
+serialization mode: selezionare “fixed step”
+o
+serialization increment: 3 (come numero di steps)
+o
+overload: valore % da impostare per definire la quantità di numeri 
+seriali da assegnare a ciascun lotto in linea rispetto al suo batch 
+size. valore uguale a 100% (uguale al doppio del batch size).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 31.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+30
+
+Description: descrizione di SAP.
+
+Domain: Antares standard domain.
+
+Coding set: GS1
+
+Market: not selected
+Material Binding
+
+inserire il materiale associato
+
+Variable data
+o
+non è necessario impostare qui le informazioni relative al formato 
+delle date di expiry/manufacturing o altre informazioni aggiuntive in 
+quanto già riportati all’interno della configurazione del materiale
+
+Serialization 
+and 
+Aggregation 
+Parameters:
+impostazioni 
+relative 
+all’attivazione della serializzazione e della aggregazione da attivare in base 
+alla tipologia di processo da eseguire.
+o
+Active: da selezionare una volta completate le impostazioni della 
+sezione Recipe.
+o
+Cliccare su serialized e aggregated se il codice è serializzato.
+o
+Serialization mode: selezionare “Fixed step”
+o
+Serialization increment: 3 (come numero di steps)
+o
+Overload: valore % da impostare per definire la quantità di numeri 
+seriali da assegnare a ciascun lotto in linea rispetto al suo batch 
+size. Valore uguale a 100% (uguale al doppio del batch size).
+
+
+================================================================================
+
+=== CHUNK 31 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 32', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+31
+salvare per procedere con il collegamento di ntin e linee. 
+ntin bindings: non è necessario impostare qui le informazioni relative agli ntin dei 
+componenti quanto già riportati all’interno della configurazione del materiale; qualora 
+siano stati associati ntin al materiale questi compariranno in visualizzazione anche 
+nella relativa finestra della recipe.
+production lines: definizione della/e linea/e logica/che di confezionamento da 
+assegnare al codice materiale, scegliendola dalla lista predisposta attraverso il 
+pulsante 
+. all’interno della linea produttiva prescelta, è necessario quindi 
+configurare le informazioni seguenti.
+
+i dettagli delle geometrie dei case e delle unità formanti pallet sono contenuti 
+nei supportivi dedicat.
+
+geometria della scatola imballo (case): indicando la quantità di unità 
+contenute al loro interno.
+o
+per la linea ima2 e ima4 è necessario impostare la geometria della 
+scatola imballo rispettando le quantità previste per i tre assi x, y, z, 
+dove z è l’altezza.
+o
+per la linea ima3 è necessario impostare la geometria della scatola 
+imballo inserendo in coordinata x il numero totale di pezzi letti dalla 
+matrix station (unità di lettura), in coordinata y il valore 1 e in 
+coordinata z il numero di volte che l’unità di lettura si ripete nella 
+scatola imballo.
+o
+per la linea manuale etipack e la linea manuale tradizionale, in 
+quanto linee dove è prevista aggregazione manuale, è necessario 
+inserire in coordinata x il numero totale di astucci previsti per la 
+scatola imballo completa e inserire 1 nei due campi rimanenti y e z.
+o
+per la linea uhlmann3 è necessario inserire in coordinata x il numero 
+di astucci prelevati da cartonatrice marchesini (unità di lettura), in 
+coordinata y il numero di volte che l’unità di lettura viene inserita nel 
+piano di riempimento, in coordinata z numero di piani presenti della 
+scatola imballo.
+o
+per la linea mar è necessario impostare la geometria della scatola 
+imballo rispettando le quantità previste per i tre assi x, y, z, dove y è 
+l’altezza (al contrario di ima2).
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 32.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+31
+Salvare per procedere con il collegamento di NTIN e Linee. 
+NTIN Bindings: non è necessario impostare qui le informazioni relative agli NTIN dei 
+componenti quanto già riportati all’interno della configurazione del materiale; qualora 
+siano stati associati NTIN al materiale questi compariranno in visualizzazione anche 
+nella relativa finestra della recipe.
+Production Lines: definizione della/e linea/e logica/che di confezionamento da 
+assegnare al codice materiale, scegliendola dalla lista predisposta attraverso il 
+pulsante 
+. All’interno della linea produttiva prescelta, è necessario quindi 
+configurare le informazioni seguenti.
+
+I dettagli delle geometrie dei case e delle unità formanti pallet sono contenuti 
+nei supportivi dedicat.
+
+Geometria della scatola imballo (case): indicando la quantità di unità 
+contenute al loro interno.
+o
+Per la linea IMA2 e IMA4 è necessario impostare la geometria della 
+scatola imballo rispettando le quantità previste per i tre assi X, Y, Z, 
+dove Z è l’altezza.
+o
+Per la linea IMA3 è necessario impostare la geometria della scatola 
+imballo inserendo in coordinata X il numero totale di pezzi letti dalla 
+Matrix station (unità di lettura), in coordinata Y il valore 1 e in 
+coordinata Z il numero di volte che l’unità di lettura si ripete nella 
+scatola imballo.
+o
+Per la linea manuale Etipack e la linea Manuale Tradizionale, in 
+quanto linee dove è prevista aggregazione manuale, è necessario 
+inserire in coordinata X il numero totale di astucci previsti per la 
+scatola imballo completa e inserire 1 nei due campi rimanenti Y e Z.
+o
+Per la linea Uhlmann3 è necessario inserire in coordinata X il numero 
+di astucci prelevati da Cartonatrice Marchesini (unità di lettura), in 
+coordinata Y il numero di volte che l’unità di lettura viene inserita nel 
+piano di riempimento, in coordinata Z numero di piani presenti della 
+scatola imballo.
+o
+Per la linea MAR è necessario impostare la geometria della scatola 
+imballo rispettando le quantità previste per i tre assi X, Y, Z, dove Y è 
+l’altezza (al contrario di IMA2).
+
+
+================================================================================
+
+=== CHUNK 32 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 33', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+32
+o
+per la linea bec500 (uhlmann 4) è necessario inserire in coordinata 
+x il numero di astucci, in coordinata y il valore 1 e in coordinata z il 
+numero ottenuto moltiplicando i valori delle altre due dimensioni.
+
+geometria del pallet:
+o
+è necessario inserire in coordinata x il numero totale di scatole 
+imballo formanti il pallet e inserire 1 nei due campi rimanenti y e z, 
+dato che la pallettizzazione è manuale.
+o
+per la linea bec500 (uhlmann 4) la pallettizzazione è automatica, 
+quindi bisogna impostare la geometria della scatola imballo 
+rispettando le quantità previste per i tre assi x, y, z.
+
+formati e layout della linea di confezionamento.
+o
+l’elenco dei singoli devices, ovvero delle stampanti e delle telecamere 
+presenti è predefinito per linea.
+o
+e’ invece necessario impostare lo specifico formato relativo al 
+codice prodotto per ogni stampante/telecamera presente, 
+attraverso il menù a tendina. i formati possono essere richiesti al 
+reparto di ingegneria tramite il sup-009959 “richiesta verifica
+formato. l’elenco dei formati viene mantenuto da ingegneria 
+tramite un’estrazione semestrale in accordo alla proc-002626.
+salvare.
+le impostazioni presenti all’interno della ricetta non sono modificabili in presenza di 
+workorder aperti all’interno del sistema.
+quando non più in utilizzo, è possibile inattivare la ricetta tramite il campo predisposto
+passando da draft e riapprovandola disattivata; anche l’inattivazione di una ricetta non 
+può avvenire in presenza di workorder aperti all’interno del sistema.
+5.4.5
+modifiche di ricette già esistenti
+prima di modificare una ricetta è necessario:
+
+avvertire supply chain di bloccare l’amissione dei po.
+
+controllare che non ci siano ordini di lavoro attivi o nuovi (workorders -> new 
+e active), altrimenti si causano problemi in linea.
+menù product management recipes.
+modifiche alle ricette esistenti (da avviare tramite il simbolo 
+) comportano un 
+cambio di versione in base alla criticità del cambiamento. modifiche di valori ritenuti 
+critici sono identificati con il simbolo di una goccia piena, modiche di valori con impatto
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 33.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+32
+o
+Per la linea BEC500 (Uhlmann 4) è necessario inserire in coordinata 
+X il numero di astucci, in coordinata Y il valore 1 e in coordinata Z il 
+numero ottenuto moltiplicando i valori delle altre due dimensioni.
+
+Geometria del pallet:
+o
+è necessario inserire in coordinata X il numero totale di scatole 
+imballo formanti il pallet e inserire 1 nei due campi rimanenti Y e Z, 
+dato che la pallettizzazione è manuale.
+o
+Per la linea BEC500 (Uhlmann 4) la pallettizzazione è automatica, 
+quindi bisogna impostare la geometria della scatola imballo 
+rispettando le quantità previste per i tre assi X, Y, Z.
+
+Formati e layout della linea di confezionamento.
+o
+L’elenco dei singoli devices, ovvero delle stampanti e delle telecamere 
+presenti è predefinito per linea.
+o
+E’ invece necessario impostare lo specifico formato relativo al 
+codice prodotto per ogni stampante/telecamera presente, 
+attraverso il menù a tendina. I formati possono essere richiesti al 
+reparto di ingegneria tramite il SUP-009959 “Richiesta verifica
+formato. L’elenco dei formati viene mantenuto da ingegneria 
+tramite un’estrazione semestrale in accordo alla PROC-002626.
+Salvare.
+Le impostazioni presenti all’interno della ricetta non sono modificabili in presenza di 
+workorder aperti all’interno del sistema.
+Quando non più in utilizzo, è possibile inattivare la ricetta tramite il campo predisposto
+passando da Draft e riapprovandola disattivata; anche l’inattivazione di una ricetta non 
+può avvenire in presenza di workorder aperti all’interno del sistema.
+5.4.5
+Modifiche di ricette già esistenti
+Prima di modificare una ricetta è necessario:
+
+avvertire supply chain di bloccare l’amissione dei PO.
+
+controllare che non ci siano ordini di lavoro attivi o nuovi (workorders -> new 
+e active), altrimenti si causano problemi in linea.
+Menù Product Management Recipes.
+Modifiche alle ricette esistenti (da avviare tramite il simbolo 
+) comportano un 
+cambio di versione in base alla criticità del cambiamento. Modifiche di valori ritenuti 
+critici sono identificati con il simbolo di una goccia piena, modiche di valori con impatto
+
+
+================================================================================
+
+=== CHUNK 33 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 34', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+33
+“minor” con il simbolo di una goccia vuota e, infine, modifiche di valori senza alcun 
+impatto con il simbolo di una goccia barrata (rif. dei simboli nella foto sottostante).
+nel caso in cui dovesse esserci la necessità di disattivare una ricetta 
+renderla “utilizzabile” in attesa di modifiche da apportare, è necessario riportarla allo 
+stato “draft”, disattivarla, e, infine, ripubblicarla nello stato disattivo.
+per eliminare una linea cliccare sul cestino a destra della riga della linea stessa.
+5.4.6
+cambio della versione di un materiale
+i prodotti biogen hanno nel codice prodotto del cliente la versione, indicata dalle ultime 
+due cifre. quando la versione cambia va aggiornato su antares il materiale con la 
+nuova versione. 
+bisogna controllare se ci sono differenze con item spec vecchio riguardo a 
+serializzazione, formato data e ordine prefissi. controllare le bom e gli artwork per 
+vedere la correttezza rispetto all’item-spec.
+bisogna controllare anche la presenza di seriali (devono essere almeno il triplo della 
+quantità da produrre).
+aggiornare la versione anche nel file master data srz.
+nb: per referenze che hanno più ricette (step 1, 2 ecc), i materiali sono diversi per ogni 
+step, quindi vanno aggiornati tutti i materiali.
+5.5
+peculiarità nell’impostazione delle variabili lotto
+5.5.1
+sb3 440 + bwfi
+per ogni nuovo ordine di sb3 440+bwfi, l’ufficio scheduling, in fase di emissione di
+un nuovo process order, inserisce i valori di “data scadenza vial ima3” (riferito alla 
+data di scadenza del dp) e “data scadenza vial data matrix” (quando applicabile)
+nei variable data del workorder associato al suddetto prodotto (sezione new 
+workorders) tramite il pulsante 
+.
+scheduling provvede poi alla stampa del report audit trail antares (datato e siglato 
+dalla persona che ha effettuato l’attività) con il dettaglio della data inserita e, dopo 
+verifica di quanto previsto dalla checklist di emissione po, consegna il process order 
+cartaceo (master batch record + documentazione a supporto) all’ufficio qa
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 34.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+33
+“minor” con il simbolo di una goccia vuota e, infine, modifiche di valori senza alcun 
+impatto con il simbolo di una goccia barrata (rif. dei simboli nella foto sottostante).
+Nel caso in cui dovesse esserci la necessità di disattivare una ricetta 
+renderla “utilizzabile” in attesa di modifiche da apportare, è necessario riportarla allo 
+stato “Draft”, disattivarla, e, infine, ripubblicarla nello stato disattivo.
+Per eliminare una linea cliccare sul cestino a destra della riga della linea stessa.
+5.4.6
+Cambio della versione di un materiale
+I prodotti Biogen hanno nel codice prodotto del cliente la versione, indicata dalle ultime 
+due cifre. Quando la versione cambia va aggiornato su Antares il materiale con la 
+nuova versione. 
+Bisogna controllare se ci sono differenze con item spec vecchio riguardo a 
+serializzazione, formato data e ordine prefissi. Controllare le BOM e gli artwork per 
+vedere la correttezza rispetto all’item-spec.
+Bisogna controllare anche la presenza di seriali (devono essere almeno il triplo della 
+quantità da produrre).
+Aggiornare la versione anche nel file master data SRZ.
+NB: per referenze che hanno più ricette (step 1, 2 ecc), i materiali sono diversi per ogni 
+step, quindi vanno aggiornati TUTTI i materiali.
+5.5
+Peculiarità nell’impostazione delle variabili lotto
+5.5.1
+SB3 440 + BWFI
+Per ogni nuovo ordine di SB3 440+BWFI, l’ufficio Scheduling, in fase di emissione di
+un nuovo Process Order, inserisce i valori di “Data Scadenza vial IMA3” (riferito alla 
+data di scadenza del DP) e “Data Scadenza vial Data Matrix” (quando applicabile)
+nei Variable Data del WorkOrder associato al suddetto prodotto (Sezione NEW 
+WORKORDERS) tramite il pulsante 
+.
+Scheduling provvede poi alla stampa del report Audit Trail Antares (datato e siglato 
+dalla persona che ha effettuato l’attività) con il dettaglio della data inserita e, dopo 
+verifica di quanto previsto dalla checklist di emissione PO, consegna il Process Order 
+cartaceo (Master Batch Record + documentazione a supporto) all’ufficio QA
+
+
+================================================================================
+
+=== CHUNK 34 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 35', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+34
+office per verifica finale di quanto inserito grazie alla presenza del report audit trail e 
+del qbs allegati.
+5.5.2
+sb17 giappone 
+per ogni nuovo ordine di sb17 giappone, l’ufficio scheduling, in fase di emissione di
+un nuovo process order, modifica la expiry date presente nella sezione main data del 
+workorder associato al suddetto prodotto (sezione new workorders)
+impostando i valori “00” come cifre che indicano il giorno. tale modifica viene eseguita 
+tramite il pulsante 
+e tramite il pulsante collocato a fianco alla expiry date “select 
+month”
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 35.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+34
+Office per verifica finale di quanto inserito grazie alla presenza del Report Audit Trail e 
+del QBS allegati.
+5.5.2
+SB17 Giappone 
+Per ogni nuovo ordine di SB17 Giappone, l’ufficio Scheduling, in fase di emissione di
+un nuovo Process Order, modifica la Expiry Date presente nella sezione Main Data del 
+WorkOrder associato al suddetto prodotto (Sezione NEW WORKORDERS)
+impostando i valori “00” come cifre che indicano il giorno. Tale modifica viene eseguita 
+tramite il pulsante 
+e tramite il pulsante collocato a fianco alla Expiry Date “Select 
+Month”
+
+
+================================================================================
+
+=== CHUNK 35 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 36', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+35
+scheduling provvede poi alla stampa del report audit trail antares (datato e siglato 
+dalla persona che ha effettuato l’attività) con il dettaglio della data inserita e, dopo 
+verifica di quanto previsto dalla checklist di emissione po, consegna il process order 
+cartaceo (master batch record + documentazione a supporto) all’ufficio qa 
+office per verifica finale di quanto inserito grazie alla presenza del report audit trail e 
+del qbs allegati.
+5.6
+indirizzi di spedizione
+per le spedizioni effettuate da antares, gli indirizzi da utilizzare devono essere inseriti 
+nell’address book. i campi gln ed sgln deveono essere compilati
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 36.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+35
+Scheduling provvede poi alla stampa del report Audit Trail Antares (datato e siglato 
+dalla persona che ha effettuato l’attività) con il dettaglio della data inserita e, dopo 
+verifica di quanto previsto dalla checklist di emissione PO, consegna il Process Order 
+cartaceo (Master Batch Record + documentazione a supporto) all’ufficio QA 
+Office per verifica finale di quanto inserito grazie alla presenza del Report Audit Trail e 
+del QBS allegati.
+5.6
+Indirizzi di spedizione
+Per le spedizioni effettuate da Antares, gli indirizzi da utilizzare devono essere inseriti 
+nell’address book. I campi GLN ed SGLN deveono essere compilati
+
+
+================================================================================
+
+=== CHUNK 36 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 37', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+36
+5.6 master data antares (livello 2)
+i master data antares di livello 2 sono i formati macchina, intesi come layout di 
+stampanti, camere e plc. la creazione e manutenzione di tali formati è in gestione al 
+reparto engineering. la fonte dei master data in oggetto è sia interna che esterna 
+(cliente in caso di prodotti finiti conto terzi) ed è strettamente correlata alle funzioni che 
+gestiscono i technical drawing e gli artwork dei materiali di confezionamento (rif proc-
+002626)
+5.7
+flusso di inserimento e controllo master data antares
+ai fini del corretto inserimento delle informazioni in arvato/antares, il cliente o gam 
+trasmette a packaging apposita documentazione di riferimento contenente le 
+informazioni rilevanti (ad esempio atm, il documento saf o item spec).
+ai fini della completa tracciabilità dei dati inseriti, una persona autorizzata del reparto 
+packaging dovrà:
+
+compilare i campi di propria competenza nel file “master data srz”:
+o
+codice e descrizione sap della referenza
+o
+codice cliente, se applicabile
+o
+forecast per la referenza (per inserimento in antares)
+o
+informazioni relative alla necessità o meno di serializzazione
+
+stampare, datare e siglare la stampa del documento “master data srz” nei 
+campi predisposti, in corrispondenza della referenza inserita a sistema, a 
+conferma dell’avvenuto inserimento dei dati presenti in tale documento.
+
+datare e siglare la stampa del documento “master data srz” nei campi 
+predisposti, in corrispondenza della referenza inserita a sistema, a conferma
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 37.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+36
+5.6 Master Data Antares (livello 2)
+I Master Data Antares di livello 2 sono i formati macchina, intesi come layout di 
+stampanti, camere e PLC. La creazione e manutenzione di tali formati è in gestione al 
+reparto Engineering. La fonte dei Master Data in oggetto è sia interna che esterna 
+(cliente in caso di prodotti finiti conto terzi) ed è strettamente correlata alle funzioni che 
+gestiscono i technical drawing e gli artwork dei materiali di confezionamento (rif PROC-
+002626)
+5.7
+Flusso di inserimento e controllo Master Data Antares
+Ai fini del corretto inserimento delle informazioni in Arvato/Antares, il cliente o GAM 
+trasmette a packaging apposita documentazione di riferimento contenente le 
+informazioni rilevanti (ad esempio ATM, il documento SAF o item spec).
+Ai fini della completa tracciabilità dei dati inseriti, una persona autorizzata del reparto 
+Packaging dovrà:
+
+Compilare i campi di propria competenza nel file “Master Data SRZ”:
+o
+codice e descrizione SAP della referenza
+o
+codice cliente, se applicabile
+o
+forecast per la referenza (per inserimento in Antares)
+o
+informazioni relative alla necessità o meno di serializzazione
+
+Stampare, datare e siglare la stampa del documento “Master Data SRZ” nei 
+campi predisposti, in corrispondenza della referenza inserita a sistema, a 
+conferma dell’avvenuto inserimento dei dati presenti in tale documento.
+
+Datare e siglare la stampa del documento “Master Data SRZ” nei campi 
+predisposti, in corrispondenza della referenza inserita a sistema, a conferma
+
+
+================================================================================
+
+=== CHUNK 37 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 38', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+37
+dell’avvenuto controllo dei dati inseriti e attivazione di codici e materiali 
+all’interno del sistema antares.
+è inoltre richiesta la compilazione di un campo dedicato per conferma della richiesta 
+di numeri seriali che temporalmente avviene dopo l’attivazione dei md arvato e prima 
+dell’attivazione dei md antares e a chiusura della configurazione dei dati la conferma 
+della ricezione nel sistema antares dei seriali richiesti.
+5.8
+disattivazione gtin collegati a codici serializzati
+in alcuni casi, ad esempio per migrazione codice gtin da codice di validation a codice 
+commerciale o cambio di codice gtin a parità di codice, è necessario modificare i 
+collegamenti tra gtin e codice. 
+le operazioni da eseguire sono descritte di seguito.
+
+una volta verificato che tutti gli ordini legati alla ricetta attiva e collegata allo 
+specifico gtin da rimuovere sono chiusi e completi del passaggio di 
+disposition, il personale addetto del reparto “scheduling & sourcing” 
+comunica l’informazione al personale del reparto “packaging” che procede 
+con la procedura di disattivazione.
+
+nel sistema antares: disattivare la ricetta e il materiale. rimuovere il 
+collegamento gtin all’attuale codice prodotto, chiamato “material”; 
+disattivare material e la recipe associata. azzerare inoltre il valore di reorder 
+quantity. non disattivare il gtin se deve essere riusato.
+
+nel sistema arvato, rimuovere la serializzazione da tutti i livelli,
+eventualmente modificando la selezione per il livello folding box da gtin a 
+ntin e sostituendo il gtin con il codice sap del prodotto; inoltre togliere 
+il reporting e adisattivare il codice, in modo da slegarlo dagli shared pool in 
+modo definitivo.
+una volta terminate le operazioni appena descritte è possibile, se necessario, 
+associare il nuovo gtin alla referenza coinvolta nel processo seguendo le modalità 
+operative descritte nella presente sop.
+6
+riferimenti
+proc-002592
+gestione dei codici articolo (material master)
+proc-002680
+creazione, rilascio e annullamento di process order tramite il 
+sistema sap r/3 e gestione della relativa documentazione
+proc-002626   gestione dei formati di stampa e dei formati dei sistemi di visione del 
+packaging secondario
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 38.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+37
+dell’avvenuto controllo dei dati inseriti e attivazione di codici e materiali 
+all’interno del sistema Antares.
+È inoltre richiesta la compilazione di un campo dedicato per conferma della richiesta 
+di numeri seriali che temporalmente avviene dopo l’attivazione dei MD Arvato e prima 
+dell’attivazione dei MD Antares e a chiusura della configurazione dei dati la conferma 
+della ricezione nel sistema Antares dei seriali richiesti.
+5.8
+Disattivazione GTIN collegati a codici serializzati
+In alcuni casi, ad esempio per migrazione codice GTIN da codice di validation a codice 
+commerciale o cambio di codice GTIN a parità di codice, è necessario modificare i 
+collegamenti tra GTIN e codice. 
+Le operazioni da eseguire sono descritte di seguito.
+
+Una volta verificato che tutti gli ordini legati alla ricetta attiva e collegata allo 
+specifico GTIN da rimuovere sono chiusi e completi del passaggio di 
+disposition, il personale addetto del reparto “Scheduling & Sourcing” 
+comunica l’informazione al personale del reparto “Packaging” che procede 
+con la procedura di disattivazione.
+
+Nel sistema Antares: disattivare la ricetta e il materiale. Rimuovere il 
+collegamento GTIN all’attuale codice prodotto, chiamato “Material”; 
+disattivare material e la recipe associata. Azzerare inoltre il valore di Reorder 
+Quantity. Non disattivare il GTIN se deve essere riusato.
+
+Nel sistema Arvato, rimuovere la serializzazione da tutti i livelli,
+eventualmente modificando la selezione per il livello folding box da GTIN a 
+NTIN e sostituendo il GTIN con il codice SAP del prodotto; inoltre togliere 
+il reporting e adisattivare il codice, in modo da slegarlo dagli shared pool in 
+modo definitivo.
+Una volta terminate le operazioni appena descritte è possibile, se necessario, 
+associare il nuovo GTIN alla referenza coinvolta nel processo seguendo le modalità 
+operative descritte nella presente SOP.
+6
+RIFERIMENTI
+PROC-002592
+Gestione dei codici articolo (material master)
+PROC-002680
+Creazione, rilascio e annullamento di process order tramite il 
+sistema SAP r/3 e gestione della relativa documentazione
+PROC-002626   Gestione dei formati di stampa e dei formati dei sistemi di visione del 
+packaging secondario
+
+
+================================================================================
+
+=== CHUNK 38 ===
+[METADATA]: {'file_name': 'GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf', 'page_label': 'Page 39', 'sop_title': 'GESTIONE DEI MASTER DATA PER I SISTEMI ARVATO E ANTARES PER', 'document_number': 'PROC-002861', 'version_number': '10', 'status': 'Active', 'language': 'it'}
+
+[CONTENT - LOWERCASE]:
+dec 2025
+
+serializzazione/aggregazione di prodotti finiti
+38
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_Italian_stamped_Rev04.docmDec192025021006.pdf, Page 39.
+Dec 2025
+
+SERIALIZZAZIONE/AGGREGAZIONE DI PRODOTTI FINITI
+38
+7
+
+
+================================================================================
+

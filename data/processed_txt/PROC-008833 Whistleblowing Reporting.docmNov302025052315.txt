@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 2', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: proc-008833 sop on whistleblowing reporting
 1
 objective
 the objective of this sop is to ensure that the handling of suspected compliance 
@@ -70,7 +69,6 @@ discrimination or harassment, to the compliance &
 
 [CONTENT - ORIGINAL]:
 Source: PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf, Page 2.
-Local Title: PROC-008833 SOP on Whistleblowing Reporting
 1
 OBJECTIVE
 The objective of this SOP is to ensure that the handling of suspected compliance 
@@ -140,7 +138,7 @@ discrimination or harassment, to the Compliance &
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 3', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 responsibility organization to ensure they are 
@@ -281,7 +279,7 @@ professional/industrial guidelines and directives.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 4', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 allegation
@@ -430,7 +428,7 @@ misconduct or cooperated with an investigation.
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 5', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 whistleblower 
@@ -523,7 +521,7 @@ and following a transparent process.
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 6', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -646,7 +644,7 @@ reporting wrong or
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 7', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 misleading information, or information that is already fully available in the public 
@@ -745,7 +743,7 @@ person. The local compliance email address for each GRT entity is listed in sect
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 8', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 mail to the local reporting offices of the local grt entity (company addresses 
@@ -838,7 +836,7 @@ tool only where strictly necessary.
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 9', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the following table outlines the appropriate course of action for each scenario:
@@ -997,7 +995,7 @@ on a case-by-case basis.
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 10', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 before their identity is disclosed. in cases where it is required by law, the consent of 
@@ -1082,7 +1080,7 @@ Compliance & Responsibility Organization), the Global Compliance & Responsibilit
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 11', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 officer shall assign its assessment to a specific compliance officer (“compliance 
@@ -1173,7 +1171,7 @@ Data analysis
 ================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 12', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -1280,7 +1278,7 @@ of GRT.
 ================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 13', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 breach of confidentiality in the context of an investigation constitutes misconduct and 
@@ -1389,7 +1387,7 @@ The assessment activities shall include:
 ================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 14', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -1540,7 +1538,7 @@ Council must be involved in the resolution of the case.
 ================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 15', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 a) global ethics committee (gec)
@@ -1653,7 +1651,7 @@ Changes in the operational structure (e.g. changing processes)
 ================================================================================
 
 === CHUNK 15 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 16', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 o
@@ -1784,7 +1782,7 @@ anticompetitive behavior), the Compliance Officer in Charge shall inform the Glo
 ================================================================================
 
 === CHUNK 16 ===
-[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active'}
+[METADATA]: {'file_name': 'PROC-008833 Whistleblowing Reporting.docmNov302025052315.pdf', 'page_label': 'Page 17', 'sop_title': 'PROC-008833 SOP on Whistleblowing Reporting', 'document_number': 'PROC-008833', 'version_number': '01', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 compliance & responsibility officer, the general counsel, and, if necessary 

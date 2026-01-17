@@ -1,0 +1,1106 @@
+=== CHUNK 1 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 2', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+2023
+
+turbomatrix hs-40 - bedienung
+1
+ziel
+das ziel dieses dokuments die beschreibung der vorgehensweise zur bedienung 
+und kalibrierung des gaschromatograph modell hp 6890n mit autoprobengeber 
+turbomatrix hs-40.
+2
+geltungsbereich
+dieses dokument gilt für alle mitarbeiter der bereiche der chemischen laboratorien 
+innerhalb der abteilung internal manufacturing quality – quality control, im 
+folgenden quality control, der grünenthal gmbh, die gc-analysen durchführen.
+3
+verantwortlichkeit
+funktion/rolle
+verantwortlichkeit
+ersteller
+aktualisierung der anweisung
+leitung internal manufacturing quality
+sicherstellung der genauigkeit und 
+vollständigkeit
+mitarbeiter
+einhaltung der vorgaben dieser 
+anweisung
+4
+definitionen
+begriff
+definition
+cds
+chromatographie daten system
+gc
+gaschromatographie
+5
+durchführung
+5.1
+allgemeines
+5.1.1
+standort
+als standort ist ein üblicher labortisch ausreichend. um die heiße abluft aus dem 
+ofen ungehindert abzuführen, müssen hinter dem gerät ca. 10 cm frei bleiben. 
+ebenfalls soll der raum oberhalb des gerätes frei bleiben.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 2.
+2023
+
+TurboMatrix HS-40 - Bedienung
+1
+ZIEL
+Das Ziel dieses Dokuments die Beschreibung der Vorgehensweise zur Bedienung 
+und Kalibrierung des Gaschromatograph Modell HP 6890N mit Autoprobengeber 
+TurboMatrix HS-40.
+2
+GELTUNGSBEREICH
+Dieses Dokument gilt für alle Mitarbeiter der Bereiche der chemischen Laboratorien 
+innerhalb der Abteilung Internal Manufacturing Quality – Quality Control, im 
+Folgenden Quality Control, der Grünenthal GmbH, die GC-Analysen durchführen.
+3
+VERANTWORTLICHKEIT
+Funktion/Rolle
+Verantwortlichkeit
+Ersteller
+Aktualisierung der Anweisung
+Leitung Internal Manufacturing Quality
+Sicherstellung der Genauigkeit und 
+Vollständigkeit
+Mitarbeiter
+Einhaltung der Vorgaben dieser 
+Anweisung
+4
+DEFINITIONEN
+Begriff
+Definition
+CDS
+Chromatographie Daten System
+GC
+Gaschromatographie
+5
+DURCHFÜHRUNG
+5.1
+Allgemeines
+5.1.1
+Standort
+Als Standort ist ein üblicher Labortisch ausreichend. Um die heiße Abluft aus dem 
+Ofen ungehindert abzuführen, müssen hinter dem Gerät ca. 10 cm frei bleiben. 
+Ebenfalls soll der Raum oberhalb des Gerätes frei bleiben.
+
+
+================================================================================
+
+=== CHUNK 2 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 3', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.1.2
+gasversorgung
+der gaschromatograph soll für eine optimale chromatographische leistung mit 
+folgenden gasen betrieben werden:
+helium (trägergas) reinheit 4.6 oder besser
+99,996 %
+stickstoff (make uo-gas) reinheit 5.0
+99,9990%
+wasserstoff (detektorgas) reinheit 5.0
+99,9990 %
+luft (detektorgas)
+möglichst wasserfrei
+nach dem wechsel der gasflasche sind die anschlüsse mit lecksuchflüssigkeit bzw. 
+lecksuchspray auf dichtigkeit zu überprüfen.
+5.1.3
+gerätekonfiguration
+5.1.3.1
+injektor
+der gaschromatograph wird für die kapillarsäulen im splitmodus betrieben.
+in ausnahmefällen ist der injektor im splitlessmodus zu betreiben. nach 
+analysenende ist das einlasssystem wieder in den ursprünglichen zustand zu 
+bringen.
+5.1.3.2
+säulen
+das gerät kann nur mit fused-silica-kapillarsäulen betrieben werden. 
+5.1.3.3
+detektor
+der gaschromatograph ist mit einem flammenionisationsdetektor (fid) ausgerüstet.
+5.1.3.4
+steuerung der gasversorgung 
+am gaschromatograph können alle gasflüsse - für den injektor, detektor oder säule 
+- mit hilfe der elektronischen pneumatiksteuerung (epc) über die tastatur 
+eingegeben werden.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 3.
+5.1.2
+Gasversorgung
+Der Gaschromatograph soll für eine optimale chromatographische Leistung mit 
+folgenden Gasen betrieben werden:
+Helium (Trägergas) Reinheit 4.6 oder besser
+99,996 %
+Stickstoff (make uo-Gas) Reinheit 5.0
+99,9990%
+Wasserstoff (Detektorgas) Reinheit 5.0
+99,9990 %
+Luft (Detektorgas)
+möglichst wasserfrei
+Nach dem Wechsel der Gasflasche sind die Anschlüsse mit Lecksuchflüssigkeit bzw. 
+Lecksuchspray auf Dichtigkeit zu überprüfen.
+5.1.3
+Gerätekonfiguration
+5.1.3.1
+Injektor
+Der Gaschromatograph wird für die Kapillarsäulen im Splitmodus betrieben.
+In Ausnahmefällen ist der Injektor im Splitlessmodus zu betreiben. Nach 
+Analysenende ist das Einlasssystem wieder in den ursprünglichen Zustand zu 
+bringen.
+5.1.3.2
+Säulen
+Das Gerät kann nur mit Fused-Silica-Kapillarsäulen betrieben werden. 
+5.1.3.3
+Detektor
+Der Gaschromatograph ist mit einem Flammenionisationsdetektor (FID) ausgerüstet.
+5.1.3.4
+Steuerung der Gasversorgung 
+Am Gaschromatograph können alle Gasflüsse - für den Injektor, Detektor oder Säule 
+- mit Hilfe der elektronischen Pneumatiksteuerung (EPC) über die Tastatur 
+eingegeben werden.
+
+
+================================================================================
+
+=== CHUNK 3 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 4', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2
+bedienung gaschromatograph
+5.2.1
+allgemeines
+der epc ermöglicht die einstellung der gasflüsse und -drücke sowie eine vielzahl 
+von programmschritten.
+die einstellungen für die säulen sollten immer vor den einstellungen für den einlass 
+vorgenommen werden!
+der gaschromatograph wird über verschiedene steuerungstabellen organisiert, die 
+jeweils eine gruppe miteinander in beziehung stehender sollwerte enthalten. die 
+systemparameter werden festgelegt, in dem man die tabellen aufruft und die 
+einträge entsprechend der analytischen aufgabe festlegt. es empfiehlt sich dabei 
+folgendermaßen vorzugehen:
+•
+der inhalt vieler tabellen hängt von der ausstattung des gerätes ab. viele 
+seiner bestandteile kann der gaschromatograph selbst selektieren, aber 
+einige informationen (wie z.b. das verwendete trägergas) müssen vom 
+anwender eingegeben werden. in der abteilung quality control wird als 
+trägergas immer helium eingesetzt.
+abbildung 1 zeigt die tastatur des gaschromatographen.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 4.
+5.2
+Bedienung Gaschromatograph
+5.2.1
+Allgemeines
+Der EPC ermöglicht die Einstellung der Gasflüsse und -drücke sowie eine Vielzahl 
+von Programmschritten.
+Die Einstellungen für die Säulen sollten immer vor den Einstellungen für den Einlass 
+vorgenommen werden!
+Der Gaschromatograph wird über verschiedene Steuerungstabellen organisiert, die 
+jeweils eine Gruppe miteinander in Beziehung stehender Sollwerte enthalten. Die 
+Systemparameter werden festgelegt, in dem man die Tabellen aufruft und die 
+Einträge entsprechend der analytischen Aufgabe festlegt. Es empfiehlt sich dabei 
+folgendermaßen vorzugehen:
+•
+Der Inhalt vieler Tabellen hängt von der Ausstattung des Gerätes ab. Viele 
+seiner Bestandteile kann der Gaschromatograph selbst selektieren, aber 
+einige Informationen (wie z.B. das verwendete Trägergas) müssen vom 
+Anwender eingegeben werden. In der Abteilung Quality Control wird als 
+Trägergas immer Helium eingesetzt.
+Abbildung 1 zeigt die Tastatur des Gaschromatographen.
+
+
+================================================================================
+
+=== CHUNK 4 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 5', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2.2
+fluss- und drucksteuerung
+5.2.2.1
+konfigurierung der kapillarsäule
+eine kapillarsäule wird konfiguriert, in dem ihre länge, ihr innendurchmesser und 
+ihre filmdicke angegeben wird. diese information kann dem schild, das an der säule 
+hängt entnommen werden. mit hilfe dieser informationen kann das gerät den fluss 
+durch die säule berechnen. dies hat den vorteil, dass bei einsatz von kapillarsäulen 
+folgende möglichkeiten dem benutzer offenstehen:
+•
+direkter eingabe von splitverhältnissen, wobei das gerät die entsprechende 
+flussrate berechnet und einstellt.
+•
+eingabe von flussraten oder säulenvordrücken bzw. einer durchschnittlichen 
+linearen geschwindigkeit. das gerät berechnet den druck, der für die 
+flussrate und die geschwindigkeit notwendig ist, stellt diesen ein und gibt alle 
+werte aus.
+•
+durchführung der splitlos injektion, ohne dass die gasflüsse gemessen 
+werden müssen.
+•
+falls die säulenparameter nicht bekannt sind, so kann die säule nicht 
+definiert werden. hierzu bei der länge der säule und bei dem durchmesser 
+eine null eingeben.
+•
+mit dem cursor auf inlet und auf front drücken.
+•
+mit dem cursor auf detector und auf front drücken.
+die konfigurierung der kapillarsäule wird über das cds-system gesteuert. damit ist 
+die konfigurierung der kapillarsäule abgeschlossen. diese konfigurierung sollte 
+immer am anfang der analytik durchgeführt werden.
+5.2.2.2
+konfigurierung des trägergases
+in der abteilung quality control wird als trägergas immer helium verwendet. hierzu 
+gehen sie folgendermaßen vor:
+config und front inlet oder back inlet drücken.
+•
+mode drücken und das menü für das trägergas erscheint. helium anwählen. 
+normalerweise muss diese einstellung nur einmal vorgenommen werden, da 
+bei in der abteilung quality control nur helium verwendet wird, muss diese 
+einstellung im gerät gespeichert werden.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 5.
+5.2.2
+Fluss- und Drucksteuerung
+5.2.2.1
+Konfigurierung der Kapillarsäule
+Eine Kapillarsäule wird konfiguriert, in dem ihre Länge, ihr Innendurchmesser und 
+ihre Filmdicke angegeben wird. Diese Information kann dem Schild, das an der Säule 
+hängt entnommen werden. Mit Hilfe dieser Informationen kann das Gerät den Fluss 
+durch die Säule berechnen. Dies hat den Vorteil, dass bei Einsatz von Kapillarsäulen 
+folgende Möglichkeiten dem Benutzer offenstehen:
+•
+Direkter Eingabe von Splitverhältnissen, wobei das Gerät die entsprechende 
+Flussrate berechnet und einstellt.
+•
+Eingabe von Flussraten oder Säulenvordrücken bzw. einer durchschnittlichen 
+linearen Geschwindigkeit. Das Gerät berechnet den Druck, der für die 
+Flussrate und die Geschwindigkeit notwendig ist, stellt diesen ein und gibt alle 
+Werte aus.
+•
+Durchführung der splitlos Injektion, ohne dass die Gasflüsse gemessen 
+werden müssen.
+•
+Falls die Säulenparameter nicht bekannt sind, so kann die Säule nicht 
+definiert werden. Hierzu bei der Länge der Säule und bei dem Durchmesser 
+eine Null eingeben.
+•
+mit dem Cursor auf INLET und auf FRONT drücken.
+•
+mit dem Cursor auf DETECTOR und auf FRONT drücken.
+Die Konfigurierung der Kapillarsäule wird über das CDS-System gesteuert. Damit ist 
+die Konfigurierung der Kapillarsäule abgeschlossen. Diese Konfigurierung sollte 
+immer am Anfang der Analytik durchgeführt werden.
+5.2.2.2
+Konfigurierung des Trägergases
+In der Abteilung Quality Control wird als Trägergas immer Helium verwendet. Hierzu 
+gehen Sie folgendermaßen vor:
+Config und Front Inlet oder Back Inlet drücken.
+•
+Mode drücken und das Menü für das Trägergas erscheint. Helium anwählen. 
+Normalerweise muss diese Einstellung nur einmal vorgenommen werden, da 
+bei in der Abteilung Quality Control nur Helium verwendet wird, muss diese 
+Einstellung im Gerät gespeichert werden.
+
+
+================================================================================
+
+=== CHUNK 5 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 6', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2.2.3
+auswahl eines säulenmodus
+es können mit dem gaschromatographen zwei verschiedene modi angewählt 
+werden.
+flussmodus:
+es besteht die möglichkeit immer mit einem konstanten fluss zu arbeiten. wenn sich 
+der säulenwiderstand aufgrund der temperatur ändert, wird der säulendruck 
+automatisch angepasst, so dass die flussrate konstant bleibt. dies kann 
+analysenläufe bedeutend verkürzen.
+druckmodus:
+das gerät behält über den ganzen lauf einen konstanten säulenvordruck. mit dem 
+säulenwiderstand verändert sich nicht der säulenvordruck, sondern der massenfluss 
+durch die säule.
+den gewünschten einlassmodus wählen. normalerweise wird der modus split
+angewählt. das splitverhältnis kann als wert splitratio eingegeben werden. es 
+besteht auch die möglichkeit direkt den splitfluss anzugeben. der 
+gaschromatograph berechnet dann direkt das splitverhältnis.
+die konfiguration wird über das cds-system ausgewählt.
+5.2.2.4
+septumspülfluss
+der septumspülfluss wird vom gaschromatographen automatisch eingestellt.
+5.2.2.5
+detektor
+bei den gaschromatographen wird als detektor ein flammenionisationsdetektor 
+(fid) verwendet. die konfigurierung des detektors braucht nicht verändert zu 
+werden. der detektortyp ist fid und ist als front- / back- detektor definiert. 
+•
+zur erstellung der tabelle der detektorsteuerung ist folgendermaßen 
+vorzugehen:
+•
+überprüfung der säulenkonfiguration.
+•
+der detektor ist als front-/ back- detektor und als fid zu konfigurieren. auf 
+der seite des front-/ back- detektors ist die temperatur des detektors, der 
+wasserstofffluss und der luftfluss einzustellen. ebenso wird eingestellt, dass 
+ein make-up-gas vorhanden ist und mit welcher geschwindigkeit das make-
+up-gas durch den detektor strömen soll.
+•
+anfangs ist die flamme auf off geschaltet. zum zünden der flamme ist in 
+der zeile flame die flamme auf on zu schalten. 
+•
+folgende maximale flussraten können bei einer epc-steuerung für ein 
+flammenionisationsdetektor eingestellt werden:
+gas
+max. flussrate (ml/min)
+wasserstoff
+100
+luft
+800
+helium (trägergas)
+100
+stickstoff (make-up-gas)
+100
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 6.
+5.2.2.3
+Auswahl eines Säulenmodus
+Es können mit dem Gaschromatographen zwei verschiedene Modi angewählt 
+werden.
+Flussmodus:
+Es besteht die Möglichkeit immer mit einem konstanten Fluss zu arbeiten. Wenn sich 
+der Säulenwiderstand aufgrund der Temperatur ändert, wird der Säulendruck 
+automatisch angepasst, so dass die Flussrate konstant bleibt. Dies kann 
+Analysenläufe bedeutend verkürzen.
+Druckmodus:
+Das Gerät behält über den ganzen Lauf einen konstanten Säulenvordruck. Mit dem 
+Säulenwiderstand verändert sich nicht der Säulenvordruck, sondern der Massenfluss 
+durch die Säule.
+Den gewünschten Einlassmodus wählen. Normalerweise wird der Modus SPLIT
+angewählt. Das Splitverhältnis kann als Wert Splitratio eingegeben werden. Es 
+besteht auch die Möglichkeit direkt den Splitfluss anzugeben. Der 
+Gaschromatograph berechnet dann direkt das Splitverhältnis.
+Die Konfiguration wird über das CDS-System ausgewählt.
+5.2.2.4
+Septumspülfluss
+Der Septumspülfluss wird vom Gaschromatographen automatisch eingestellt.
+5.2.2.5
+Detektor
+Bei den Gaschromatographen wird als Detektor ein Flammenionisationsdetektor 
+(FID) verwendet. Die Konfigurierung des Detektors braucht nicht verändert zu 
+werden. Der Detektortyp ist FID und ist als Front- / Back- Detektor definiert. 
+•
+Zur Erstellung der Tabelle der Detektorsteuerung ist folgendermaßen 
+vorzugehen:
+•
+Überprüfung der Säulenkonfiguration.
+•
+Der Detektor ist als Front-/ Back- Detektor und als FID zu konfigurieren. Auf 
+der Seite des Front-/ Back- Detektors ist die Temperatur des Detektors, der 
+Wasserstofffluss und der Luftfluss einzustellen. Ebenso wird eingestellt, dass 
+ein Make-up-Gas vorhanden ist und mit welcher Geschwindigkeit das Make-
+up-Gas durch den Detektor strömen soll.
+•
+Anfangs ist die Flamme auf OFF geschaltet. Zum Zünden der Flamme ist in 
+der Zeile FLAME die Flamme auf ON zu schalten. 
+•
+Folgende maximale Flussraten können bei einer EPC-Steuerung für ein 
+Flammenionisationsdetektor eingestellt werden:
+Gas
+max. Flussrate (ml/min)
+Wasserstoff
+100
+Luft
+800
+Helium (Trägergas)
+100
+Stickstoff (Make-up-Gas)
+100
+
+
+================================================================================
+
+=== CHUNK 6 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 8', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2.3
+säulenwechsel
+der säulenwechsel einer kapillarsäule ist folgendermaßen vorzunehmen:
+•
+die gasversorgung muss abgeschaltet sein.
+•
+mit einem passenden schraubenschlüssel sind die befestigungsschrauben 
+der kapillarsäule sowohl am injektor als auch am detektor zu lösen.
+•
+die säulenenden aus dem injektor und dem detektor nach unten 
+herausziehen.
+•
+vorsichtig die kapillarsäule zusammen mit dem käfig aus dem ofenraum 
+nehmen.
+•
+eine neue kapillarsäule (mit käfig) in den ofenraum einsetzen.
+•
+beide säulenenden mit den befestigungsschrauben und den entsprechenden 
+graphit-klemmringen versehen.
+•
+die befestigungsschraube an der injektorseite so positionieren, dass die 
+kapillarsäule 12mm über das ende des klemmrings und der 
+befestigungsschraube oder 16mm unterer kante der befestigungsschraube 
+herausragt. der korrekte abstand kann mit korrekturflüssigkeit für 
+schreibmaschinen auf der kapillarsäule hinter der befestigungsschraube 
+markiert werden (vergleich: benutzerhandbuch).
+•
+kapillarsäule, klemmring und befestigungsschraube sind gerade in den 
+sockel des injektorsystems einzuführen.
+•
+die befestigungsschraube fingerfest anziehen.
+achtung:
+bei einem überdrehen der säulenmutter kann die säule zerbrechen.
+•
+das andere säulenende vorsichtig soweit wie möglich in den detektor führen. 
+die befestigungsschraube mit den fingern festziehen und die kapillarsäule 
+etwa 1 mm aus dem detektor zurückziehen. danach die 
+befestigungsschraube fester anziehen.
+•
+abschließend kann das system mittels lecksuchspray bzw. -flüssigkeit auf 
+dichtigkeit zu überprüfen.
+5.2.4
+gaseinstellungen
+vor inbetriebnahme des gerätes ist darauf zu achten, dass die ventile für die 
+wasserstoffversorgung (detektor hydrogen) und die luftversorgung (detektor air) 
+des detektors zugedreht (im uhrzeigersinn) sind.
+falls in der untersuchungsmethode keine speziellen bedingungen vorgegeben sind, 
+können folgende gasvordrücke eingestellt werden:
+gas
+flaschendruck
+laborseitige 
+reduzierventile
+helium 
+(trägergas)
+12 bar
+6,0 bar
+stickstoff (make-up-gas)
+12 bar
+6,0 bar
+wasserstoff (detektorgas)
+12 bar
+6,0 bar
+luft
+(detektorgas)
+3,5 bar
+2,5 bar
+die geräteeingangsdrücke können an den manometern der laborzeilen eingestellt 
+und abgelesen werden.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 8.
+5.2.3
+Säulenwechsel
+Der Säulenwechsel einer Kapillarsäule ist folgendermaßen vorzunehmen:
+•
+Die Gasversorgung muss abgeschaltet sein.
+•
+Mit einem passenden Schraubenschlüssel sind die Befestigungsschrauben 
+der Kapillarsäule sowohl am Injektor als auch am Detektor zu lösen.
+•
+Die Säulenenden aus dem Injektor und dem Detektor nach unten 
+herausziehen.
+•
+Vorsichtig die Kapillarsäule zusammen mit dem Käfig aus dem Ofenraum 
+nehmen.
+•
+Eine neue Kapillarsäule (mit Käfig) in den Ofenraum einsetzen.
+•
+Beide Säulenenden mit den Befestigungsschrauben und den entsprechenden 
+Graphit-Klemmringen versehen.
+•
+Die Befestigungsschraube an der Injektorseite so positionieren, dass die 
+Kapillarsäule 12mm über das Ende des Klemmrings und der 
+Befestigungsschraube oder 16mm unterer Kante der Befestigungsschraube 
+herausragt. Der korrekte Abstand kann mit Korrekturflüssigkeit für 
+Schreibmaschinen auf der Kapillarsäule hinter der Befestigungsschraube 
+markiert werden (Vergleich: Benutzerhandbuch).
+•
+Kapillarsäule, Klemmring und Befestigungsschraube sind gerade in den 
+Sockel des Injektorsystems einzuführen.
+•
+Die Befestigungsschraube fingerfest anziehen.
+Achtung:
+Bei einem Überdrehen der Säulenmutter kann die Säule zerbrechen.
+•
+Das andere Säulenende vorsichtig soweit wie möglich in den Detektor führen. 
+Die Befestigungsschraube mit den Fingern festziehen und die Kapillarsäule 
+etwa 1 mm aus dem Detektor zurückziehen. Danach die 
+Befestigungsschraube fester anziehen.
+•
+Abschließend kann das System mittels Lecksuchspray bzw. -flüssigkeit auf 
+Dichtigkeit zu überprüfen.
+5.2.4
+Gaseinstellungen
+Vor Inbetriebnahme des Gerätes ist darauf zu achten, dass die Ventile für die 
+Wasserstoffversorgung (Detektor Hydrogen) und die Luftversorgung (Detektor Air) 
+des Detektors zugedreht (im Uhrzeigersinn) sind.
+Falls in der Untersuchungsmethode keine speziellen Bedingungen vorgegeben sind, 
+können folgende Gasvordrücke eingestellt werden:
+Gas
+Flaschendruck
+Laborseitige 
+Reduzierventile
+Helium 
+(Trägergas)
+12 bar
+6,0 bar
+Stickstoff (Make-up-Gas)
+12 bar
+6,0 bar
+Wasserstoff (Detektorgas)
+12 bar
+6,0 bar
+Luft
+(Detektorgas)
+3,5 bar
+2,5 bar
+Die Geräteeingangsdrücke können an den Manometern der Laborzeilen eingestellt 
+und abgelesen werden.
+
+
+================================================================================
+
+=== CHUNK 7 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 10', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2.5
+einschalten des gerätes
+das gerät wird am schalter on/off an der linken unteren seite der frontwand 
+eingeschaltet. anschließend führt das gerät einen selbsttest durch.
+5.2.6
+temperaturkontrolle
+bevor die temperaturen des ofens, des injektors oder des detektors eingeschaltet 
+werden, muss sichergestellt sein, dass die trägergasversorgung gewährleistet ist. 
+gleichzeitig müssen luft- und wasserstoffzufuhr für den detektor abgestellt sein.
+die temperaturen der einzelnen komponenten werden nach drücken der 
+entsprechenden temperatursteuerungstasten angezeigt. dann kann durch eingabe 
+eines neuen wertes, der mit enter bestätigt wird, die temperatur verändert 
+werden.
+5.2.6.1
+temperatureinstellung des ofens
+der ofen hat einen maximalen temperaturbereich bis 450°c. es sind bis zu sechs 
+temperaturrampen mit einer maximalen laufzeit von 999,99 min und einer 
+temperatursteigerungsrate der rampen bis zu 120°c/min.
+die temperatureinstellung eines isothermischen laufes bzw. eines laufes mit 
+temperaturprogrammierung wird über das cds-system gesteuert.
+5.2.7
+einstellung für den signalausgang – nullpunkt, bereich und 
+abschwächung
+der analogausgang wird mit hilfe der einträge zero, range, attenuation in der 
+signal-steuerungstabelle gesteuert.
+die einstellungen werden im cds-system vorgenommen.
+5.2.7.1
+range
+der bereich (range) wird auch als skalierung oder größenordnung bezeichnet. er 
+begrenzt die daten, die vom detektor auf den analogen signalschaltkreis übertragen 
+werden, um eine überladung der schaltkreise zu vermeiden. je größer der range 
+gewählt wird, desto kleiner erscheint das signal im cds system. ein rangewert von 
+"0" entspricht 20 (1), ein wert von "13" entspricht 213 (8192). 
+5.2.7.2
+abschwächung
+die abschwächung (attenuation) bestimmt die skalierung für die ausgabe im cds-
+system mit einem bereich von 0 bis 1 mv. es lassen sich werte zwischen 0 und 10 
+einstellen, was 20 bis 210 entspricht. wie beim range wird durch die erhöhung des 
+wertes um 1 die chromatogramm-größe halbiert, während eine verringerung um 1 
+zu einer ver-dopplung führt. die abschwächung wird zusätzlich zum bereich 
+eingestellt. folglich entspricht die skalierungsgröße 2range * 2attenuation.
+5.2.8
+analyse
+das in der untersuchungsmethode vorgeschriebene volumen wird mittels 
+autoprobengeber oder manuell mit einer dafür vorgesehenen spritze in den injektor 
+injiziert. 
+bei der arbeit mit dem automatischen probengeber ist darauf zu achten, dass z.b. 
+während dem ablauf eines temperaturprogramms keine rückkopplung zwischen 
+gaschromatograph und cds erfolgt. das heißt, mit beginn der ersten analyse wird
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 10.
+5.2.5
+Einschalten des Gerätes
+Das Gerät wird am Schalter ON/OFF an der linken unteren Seite der Frontwand 
+eingeschaltet. Anschließend führt das Gerät einen Selbsttest durch.
+5.2.6
+Temperaturkontrolle
+Bevor die Temperaturen des Ofens, des Injektors oder des Detektors eingeschaltet 
+werden, muss sichergestellt sein, dass die Trägergasversorgung gewährleistet ist. 
+Gleichzeitig müssen Luft- und Wasserstoffzufuhr für den Detektor abgestellt sein.
+Die Temperaturen der einzelnen Komponenten werden nach Drücken der 
+entsprechenden Temperatursteuerungstasten angezeigt. Dann kann durch Eingabe 
+eines neuen Wertes, der mit ENTER bestätigt wird, die Temperatur verändert 
+werden.
+5.2.6.1
+Temperatureinstellung des Ofens
+Der Ofen hat einen maximalen Temperaturbereich bis 450°C. Es sind bis zu sechs 
+Temperaturrampen mit einer maximalen Laufzeit von 999,99 min und einer 
+Temperatursteigerungsrate der Rampen bis zu 120°C/min.
+Die Temperatureinstellung eines isothermischen Laufes bzw. eines Laufes mit 
+Temperaturprogrammierung wird über das CDS-System gesteuert.
+5.2.7
+Einstellung für den Signalausgang – Nullpunkt, Bereich und 
+Abschwächung
+Der Analogausgang wird mit Hilfe der Einträge ZERO, RANGE, ATTENUATION in der 
+Signal-Steuerungstabelle gesteuert.
+Die Einstellungen werden im CDS-System vorgenommen.
+5.2.7.1
+Range
+Der Bereich (Range) wird auch als Skalierung oder Größenordnung bezeichnet. Er 
+begrenzt die Daten, die vom Detektor auf den analogen Signalschaltkreis übertragen 
+werden, um eine Überladung der Schaltkreise zu vermeiden. Je größer der Range 
+gewählt wird, desto kleiner erscheint das Signal im CDS System. Ein Rangewert von 
+"0" entspricht 20 (1), ein Wert von "13" entspricht 213 (8192). 
+5.2.7.2
+Abschwächung
+Die Abschwächung (Attenuation) bestimmt die Skalierung für die Ausgabe im CDS-
+System mit einem Bereich von 0 bis 1 mV. Es lassen sich Werte zwischen 0 und 10 
+einstellen, was 20 bis 210 entspricht. Wie beim Range wird durch die Erhöhung des 
+Wertes um 1 die Chromatogramm-Größe halbiert, während eine Verringerung um 1 
+zu einer Ver-dopplung führt. Die Abschwächung wird zusätzlich zum Bereich 
+eingestellt. Folglich entspricht die Skalierungsgröße 2Range * 2Attenuation.
+5.2.8
+Analyse
+Das in der Untersuchungsmethode vorgeschriebene Volumen wird mittels 
+Autoprobengeber oder manuell mit einer dafür vorgesehenen Spritze in den Injektor 
+injiziert. 
+Bei der Arbeit mit dem automatischen Probengeber ist darauf zu achten, dass z.B. 
+während dem Ablauf eines Temperaturprogramms keine Rückkopplung zwischen 
+Gaschromatograph und CDS erfolgt. Das heißt, mit Beginn der ersten Analyse wird
+
+
+================================================================================
+
+=== CHUNK 8 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 11', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+das temperaturprogramm am gaschromatograph gestartet und läuft nach den am 
+gaschromatograph eingegebenen parametern ab. die nachfolgende einspritzung 
+wird jedoch genau dann vorgenommen, wenn die in der methode festgelegte 
+stoppzeit der ersten probe erreicht ist, egal an welcher stelle sich das 
+temperaturprogramm in dem moment befindet. 
+deshalb ist es zwingend notwendig, in der methode die stoppzeit für die probe so 
+festzulegen, dass sie sowohl die zeit des temperaturprogramms als auch die 
+abkühlphase berücksichtigt.
+stoppzeit (methode) = laufzeit temperaturprogramm + zeit zum abkühlen des gc
+(ist nicht notwendig, wenn der gc über das cds gesteuert wird)
+5.2.9
+analysenende
+nach beendigung der analysensequenz den gaschromatograph eventuell 
+"ausheizen". abschließend die wasserstoff- und luftversorgung des detektors 
+zudrehen und den gaschromatographen auf raumtemperatur abkühlen lassen. 
+achtung:
+erst nachdem der gaschromatograph abgekühlt ist, darf die 
+trägergasversorgung abgeschaltet werden!
+5.2.10
+bedienung des autoprobengebers turbomatrix hs-40
+5.2.10.1
+allgemein
+der autoprobengeber besteht aus:
+•
+thermostatisiertem ofen
+•
+aufheizbarer nadeleinheit
+•
+touch screen display
+•
+probenteller für 40 vials
+•
+transferline mit gc-injektor-adapter
+der autoprobengeber wird über das touch screen display programmiert und 
+gestartet.
+5.2.10.1.1
+allgemeine systemübersicht der wichtigsten systembauteile
+5.2.10.1.2
+autoprobengeber
+der autoprobengeber dient zur automatischen einspritzung von gasen in den 
+einspritzblock des gaschromatographen. er kann am gaschromatographen montiert 
+bzw. demontiert werden.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 11.
+das Temperaturprogramm am Gaschromatograph gestartet und läuft nach den am 
+Gaschromatograph eingegebenen Parametern ab. Die nachfolgende Einspritzung 
+wird jedoch genau dann vorgenommen, wenn die in der Methode festgelegte 
+Stoppzeit der ersten Probe erreicht ist, egal an welcher Stelle sich das 
+Temperaturprogramm in dem Moment befindet. 
+Deshalb ist es zwingend notwendig, in der Methode die Stoppzeit für die Probe so 
+festzulegen, dass sie sowohl die Zeit des Temperaturprogramms als auch die 
+Abkühlphase berücksichtigt.
+Stoppzeit (Methode) = Laufzeit Temperaturprogramm + Zeit zum Abkühlen des GC
+(Ist nicht notwendig, wenn der GC über das CDS gesteuert wird)
+5.2.9
+Analysenende
+Nach Beendigung der Analysensequenz den Gaschromatograph eventuell 
+"ausheizen". Abschließend die Wasserstoff- und Luftversorgung des Detektors 
+zudrehen und den Gaschromatographen auf Raumtemperatur abkühlen lassen. 
+Achtung:
+Erst nachdem der Gaschromatograph abgekühlt ist, darf die 
+Trägergasversorgung abgeschaltet werden!
+5.2.10
+Bedienung des Autoprobengebers TurboMatrix HS-40
+5.2.10.1
+Allgemein
+Der Autoprobengeber besteht aus:
+•
+thermostatisiertem Ofen
+•
+aufheizbarer Nadeleinheit
+•
+Touch Screen Display
+•
+Probenteller für 40 Vials
+•
+TransferLine mit GC-Injektor-Adapter
+Der Autoprobengeber wird über das Touch Screen Display programmiert und 
+gestartet.
+5.2.10.1.1
+Allgemeine Systemübersicht der wichtigsten Systembauteile
+5.2.10.1.2
+Autoprobengeber
+Der Autoprobengeber dient zur automatischen Einspritzung von Gasen in den 
+Einspritzblock des Gaschromatographen. Er kann am Gaschromatographen montiert 
+bzw. demontiert werden.
+
+
+================================================================================
+
+=== CHUNK 9 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 13', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+anschluss der transferline an den kapillar gc
+als erstes entfernt man die septen-mutter. die transferkapillare sollte 4cm aus dem 
+adapter herausragen. mit der kapillare sticht man in der mitte durch das septum 
+führt dieses dann vorsichtig in den einspritzblock des gc’s ein und verschraubt dann 
+mit dem adapter
+5.2.10.1.3
+touch screen display
+beschreibung der einzelnen seiten des displays
+screen
+beschreibung
+registerkarte – ablauf (run)
+dient zur auswahl des 
+flaschenbereichs und der zu nutzenden 
+methode. die steuerung erfolgt über die 
+“+“ und “-“ tasten.
+registerkarte – status
+temp
+unter temp werden die temperaturen 
+für die nadeleinheit, transferline und 
+ofen eingegeben. die steuerung erfolgt 
+über die “+“ und “-“ tasten.
+zeiten (timing)
+hier werden injektionszeit, 
+druckaufbauzeit, verweilzeit, zykluszeit 
+und thermostatisierungszeit der proben 
+eingegeben. die steuerung erfolgt über 
+die “+“ und “-“ tasten.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 13.
+Anschluss der TransferLine an den Kapillar GC
+Als erstes entfernt man die Septen-Mutter. Die Transferkapillare sollte 4cm aus dem 
+Adapter herausragen. Mit der Kapillare sticht man in der Mitte durch das Septum 
+führt dieses dann vorsichtig in den Einspritzblock des GC’s ein und verschraubt dann 
+mit dem Adapter
+5.2.10.1.3
+Touch Screen Display
+Beschreibung der einzelnen Seiten des Displays
+Screen
+Beschreibung
+Registerkarte – ABLAUF (RUN)
+Dient zur Auswahl des 
+Flaschenbereichs und der zu nutzenden 
+Methode. Die Steuerung erfolgt über die 
+“+“ und “-“ Tasten.
+Registerkarte – STATUS
+TEMP
+Unter Temp werden die Temperaturen 
+für die Nadeleinheit, TransferLine und 
+Ofen eingegeben. Die Steuerung erfolgt 
+über die “+“ und “-“ Tasten.
+ZEITEN (TIMING)
+Hier werden Injektionszeit, 
+Druckaufbauzeit, Verweilzeit, Zykluszeit 
+und Thermostatisierungszeit der Proben 
+eingegeben. Die Steuerung erfolgt über 
+die “+“ und “-“ Tasten.
+
+
+================================================================================
+
+=== CHUNK 10 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 14', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+screen
+beschreibung
+option
+hier kann der bedienungs- und 
+injektionsmodus verändert werden
+injektionsmodus:
+zeit oder volumen
+bedienungsmodus: konstant
+progressiv
+mhe
+ppc
+unter “ppc“ wird der transfer gasdruck 
+eingestellt.
+die steuerung erfolgt über die “+“ und “-
+“ tasten.
+taste – drehen
+mit der taste drehen (rotate) wird der 
+probenteller um 90° gegen den 
+uhrzeigersinn gedreht
+taste – meth/sys (tools)
+beim betätigen dieser taste erscheint 
+ein menü, in dem der
+methodeneditor (methodeditor)
+taschenrechner (calculator)
+wartungsfeld (maintenance) zur 
+überprüfung der ventildichtigkeit 
+(lecktest)
+angewählt werden kann.
+registerkarte – protokoll (log)
+hier werden der ofenstatus und ein 
+log-report angezeigt
+5.2.10.1.4
+probenteller (tray)
+im probenteller des autoprobengebers können insgesamt 40 flaschen angeordnet 
+werden. die flaschen können zum laden bzw. zur externen lagerung einzeln aus 
+dem probenteller herausgenommen werden.
+die flaschen so einsetzen, dass die flaschennummern mit den entsprechenden 
+positionsnummern auf dem probenteller übereinstimmen.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 14.
+Screen
+Beschreibung
+OPTION
+Hier kann der Bedienungs- und 
+Injektionsmodus verändert werden
+Injektionsmodus:
+Zeit oder Volumen
+Bedienungsmodus: Konstant
+Progressiv
+MHE
+PPC
+Unter “ppc“ wird der Transfer Gasdruck 
+eingestellt.
+Die Steuerung erfolgt über die “+“ und “-
+“ Tasten.
+Taste – DREHEN
+Mit der Taste Drehen (Rotate) wird der 
+Probenteller um 90° gegen den 
+Uhrzeigersinn gedreht
+Taste – METH/SYS (TOOLS)
+Beim Betätigen dieser Taste erscheint 
+ein Menü, in dem der
+MethodenEditor (MethodEditor)
+Taschenrechner (Calculator)
+Wartungsfeld (Maintenance) zur 
+Überprüfung der Ventildichtigkeit 
+(Lecktest)
+angewählt werden kann.
+Registerkarte – PROTOKOLL (LOG)
+Hier werden der Ofenstatus und ein 
+Log-Report angezeigt
+5.2.10.1.4
+Probenteller (Tray)
+Im Probenteller des Autoprobengebers können insgesamt 40 Flaschen angeordnet 
+werden. Die Flaschen können zum Laden bzw. zur externen Lagerung einzeln aus 
+dem Probenteller herausgenommen werden.
+Die Flaschen so einsetzen, dass die Flaschennummern mit den entsprechenden 
+Positionsnummern auf dem Probenteller übereinstimmen.
+
+
+================================================================================
+
+=== CHUNK 11 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 15', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+5.2.10.2
+bedienung
+5.2.10.2.1
+probenvorbereitung
+der probenteller ist ausschließlich auf probenvials mit bördelkappen und 
+schraubverschlusskappen ausgelegt.
+die 10 bzw. 20 ml probenflaschen werden mit der vorgeschriebenen probenmenge 
+befüllt und mit einer bördelzange oder durch verschraubung verschlossen.
+von jeder flasche kann nur einmal injiziert werden.
+achtung: 
+um eine fehlerfreie arbeit des autoprobengebers zu gewährleisten, 
+dürfen die probenflaschen nicht mit etiketten beklebt werden, da sich dadurch der 
+durchmesser der probenflasche vergrößert und sich diese "verklemmen" kann.
+5.2.10.2.2
+injektionseinheit
+die injektionseinheit besteht hauptsächlich aus einer beheizbaren transferline. der 
+temperaturbereich für die transferline, spritze und ofen liegt zwischen 35°c und 
+210°c (aufheizschritte: 1°c).
+5.3
+erstellen einer sequenz im cds
+5.3.1
+erstellen einer sequenz (cds)
+der autoprobengeber wird über das cds gesteuert. dazu ist es notwendig neben 
+einer instrument methode auch ein sample set zu erstellen. dazu sind folgende 
+schritte notwendig:
+in den instrumenten methode sind folgende parameter einzugeben:
+•
+ofentemperatur bzw. temperaturprogramm
+•
+detektortemperatur, brenngas, trägergas und make-up gas
+•
+injektortemperatur, splitflow, gas saver
+•
+säulendimension, pressure-/flow- modus
+•
+sampling rate, data sensitivity, source, range
+•
+front-/ back- injektor:
+•
+solvent a pre washes: spülvorgang mit lösungsmittel a
+•
+solvent b pre washes: spülvorgang mit lösungsmittel b
+•
+sample washes: spülvorgang mit probelösung
+•
+inject pump: anzahl des spritzenpumpens
+•
+viscosity: viskosität der lösung
+•
+solvent a post washes: spülvorgang nach injektion lösungsmittel a
+•
+solvent b post washes: spülvorgang nach injektion lösungsmittel b
+•
+generalseite: auswahl von front-kanal
+achtung: für den betrieb des headspace-autoprobengeber darf kein häkchen bei 
+dem punkt injektor stehen, da es ein externer autoprobengeber ist! sonst 
+funktioniert es nicht!
+•
+weitere informationen sind im handbuch des cds nachzulesen.
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 15.
+5.2.10.2
+Bedienung
+5.2.10.2.1
+Probenvorbereitung
+Der Probenteller ist ausschließlich auf Probenvials mit Bördelkappen und 
+Schraubverschlusskappen ausgelegt.
+Die 10 bzw. 20 ml Probenflaschen werden mit der vorgeschriebenen Probenmenge 
+befüllt und mit einer Bördelzange oder durch Verschraubung verschlossen.
+Von jeder Flasche kann nur einmal injiziert werden.
+Achtung: 
+Um eine fehlerfreie Arbeit des Autoprobengebers zu gewährleisten, 
+dürfen die Probenflaschen NICHT mit Etiketten beklebt werden, da sich dadurch der 
+Durchmesser der Probenflasche vergrößert und sich diese "verklemmen" kann.
+5.2.10.2.2
+Injektionseinheit
+Die Injektionseinheit besteht hauptsächlich aus einer beheizbaren TransferLine. Der 
+Temperaturbereich für die TransferLine, Spritze und Ofen liegt zwischen 35°C und 
+210°C (Aufheizschritte: 1°C).
+5.3
+Erstellen einer Sequenz im CDS
+5.3.1
+Erstellen einer Sequenz (CDS)
+Der Autoprobengeber wird über das CDS gesteuert. Dazu ist es notwendig neben 
+einer Instrument Methode auch ein Sample Set zu erstellen. Dazu sind folgende 
+Schritte notwendig:
+In den Instrumenten Methode sind folgende Parameter einzugeben:
+•
+Ofentemperatur bzw. Temperaturprogramm
+•
+Detektortemperatur, Brenngas, Trägergas und Make-up Gas
+•
+Injektortemperatur, Splitflow, Gas Saver
+•
+Säulendimension, Pressure-/Flow- Modus
+•
+Sampling Rate, Data Sensitivity, Source, Range
+•
+Front-/ Back- Injektor:
+•
+Solvent A Pre Washes: Spülvorgang mit Lösungsmittel A
+•
+Solvent B Pre Washes: Spülvorgang mit Lösungsmittel B
+•
+Sample Washes: Spülvorgang mit Probelösung
+•
+Inject Pump: Anzahl des Spritzenpumpens
+•
+Viscosity: Viskosität der Lösung
+•
+Solvent A Post Washes: Spülvorgang nach Injektion Lösungsmittel A
+•
+Solvent B Post Washes: Spülvorgang nach Injektion Lösungsmittel B
+•
+Generalseite: Auswahl von Front-Kanal
+Achtung: Für den Betrieb des Headspace-Autoprobengeber darf kein Häkchen bei 
+dem Punkt Injektor stehen, da es ein externer Autoprobengeber ist! Sonst 
+funktioniert es nicht!
+•
+Weitere Informationen sind im Handbuch des CDS nachzulesen.
+
+
+================================================================================
+
+=== CHUNK 12 ===
+[METADATA]: {'file_name': 'GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf', 'page_label': 'Page 16', 'sop_title': 'Quality Control - Gaschromatograph Modell HP 6890 mit Autoprobengeber', 'document_number': 'PROC-004196', 'version_number': '02', 'status': 'Active', 'language': 'de'}
+
+[CONTENT - LOWERCASE]:
+im sample set werden:
+•
+injektionsvolumen
+•
+analysenzeit
+•
+anzahl der injektionen pro vial
+•
+analysenmethode
+programmiert.
+6
+querverweise
+-
+bedienungsanleitung des herstellers
+7
+
+[CONTENT - ORIGINAL]:
+Source: GRT_PROC_German_stamped_Rev04.docmNov302025052518.pdf, Page 16.
+Im Sample Set werden:
+•
+Injektionsvolumen
+•
+Analysenzeit
+•
+Anzahl der Injektionen pro Vial
+•
+Analysenmethode
+programmiert.
+6
+QUERVERWEISE
+-
+Bedienungsanleitung des Herstellers
+7
+
+
+================================================================================
+

@@ -1,10 +1,9 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 2', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision 04
 
-local title: product quality review
 1
 objective
 the objective of this document is to define how the product quality review process must 
@@ -57,7 +56,6 @@ approve the pqr plans;
 Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 2.
 Revision 04
 
-Local Title: Product Quality Review
 1
 OBJECTIVE
 The objective of this document is to define how the Product Quality Review Process must 
@@ -110,7 +108,7 @@ Approve the PQR plans;
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 3', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 function/role 
@@ -211,7 +209,7 @@ Review
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 4', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 4
@@ -336,7 +334,7 @@ Qualified Person
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 5', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5
@@ -374,12 +372,12 @@ creation
 the responsibilities of each step of the pqr process are described in table 1 and depend 
 on the following scenarios:
 
-all the manufacturing steps (including release) are performed by cmo
+all the manufacturing steps (including 
 
 the manufacturing steps are separated between cmo and grünenthal
 manufacturing site(s)
 
-all the manufacturing steps (including release) are performed by grünenthal site(s)
+all the manufacturing steps (including
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_V7.docmNov302025052354.pdf, Page 5.
@@ -418,18 +416,18 @@ creation
 The responsibilities of each step of the PQR process are described in table 1 and depend 
 on the following scenarios:
 
-All the manufacturing steps (including release) are performed by CMO
+All the manufacturing steps (including 
 
 The manufacturing steps are separated between CMO and Grünenthal
 manufacturing site(s)
 
-All the manufacturing steps (including release) are performed by Grünenthal site(s)
+All the manufacturing steps (including
 
 
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 6', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 table 1: pqr process responsibility matrix
@@ -438,7 +436,7 @@ process
 step  
 all manufacturing steps 
 (incl.
-release) 
+
 are 
 performed by a cmo
 manufacturing steps split 
@@ -505,7 +503,7 @@ Process
 Step  
 All manufacturing steps 
 (incl.
-release) 
+
 are 
 performed by a CMO
 Manufacturing steps split 
@@ -568,7 +566,7 @@ deviation (see PROC-004019 – “Global Process for Deviation Management”).
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 7', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 pqr plans must be approved and stored as described in the win proc-008741 
@@ -649,7 +647,7 @@ Agreement with CMOs.
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 10', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the mah review must be performed by the relevant commercial quality assurance of 
@@ -664,7 +662,7 @@ any need for further capas
 -
 any need for revalidation 
 he/she is accountable to align this with the product releasing qualified person/equivalent 
-function (or esq, when all manufacturing steps incl. batch release are done at cmo).
+function (or esq, when all manufacturing steps incl. batch 
 for cmo products, if annex 6 and/or 10 are required, cqa must align this need with the 
 responsible regulatory affairs department (responsible unit, as described in sup-013083
 “overview and responsibilities of api and fp pqr annexes”. annex 6 and 10 must be 
@@ -711,7 +709,7 @@ any need for further CAPAs
 -
 any need for revalidation 
 he/she is accountable to align this with the product releasing Qualified Person/equivalent 
-function (or ESQ, when all manufacturing steps incl. batch release are done at CMO).
+function (or ESQ, when all manufacturing steps incl. batch 
 For CMO products, if Annex 6 and/or 10 are required, CQA must align this need with the 
 responsible Regulatory Affairs department (responsible unit, as described in SUP-013083
 “Overview and Responsibilities of API and FP PQR Annexes”. Annex 6 and 10 must be 
@@ -748,7 +746,7 @@ Regulation (EU) 2017/745 (MDD)
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 11', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision/ 
@@ -790,7 +788,7 @@ procedures.; naming convention details moved to win proc-
 responsibilities moved to newly created sup-013089 “overview 
 and responsibilities of api and fp pqr annexes”
 
-§ 5.6 manufacturing, testing and release on behalf: 
+§ 5.6 manufacturing, testing and 
 requirement moved to section § 5.3 creation, review and 
 approval of pqrs
 
@@ -844,7 +842,7 @@ procedures.; Naming convention details moved to WIN PROC-
 responsibilities moved to newly created SUP-013089 “Overview 
 and Responsibilities of API and FP PQR Annexes”
 
-§ 5.6 Manufacturing, Testing and Release on behalf: 
+§ 5.6 Manufacturing, Testing and 
 Requirement moved to section § 5.3 Creation, Review and 
 Approval of PQRs
 
@@ -861,7 +859,7 @@ of PQRs
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_V7.docmNov302025052354.pdf', 'page_label': 'Page 12', 'sop_title': 'Product Quality Review', 'document_number': 'PROC-004198', 'version_number': '04', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision/ 

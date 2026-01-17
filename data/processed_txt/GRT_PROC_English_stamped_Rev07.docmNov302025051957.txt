@@ -1,8 +1,7 @@
 === CHUNK 1 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 2', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 2', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
-local title: process validation
 1
 objective
 the objective of this document is to describe the process validation as stage 2 of the 
@@ -64,7 +63,6 @@ process
 
 [CONTENT - ORIGINAL]:
 Source: GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf, Page 2.
-Local Title: Process Validation
 1
 OBJECTIVE
 The objective of this document is to describe the Process Validation as stage 2 of the 
@@ -128,7 +126,7 @@ Process
 ================================================================================
 
 === CHUNK 2 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 3', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 3', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 function/role
@@ -281,7 +279,7 @@ validation of the extremes.
 ================================================================================
 
 === CHUNK 3 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 4', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 4', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -434,7 +432,7 @@ initial development or use through to discontinuation of use.
 ================================================================================
 
 === CHUNK 4 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 5', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 5', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -613,7 +611,7 @@ reproducibility.
 ================================================================================
 
 === CHUNK 5 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 6', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 6', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 term
@@ -778,7 +776,7 @@ that are considered important for the control of the manufacturing process,
 ================================================================================
 
 === CHUNK 6 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 7', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 7', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -798,7 +796,7 @@ registered specifications and controls of the product in question.
 however, irrespective of the validation approach, manufacturing processes must:
 be robust and
 ensure consistent product quality according to the specification before any 
-product is released into the market.
+product is 
 normally, the batch size used for process validation shall be the same size as intended 
 for market supply. the use of any other batch sizes must be documented and justified 
 before any validation starts.
@@ -845,7 +843,7 @@ registered specifications and controls of the product in question.
 However, irrespective of the validation approach, manufacturing processes must:
 be robust and
 ensure consistent product quality according to the specification before any 
-product is released into the market.
+product is 
 Normally, the batch size used for Process Validation shall be the same size as intended 
 for market supply. The use of any other batch sizes must be documented and justified 
 before any validation starts.
@@ -877,7 +875,7 @@ confirm a rational process control strategy.
 ================================================================================
 
 === CHUNK 7 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 8', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 8', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.2
@@ -996,7 +994,7 @@ or impractical for sampling a batch of units."
 ================================================================================
 
 === CHUNK 8 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 9', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 9', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 type
@@ -1115,7 +1113,7 @@ the same container closure system.
 ================================================================================
 
 === CHUNK 9 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 10', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 10', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 a matrixing approach can be applied in the case of process validation when the target 
@@ -1236,7 +1234,7 @@ verification exercise.
 ================================================================================
 
 === CHUNK 10 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 11', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 11', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 traditional process validation is typically performed at the end of the pharmaceutical 
@@ -1351,7 +1349,7 @@ critical quality attributes of the product;
 ================================================================================
 
 === CHUNK 11 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 12', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 12', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -1387,9 +1385,9 @@ ongoing process verification even though the product was initially validated usi
 traditional approach.
 5.2.2.5
 prospective validation vs. concurrent validation
-process validation activities must be complete before the release of the batches on 
+process validation activities must be complete before the 
 the market (prospective validation). in fact, processes must be shown to be robust and 
-ensure consistent product quality before any product is released to the market. 
+ensure consistent product quality before any product is 
 in exceptional circumstances, where there is a strong benefit-risk ratio for the patient 
 e.g., for rare diseases or limited availability of medicines, it may be acceptable not to 
 complete a validation program before routine production starts (concurrent validation). 
@@ -1400,7 +1398,7 @@ responsibilities) using a risk-based approach.
 where a concurrent validation approach is adopted, sufficient data must be presented 
 to support a conclusion that any given batch of products meets the predefined 
 acceptance criteria. the results and the conclusion must be formally documented and 
-available to the qualified person or person responsible for batch release prior to 
+available to the qualified person or person responsible for batch 
 certification of the batch.
 
 [CONTENT - ORIGINAL]:
@@ -1438,9 +1436,9 @@ ongoing process verification even though the product was initially validated usi
 traditional approach.
 5.2.2.5
 Prospective Validation vs. Concurrent validation
-Process Validation activities must be complete before the release of the batches on 
+Process Validation activities must be complete before the 
 the market (Prospective Validation). In fact, processes must be shown to be robust and 
-ensure consistent product quality before any product is released to the market. 
+ensure consistent product quality before any product is 
 In exceptional circumstances, where there is a strong benefit-risk ratio for the patient 
 e.g., for rare diseases or limited availability of medicines, it may be acceptable not to 
 complete a validation program before routine production starts (concurrent validation). 
@@ -1451,14 +1449,14 @@ responsibilities) using a risk-based approach.
 Where a concurrent validation approach is adopted, sufficient data must be presented 
 to support a conclusion that any given batch of products meets the predefined 
 acceptance criteria. The results and the conclusion must be formally documented and 
-available to the Qualified Person or person responsible for batch release prior to 
+available to the Qualified Person or person responsible for batch 
 certification of the batch.
 
 
 ================================================================================
 
 === CHUNK 12 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 13', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 13', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.3
@@ -1561,7 +1559,7 @@ pressure or for any other critical factors must be tested within lifecycle appro
 ================================================================================
 
 === CHUNK 13 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 14', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 14', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 in the case of well-established packaging processes, a scientific evaluation associated 
@@ -1616,7 +1614,7 @@ approach);
 
 the number of batches for which additional monitoring is proposed;
 
-process for release and certification of batches, if applicable 
+process for 
 (prospective validation, concurrent validation);
 
 [CONTENT - ORIGINAL]:
@@ -1673,14 +1671,14 @@ Approach);
 
 The number of batches for which additional monitoring is proposed;
 
-Process for release and certification of batches, if applicable 
+Process for 
 (Prospective Validation, Concurrent Validation);
 
 
 ================================================================================
 
 === CHUNK 14 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 15', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 15', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 8. process flow sheet;
@@ -1691,7 +1689,7 @@ control strategy which includes:
 a. summary of critical process parameters and critical quality 
 attributes with their associated limits/specifications.
 b. the type of testing in place during the standard routine (in-process, 
-release characterization) and acceptance criteria for each significant 
+
 processing step;
 c. additional testing to be carried out with acceptance criteria;
 11.the manufacturing conditions including operating parameters, processing 
@@ -1739,7 +1737,7 @@ Control strategy which includes:
 a. Summary of Critical Process Parameters and Critical Quality 
 Attributes with their associated limits/specifications.
 b. The type of testing in place during the standard routine (in-process, 
-release characterization) and acceptance criteria for each significant 
+
 processing step;
 c. Additional testing to be carried out with acceptance criteria;
 11.The manufacturing conditions including operating parameters, processing 
@@ -1781,7 +1779,7 @@ must be determined.
 ================================================================================
 
 === CHUNK 15 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 16', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 16', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the change control procedure ensures that sufficient supporting data are generated 
@@ -1832,7 +1830,7 @@ the respective stage of the product lifecycle according to the assessment:
 ================================================================================
 
 === CHUNK 16 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 17', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 17', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 consider 
@@ -1840,7 +1838,7 @@ validated legacy
 product 
 opv program in place?
 review known cqas 
-and release criteria 
+and 
 performance 
 variability
 no
@@ -1904,7 +1902,7 @@ Validated Legacy
 Product 
 OPV Program in place?
 Review Known CQAs 
-and release criteria 
+and 
 performance 
 variability
 No
@@ -1965,7 +1963,7 @@ and between batch variability evaluation.
 ================================================================================
 
 === CHUNK 17 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 18', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 18', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 the elements to be reviewed are the following but not limited to:
@@ -2028,7 +2026,7 @@ including the revalidation needs.
 ================================================================================
 
 === CHUNK 18 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 19', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 19', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 5.11
@@ -2143,7 +2141,7 @@ smes
 new or existing production 
 process (change)
 concurrent batch 
-release can be 
+
 allowed (min 3 
 batches) must be 
 ensured for the first 
@@ -2272,7 +2270,7 @@ SMEs
 New or existing production 
 process (change)
 Concurrent batch 
-release can be 
+
 allowed (min 3 
 batches) must be 
 ensured for the first 
@@ -2291,7 +2289,7 @@ EU Guidelines for GMP, Part I 1.2, 2.5, 2.6, 2.7, 5.23-5.26
 ================================================================================
 
 === CHUNK 19 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 20', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 20', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 
@@ -2394,7 +2392,7 @@ Application of QRM to Qualification and Process Validation
 ================================================================================
 
 === CHUNK 20 ===
-[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 21', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active'}
+[METADATA]: {'file_name': 'GRT_PROC_English_stamped_Rev07.docmNov302025051957.pdf', 'page_label': 'Page 21', 'sop_title': 'Process Validation', 'document_number': 'PROC-005043', 'version_number': '03', 'status': 'Active', 'language': 'en'}
 
 [CONTENT - LOWERCASE]:
 revision no.
